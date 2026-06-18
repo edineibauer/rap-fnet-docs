@@ -1,0 +1,551 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Informe Anual FIAGRO</title>
+<style type="text/css">
+          table {
+          border-collapse: collapse;
+
+          width: 95%;
+          }
+
+          table, td, th {
+          padding: 3px;
+          border: 1px solid black;
+          font-size: 11;
+          }
+
+          body {
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .title-b3 {
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho {
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores {
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+          .dado-versao {
+          display:block;
+          font-size:11;
+          text-align: right;
+          margin-right: 25px
+          }
+
+          .w-30 {
+          width: 30%;
+          }
+
+          .pl-20 {
+          padding-left: 20px;
+          }
+
+          .pl-40 {
+          padding-left: 40px;
+          }
+
+          .pl-60 {
+          padding-left: 60px;
+          }
+
+          .pl-80 {
+          padding-left: 80px;
+          }
+
+          .celula-numero-secao {
+          width: 1vw;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual FIAGRO</h2>
+<span class="dado-versao">
+      Vers&atilde;o: 1.0</span>
+<table width="95%" align="center">
+<tr>
+<td><span class="title-b3">Nome do fundo</span></td><td><span class="dado-cabecalho">DEVANT FIAGRO - IMOBILI&Aacute;RIO DE RESPONSABILIDADE LIMITADA</span></td><td><span class="title-b3">CNPJ do fundo</span></td><td></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da classe</span></td><td><span class="dado-cabecalho">DEVANT FIAGRO DE RESP LIMITADA</span></td><td><span class="title-b3">CNPJ da classe</span></td><td><span class="dado-cabecalho">42.888.360/0001-11</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data do Registro de Funcionamento</span></td><td><span class="dado-cabecalho">29/09/2025</span></td><td><span class="title-b3">P&uacute;blico alvo</span></td><td><span class="dado-cabecalho">INVESTIDORES EM GERAL</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">C&oacute;digo ISIN</span></td><td><span class="dado-cabecalho">BRDCRACTF002</span></td><td><span class="title-b3">Classe exclusiva</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar</span></td><td><span class="dado-cabecalho">NAO</span></td><td><span class="title-b3">Classe Previdenci&aacute;ria</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Tipo de classe previdenci&aacute;ria</span></td><td><span class="dado-cabecalho"></span></td><td><span class="title-b3">Classifica&ccedil;&atilde;o da autorregula&ccedil;&atilde;o (se houver)</span></td><td><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Prazo de Dura&ccedil;&atilde;o</span></td><td><span class="dado-cabecalho">Indeterminado</span></td><td><span class="title-b3">Encerramento do exerc&iacute;cio social</span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Mercado de negocia&ccedil;&atilde;o das cotas</span></td><td><span class="dado-cabecalho">BOLSA</span></td><td><span class="title-b3">Entidade administradora de mercado organizado, se for o caso</span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome do Administrador</span></td><td><span class="dado-cabecalho">BANCO DAYCOVAL S.A</span></td><td><span class="title-b3">CNPJ do Administrador</span></td><td><span class="dado-cabecalho">62.232.889/0001-90</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Compet&ecirc;ncia</span></td><td colspan="3"><span class="dado-cabecalho">12/2025</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="50%" align="center" id="prestadores-servico">
+<thead>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1. Prestadores de Servi&ccedil;os</span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Prestador</span></td><td><span class="title-b3">Nome</span></td><td><span class="title-b3">CNPJ</span></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="celula-numero-secao"><span class="title-b3">1.1</span></td><td><span class="title-b3">Gestor</span></td><td><span>DEVANT ASSET INVESTIMENTOS LTDA</span></td><td><span>28.363.263/0001-84</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.2</span></td><td><span class="title-b3">Custodiante</span></td><td><span>BANCO DAYCOVAL S.A.</span></td><td><span>62.232.889/0001-90</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.3</span></td><td><span class="title-b3">Auditor Independente</span></td><td><span>RSM BRASIL AUDITORES INDEPENDENTES LTDA.</span></td><td><span>16.549.480/0001-84</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.4</span></td><td><span class="title-b3">Formador de Mercado</span></td><td><span></span></td><td><span>../-</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.5</span></td><td><span class="title-b3">Distribuidor de Cotas</span></td><td><span>BANCO DAYCOVAL S.A.</span></td><td><span>62.232.889/0001-90</span></td>
+</tr>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1.8 Outros Pretadores de Servi&ccedil;o</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">2. Investimentos</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="14"><span class="title-b3">2.1</span></td><td><span class="title-b3">Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</span></td><td colspan="3"><span>O Fundo seguiu com sua estrat&eacute;gia de alocar recursos em ativos lastreados no agroneg&oacute;cio, sendo estes, majoritariamente, Certificados de Receb&iacute;veis do Agroneg&oacute;cio (CRA) e cotas de Fiagro negociados em Bolsa.</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Rela&ccedil;&atilde;o dos Ativos adquiridos no per&iacute;odo</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Ativo</span></td><td><span class="title-b3">Objetivos</span></td><td><span class="title-b3">Montantes Investidos</span></td><td><span class="title-b3">Origem dos Recursos</span></td>
+</tr>
+<tr>
+<td><span>AAZQ11</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 89.060,60</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>RURA11</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 2.259.030,00</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>RZAG11</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 1.766.242,55</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA02400DW2</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 3.022.140,31</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA022007KH</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 4.951.000,13</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA0250018K</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 2.897.315,56</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA025005V5</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 3.187.790,61</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA025001UT</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 1.999.064,80</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA025007VD</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 2.063.949,03</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA0250018O</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 5.063.908,20</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td><span>CRA022000GS</span></td><td><span>Rentabiliza&ccedil;&atilde;o da carteira</span></td><td><span>R$ 4.419.647,43</span></td><td><span>Recursos Pr&oacute;prios - Caixa e/ou emiss&atilde;o de cotas</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">2.2</span></td><td colspan="4"><span class="title-b3">
+            Informa&ccedil;&otilde;es sobre a regularidade da inscri&ccedil;&atilde;o dos im&oacute;veis rurais,
+            se houver, no
+            Cadastro Ambiental Rural &ndash; CAR ou explica&ccedil;&atilde;o sobre sua desnecessidade
+          </span></td>
+</tr>
+<tr>
+<td colspan="4"><span>N&atilde;o se aplica.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">3. Programa de Investimentos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Programa de investimentos para os exerc&iacute;cios seguintes, incluindo,
+            se necess&aacute;rio, as
+            informa&ccedil;&otilde;es com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados
+          </span></td>
+</tr>
+<tr>
+<td><span>A equipe de gest&atilde;o segue monitorando ativos alvo no mercado prim&aacute;rio e secund&aacute;rio, analisando a rela&ccedil;&atilde;o de risco e retorno caso a caso a fim de obtermos os melhores resultados alinhados aos interesses dos cotistas do Fundo.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">4. An&aacute;lise do Gestor sobre</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">4.1</span></td><td><span class="title-b3">Resultado no exerc&iacute;cio findo</span></td>
+</tr>
+<tr>
+<td><span>Em 2025, o Fundo distribuiu aproximadamente R$ 3,8 milh&otilde;es aos investidores a t&iacute;tulo de dividendos, o que corresponde a um Dividend Yield de 14,78% sobre a cota de mercado e 11,23% sobre a cota patrimonial. No per&iacute;odo, o Patrim&ocirc;nio L&iacute;quido apresentou crescimento de cerca de R$ 1,3 milh&atilde;o, equivalente a uma varia&ccedil;&atilde;o positiva de 2,06% em rela&ccedil;&atilde;o ao encerramento do exerc&iacute;cio anterior.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.2</span></td><td><span class="title-b3">
+            Conjuntura econ&ocirc;mica do segmento de atua&ccedil;&atilde;o relativo ao per&iacute;odo
+            findo
+          </span></td>
+</tr>
+<tr>
+<td><span>Em 2025, com a sequ&ecirc;ncia de alta na taxa de juros, o mercado posicionou-se de forma mais conservadora em rela&ccedil;&atilde;o &agrave; emiss&atilde;o de d&iacute;vidas voltadas ao agroneg&oacute;cio. Prevaleceram poucas emiss&otilde;es com rela&ccedil;&atilde;o risco-retorno atrativa, dado o alto cen&aacute;rio de inadimpl&ecirc;ncia que vem afetando o setor e os conflitos geopol&iacute;ticos que pressionam tanto o segmento quanto o ambiente econ&ocirc;mico. Tais fatores refletem-se diretamente na precifica&ccedil;&atilde;o de ativos e de fundos, dificultando novas emiss&otilde;es e investimentos.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.3</span></td><td><span class="title-b3">
+            Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da
+            carteira
+          </span></td>
+</tr>
+<tr>
+<td><span>Para o per&iacute;odo de 2026, espera-se uma queda na taxa b&aacute;sica de juros, o que deve aquecer o mercado de cr&eacute;dito como um todo. Com isso, projeta-se uma tend&ecirc;ncia de maior volume de emiss&otilde;es de d&iacute;vida no agroneg&oacute;cio, embora com pr&ecirc;mios de risco mais reduzidos. Ativos com maior spread e remunera&ccedil;&atilde;o tendem a apresentar maior valoriza&ccedil;&atilde;o na carteira. Tal cen&aacute;rio permite novas estrat&eacute;gias de aloca&ccedil;&atilde;o, visando investimentos com um perfil de risco-retorno equilibrado.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">5. Riscos Incorridos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Riscos incorridos pelos cotistas inerentes aos investimentos</span></td><td><span>As informa&ccedil;&otilde;es relativas aos riscos inerentes aos investimentos realizados pelo Fundo encontram-se detalhadamente descritas em seu Regulamento, o qual est&aacute; dispon&iacute;vel para consulta no site da CVM.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">6. Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="3"><span class="title-b3">
+            7. Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados
+            em causas jur&iacute;dicas
+            semelhantes, n&atilde;o sigilosos e relevantes
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">N&deg; do Processo</span></td><td><span class="title-b3">Valores Envolvidos</span></td><td><span class="title-b3">Causa da conting&ecirc;ncia</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">8. An&aacute;lise de Impacto</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            An&aacute;lise dos impactos em caso de perda e valores envolvidos
+            relacionados aos processos
+            judiciais sigilosos relevantes
+          </span></td><td><span>N&atilde;o se aplica.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">9. Assembleia Geral</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">9.1</span></td><td><span class="title-b3">
+            Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos
+            &agrave; assembleia estar&atilde;o
+            &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise
+          </span></td>
+</tr>
+<tr>
+<td><span>Av. Paulista, 1793, 2&ordm; andar, 01311200, S&atilde;o Paulo - SP , Bela Vista e https://www.daycoval.com.br/institucional/mercado-de-capitais</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.2</span></td><td><span class="title-b3">
+            Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas
+            para (i) a inclus&atilde;o de
+            mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s
+            delibera&ccedil;&otilde;es
+            propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais
+            cotistas para envio de
+            pedido p&uacute;blico de procura&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td><span>O Administrador publicar&aacute; as informa&ccedil;&otilde;es, na periodicidade respectivamente indicada, em sua p&aacute;gina na rede mundial de computadores (https://www.daycoval.com.br/institucional/mercado-de-capitais) e as manter&aacute; dispon&iacute;veis aos Cotistas em sua sede, no endere&ccedil;o indicado.
+As informa&ccedil;&otilde;es ser&atilde;o remetidas pelo Administrador &agrave; CVM, por meio do Sistema de Envio de Documentos, e &agrave;s entidades administradoras do mercado organizado em que as Cotas sejam admitidas a negocia&ccedil;&atilde;o.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.3</span></td><td><span class="title-b3">
+            Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos
+            cotistas em
+            assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade
+            de cotista e
+            representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de
+            consultas formais, se
+            admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e
+            envio de
+            comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto
+          </span></td>
+</tr>
+<tr>
+<td><span>A Assembleia ser&aacute; instalada com a presen&ccedil;a de, pelo menos, 1 (um) Cotista. A convoca&ccedil;&atilde;o da Assembleia dever&aacute; enumerar expressamente, na ordem do dia, todas as mat&eacute;rias a serem deliberadas, n&atilde;o se admitindo que, sob a rubrica de assuntos gerais, haja mat&eacute;rias que dependam da aprova&ccedil;&atilde;o da Assembleia.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.4</span></td><td><span class="title-b3">Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico</span></td>
+</tr>
+<tr>
+<td><span>A Assembleia ser&aacute; realizada de modo parcial ou exclusivamente eletr&ocirc;nico, de acordo com o que for informado aos Cotistas na convoca&ccedil;&atilde;o. Nos termos do artigo 75 da parte geral da Resolu&ccedil;&atilde;o CVM n&ordm; 175/22, somente ser&aacute; admitida a participa&ccedil;&atilde;o presencial dos Cotistas, caso a Assembleia seja realizada de modo parcialmente eletr&ocirc;nico.  As delibera&ccedil;&otilde;es da Assembleia poder&atilde;o, ainda, ser tomadas por meio de processo de consulta formal, sem a necessidade de reuni&atilde;o dos Cotistas. A consulta ser&aacute; formalizada pelo envio de comunica&ccedil;&atilde;o pela Administradora a todos os Cotistas, que dever&aacute; conter todos os elementos informativos necess&aacute;rios ao exerc&iacute;cio do direito de voto.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">10. Remunera&ccedil;&atilde;o do Administrador e do Gestor</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="3"><span class="title-b3">10.1</span></td><td><span class="title-b3">Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento</span></td><td colspan="2"><span>A Classe pagar&aacute;, pela presta&ccedil;&atilde;o dos servi&ccedil;os de administra&ccedil;&atilde;o, cust&oacute;dia, gest&atilde;o e controladoria de ativos e passivo, nos termos deste Regulamento e em conformidade com a regulamenta&ccedil;&atilde;o vigente, uma remunera&ccedil;&atilde;o equivalente a 1,00% (um inteiro por cento) ao ano do Patrim&ocirc;nio L&iacute;quido do Fundo, calculada e provisionada todo Dia &Uacute;til &agrave; raz&atilde;o de 1/252 (um inteiro e duzentos e cinquenta e dois avos), observado o pagamento m&iacute;nimo de R$15.000,00 (quinze mil reais) devido ao Administradora que dever&aacute; ser corrigido anualmente pelo IPCA/IBGE. (i) Taxa de Administra&ccedil;&atilde;o Espec&iacute;fica: Pelos servi&ccedil;os de administra&ccedil;&atilde;o, controladoria de ativos e passivos, bem como para remunerar os servi&ccedil;os de tesouraria e processamento dos Ativos, o Fundo pagar&aacute; diretamente ao Administradora a remunera&ccedil;&atilde;o de 0,10% (dez cent&eacute;simos por cento) ao ano sobre o Patrim&ocirc;nio L&iacute;quido do Fundo, observando o pagamento m&iacute;nimo de R$10.000,00 (dez mil reais) a contar da Data de In&iacute;cio do Fundo, sendo o m&iacute;nimo corrigido anualmente pelo IPCA/IBGE. (ii) Taxa de Gest&atilde;o: Pelos servi&ccedil;os de gest&atilde;o, o Fundo pagar&aacute; diretamente a Gestora a remunera&ccedil;&atilde;o de 0,87% (oitenta e sete cent&eacute;simos por cento) ao ano sobre o Patrim&ocirc;nio L&iacute;quido do Fundo. A taxa de gest&atilde;o ser&aacute; paga mensalmente, at&eacute; o 5&ordm; (quinto) Dia &Uacute;til do m&ecirc;s subsequente.</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Valor pago no ano de refer&ecirc;ncia (R$)</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio cont&aacute;bil</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio a valor de mercado</span></td>
+</tr>
+<tr>
+<td><span>R$ 0,00</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">11. Governan&ccedil;a</span></td>
+</tr>
+<tr>
+<td colspan="5"><span class="title-b3">Representante(s) dos cotistas</span></td>
+</tr>
+</table>
+<table style="border-top-style: hidden" border="1" width="95%" align="center">
+<tr>
+<td colspan="5"><span class="title-b3">Diretor Respons&aacute;vel pelo Fundo</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="19"><span class="title-b3">11.2</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome</span></td><td colspan="3"><span>Erick Warner de Carvalho</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Idade</span></td><td colspan="3"><span>46</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Profiss&atilde;o</span></td><td colspan="3"><span>Diretor de Administra&ccedil;&atilde;o Fiduci&aacute;ria</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">CPF</span></td><td colspan="3"><span>277.646.538-61</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">E-mail</span></td><td colspan="3"><span>erick.carvalho@bancodaycoval.com.br</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Forma&ccedil;&atilde;o acad&ecirc;mica</span></td><td colspan="3"><span>Administra&ccedil;&atilde;o de Empresas</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas detidas da Classe</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe compradas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe vendidas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data de in&iacute;cio na fun&ccedil;&atilde;o</span></td><td colspan="3"><span>01/08/2019</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da Empresa</span></td><td><span class="title-b3">Per&iacute;odo</span></td><td><span class="title-b3">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="title-b3">Atividade Principal da Empresa</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">
+            Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido
+            durante os &uacute;ltimos 5
+            anos
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Evento</span></td><td colspan="3"><span class="title-b3">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="3"><span>N&atilde;o h&aacute;.</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas
+            aplicadas
+          </span></td><td colspan="3"><span>N&atilde;o h&aacute;.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="6"><span class="title-b3">
+            12. Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas
+            adquirido
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Faixas de Pulveriza&ccedil;&atilde;o</span></td><td><span class="title-b3">N&ordm; de cotistas</span></td><td><span class="title-b3">N&ordm; de cotas detidas</span></td><td><span class="title-b3">% de cotas detido em rela&ccedil;&atilde;o ao total emitido</span></td><td><span class="title-b3">% detido por PF</span></td><td><span class="title-b3">% detido por PJ</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">At&eacute; 5% das cotas</span></td><td><span>15095</span></td><td><span>6738905</span></td><td><span>100,00%</span></td><td><span>99,57%</span></td><td><span>0,43%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 5% at&eacute; 10%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 10% at&eacute; 15%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 15% at&eacute; 20%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 20% at&eacute; 30%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 30% at&eacute; 40%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 40% at&eacute; 50%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 50%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="7"><span class="title-b3">
+            13. Transa&ccedil;&otilde;es com ativos envolvendo potencial conflito de
+            interesses e a assembleia de
+            aprova&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Ativo negociado</span></td><td><span class="title-b3">Natureza da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Data da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Valor envolvido</span></td><td><span class="title-b3">Data da assembleia de autoriza&ccedil;&atilde;o</span></td><td><span class="title-b3">Contraparte</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">14. Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.1</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada
+            pelo administrador,
+            ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores,
+            indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es
+            relevantes n&atilde;o divulgadas,
+            locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos
+          </span></td>
+</tr>
+<tr>
+<td><span>A pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante do fundo, pode ser consultada atrav&eacute;s dos links: 
+https://www.daycoval.com.br/investimentos/mercado-capitais/informacoes-cotista e/ou
+https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.2</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas, se houver, ou
+            disponibilizar o link
+            correspondente da p&aacute;gina do administrador na rede mundial de computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>A pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, pode ser consultada atrav&eacute;s dos links: 
+https://www.daycoval.com.br/investimentos/mercado-capitais/informacoes-cotista e/ou
+https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.3</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em
+            participa&ccedil;&otilde;es societ&aacute;rias, ou
+            disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>A GESTORA ADOTA POL&Iacute;TICA DE EXERC&Iacute;CIO DE DIREITO DE VOTO EM ASSEMBLEIAS, QUE DISCIPLINA OS PRINC&Iacute;PIOS GERAIS, O PROCESSO DECIS&Oacute;RIO E QUAIS S&Atilde;O AS MAT&Eacute;RIAS RELEVANTES OBRIGAT&Oacute;RIAS PARA O EXERC&Iacute;CIO DO DIREITO DE VOTO. TAL POL&Iacute;TICA ORIENTA AS DECIS&Otilde;ES DA GESTORA EM ASSEMBLEIAS DE DETENTORES DE ATIVOS QUE CONFIRAM AOS SEUS TITULARES O DIREITO DE VOTO. A pol&iacute;tica de exerc&iacute;cio de direito de voto da Gestora est&aacute; dispon&iacute;vel na p&aacute;gina da Gestora na rede mundial de computadores, no seguinte endere&ccedil;o: https://www.devantasset.com.br/.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.4</span></td><td><span class="title-b3">
+            Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o,
+            manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e
+            fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso
+          </span></td>
+</tr>
+<tr>
+<td><span>O Administrador possui equipes direcionadas para assegura&ccedil;&atilde;o do cumprimento da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es do Fundo com segrega&ccedil;&atilde;o de fun&ccedil;&otilde;es para elabora&ccedil;&atilde;o, valida&ccedil;&atilde;o e envio de informa&ccedil;&otilde;es.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">15. Regras e prazos para chamada de capital</span></td>
+</tr>
+<tr>
+<td><span>Ao receberem uma Chamada de Capital os Cotistas ser&atilde;o obrigados a integralizar parte ou a totalidade de suas Cotas, conforme solicitado pelo Administradora, nos termos dos respectivos Compromissos de Investimento. Tal procedimento ser&aacute; repetido para cada Chamada de Capital, at&eacute; que 100% (cem por cento) das Cotas subscritas tenham sido integralizadas pelos Cotistas, ou at&eacute; o t&eacute;rmino do per&iacute;odo de investimentos, o que ocorrer antes.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">16. Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados, incluindo a periodicidade e
+            a base de c&aacute;lculo
+            com a concilia&ccedil;&atilde;o da distribui&ccedil;&atilde;o do exerc&iacute;cio
+          </span></td><td><span>O Administradora distribuir&aacute; aos Cotistas, independentemente da realiza&ccedil;&atilde;o de Assembleia Especial, no m&iacute;nimo, 95% (noventa e cinco por cento) dos lucros auferidos pelo Fundo, apurados segundo o regime de caixa, com base em balan&ccedil;o ou balancete semestral encerrado em 30 de junho e 31 de dezembro de cada ano e calculados com base nas disponibilidades de caixa existentes (&ldquo;Distribui&ccedil;&atilde;o de Rendimentos&rdquo;). O Administradora distribuir&aacute; aos Cotistas, independentemente da realiza&ccedil;&atilde;o de Assembleia Especial, no m&iacute;nimo, 95% (noventa e cinco por cento) dos lucros auferidos pelo Fundo, apurados segundo o regime de caixa, com base em balan&ccedil;o ou balancete semestral encerrado em 30 de junho e 31 de dezembro de cada ano e calculados com base nas disponibilidades de caixa existentes (&ldquo;Distribui&ccedil;&atilde;o de Rendimentos&rdquo;). Havendo resultado a ser distribu&iacute;do aos Cotistas, conforme acima disposto, o
+pagamento dever&aacute; ser realizado no 10&ordm; (d&eacute;cimo) Dia &Uacute;til, subsequente ao t&eacute;rmino do per&iacute;odo de apura&ccedil;&atilde;o. Far&atilde;o jus aos rendimentos de que trata esta cl&aacute;usula, os titulares de Cotas do Fundo no fechamento do 5&deg; (quinto) Dia &Uacute;til anterior, exclusive, &agrave; data de Distribui&ccedil;&atilde;o de Rendimentos de cada m&ecirc;s, de acordo com as contas de dep&oacute;sito pelo Escriturador.</span></td>
+</tr>
+</table>
+</body>
+</html>

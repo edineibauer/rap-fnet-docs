@@ -1,0 +1,794 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-V : Informe Anual</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual - FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td width="30%"><span class="dado-cabecalho">SPECIALE REAL ESTATE FUND OF FUNDS FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO DE RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td width="25%"><span class="dado-cabecalho">50.135.849/0001-40</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">11/08/2023</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRPMFOCTF001</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">975.907,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo/Classe Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Papel</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>Fundos</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Definida</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Outros</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa e MBO </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">BANCO DAYCOVAL S.A.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">62.232.889/0001-90</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">AV. PAULISTA,
+              1793,
+              2&ordm; andar-
+              Bela Vista-
+              S&atilde;o Paulo-
+              SP-
+              01311200</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">0300 111 0500</span><b></b><span class="dado-cabecalho">(11) 3563-4389</span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.daycoval.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">informes.regulatorios@bancodaycoval.com.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">12/2025</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">1.</h3>
+</td><td width="32%">
+<h3 align="left">Prestadores de servi&ccedil;os</h3>
+</td><td width="12%">
+<h3 align="left">CNPJ</h3>
+</td><td width="35%">
+<h3 align="left">Endere&ccedil;o</h3>
+</td><td width="15%">
+<h3 align="left">Telefone</h3>
+</td>
+</tr>
+<tr>
+<td>
+          1.1
+        </td><td>
+          Gestor: Portofino Gestao de Recursos LTDA</td><td>17.590.181/0001-56</td><td>Rua Leopoldo Couto Magalhaes Jr., 758. Itaim Bibi, CEP: 04542-000</td><td>(11) 99999-9999</td>
+</tr>
+<tr>
+<td>
+          1.2
+        </td><td>
+          Custodiante: BANCO DAYCOVAL S.A</td><td>62.232.889/0001-90</td><td>Avenida Paulista 1793, Bela Vista, S&atilde;o Paulo SP - 01311-200</td><td>(11) 3563-4389</td>
+</tr>
+<tr>
+<td>
+          1.3
+        </td><td>
+          Auditor Independente: Grant Thornton Auditores Independentes LTDA</td><td>10.830.108/0001-65</td><td>Avenida Eng Luiz Carlos Berrini, 105, Cidade Moncoes, CEP: 04571-900</td><td>(11) 3886-4882</td>
+</tr>
+<tr>
+<td>
+          1.4
+        </td><td>
+          Formador de Mercado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.5
+        </td><td>
+          Distribuidor de cotas: BANCO DAYCOVAL S.A</td><td>62.232.889/0001-90</td><td>Avenida Paulista 1793, Bela Vista, S&atilde;o Paulo SP - 01311-200</td><td>(11) 3563-4389</td>
+</tr>
+<tr>
+<td>
+          1.6
+        </td><td>
+          Consultor Especializado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.7
+        </td><td>
+          Empresa Especializada para administrar as loca&ccedil;&otilde;es: </td><td>../-</td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              1.8
+            </th><th align="left" colspan="4">Outros prestadores de servi&ccedil;os&sup1;:</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">2.</h3>
+</td><td>
+<h3 align="left">Investimentos FII</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          2.1
+        </td><td colspan="4"><b>Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td width="24%"><b>Rela&ccedil;&atilde;o dos Ativos adquiridos no per&iacute;odo</b></td><td width="40%"><b>Objetivos</b></td><td width="15%"><b>Montantes Investidos</b></td><td width="15%"><b>Origem dos recursos</b></td>
+</tr>
+<tr>
+<td>PSEC11</td><td>Rentabilizar carteira/ativos</td><td>193.714,55</td><td>Recursos pr&oacute;prios - caixa e/ou emiss&atilde;o de cotas</td>
+</tr>
+<tr>
+<td>PCIP11</td><td>Rentabilizar carteira/ativos</td><td>776.995,20</td><td>Recursos pr&oacute;prios - caixa e/ou emiss&atilde;o de cotas</td>
+</tr>
+<tr>
+<td>PMLL11</td><td>Rentabilizar carteira/ativos</td><td>1.898.529,60</td><td>Recursos pr&oacute;prios - caixa e/ou emiss&atilde;o de cotas</td>
+</tr>
+<tr>
+<td>CRI000000A96</td><td>Rentabilizar carteira/ativos</td><td>907.824,33</td><td>Recursos pr&oacute;prios - caixa e/ou emiss&atilde;o de cotas</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3 align="left">3.</h3>
+</td><td>
+<h3 align="left">Programa de investimentos para os exerc&iacute;cios seguintes, incluindo, se necess&aacute;rio, as informa&ccedil;&otilde;es descritas no item 1.1 com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados:</h3>
+</td>
+</tr>
+<tr>
+<td>O programa de investimento do Fundo para os exerc&iacute;cios seguintes seguir&aacute; a pol&iacute;tica de investimentos, em conformidade com o regulamento do Fundo.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">4.</h3>
+</td><td>
+<h3 align="left">An&aacute;lise do administrador sobre:</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.1
+        </td><td><b>Resultado do fundo no exerc&iacute;cio findo</b></td>
+</tr>
+<tr>
+<td>Os resultados do fundo de investimento podem ser consultados diretamente na demonstra&ccedil;&atilde;o financeira do fundo (DF). Esta documenta&ccedil;&atilde;o estara dispon&iacute;vel para consulta em: (https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM), e proporciona uma vis&atilde;o detalhada do desempenho e das opera&ccedil;&otilde;es realizadas ao longo do per&iacute;odo.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.2
+        </td><td><b>Conjuntura econ&ocirc;mica do segmento do mercado imobili&aacute;rio de atua&ccedil;&atilde;o relativo ao per&iacute;odo findo</b></td>
+</tr>
+<tr>
+<td>Em 2025, o mercado de Fundos de Investimento Imobili&aacute;rio (FIIs) no Brasil apresentou um desempenho mais equilibrado em compara&ccedil;&atilde;o com 2024, que havia sido marcado por uma recupera&ccedil;&atilde;o gradual do setor. O &Iacute;ndice de Fundos de Investimentos Imobili&aacute;rios (IFIX), principal indicador do segmento, refletiu esse movimento ao longo do ano, com per&iacute;odos de volatilidade, mas mantendo relativa estabilidade no acumulado.
+
+Enquanto 2024 foi impulsionado principalmente pela expectativa de queda das taxas de juros e retomada econ&ocirc;mica, 2025 foi caracterizado por um ambiente mais cauteloso, com maior sensibilidade &agrave;s condi&ccedil;&otilde;es macroecon&ocirc;micas, especialmente em rela&ccedil;&atilde;o &agrave; pol&iacute;tica monet&aacute;ria e ao cen&aacute;rio fiscal. Ainda assim, muitos FIIs continuaram entregando rendimentos consistentes, refor&ccedil;ando seu papel como instrumento de gera&ccedil;&atilde;o de renda passiva.
+
+De forma geral, 2025 consolidou um cen&aacute;rio mais seletivo para os investidores, no qual fundos com boa gest&atilde;o, ativos de qualidade e contratos bem estruturados se destacaram em rela&ccedil;&atilde;o ao restante do mercado.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.3
+        </td><td><b>Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da carteira</b></td>
+</tr>
+<tr>
+<td>Ao final de 2025, observa-se que o mercado de FIIs manteve sua relev&acirc;ncia, mesmo diante de um contexto mais desafiador do que o observado no ano anterior. Segmentos como log&iacute;stica e receb&iacute;veis imobili&aacute;rios continuaram apresentando maior resili&ecirc;ncia, enquanto outros, como lajes corporativas, exigiram maior cautela por parte dos investidores.
+
+Para 2026, a perspectiva &eacute; de continuidade desse ambiente seletivo, com potencial de melhora caso haja maior previsibilidade em rela&ccedil;&atilde;o &agrave;s taxas de juros e ao cen&aacute;rio fiscal. A tend&ecirc;ncia &eacute; que os FIIs sigam como uma alternativa atrativa de investimento para gera&ccedil;&atilde;o de renda, especialmente se houver estabiliza&ccedil;&atilde;o macroecon&ocirc;mica.
+
+Nesse contexto, a estrat&eacute;gia dos investidores deve permanecer focada na diversifica&ccedil;&atilde;o e na an&aacute;lise criteriosa dos ativos, priorizando fundos com fundamentos s&oacute;lidos e capacidade de adapta&ccedil;&atilde;o a diferentes ciclos econ&ocirc;micos.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3>5.</h3>
+</td><td>
+<h3>Riscos incorridos pelos cotistas inerentes aos investimentos do FII:</h3>
+</td>
+</tr>
+<tr>
+<td>
+          Ver anexo no final do documento. <a href="#anexos">Anexos</a></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              6.
+            </th><td align="center" colspan="2" width="49%"><b>Valor Cont&aacute;bil dos ativos imobili&aacute;rios do FII</b></td><td rowspan="2" align="center" width="25%"><b>Valor Justo, nos termos da ICVM 516 (SIM ou N&Atilde;O)</b></td><td rowspan="2" align="center" width="20%"><b>Percentual de Valoriza&ccedil;&atilde;o/Desvaloriza&ccedil;&atilde;o apurado no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>Rela&ccedil;&atilde;o de ativos imobili&aacute;rios</b></td><td align="center" width="24%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>PSEC11</td><td align="center">193.714,55</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>DAY T_SPEC</td><td align="center">1.539.808,67</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>BRCR11</td><td align="center">1.582.563,95</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>BROF11</td><td align="center">492.315,60</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>BTCI11</td><td align="center">1.680.789,04</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>BTLG11</td><td align="center">2.423.669,15</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>CLIN11</td><td align="center">2.430.384,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>CYCR11</td><td align="center">1.419.318,75</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>FIGS11</td><td align="center">280.662,38</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>GARE11</td><td align="center">1.895.451,66</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>GTWR11</td><td align="center">249.498,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>HGBS11</td><td align="center">1.689.400,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>HGCR11</td><td align="center">1.710.862,56</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>HGRE11</td><td align="center">1.310.537,68</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>HSAF11</td><td align="center">1.143.609,60</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>HSLG11</td><td align="center">2.029.592,25</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>HSML11</td><td align="center">1.292.691,26</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>INRD11</td><td align="center">678.675,78</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>JFLL11</td><td align="center">685.644,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>JSRE11</td><td align="center">1.710.330,96</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>KFOF11</td><td align="center">1.826.922,50</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>KNCA11</td><td align="center">1.688.742,60</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>KNCR11</td><td align="center">3.904.118,14</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>KNHF11</td><td align="center">2.210.722,22</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>KNHY11</td><td align="center">1.763.948,65</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>KNIP11</td><td align="center">1.389.336,30</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>KNUQ11</td><td align="center">2.746.288,25</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>LIFE11</td><td align="center">1.839.298,31</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>LVBI11</td><td align="center">947.530,08</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>MCCI11</td><td align="center">1.204.757,94</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>NAVT11</td><td align="center">714.679,20</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>PATL11</td><td align="center">1.901.394,40</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>PCIP11</td><td align="center">776.995,20</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>PMLL11</td><td align="center">1.898.529,60</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>PVBI11</td><td align="center">1.198.512,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>RBRL11</td><td align="center">664.263,18</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>RBRX11</td><td align="center">1.109.882,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>RBRY11</td><td align="center">2.797.862,40</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>RINV11</td><td align="center">1.695.702,74</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>RZAK11</td><td align="center">3.632.087,40</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>SPXS11</td><td align="center">1.599.504,04</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>TOPP11</td><td align="center">710.463,60</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>VCJR11</td><td align="center">2.552.007,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>VGHF11</td><td align="center">2.653.070,19</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>VGIR11</td><td align="center">4.277.662,12</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>VISC11</td><td align="center">896.199,76</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>VIUR11</td><td align="center">1.723.713,24</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>WHGR11</td><td align="center">2.208.797,25</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>XPCI11</td><td align="center">1.669.225,68</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>XPLG11</td><td align="center">2.752.589,84</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>XPML11</td><td align="center">1.901.856,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>XPSF11</td><td align="center">775.946,50</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>RINV12</td><td align="center">3.573,52</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>CRI000000692</td><td align="center">917.801,60</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>CRI000000A96</td><td align="center">907.824,33</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          6.1
+        </td><td><b>Crit&eacute;rios utilizados na referida avalia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>Entende-se por valor justo o valor pelo qual um ativo pode ser trocado ou um passivo liquidado entre partes independentes, conhecedoras do neg&oacute;cio e dispostas a realizar a transa&ccedil;&atilde;o, sem que represente uma opera&ccedil;&atilde;o for&ccedil;ada, conforme instru&ccedil;&atilde;o CVM 516, Art. 7&ordm; &sect;1&ordm;.
+Os Ativos ser&atilde;o precificados de acordo com procedimentos para registro e avalia&ccedil;&atilde;o de t&iacute;tulos e valores mobili&aacute;rios, conforme estabelecido na regulamenta&ccedil;&atilde;o em vigor (tais como o crit&eacute;rio de marca&ccedil;&atilde;o a mercado) e de acordo com o manual de precifica&ccedil;&atilde;o adotado pelo Custodiante. O manual est&aacute; dispon&iacute;vel para consulta no website: https://www.daycoval.com.br/investimentos/mercadocapitais/politicas-manuais-documento</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>7.</b></td><td colspan="7"><b>Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>8.</b></td><td colspan="4"><b>Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados em causas jur&iacute;dicas semelhantes, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>9.</b></td><td><b>An&aacute;lise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes:</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">10.</h3>
+</td><td>
+<h3 align="left">Assembleia Geral</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.1
+        </td><td><b>Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos &agrave; assembleia geral estar&atilde;o &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise:</b></td>
+</tr>
+<tr>
+<td>Av. Paulista, 1793, 2&ordm; andar, 01311200, S&atilde;o Paulo - SP, Bela Vista. <br>https://www.daycoval.com.br/institucional/mercado-de-capitais</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.2
+        </td><td><b>Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas para (i) a inclus&atilde;o de mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s delibera&ccedil;&otilde;es propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais cotistas para envio de pedido p&uacute;blico de procura&ccedil;&atilde;o.</b></td>
+</tr>
+<tr>
+<td>O Administrador publicar&aacute; as informa&ccedil;&otilde;es especificadas abaixo, na periodicidade respectivamente indicada, em sua p&aacute;gina na rede mundial de computadores (https://www.daycoval.com.br/institucional/mercado-de-capitais) e as manter&aacute; dispon&iacute;veis aos Cotistas em sua sede, no endere&ccedil;o indicado neste Regulamento.
+As informa&ccedil;&otilde;es abaixo especificadas ser&atilde;o remetidas pelo Administrador &agrave; CVM, por meio do Sistema de Envio de Documentos, e &agrave;s entidades administradoras do mercado organizado em que as Cotas sejam admitidas a negocia&ccedil;&atilde;o.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto.</b></td>
+</tr>
+<tr>
+<td>Correio eletr&ocirc;nico e/ou website do administrador fiduci&aacute;rio (https://www.daycoval.com.br/institucional/mercado-de-capitais).
+
+A convoca&ccedil;&atilde;o da Assembleia Geral de Cotistas pelo Administrador far-se-&aacute; mediante correspond&ecirc;ncia por correio eletr&ocirc;nico (e-mail) e disponibilizada na p&aacute;gina do Administrador na rede mundial de computadores, da qual constar&atilde;o, obrigatoriamente, o dia, hora e local em que ser&aacute; realizada tal Assembleia e ainda, de forma sucinta, os assuntos a serem tratados.
+Salvo motivo de for&ccedil;a maior, a Assembleia Geral de Cotistas realizar-se-&aacute; no local onde o Administrador tiver a sede; quando houver necessidade de efetuar-se em outro lugar correspond&ecirc;ncia encaminhada por correio eletr&ocirc;nico, endere&ccedil;ada aos Cotistas indicar&atilde;o, com clareza, o lugar da reuni&atilde;o. A administradora tamb&eacute;m conta com aplicacativo espec&iacute;fico para realiza&ccedil;&atilde;o de voto eletr&ocirc;nico, que ser&aacute; enviado aos contatos dos cotistas devidamente cadastrado. 
+Por ocasi&atilde;o da Assembleia Geral de Cotistas ordin&aacute;ria do FUNDO, os Cotistas que detenham, no m&iacute;nimo, 3% (tr&ecirc;s por cento) das Cotas emitidas ou o(s) representante(s) de Cotistas podem solicitar, por meio de requerimento escrito encaminhado &agrave; ADMINISTRADORA, a inclus&atilde;o de mat&eacute;rias na ordem do dia da Assembleia Geral de Cotistas ordin&aacute;ria, que passar&aacute; a ser Assembleia Geral de Cotistas ordin&aacute;ria e extraordin&aacute;ria. </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico.</b></td>
+</tr>
+<tr>
+<td>N&atilde;o obstante, os Cotistas tamb&eacute;m poder&atilde;o votar por meio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica (via e-mail) encaminhada ao Administrador, desde que este receba o voto do Cotista com pelo menos 01 (um) dia de anteced&ecirc;ncia em rela&ccedil;&atilde;o &agrave; data prevista para a realiza&ccedil;&atilde;o da Assembleia Geral de Cotistas a que se refere o voto proferido na forma prevista neste Par&aacute;grafo.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">11.</h3>
+</td><td>
+<h3 align="left">Remunera&ccedil;&atilde;o do Administrador</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>11.1</b></td><td colspan="3"><b>Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento:</b></td>
+</tr>
+<tr>
+<td colspan="3">Ser&aacute; devida pela Classe &agrave; Administradora uma Taxa de Administra&ccedil;&atilde;o pela presta&ccedil;&atilde;o dos servi&ccedil;os de administra&ccedil;&atilde;o fiduci&aacute;ria do Fundo, incluindo as atividades de gest&atilde;o de Im&oacute;veis, se aplic&aacute;vel, bem como pelos servi&ccedil;os de tesouraria, controladoria e processamento de ativos e escritura&ccedil;&atilde;o de Cotas, correspondente aos percentuais descritos na tabela abaixo, com base em um ano de 252 (duzentos e cinquenta e dois) Dias &Uacute;teis, calculadas sobre (a) o valor cont&aacute;bil do Patrim&ocirc;nio L&iacute;quido; ou (b) sobre o valor de mercado do Fundo, calculado com base na m&eacute;dia di&aacute;ria da cota&ccedil;&atilde;o de fechamento das Cotas no m&ecirc;s anterior ao do pagamento, caso referidas Cotas tenham integrado ou passado a integrar, nesse per&iacute;odo, &iacute;ndice de mercado, como, por exemplo, o IFIX, cuja metodologia preveja crit&eacute;rios de inclus&atilde;o que considerem a liquidez das Cotas e crit&eacute;rios de pondera&ccedil;&atilde;o que considerem o volume financeiro das Cotas emitidas pelo Fundo, sendo certo que o valor m&iacute;nimo mensal ser&aacute; atualizado anualmente, a partir da data de registro do Fundo, pela varia&ccedil;&atilde;o positiva do IGP-M/FGV, ou &iacute;ndice que vier a substitu&iacute;-lo.
+
+Ser&aacute; aplic&aacute;vel &agrave; Taxa de Administra&ccedil;&atilde;o descrita no item 5.1. acima o valor m&iacute;nimo mensal de: (a) R$3.000,00 (tr&ecirc;s mil reais), at&eacute; o 12&ordm; (d&eacute;cimo segundo) m&ecirc;s de funcionamento do Fundo, contado da Data de In&iacute;cio do Fundo; (b) R$4.000,00 (quatro mil reais) a partir do 13&ordm; (d&eacute;cimo terceiro) at&eacute; o 18&ordm; (d&eacute;cimo oitavo) m&ecirc;s de funcionamento do Fundo, contado da Data de In&iacute;cio do Fundo; (c) R$5.000,00 (cinco mil reais) a partir do 19&ordm; (d&eacute;cimo nono) at&eacute; o 24&ordm; (vig&eacute;simo quarto) m&ecirc;s de 42 funcionamento do Fundo, contado da Data de In&iacute;cio do Fundo; e (d) R$7.000,00 (sete mil reais) a partir do 25&ordm; (vig&eacute;simo quinto) m&ecirc;s de funcionamento do Fundo, contado da Data de In&iacute;cio do Fundo.</td>
+</tr>
+<tr>
+<td><b>Valor pago no ano de refer&ecirc;ncia (R$):</b></td><td><b>% sobre o patrim&ocirc;nio cont&aacute;bil:</b></td><td><b>% sobre o patrim&ocirc;nio a valor de mercado:</b></td>
+</tr>
+<tr>
+<td>0,00</td><td>0,00%</td><td>0,00%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">12.</h3>
+</td><td>
+<h3 align="left">Governan&ccedil;a</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.1</b></td><td colspan="4"><b>Representante(s) de cotistas</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.2</b></td><td colspan="4"><b>Diretor Respons&aacute;vel pelo FII</b></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome: </span></td><td width="30%"><span class="dado-cabecalho">Erick Warner de Carvalho</span></td><td width="25%"><span class="titulo-dado">Idade: </span></td><td width="25%"><span class="dado-cabecalho">46</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Profiss&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">Diretor de Administra&ccedil;&atilde;o Fiduci&aacute;ria</span></td><td width="25%"><span class="titulo-dado">CPF: </span></td><td width="25%"><span class="dado-cabecalho">27764653861</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">E-mail: </span></td><td width="30%"><span class="dado-cabecalho">erick.carvalho@bancodaycoval.com.br</span></td><td width="25%"><span class="titulo-dado">Forma&ccedil;&atilde;o acad&ecirc;mica: </span></td><td width="25%"><span class="dado-cabecalho">Administra&ccedil;&atilde;o de Empresas</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas detidas do FII: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Quantidade de cotas do FII compradas no per&iacute;odo: </span></td><td width="25%"><span class="dado-cabecalho">0,00</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas do FII vendidas no per&iacute;odo: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Data de in&iacute;cio na fun&ccedil;&atilde;o: </span></td><td width="25%"><span class="dado-cabecalho">01/08/2019</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Evento</span></td><td colspan="2"><span class="titulo-dado">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas aplicadas</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>13.</b></td><td colspan="6"><b>Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas adquirido.</b></td>
+</tr>
+<tr>
+<td width="20%"><b>Faixas de Pulveriza&ccedil;&atilde;o</b></td><td width="16%"><b>N&ordm; de cotistas</b></td><td width="16%"><b>N&ordm; de cotas detidas</b></td><td width="16%"><b>% de cotas detido em rela&ccedil;&atilde;o ao total emitido</b></td><td width="16%"><b>% detido por PF</b></td><td width="16%"><b>% detido por PJ</b></td>
+</tr>
+<tr>
+<td>
+          At&eacute; 5% das cotas
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 5% at&eacute; 10%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 10% at&eacute; 15%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 15% at&eacute; 20%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 20% at&eacute; 30%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 30% at&eacute; 40%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 40% at&eacute; 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 50%
+        </td><td>1,00</td><td>975.907,00</td><td>100,00%</td><td>0,00%</td><td>100,00%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">14.</h3>
+</td><td>
+<h3 align="left">Transa&ccedil;&otilde;es a que se refere o art. 34 e inciso IX do art.35, da Instru&ccedil;&atilde;o CVM n&ordm; 472, de 2008</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">15.</h3>
+</td><td>
+<h3 align="left">Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.1
+        </td><td><b>Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores, indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es relevantes n&atilde;o divulgadas, locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos.</b></td>
+</tr>
+<tr>
+<td>A pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante do fundo, pode ser consultada atrav&eacute;s dos links: 
+https://www.daycoval.com.br/investimentos/mercado-capitais/informacoes-cotista e/ou
+https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.2
+        </td><td><b>Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>A pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, pode ser consultada atrav&eacute;s dos links: 
+https://www.daycoval.com.br/investimentos/mercado-capitais/informacoes-cotista e/ou
+https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.3
+        </td><td><b>Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>A pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, pode ser consultada atrav&eacute;s dos links:
+https://www.daycoval.com.br/investimentos/mercado-capitais/informacoes-cotista e/ou
+https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.4
+        </td><td><b>Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o, manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso.</b></td>
+</tr>
+<tr>
+<td>O Administrador possui equipes direcionadas para assegura&ccedil;&atilde;o do cumprimento da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es do Fundo com segrega&ccedil;&atilde;o de fun&ccedil;&otilde;es para elabora&ccedil;&atilde;o, valida&ccedil;&atilde;o e envio de informa&ccedil;&otilde;es.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>16.</b></td><td><b>Regras e prazos para chamada de capital do fundo:</b></td>
+</tr>
+<tr>
+<td>As regras e prazos para chamada de capital do Fundo, se houver, estar&atilde;o previstas nos documentos relativos &agrave;s ofertas de distribui&ccedil;&atilde;o de cada emiss&atilde;o de cotas.</td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+<tr>
+<td style="padding-left:20px"><a href="downloadDocumentoAdicional?idDocumento=1144302&amp;idDocumentoAdicional=36">5. Fatores de Risco</a></td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Nota</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>A rela&ccedil;&atilde;o de prestadores de servi&ccedil;os de que trata o item 1.8 deve ser indicada quando o referido prestador de servi&ccedil;os representar mais de 5% das despesas do FII</td>
+</tr>
+</table>
+</body>
+</html>

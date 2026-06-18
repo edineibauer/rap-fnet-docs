@@ -1,0 +1,693 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-V : Informe Anual</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual - FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td width="30%"><span class="dado-cabecalho">BANRISUL NOVAS FRONTEIRAS FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td width="25%"><span class="dado-cabecalho">15.570.431/0001-60</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">11/09/2012</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRBNFSCTF000</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">700.000,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo/Classe Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Tijolo</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>Renda</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Ativa</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Varejo</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">OLIVEIRA TRUST DTVM S.A.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">36.113.876/0001-91</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">Avenida das Am&eacute;ricas,
+              3434,
+              Bloco 07, sala 201-
+              Barra da Tijuca-
+              Rio de Janeiro-
+              RJ-
+              22640102</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">21 3514-0000</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.oliveiratrust.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">ger2.fundos@oliveiratrust.com.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">12/2025</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">1.</h3>
+</td><td width="32%">
+<h3 align="left">Prestadores de servi&ccedil;os</h3>
+</td><td width="12%">
+<h3 align="left">CNPJ</h3>
+</td><td width="35%">
+<h3 align="left">Endere&ccedil;o</h3>
+</td><td width="15%">
+<h3 align="left">Telefone</h3>
+</td>
+</tr>
+<tr>
+<td>
+          1.1
+        </td><td>
+          Gestor: Oliveira Trust DTVM S.A.</td><td>36..11.3.8/76/0-00</td><td>Avenida das Am&eacute;ricas, n.&ordm; 3434, bloco 7, sala 201, Barra da Tijuca, Rio de Janeiro/RJ, CEP 22640-102</td><td>(21) 3514-0000</td>
+</tr>
+<tr>
+<td>
+          1.2
+        </td><td>
+          Custodiante: Oliveira Trust DTVM S.A.</td><td>36..11.3.8/76/0-00</td><td>Avenida das Am&eacute;ricas, n.&ordm; 3434, bloco 7, sala 201, Barra da Tijuca, Rio de Janeiro/RJ, CEP 22640-102</td><td>(21) 3514-0000</td>
+</tr>
+<tr>
+<td>
+          1.3
+        </td><td>
+          Auditor Independente: BDO RCS AUDITORES INDEPENDENTES S/S LTDA</td><td>54..27.6.9/36/0-00</td><td>Rua Maj Quedinho, n&ordm; 90, 3&ordm; andar, Centro, S&atilde;o Paulo/SP, CEP 01.050-901</td><td>(11) 3848-5880</td>
+</tr>
+<tr>
+<td>
+          1.4
+        </td><td>
+          Formador de Mercado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.5
+        </td><td>
+          Distribuidor de cotas: Banco do Estado do Rio Grande do Sul S.A.</td><td>92..70.2.0/67/0-00</td><td>Rua Capit&atilde;o Montanha, n&ordm; 177, Centro, Porto Alegre/RS
+CEP 90010-040</td><td>(51) 3215-2322</td>
+</tr>
+<tr>
+<td>
+          1.6
+        </td><td>
+          Consultor Especializado: JEJ Im&oacute;veis Ltda.</td><td>17..25.9.4/56/0-00</td><td>Rua Jo&atilde;o Caetano, 300, sala 106, Tr&ecirc;s Figueiras, Porto Alegre - RS 
+CEP 90470-260</td><td>(51) 98192-1909</td>
+</tr>
+<tr>
+<td>
+          1.7
+        </td><td>
+          Empresa Especializada para administrar as loca&ccedil;&otilde;es: </td><td>../-</td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              1.8
+            </th><th align="left" colspan="4">Outros prestadores de servi&ccedil;os&sup1;:</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">2.</h3>
+</td><td>
+<h3 align="left">Investimentos FII</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          2.1
+        </td><td colspan="4"><b>Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3 align="left">3.</h3>
+</td><td>
+<h3 align="left">Programa de investimentos para os exerc&iacute;cios seguintes, incluindo, se necess&aacute;rio, as informa&ccedil;&otilde;es descritas no item 1.1 com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados:</h3>
+</td>
+</tr>
+<tr>
+<td>N&atilde;o h&aacute; previs&atilde;o de novos investimentos pelo Fundo para os pr&oacute;ximos exerc&iacute;cios.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">4.</h3>
+</td><td>
+<h3 align="left">An&aacute;lise do administrador sobre:</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.1
+        </td><td><b>Resultado do fundo no exerc&iacute;cio findo</b></td>
+</tr>
+<tr>
+<td>O resultado no exerc&iacute;cio findo em 31/12/2025 foi de R$ 7.968.000,00</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.2
+        </td><td><b>Conjuntura econ&ocirc;mica do segmento do mercado imobili&aacute;rio de atua&ccedil;&atilde;o relativo ao per&iacute;odo findo</b></td>
+</tr>
+<tr>
+<td>O cen&aacute;rio econ&ocirc;mico brasileiro em 2025 foi marcado por continuidade do crescimento moderado da atividade, ainda em ambiente de juros elevados e maior seletividade nos investimentos. A taxa Selic permaneceu em patamar elevado ao longo do ano, impactando o custo de capital e a din&acirc;mica do mercado imobili&aacute;rio, enquanto a infla&ccedil;&atilde;o apresentou trajet&oacute;ria de estabiliza&ccedil;&atilde;o. No mercado imobili&aacute;rio log&iacute;stico, especialmente no segmento de galp&otilde;es classe A e A+, observou-se manuten&ccedil;&atilde;o de fundamentos positivos, com demanda consistente ao longo do ano. O volume de investimentos imobili&aacute;rios apresentou recupera&ccedil;&atilde;o relevante, totalizando aproximadamente R$ 13,86 bilh&otilde;es em 2025, distribu&iacute;dos em 64 transa&ccedil;&otilde;es, com cap rate m&eacute;dio de 8,62%, refletindo maior liquidez, ainda que com perfil seletivo por parte dos investidores. A absor&ccedil;&atilde;o l&iacute;quida manteve-se positiva, sustentada principalmente pelos setores de com&eacute;rcio eletr&ocirc;nico, log&iacute;stica, varejo e ind&uacute;stria, ainda que em ritmo mais moderado em compara&ccedil;&atilde;o a per&iacute;odos anteriores. A taxa de vac&acirc;ncia apresentou tend&ecirc;ncia de estabiliza&ccedil;&atilde;o, com leve press&atilde;o em fun&ccedil;&atilde;o da entrada de novos empreendimentos, sobretudo na regi&atilde;o Sudeste. O pre&ccedil;o m&eacute;dio de loca&ccedil;&atilde;o manteve trajet&oacute;ria de crescimento gradual, impulsionado pela qualidade dos ativos e pela demanda por im&oacute;veis bem localizados e com especifica&ccedil;&otilde;es t&eacute;cnicas mais modernas. Observou-se tamb&eacute;m continuidade da relev&acirc;ncia das pr&eacute;-loca&ccedil;&otilde;es, especialmente em empreendimentos de padr&atilde;o elevado, refor&ccedil;ando a resili&ecirc;ncia do segmento log&iacute;stico. De modo geral, o mercado imobili&aacute;rio em 2025 manteve-se resiliente, com foco em ativos de maior qualidade, contratos mais estruturados e gera&ccedil;&atilde;o recorrente de renda, ainda inserido em um contexto macroecon&ocirc;mico que demanda cautela na tomada de decis&atilde;o por parte dos agentes de mercado. Fonte: Cushman &amp; Wakefield</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.3
+        </td><td><b>Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da carteira</b></td>
+</tr>
+<tr>
+<td>Para o per&iacute;odo seguinte, a perspectiva para o Fundo &eacute; de continuidade da gest&atilde;o ativa de sua carteira imobili&aacute;ria, com foco na preserva&ccedil;&atilde;o da gera&ccedil;&atilde;o recorrente de renda e na manuten&ccedil;&atilde;o da qualidade dos ativos detidos. A estrat&eacute;gia permanece pautada na an&aacute;lise criteriosa de oportunidades de investimento, priorizando ativos com bom padr&atilde;o construtivo, localiza&ccedil;&atilde;o consolidada e potencial de valoriza&ccedil;&atilde;o, bem como na otimiza&ccedil;&atilde;o da ocupa&ccedil;&atilde;o dos im&oacute;veis atualmente integrantes da carteira. Adicionalmente, a gest&atilde;o seguir&aacute; atenta &agrave;s condi&ccedil;&otilde;es de mercado e &agrave;s oportunidades de reciclagem de portf&oacute;lio, podendo avaliar eventuais aquisi&ccedil;&otilde;es ou aliena&ccedil;&otilde;es de ativos, sempre com o objetivo de maximizar o retorno aos cotistas e manter a efici&ecirc;ncia operacional do Fundo. De forma geral, a condu&ccedil;&atilde;o da carteira buscar&aacute; equilibrar gera&ccedil;&atilde;o de renda, mitiga&ccedil;&atilde;o de riscos e captura de oportunidades, considerando um cen&aacute;rio ainda desafiador, por&eacute;m com sinais de gradual estabiliza&ccedil;&atilde;o no mercado imobili&aacute;rio. No que tange os im&oacute;veis que comp&otilde;em o portf&oacute;lio do Fundo, alicer&ccedil;ado pela garantia de reajuste pleno dos valores locat&iacute;cios de acordo com os &iacute;ndices j&aacute; contratados, aponta um cen&aacute;rio diferenciado no mercado imobili&aacute;rio em geral.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3>5.</h3>
+</td><td>
+<h3>Riscos incorridos pelos cotistas inerentes aos investimentos do FII:</h3>
+</td>
+</tr>
+<tr>
+<td>
+          Ver anexo no final do documento. <a href="#anexos">Anexos</a></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              6.
+            </th><td align="center" colspan="2" width="49%"><b>Valor Cont&aacute;bil dos ativos imobili&aacute;rios do FII</b></td><td rowspan="2" align="center" width="25%"><b>Valor Justo, nos termos da ICVM 516 (SIM ou N&Atilde;O)</b></td><td rowspan="2" align="center" width="20%"><b>Percentual de Valoriza&ccedil;&atilde;o/Desvaloriza&ccedil;&atilde;o apurado no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>Rela&ccedil;&atilde;o de ativos imobili&aacute;rios</b></td><td align="center" width="24%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>MAT 13.178 - RIO GRANDE - CASSINO</td><td align="center">1.984.000,00</td><td align="center">SIM</td><td align="center">49,06%</td>
+</tr>
+<tr>
+<td>MAT 15.002 - S&Atilde;O GABRIEL</td><td align="center">2.085.000,00</td><td align="center">SIM</td><td align="center">-11,39%</td>
+</tr>
+<tr>
+<td>MAT 16.557 - TAQUARI</td><td align="center">3.211.000,00</td><td align="center">SIM</td><td align="center">3,28%</td>
+</tr>
+<tr>
+<td>MAT 169.816 - BEL&Eacute;M NOVO</td><td align="center">3.231.000,00</td><td align="center">SIM</td><td align="center">15,76%</td>
+</tr>
+<tr>
+<td>MAT 18.647 - SAPUCAIA/RS</td><td align="center">1.823.000,00</td><td align="center">SIM</td><td align="center">-5,40%</td>
+</tr>
+<tr>
+<td>MAT 22.527 - VACARIA/RS</td><td align="center">3.086.000,00</td><td align="center">SIM</td><td align="center">-23,76%</td>
+</tr>
+<tr>
+<td>MAT 25.246 - SAPIRANGA</td><td align="center">4.780.000,00</td><td align="center">SIM</td><td align="center">1,90%</td>
+</tr>
+<tr>
+<td>MAT 28.843 - SANTA MARIA - TANCREDO NEVES</td><td align="center">1.740.000,00</td><td align="center">SIM</td><td align="center">-14,03%</td>
+</tr>
+<tr>
+<td>MAT 29.031 - SANTA ROSA - CRUZEIRO</td><td align="center">1.778.000,00</td><td align="center">SIM</td><td align="center">-5,68%</td>
+</tr>
+<tr>
+<td>MAT 3.889 - S&Atilde;O LEOPOLDO - CAMPINAS</td><td align="center">1.848.000,00</td><td align="center">SIM</td><td align="center">9,41%</td>
+</tr>
+<tr>
+<td>MAT 36.124 - PAROB&Eacute;</td><td align="center">2.359.000,00</td><td align="center">SIM</td><td align="center">9,26%</td>
+</tr>
+<tr>
+<td>MAT 4.337 - QUARAI</td><td align="center">1.764.000,00</td><td align="center">SIM</td><td align="center">-60,55%</td>
+</tr>
+<tr>
+<td>MAT 5.526 - GENERAL C&Acirc;MARA</td><td align="center">1.071.000,00</td><td align="center">SIM</td><td align="center">-25,73%</td>
+</tr>
+<tr>
+<td>MAT 631 - CRUZ ALTA</td><td align="center">3.749.000,00</td><td align="center">SIM</td><td align="center">-38,81%</td>
+</tr>
+<tr>
+<td>MAT 7797 - ESTEIO</td><td align="center">1.884.000,00</td><td align="center">SIM</td><td align="center">-18,44%</td>
+</tr>
+<tr>
+<td>MAT 74.790 - ARROIO DO SAL</td><td align="center">1.763.000,00</td><td align="center">SIM</td><td align="center">-12,03%</td>
+</tr>
+<tr>
+<td>MAT 76.048 - S&Atilde;O LEOPOLDO - SCHARLAU</td><td align="center">3.061.000,00</td><td align="center">SIM</td><td align="center">2,20%</td>
+</tr>
+<tr>
+<td>MAT 97.354 - VILA IPIRANGA</td><td align="center">3.642.000,00</td><td align="center">SIM</td><td align="center">-0,05%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          6.1
+        </td><td><b>Crit&eacute;rios utilizados na referida avalia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>Com aux&iacute;lio de especialistas em precifica&ccedil;&atilde;o, foi obtido o entendimento sobre a metodologia de c&aacute;lculo utilizada e analisada a razoabilidade do modelo e das principais premissas adotadas pelos especialistas externos na constru&ccedil;&atilde;o do modelo de mensura&ccedil;&atilde;o do valor justo, bem como analisamos o alinhamento dessas premissas e desse modelo com as pr&aacute;ticas usualmente utilizadas pelo mercado.
+ A metodologia aplicada est&aacute; em conformidade com as normas da ABNT (Associa&ccedil;&atilde;o Brasileira e Normas T&eacute;cnicas), Normas para Avalia&ccedil;&otilde;es de Im&oacute;veis Urbanos publicadas pelo IBAPE/SP (Instituto Brasileiro e Avalia&ccedil;&otilde;es e Per&iacute;cias de Engenharia), bem como Requisitos b&aacute;sicos do Red Book, estipulados pelo RICS (Royal Institution of Chartered Surveyors), da Gr&atilde;bretanha.
+
+A metodologia de avalia&ccedil;&atilde;o foi com base na  capitaliza&ccedil;&atilde;o da renda por proje&ccedil;&atilde;o de fluxo de caixa descontado. O fluxo de caixa descontado do im&oacute;vel considera o(s) contrato(s) de loca&ccedil;&atilde;o vigente at&eacute; seu
+prazo de t&eacute;rmino e o valor unit&aacute;rio de loca&ccedil;&atilde;o obtido com base na compara&ccedil;&atilde;o de mercado at&eacute; o fim do per&iacute;odo de an&aacute;lise. Neste momento, &eacute; considerada a sa&iacute;da do investimento por meio
+de uma venda hipot&eacute;tica da propriedade simulando o princ&iacute;pio da perpetuidade e aplicando a taxa de capitaliza&ccedil;&atilde;o (&ldquo;terminal capital rate&rdquo;). Ou seja, identifica-se o valor de mercado ou valor
+econ&ocirc;mico do bem tamb&eacute;m por meio da capitaliza&ccedil;&atilde;o presente de sua renda l&iacute;quida prevista.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>7.</b></td><td colspan="7"><b>Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td width="17%"><b>N&ordm; do Processo</b></td><td width="20%"><b>Ju&iacute;zo</b></td><td width="10%"><b>Inst&acirc;ncia</b></td><td width="10%"><b>Data da Instaura&ccedil;&atilde;o</b></td><td width="10%"><b>Valor da causa (R$)</b></td><td width="20%"><b>Partes no processo</b></td><td width="10%"><b>Chance de perda (prov&aacute;vel, poss&iacute;vel ou remota)</b></td>
+</tr>
+<tr>
+<td>0021841-50.2016.5.04.0003</td><td>3&ordf; Vara do Trabalho</td><td>Execu&ccedil;&atilde;o</td><td><span class="dado-cabecalho">16/12/2016</span></td><td>112.582,69</td><td>Adilson dos Santos Nunes  x Banrisul Novas Fronteiras FII e  C I P A L  C O N S T R U T O R A  E INSTALARADORA PORTOALEGRENSE LTDA.</td><td>poss&iacute;vel</td>
+</tr>
+<tr>
+<td colspan="7" width="100%"><b>Principais fatos</b></td>
+</tr>
+<tr>
+<td colspan="7" width="100%" valign="top">Responsabilidade solid&aacute;ria/ subsidi&aacute;ria; diferen&ccedil;as de FGTS; gratifica&ccedil;&otilde;es natalinas de 2015; f&eacute;rias com 1/3; direitos rescis&oacute;rios; multa do art. 477 da CLT; horas extras; honor&aacute;rios de Assist&ecirc;ncia Judici&aacute;ria; juros e corre&ccedil;&atilde;o monet&aacute;ria; Assist&ecirc;ncia Judici&aacute;ria Gratuita. Em 26/11/2025, foi publicada intima&ccedil;&atilde;o nos autos do processo n&ordm; 0021841-50.2016.5.04.0003, em tr&acirc;mite perante a 3&ordf; Vara do Trabalho de Porto Alegre/RS, na qual foi determinado, ap&oacute;s o tr&acirc;nsito em julgado da decis&atilde;o que negou provimento ao agravo de peti&ccedil;&atilde;o do exequente e a quita&ccedil;&atilde;o da responsabilidade subsidi&aacute;ria das r&eacute;s, que a Oliveira Trust Distribuidora de T&iacute;tulos e Valores Mobili&aacute;rios S.A. e demais executadas apresentassem seus dados banc&aacute;rios para fins de transfer&ecirc;ncia de valores depositados nos autos. O despacho tamb&eacute;m previu a expedi&ccedil;&atilde;o de alvar&aacute;s para levantamento dos valores e a posterior inativa&ccedil;&atilde;o das executadas no processo, bem como a intima&ccedil;&atilde;o do exequente para manifesta&ccedil;&atilde;o quanto ao prosseguimento da execu&ccedil;&atilde;o.</td>
+</tr>
+<tr>
+<td colspan="7" width="100%"><b>An&aacute;lise do impacto em caso de perda do processo</b></td>
+</tr>
+<tr>
+<td colspan="7" width="100%" valign="top">Valores j&aacute; provisionados na carteira de 31/12/2025</td>
+</tr>
+<tr>
+<td width="17%"><b>N&ordm; do Processo</b></td><td width="20%"><b>Ju&iacute;zo</b></td><td width="10%"><b>Inst&acirc;ncia</b></td><td width="10%"><b>Data da Instaura&ccedil;&atilde;o</b></td><td width="10%"><b>Valor da causa (R$)</b></td><td width="20%"><b>Partes no processo</b></td><td width="10%"><b>Chance de perda (prov&aacute;vel, poss&iacute;vel ou remota)</b></td>
+</tr>
+<tr>
+<td>0021839-80.2016.5.04.0003</td><td>3&ordf; Vara do Trabalho</td><td>Execu&ccedil;&atilde;o</td><td><span class="dado-cabecalho">09/02/2017</span></td><td>158.041,01</td><td>Giovani Finkler da Fonseca  x Banrisul Novas Fronteiras FII</td><td>prov&aacute;vel</td>
+</tr>
+<tr>
+<td colspan="7" width="100%"><b>Principais fatos</b></td>
+</tr>
+<tr>
+<td colspan="7" width="100%" valign="top">Responsabilidade solid&aacute;ria/ subsidi&aacute;ria; diferen&ccedil;as de FGTS; gratifica&ccedil;&otilde;es natalinas; direitos rescis&oacute;rios; f&eacute;rias; multa do art. 477 da CLT; indeniza&ccedil;&atilde;o pela utiliza&ccedil;&atilde;o do ve&iacute;culo; honor&aacute;rios de Assist&ecirc;ncia Judici&aacute;ria; juros e corre&ccedil;&atilde;o monet&aacute;ria; Assist&ecirc;ncia Judici&aacute;ria Gratuita. Fase de c&aacute;lculos. </td>
+</tr>
+<tr>
+<td colspan="7" width="100%"><b>An&aacute;lise do impacto em caso de perda do processo</b></td>
+</tr>
+<tr>
+<td colspan="7" width="100%" valign="top">Valores j&aacute; provisionados na carteira de 31/12/2025</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>8.</b></td><td colspan="4"><b>Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados em causas jur&iacute;dicas semelhantes, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>9.</b></td><td><b>An&aacute;lise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes:</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">10.</h3>
+</td><td>
+<h3 align="left">Assembleia Geral</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.1
+        </td><td><b>Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos &agrave; assembleia geral estar&atilde;o &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise:</b></td>
+</tr>
+<tr>
+<td>Avenida das Am&eacute;ricas, 3434, bloco 7, sala 201, Barra da Tijuca, Rio de Janeiro - RJ<br>ger2.fundos@oliveiratrust.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.2
+        </td><td><b>Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas para (i) a inclus&atilde;o de mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s delibera&ccedil;&otilde;es propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais cotistas para envio de pedido p&uacute;blico de procura&ccedil;&atilde;o.</b></td>
+</tr>
+<tr>
+<td>As solicita&ccedil;&otilde;es dos itens (i) e (ii) podem ser direcionadas diretamente para  e-mail da equipe de Administra&ccedil;&atilde;o, qual seja, ger2.fundos@oliveiratrust.com.br ou ainda pelo "Fale Conosco" dispon&iacute;vel no portal do administrador pelo link a seguir: https://www.oliveiratrust.com.br/contato#mensagem</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto.</b></td>
+</tr>
+<tr>
+<td>As regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos Cotistas em Assembleias Gerais encontram-se disciplinados nos Cap&iacute;tulos 12 e 13 do Regulamento do Fundo. Poder&atilde;o participar das Assembleias os Cotistas constantes do registro de cotistas, por si, seus representantes legais ou procuradores regularmente constitu&iacute;dos, mediante apresenta&ccedil;&atilde;o da documenta&ccedil;&atilde;o aplic&aacute;vel. As Assembleias Gerais poder&atilde;o ser realizadas de forma presencial, parcial ou exclusivamente eletr&ocirc;nica, a crit&eacute;rio do Administrador, sendo admitida a participa&ccedil;&atilde;o e o exerc&iacute;cio do direito de voto por meio eletr&ocirc;nico, inclusive mediante envio de comunica&ccedil;&atilde;o por correio eletr&ocirc;nico ou por meio de sistemas disponibilizados pelo Administrador, conforme indicado no respectivo edital de convoca&ccedil;&atilde;o. Adicionalmente, as delibera&ccedil;&otilde;es poder&atilde;o ser tomadas por meio de processo de consulta formal, sem a realiza&ccedil;&atilde;o de assembleia, mediante o envio de comunica&ccedil;&atilde;o aos Cotistas, os quais dever&atilde;o manifestar seu voto no prazo estipulado, por escrito ou por meio eletr&ocirc;nico, observados os procedimentos previstos no Regulamento e na regulamenta&ccedil;&atilde;o aplic&aacute;vel. As comunica&ccedil;&otilde;es entre o Administrador e os Cotistas, inclusive para fins de convoca&ccedil;&atilde;o de Assembleias e realiza&ccedil;&atilde;o de consultas formais, poder&atilde;o ser realizadas por correio eletr&ocirc;nico, sendo considerado meio v&aacute;lido para manifesta&ccedil;&atilde;o de voto, cabendo ao Cotista manter seus dados cadastrais devidamente atualizados junto ao Administrador. Sempre que a Assembleia Geral ou Especial for convocada para eleger representantes de Cotistas, as informa&ccedil;&otilde;es acima incluir&atilde;o: (i) declara&ccedil;&atilde;o dos candidatos de que atendem os requisitos previstos no artigo 21 do Anexo Normativo III; e (ii) as informa&ccedil;&otilde;es exigidas no Item 12.1 do Suplemento K da Resolu&ccedil;&atilde;o CVM 175/22.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico.</b></td>
+</tr>
+<tr>
+<td>As Assembleias Gerais do Fundo poder&atilde;o ser realizadas por meio eletr&ocirc;nico (&ldquo;Assembleia Virtual&rdquo;), de forma integral ou parcial, conforme previsto no Regulamento, sendo tal condi&ccedil;&atilde;o informada no respectivo edital de convoca&ccedil;&atilde;o. A convoca&ccedil;&atilde;o e a proposta do Administrador s&atilde;o disponibilizadas na p&aacute;gina do Administrador na rede mundial de computadores e nos sistemas da CVM e da B3 (FundosNet), podendo, adicionalmente, ser encaminhadas por correio eletr&ocirc;nico aos Cotistas, considerado meio v&aacute;lido de comunica&ccedil;&atilde;o, nos termos do Regulamento. Adicionalmente, o Administrador deve disponibilizar, na mesma data da convoca&ccedil;&atilde;o, todas as informa&ccedil;&otilde;es e documentos necess&aacute;rios ao exerc&iacute;cio informado do direito de voto em Assembleias, em sua p&aacute;gina na rede mundial de computadores, na p&aacute;gina da CVM, por meio de sistema eletr&ocirc;nico dispon&iacute;vel, e na p&aacute;gina da entidade administradora do mercado organizado em que as cotas sejam admitidas &agrave; negocia&ccedil;&atilde;o, conforme aplic&aacute;vel. Nessas hip&oacute;teses, os documentos n&atilde;o s&atilde;o necessariamente enviados em formato f&iacute;sico, salvo delibera&ccedil;&atilde;o em sentido diverso. Somente poder&atilde;o participar e votar os Cotistas inscritos no registro de cotistas ou na conta de dep&oacute;sito das cotas na data de convoca&ccedil;&atilde;o, por si, seus representantes legais ou procuradores regularmente constitu&iacute;dos. A participa&ccedil;&atilde;o e o exerc&iacute;cio do direito de voto poder&atilde;o ocorrer por meio eletr&ocirc;nico, inclusive mediante envio de manifesta&ccedil;&atilde;o por e-mail ou por meio de plataforma ou sistema indicado pelo Administrador no edital de convoca&ccedil;&atilde;o. Os Cotistas que participarem por meio eletr&ocirc;nico ser&atilde;o considerados presentes para todos os fins, inclusive para fins de assinatura da ata e do livro de presen&ccedil;a, ainda que se abstenham de votar. Ap&oacute;s a realiza&ccedil;&atilde;o da Assembleia, ser&aacute; divulgado o sum&aacute;rio das decis&otilde;es ou o respectivo termo de apura&ccedil;&atilde;o, conforme o caso, na p&aacute;gina do Administrador e nos sistemas aplic&aacute;veis. Adicionalmente, as delibera&ccedil;&otilde;es poder&atilde;o ser tomadas por meio de consulta formal, sem realiza&ccedil;&atilde;o de assembleia, mediante manifesta&ccedil;&atilde;o dos Cotistas por escrito ou por meio eletr&ocirc;nico, nos termos do Regulamento. Compete ao Cotista manter seus dados cadastrais atualizados junto ao Administrador, especialmente o endere&ccedil;o eletr&ocirc;nico, para fins de recebimento das comunica&ccedil;&otilde;es e exerc&iacute;cio de seus direitos.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">11.</h3>
+</td><td>
+<h3 align="left">Remunera&ccedil;&atilde;o do Administrador</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>11.1</b></td><td colspan="3"><b>Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento:</b></td>
+</tr>
+<tr>
+<td colspan="3">O Administrador far&aacute; jus a Taxa de Administra&ccedil;&atilde;o de 0,3% ao ano sobre o Patrim&ocirc;nio L&iacute;quido da Classe, com m&iacute;nimo mensal de R$ 16.000,00, calculada diariamente (1/252) e paga mensalmente at&eacute; o 2&ordm; dia &uacute;til do m&ecirc;s subsequente, acrescida dos tributos aplic&aacute;veis. A Taxa inclui os servi&ccedil;os de controladoria, cust&oacute;dia qualificada e escritura&ccedil;&atilde;o de cotas, podendo at&eacute; 80% ser destinada a terceiros contratados. Adicionalmente, ser&aacute; devida remunera&ccedil;&atilde;o de R$ 4.000,00 por ativo imobili&aacute;rio adquirido, limitada a R$ 96.000,00. Os valores ser&atilde;o corrigidos anualmente pelo IGPM/FGV. N&atilde;o h&aacute; cobran&ccedil;a de taxa de performance, ingresso ou sa&iacute;da. A Taxa de Cust&oacute;dia corresponde a 0,1% ao ano sobre o Patrim&ocirc;nio L&iacute;quido, com m&iacute;nimo mensal de R$ 4.000,00, paga mensalmente at&eacute; o 2&ordm; dia &uacute;til do m&ecirc;s subsequente.</td>
+</tr>
+<tr>
+<td><b>Valor pago no ano de refer&ecirc;ncia (R$):</b></td><td><b>% sobre o patrim&ocirc;nio cont&aacute;bil:</b></td><td><b>% sobre o patrim&ocirc;nio a valor de mercado:</b></td>
+</tr>
+<tr>
+<td>452.855,28</td><td>0,93%</td><td>0,87%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">12.</h3>
+</td><td>
+<h3 align="left">Governan&ccedil;a</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.1</b></td><td colspan="4"><b>Representante(s) de cotistas</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.2</b></td><td colspan="4"><b>Diretor Respons&aacute;vel pelo FII</b></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome: </span></td><td width="30%"><span class="dado-cabecalho">Jos&eacute; Alexandre Costa de Freitas</span></td><td width="25%"><span class="titulo-dado">Idade: </span></td><td width="25%"><span class="dado-cabecalho">54</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Profiss&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">Diretor Presidente</span></td><td width="25%"><span class="titulo-dado">CPF: </span></td><td width="25%"><span class="dado-cabecalho">008.991.207-17</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">E-mail: </span></td><td width="30%"><span class="dado-cabecalho">ger2.fundos@oliveiratrust.com.br</span></td><td width="25%"><span class="titulo-dado">Forma&ccedil;&atilde;o acad&ecirc;mica: </span></td><td width="25%"><span class="dado-cabecalho">Direito</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas detidas do FII: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Quantidade de cotas do FII compradas no per&iacute;odo: </span></td><td width="25%"><span class="dado-cabecalho">0,00</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas do FII vendidas no per&iacute;odo: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Data de in&iacute;cio na fun&ccedil;&atilde;o: </span></td><td width="25%"><span class="dado-cabecalho">09/11/2012</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome da Empresa</span></td><td><span class="titulo-dado">Per&iacute;odo</span></td><td><span class="titulo-dado">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="titulo-dado">Atividade principal da empresa na qual tais experi&ecirc;ncias ocorreram</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">Oliveira Trust</span></td><td><span class="dado-cabecalho">Mar&ccedil;o/1992 - Data Atual</span></td><td><span class="dado-cabecalho">Diretor Presidente</span></td><td><span class="dado-cabecalho">Distribuidora de T&iacute;tulos e Valores Mobili&aacute;rios</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Evento</span></td><td colspan="2"><span class="titulo-dado">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="2"><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas aplicadas</span></td><td colspan="2"><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>13.</b></td><td colspan="6"><b>Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas adquirido.</b></td>
+</tr>
+<tr>
+<td width="20%"><b>Faixas de Pulveriza&ccedil;&atilde;o</b></td><td width="16%"><b>N&ordm; de cotistas</b></td><td width="16%"><b>N&ordm; de cotas detidas</b></td><td width="16%"><b>% de cotas detido em rela&ccedil;&atilde;o ao total emitido</b></td><td width="16%"><b>% detido por PF</b></td><td width="16%"><b>% detido por PJ</b></td>
+</tr>
+<tr>
+<td>
+          At&eacute; 5% das cotas
+        </td><td>5.634,00</td><td>654.282,00</td><td>93,47%</td><td>83,41%</td><td>10,06%</td>
+</tr>
+<tr>
+<td>
+          Acima de 5% at&eacute; 10%
+        </td><td>1,00</td><td>45.718,00</td><td>6,53%</td><td>0,00%</td><td>6,53%</td>
+</tr>
+<tr>
+<td>
+          Acima de 10% at&eacute; 15%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 15% at&eacute; 20%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 20% at&eacute; 30%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 30% at&eacute; 40%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 40% at&eacute; 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">14.</h3>
+</td><td>
+<h3 align="left">Transa&ccedil;&otilde;es a que se refere o art. 34 e inciso IX do art.35, da Instru&ccedil;&atilde;o CVM n&ordm; 472, de 2008</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">15.</h3>
+</td><td>
+<h3 align="left">Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.1
+        </td><td><b>Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores, indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es relevantes n&atilde;o divulgadas, locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos.</b></td>
+</tr>
+<tr>
+<td>Conforme Cap&iacute;tulo 14 do Regulamento, o Administrador prestar&aacute; aos Cotistas, ao mercado em geral, &agrave; CVM e &agrave; entidade administradora de mercado em que as cotas do Fundo estejam negociadas, conforme o caso, as informa&ccedil;&otilde;es exigidas pela Resolu&ccedil;&atilde;o CVM 175/22, nos prazos previstos na referida Resolu&ccedil;&atilde;o. A divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es referidas neste Regulamento e na Resolu&ccedil;&atilde;o CVM 175/22, ser&atilde;o realizadas na p&aacute;gina do Administrador na rede mundial de computadores (https://www.oliveiratrust.com.br/), em lugar de destaque e dispon&iacute;vel para acesso gratuito, e mantida dispon&iacute;vel aos Cotistas em sua sede. Para fins do disposto neste Regulamento, considerar-se-&aacute; o correio eletr&ocirc;nico uma forma de correspond&ecirc;ncia v&aacute;lida entre o Administrador e os Cotistas, inclusive para convoca&ccedil;&atilde;o de Assembleias Gerais de Cotistas e realiza&ccedil;&atilde;o de procedimentos de consulta formal. Compete ao Cotista manter o Administrador atualizado a respeito de qualquer altera&ccedil;&atilde;o que ocorrer no endere&ccedil;o eletr&ocirc;nico previamente indicado, isentando o Administrador de qualquer responsabilidade decorrente da falha de comunica&ccedil;&atilde;o com o Cotista, ou ainda, da impossibilidade de pagamento de rendimentos do Fundo, em virtude de endere&ccedil;o eletr&ocirc;nico desatualizado.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.2
+        </td><td><b>Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>As cotas do Fundo s&atilde;o emitidas sob a forma nominativa e escritural e, ap&oacute;s integralizadas, ser&atilde;o negociadas no mercado secund&aacute;rio, em bolsa de valores administrada pela B3 S.A. &ndash; Brasil, Bolsa, Balc&atilde;o, nos termos do Regulamento. A negocia&ccedil;&atilde;o ocorre entre investidores por meio de intermedi&aacute;rios autorizados, observadas as regras da B3 e a regulamenta&ccedil;&atilde;o aplic&aacute;vel, n&atilde;o havendo restri&ccedil;&otilde;es adicionais relevantes al&eacute;m daquelas previstas no Regulamento e na legisla&ccedil;&atilde;o vigente.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.3
+        </td><td><b>Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>Conforme o cap&iacute;tulo 5 do regulamento, nas assembleias de sociedades e/ou fundos de investimento nas quais a Classe detenha participa&ccedil;&atilde;o o Administrador ir&aacute; exercer o direito de voto de acordo com a sua pol&iacute;tica de exerc&iacute;cio do direito de voto, que se encontra dispon&iacute;vel no website do Administrador. O Administrador adota pol&iacute;tica de exerc&iacute;cio de direito de voto em assembleias, que disciplina os princ&iacute;pios gerais, o processo decis&oacute;rio e quais s&atilde;o as mat&eacute;rias relevantes obrigat&oacute;rias para o exerc&iacute;cio do direito de voto. Tal pol&iacute;tica orienta as decis&otilde;es do Administrador em assembleias de detentores de ativos que confiram aos seus titulares o direito de voto. O Administrador exercer&aacute; o direito de voto em assembleias gerais, na qualidade de representante da Classe, norteado pela lealdade em rela&ccedil;&atilde;o aos interesses dos Cotistas e da Classe, empregando, na defesa dos direitos dos Cotistas, todo o cuidado e a dilig&ecirc;ncia exigidos pelas circunst&acirc;ncias. Nesse sentido, ao votar em assembleias representando a Classe, o Administrador buscar&aacute; votar favoravelmente &agrave;s delibera&ccedil;&otilde;es que, a seu ver, propiciem a valoriza&ccedil;&atilde;o dos ativos que integrem a carteira de ativos da Classe. O Administrador adota pol&iacute;tica de exerc&iacute;cio de direito de voto em assembleias referentes &agrave;s participa&ccedil;&otilde;es societ&aacute;rias integrantes da carteira da Classe, a qual disciplina os princ&iacute;pios gerais, o processo decis&oacute;rio e quais s&atilde;o as mat&eacute;rias relevantes obrigat&oacute;rias para o exerc&iacute;cio do direito de voto. Tal pol&iacute;tica orienta as decis&otilde;es do Administrador em assembleias de detentores de t&iacute;tulos ou valores mobili&aacute;rios que confiram aos seus titulares o direito de voto. A &iacute;ntegra da pol&iacute;tica acima referida pode ser encontrada em sua vers&atilde;o integral no website do Administrador (www.oliveiratrust.com.br).</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.4
+        </td><td><b>Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o, manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso.</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>16.</b></td><td><b>Regras e prazos para chamada de capital do fundo:</b></td>
+</tr>
+<tr>
+<td>O Regulamento do Fundo n&atilde;o prev&ecirc; a realiza&ccedil;&atilde;o de chamadas de capital nos moldes t&iacute;picos de fundos estruturados com compromisso de investimento. A integraliza&ccedil;&atilde;o de cotas ocorre no contexto de ofertas de distribui&ccedil;&atilde;o, mediante boletim de subscri&ccedil;&atilde;o, n&atilde;o havendo previs&atilde;o de prazos m&iacute;nimos ou obriga&ccedil;&otilde;es de aporte decorrentes de chamadas de capital peri&oacute;dicas ou discricion&aacute;rias pelo Administrador.</td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+<tr>
+<td style="padding-left:20px"><a href="downloadDocumentoAdicional?idDocumento=1151030&amp;idDocumentoAdicional=36">5. Fatores de Risco</a></td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Nota</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>A rela&ccedil;&atilde;o de prestadores de servi&ccedil;os de que trata o item 1.8 deve ser indicada quando o referido prestador de servi&ccedil;os representar mais de 5% das despesas do FII</td>
+</tr>
+</table>
+</body>
+</html>

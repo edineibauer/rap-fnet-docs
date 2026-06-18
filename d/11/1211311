@@ -1,0 +1,230 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Formul&aacute;rio Direito de Prefer&ecirc;ncia</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+          
+          td.no_border_left {
+          border-left: 1pt hidden:
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Direito de Prefer&ecirc;ncia na Subscri&ccedil;&atilde;o de Cotas</h2>
+<table width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo: </span></td><td width="30%"><span class="dado-cabecalho">REC MULTIESTRAT&Eacute;GIA - FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO - RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="25%"><span class="dado-cabecalho">56.430.935/0001-62</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Administrador: </span></td><td width="30%"><span class="dado-cabecalho">BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.</span></td><td width="25%"><span class="titulo-dado">CNPJ do Administrador: </span></td><td width="25%"><span class="dado-cabecalho">13.486.793/0001-42</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Respons&aacute;vel pela informa&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Marcos Nascimento</span></td><td><span class="titulo-dado">Telefone do respons&aacute;vel: </span></td><td><span class="dado-cabecalho">35060600</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Email: </span></td><td><span class="dado-cabecalho">distribuicao.BRA@apexgroup.com</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Ato de Aprova&ccedil;&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">Ato do Administrador</span></td><td width="20%"><span class="titulo-dado">Data de aprova&ccedil;&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">01/06/2026</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Tipo de oferta: </span></td><td width="30%"><span class="dado-cabecalho">Rito autom&aacute;tico</span></td><td width="20%"><span class="titulo-dado">Data de corte: </span></td><td width="30%"><span class="dado-cabecalho">05/06/2026</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">N&uacute;mero de emiss&atilde;o </span></td><td width="30%"><span class="dado-cabecalho">2</span></td><td width="20%"><span class="titulo-dado">Pre&ccedil;o da emiss&atilde;o (R$): </span></td><td width="30%"><span class="dado-cabecalho">8,77</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Qtd de cotas que atualmente se divide o PL do Fundo: </span></td><td width="30%"><span class="dado-cabecalho">8.400.517</span></td><td width="20%"><span class="titulo-dado">Custo de distribui&ccedil;&atilde;o (R$): </span></td><td width="30%"><span class="dado-cabecalho">0,29</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade m&aacute;xima de cotas a serem emitidas: </span></td><td width="30%"><span class="dado-cabecalho">22.075.056</span></td><td width="20%"><span class="titulo-dado">Pre&ccedil;o de subscri&ccedil;&atilde;o (R$):</span></td><td width="30%"><span class="dado-cabecalho">9,06</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Percentual de subscri&ccedil;&atilde;o (%): </span></td><td width="30%"><span class="dado-cabecalho">262,78211210095</span></td><td width="20%"><span class="titulo-dado">Montante total: </span></td><td width="30%"><span class="dado-cabecalho">R$ 193.598.241,12</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td>
+<h3 align="left">Lista de c&oacute;digos ISIN</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="30%"><b>C&oacute;digo ISIN</b></td><td width="30%"><b>C&oacute;digo de negocia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>BRRECMCTF005</td><td>RECM11</td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="10">
+<h3 align="left">Direito de prefer&ecirc;ncia</h3>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="5" width="1%"><b></b></td><td colspan="5"><b>Exerc&iacute;cio do direito de prefer&ecirc;ncia na B3</b></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="2%"><b></b></td><td><span class="titulo-dado">Inicio do prazo: </span></td><td><span class="dado-cabecalho">09/06/2026</span></td><td><span class="titulo-dado">T&eacute;rmino do prazo: </span></td><td><span class="dado-cabecalho">22/06/2026</span></td>
+</tr>
+<tr>
+<td colspan="5"><b>Exerc&iacute;cio do direito de prefer&ecirc;ncia no escriturador</b></td>
+</tr>
+<tr>
+<td class="no_border" align="left" valign="top" width="1%"></td><td width="20%"><span class="titulo-dado">Inicio do prazo: </span></td><td width="30%"><span class="dado-cabecalho">09/06/2026</span></td><td width="20%"><span class="titulo-dado">T&eacute;rmino do prazo: </span></td><td width="30%"><span class="dado-cabecalho">23/06/2026</span></td>
+</tr>
+<tr>
+<td colspan="2"><b>Data de liquida&ccedil;&atilde;o</b></td><td width="30%"><span class="dado-cabecalho">23/06/2026</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="80%">
+<h3 align="left">Negocia&ccedil;&atilde;o dos direitos de prefer&ecirc;ncia: </h3>
+</td><td><span class="dado-cabecalho">Sim</span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td class="no_border_right" align="left" valign="top" rowspan="5" width="1%"><b></b></td><td class="no_border_left" colspan="5"><b>Negocia&ccedil;&atilde;o dos direitos de prefer&ecirc;ncia na B3</b></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="2%"><b></b></td><td><span class="titulo-dado">Inicio do prazo: </span></td><td><span class="dado-cabecalho">09/06/2026</span></td><td><span class="titulo-dado">T&eacute;rmino do prazo: </span></td><td><span class="dado-cabecalho">18/06/2026</span></td>
+</tr>
+<tr>
+<td colspan="5"><b>Negocia&ccedil;&atilde;o dos direitos de prefer&ecirc;ncia no escriturador</b></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="1%"></td><td width="20%"><span class="titulo-dado">Inicio do prazo: </span></td><td width="30%"><span class="dado-cabecalho">09/06/2026</span></td><td width="20%"><span class="titulo-dado">T&eacute;rmino do prazo: </span></td><td width="30%"><span class="dado-cabecalho">22/06/2026</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="80%">
+<h3 align="left">Possui per&iacute;odos de sobras de subscri&ccedil;&atilde;o: </h3>
+</td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="80%">
+<h3 align="left">Possui montante adicional: </h3>
+</td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="80%">
+<h3 align="left">Oferta p&uacute;blica </h3>
+</td><td><span class="dado-cabecalho">Sim</span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td class="no_border_right" align="left" valign="top" rowspan="7" width="1%"><b></b></td><td class="no_border_left" colspan="5"><b>Per&iacute;odo de reserva</b></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="1%"></td><td width="20%"><span class="titulo-dado">Inicio do prazo: </span></td><td width="30%"><span class="dado-cabecalho">09/06/2026</span></td><td width="20%"><span class="titulo-dado">T&eacute;rmino do prazo: </span></td><td width="30%"><span class="dado-cabecalho">25/06/2026</span></td>
+</tr>
+<tr>
+<td colspan="5"><b>Per&iacute;odo de subscri&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="2%"><b></b></td><td><span class="titulo-dado">Inicio do prazo: </span></td><td></td><td><span class="titulo-dado">T&eacute;rmino do prazo: </span></td><td></td>
+</tr>
+<tr>
+<td colspan="5"><b>Per&iacute;odo de aloca&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="1%"></td><td width="20%"><span class="titulo-dado">Inicio do prazo: </span></td><td width="30%"><span class="dado-cabecalho">26/06/2026</span></td><td width="20%"><span class="titulo-dado">T&eacute;rmino do prazo: </span></td><td width="30%"><span class="dado-cabecalho">26/06/2026</span></td>
+</tr>
+<tr>
+<td colspan="2"><b>Data de liquida&ccedil;&atilde;o</b></td><td width="30%"><span class="dado-cabecalho">01/07/2026</span></td><td><b>Chamada de capital: </b></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+</body>
+</html>

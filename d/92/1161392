@@ -1,0 +1,219 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Formul&aacute;rio de Libera&ccedil;&atilde;o para Negocia&ccedil;&atilde;o de Cotas</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+          
+          td.no_border_left {
+          border-left: 1pt hidden:
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+		  .texto-tabela-centralizado
+		  {
+		  width: 10%;
+		  text-align: center; 
+		  vertical-align: middle;
+		  }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Formul&aacute;rio de Libera&ccedil;&atilde;o para Negocia&ccedil;&atilde;o de Cotas</h2>
+<table width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo: </span></td><td width="30%"><span class="dado-cabecalho">SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO IS RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="25%"><span class="dado-cabecalho">43.741.171/0001-84</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Administrador: </span></td><td width="30%"><span class="dado-cabecalho">QI CORRETORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS S.A.</span></td><td width="25%"><span class="titulo-dado">CNPJ do Administrador: </span></td><td width="25%"><span class="dado-cabecalho">62.285.390/0001-40</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Respons&aacute;vel pela informa&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Brunna Lima</span></td><td><span class="titulo-dado">Telefone do respons&aacute;vel: </span></td><td><span class="dado-cabecalho">11 2827-3591</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">fii.adm@qitech.com.br</span></td><td><span class="titulo-dado">Nome de preg&atilde;o: </span></td><td><span class="dado-cabecalho">FII SUNO EL</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="9">
+<h3 align="left">Informa&ccedil;&otilde;es sobre a oferta</h3>
+</td>
+</tr>
+<tr>
+<td colspan="6"></td><td class="texto-tabela-centralizado" colspan="3"><b>Secund&aacute;rio - In&iacute;cio da revenda</b></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado"><b>C&oacute;digo ISIN da cota</b></td><td class="texto-tabela-centralizado"><b>Ticker</b></td><td class="texto-tabela-centralizado"><b>N&ordm; da emiss&atilde;o</b></td><td class="texto-tabela-centralizado"><b>S&eacute;rie</b></td><td class="texto-tabela-centralizado"><b>Tipo de oferta</b></td><td width="20%" class="texto-tabela-centralizado"><b>Data de encerramento</b></td><td width="20%" class="texto-tabela-centralizado"><b>Profissional</b></td><td width="20%" class="texto-tabela-centralizado"><b>Qualificado</b></td><td width="20%" class="texto-tabela-centralizado"><b>Varejo</b></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">BRSNELCTF010</td><td class="texto-tabela-centralizado">SNEL11</td><td class="texto-tabela-centralizado">4</td><td class="texto-tabela-centralizado">&uacute;nica</td><td class="texto-tabela-centralizado">Rito autom&aacute;tico</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">05/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/12/2023</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/12/2023</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/12/2023</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="10">
+<h3 align="left">Informa&ccedil;&otilde;es por ativo</h3>
+</td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado"><b>Ticker</b></td><td class="texto-tabela-centralizado"><b>C&oacute;digo ISIN da liquida&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Especifica&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b> Quantidade de Cotas</b></td><td class="texto-tabela-centralizado"><b>Data da Integraliza&ccedil;&atilde;o</b></td><td width="20%" class="texto-tabela-centralizado"><b>Data de Libera&ccedil;&atilde;o do Lock-Up (Somente para ICVM 476)</b></td><td class="texto-tabela-centralizado"><b>Data da Convers&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Data de Libera&ccedil;&atilde;o da Negocia&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Pagamento de Rendimento Pro-Rata</b></td><td class="texto-tabela-centralizado"><b>Data da Divulga&ccedil;&atilde;o do Rendimento</b></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL13</td><td class="texto-tabela-centralizado">BRSNELR27M16</td><td class="texto-tabela-centralizado">Subs</td><td class="texto-tabela-centralizado">801.560</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">08/08/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL14</td><td class="texto-tabela-centralizado">BRSNELR34M17</td><td class="texto-tabela-centralizado">Sobras</td><td class="texto-tabela-centralizado">7.366</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">01/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL15</td><td class="texto-tabela-centralizado">BRSNELR28M15</td><td class="texto-tabela-centralizado">4 Em / 1 Liq</td><td class="texto-tabela-centralizado">23</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">12/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL16</td><td class="texto-tabela-centralizado">BRSNELR29M14</td><td class="texto-tabela-centralizado">4 Em / 1 Liq</td><td class="texto-tabela-centralizado">332.429</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">12/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL17</td><td class="texto-tabela-centralizado">BRSNELR30M11</td><td class="texto-tabela-centralizado">4 Em / 1 Liq</td><td class="texto-tabela-centralizado">22</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">12/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL18</td><td class="texto-tabela-centralizado">BRSNELR31M10</td><td class="texto-tabela-centralizado">4 Em / 1 Liq</td><td class="texto-tabela-centralizado">1</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">12/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL19</td><td class="texto-tabela-centralizado">BRSNELR32M19</td><td class="texto-tabela-centralizado">4 Em / 1 Liq</td><td class="texto-tabela-centralizado">14.886</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">12/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL20</td><td class="texto-tabela-centralizado">BRSNELR33M18</td><td class="texto-tabela-centralizado">4 Em / 1 Liq</td><td class="texto-tabela-centralizado">17.444</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">26/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL21</td><td class="texto-tabela-centralizado">BRSNELR35M16</td><td class="texto-tabela-centralizado">4 Em / 2 Liq</td><td class="texto-tabela-centralizado">24</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">26/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL22</td><td class="texto-tabela-centralizado">BRSNELR36M15</td><td class="texto-tabela-centralizado">4 Em / 2 Liq</td><td class="texto-tabela-centralizado">324.084</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">26/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL23</td><td class="texto-tabela-centralizado">BRSNELR37M14</td><td class="texto-tabela-centralizado">4 Em / 2 Liq</td><td class="texto-tabela-centralizado">28.355</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">26/09/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL24</td><td class="texto-tabela-centralizado">BRSNELR38M13</td><td class="texto-tabela-centralizado">4 Em / 2 Liq</td><td class="texto-tabela-centralizado">255.655</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">28/10/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL25</td><td class="texto-tabela-centralizado">BRSNELR39M12</td><td class="texto-tabela-centralizado">4 Em / 2 Liq</td><td class="texto-tabela-centralizado">47.368</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">28/10/2025</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">22/01/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">23/01/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">SNEL11</td><td class="texto-tabela-centralizado">BRSNELCTF010</td><td class="texto-tabela-centralizado">Cotas</td><td class="texto-tabela-centralizado">70.514.209</td><td class="texto-tabela-centralizado"></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Qtd de cotas integralizadas: </span></td><td><span class="dado-valores">72.343.426</span></td><td><span class="titulo-dado">Valor da cota: </span></td><td><span class="dado-valores">R$ 8,600000000000000</span></td><td><span class="titulo-dado">Montante final: </span></td><td><span class="dado-valores">R$ 622.153.463,60</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Chamada de capital*: </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+<div style="margin-left: 29.664;" width="95%">
+<span style="font-size:11; color:red">*</span><span style="font-size:11">Preencher apenas quando houver cotas subscritas ainda n&atilde;o integralizadas</span>
+</div>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Houve retrata&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Sim</span></td><td><span class="titulo-dado">Data retrata&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">31/03/2026</span></td><td><span class="titulo-dado">Quantidade de cotas: </span></td><td><span class="dado-valores">17.558</span></td><td><span class="titulo-dado">Quantidade final: </span></td><td><span class="dado-valores">72.325.868</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Bolsa</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Apresenta&ccedil;&atilde;o de prospecto para libera&ccedil;&atilde;o para investidor em geral: </span></td><td><span class="dado-cabecalho">Sim</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Pre&ccedil;o inicial da negocia&ccedil;&atilde;o*: </span></td><td><span class="dado-cabecalho">R$ 8,60</span><span class="titulo-dado"></span></td>
+</tr>
+</table>
+<div style="margin-left: 29.664;" width="95%">
+<span style="font-size:11; color:red">*</span><span style="font-size:11">Pre&ccedil;o Inicial de Negocia&ccedil;&atilde;o da 1&ordf; Emiss&atilde;o de Cotas</span>
+</div>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+</table>
+</body>
+</html>

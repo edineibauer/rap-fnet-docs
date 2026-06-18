@@ -1,0 +1,1182 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-II : Informe Trimestral de FII</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Trimestral de FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Nome do Fundo: </span></td><td><span class="dado-cabecalho">FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO</span></td><td><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="17%"><span class="dado-cabecalho">11.664.201/0001-00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">05/08/2010</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRVRTACTF008</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">15.592.424,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Papel</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>H&iacute;brido</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Ativa</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Outros</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">BANCO FATOR S/A</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">33.644.196/0001-06</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">R. DR. RENATO PAES DE BARROS,
+              1017,
+              12&ordm; andar-
+              ITAIM BIBI-
+              S&Atilde;O PAULO-
+              SP-
+              04530-001</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">55-(11)30499100</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.bancofator.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">fundosimobiliarios@fator.com.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">1/2026</span></td><td><span class="titulo-dado">Data de Encerramento do Trimestre: </span></td><td><span class="dado-cabecalho">31/03/2026</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">O Fundo se enquadra na defini&ccedil;&atilde;o da nota "6": </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="8%">
+<h2 align="left">1.</h2>
+</td><td>
+<h2 align="left">Informa&ccedil;&otilde;es por tipo de ativo</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h3 align="left">1.1</h3>
+</td><td>
+<h3 align="left">Direitos reais sobre bens im&oacute;veis</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h3>1.1.1</h3>
+</th><th align="left">
+<h3 align="left">Terrenos</h3>
+</th>
+</tr>
+<tr>
+<td>
+                N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+              </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" width="8%">
+<h3>1.1.2</h3>
+</th><td>
+<h3 align="left">Im&oacute;veis</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h4 align="left">1.1.2.1</h4>
+</th><td>
+<h4 align="left">Im&oacute;veis para renda acabados</h4>
+</td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h4 align="left">1.1.2.2</h4>
+</th><td>
+<h4 align="left">Im&oacute;veis para renda em constru&ccedil;&atilde;o</h4>
+</td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h4 align="left">1.1.2.3</h4>
+</th><td>
+<h4 align="left">Im&oacute;veis para Venda Acabados</h4>
+</td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h4 align="left">1.1.2.4</h4>
+</th><td>
+<h4 align="left">Im&oacute;veis para Venda em Constru&ccedil;&atilde;o</h4>
+</td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="3" width="8%">
+<h3>1.1.3</h3>
+</th><th align="left">
+<h3 align="left">Outros Direitos reais Sobre Bens Im&oacute;veis</h3>
+</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h3 align="left">1.2</h3>
+</td><td>
+<h3 align="left">Ativos financeiros</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.1
+            </th><th align="left" colspan="4">Fundos de Investimento Imobili&aacute;rio - FII</th>
+</tr>
+<tr>
+<td width="40%"><b>Fundo</b></td><td width="22%"><b>CNPJ</b></td><td width="15%"><b>Quantidade</b></td><td width="15%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>ALIANZA CR&Eacute;DITO IMOBILI&Aacute;RIO FII</td><td>40.011.324/0001-40</td><td>3.871.120,00</td><td>29.885.046,40</td>
+</tr>
+<tr>
+<td>EQI RECEB&Iacute;VEIS IMOBILI&Aacute;RIOS FII</td><td>41.076.380/0001-25</td><td>1.977.288,00</td><td>17.024.449,68</td>
+</tr>
+<tr>
+<td>FII GUARDIAN MULTIESTRAT&Eacute;GIA IMOBILI&Aacute;RIA I</td><td>41.269.052/0001-45</td><td>4.000.000,00</td><td>35.720.000,00</td>
+</tr>
+<tr>
+<td>FII RBR RENDIMENTO HIGH GRADE</td><td>29.467.977/0001-03</td><td>151.058,00</td><td>12.912.437,84</td>
+</tr>
+<tr>
+<td>FII RBR Cr&eacute;dito Imobili&aacute;rio Estruturado</td><td>30.166.700/0001-11</td><td>32.783,00</td><td>3.201.915,61</td>
+</tr>
+<tr>
+<td>VBI REITS MULTIESTRAT&Eacute;GIA FII</td><td>35.507.457/0001-71</td><td>173.273,00</td><td>10.725.598,70</td>
+</tr>
+<tr>
+<td>SUNO MULTIESTRAT&Eacute;GIA FII</td><td>52.227.760/0001-30</td><td>953.756,00</td><td>9.079.757,12</td>
+</tr>
+<tr>
+<td>VALORA HEDGE FII</td><td>36.771.692/0001-19</td><td>638.172,00</td><td>4.511.876,04</td>
+</tr>
+<tr>
+<td>TRX REAL ESTATE FII</td><td>28.548.288/0001-52</td><td>41.696,00</td><td>3.828.943,68</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.2
+            </th><th align="left" colspan="6">Certificado de Receb&iacute;veis Imobili&aacute;rios (CRI) / Certificado de Recebe&iacute;veis do Agroneg&oacute;cio (CRA)</th>
+</tr>
+<tr>
+<td width="27%"><b>Companhia</b></td><td width="15%"><b>CNPJ</b></td><td><b>Emiss&atilde;o</b></td><td><b>S&eacute;rie</b></td><td width="15%"><b>Quantidade</b></td><td width="15%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>ARTESANAL SEC - CRI - 25F2703942</td><td>52.890.908/0001-11</td><td>2</td><td>1</td><td>5.000,00</td><td>4.963.319,82</td>
+</tr>
+<tr>
+<td>BARI SEC S.A. - CRI - 13L0034539</td><td>10.608.405/0001-60</td><td>1</td><td>1</td><td>6,00</td><td>2.397.830,37</td>
+</tr>
+<tr>
+<td>BARI SEC S.A. - CRI - 13L0034539</td><td>10.608.405/0001-60</td><td>1</td><td>1</td><td>3,00</td><td>1.198.915,18</td>
+</tr>
+<tr>
+<td>BARI SEC S.A. - CRI - 20G0703191</td><td>10.608.405/0001-60</td><td>1</td><td>84</td><td>30.700,00</td><td>25.287.276,41</td>
+</tr>
+<tr>
+<td>BARI SEC S.A. - CRI - 20G0703191</td><td>10.608.405/0001-60</td><td>1</td><td>84</td><td>1.016,00</td><td>836.868,82</td>
+</tr>
+<tr>
+<td>BRAZILIAN SECURITIES CIA SECURITIZACAO - CRI - 10D0018560</td><td>03.767.538/0001-14</td><td>1</td><td>156</td><td>2,00</td><td>256.134,23</td>
+</tr>
+<tr>
+<td>BRAZILIAN SECURITIES CIA SECURITIZACAO - CRI - 10D0018560</td><td>03.767.538/0001-14</td><td>1</td><td>156</td><td>2,00</td><td>256.134,23</td>
+</tr>
+<tr>
+<td>BRAZILIAN SECURITIES CIA SECURITIZACAO - CRI - 10D0018560</td><td>03.767.538/0001-14</td><td>1</td><td>156</td><td>29,00</td><td>3.713.946,33</td>
+</tr>
+<tr>
+<td>BRAZILIAN SECURITIES CIA SECURITIZACAO - CRI - 10D0018564</td><td>03.767.538/0001-14</td><td>1</td><td>157</td><td>8,00</td><td>3.005.039,87</td>
+</tr>
+<tr>
+<td>BRAZILIAN SECURITIES CIA SECURITIZACAO - CRI - 11I0019326</td><td>03.767.538/0001-14</td><td>1</td><td>259</td><td>7,00</td><td>669.228,38</td>
+</tr>
+<tr>
+<td>BRAZILIAN SECURITIES CIA SECURITIZACAO - CRI - 11K0018241</td><td>03.767.538/0001-14</td><td>1</td><td>269</td><td>1,00</td><td>24.321,49</td>
+</tr>
+<tr>
+<td>CANAL CIA DE SECURITIZA&Ccedil;&Atilde;O - CRI - 22E1273339</td><td>41.811.375/0001-19</td><td>2</td><td>1</td><td>35.000,00</td><td>41.192.449,19</td>
+</tr>
+<tr>
+<td>CANAL CIA DE SECURITIZA&Ccedil;&Atilde;O - CRI - 23E3611801</td><td>41.811.375/0001-19</td><td>2</td><td>3</td><td>6.790,00</td><td>7.260.112,73</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 24F1126758</td><td>04.200.649/0001-07</td><td>66</td><td>1</td><td>34.961,00</td><td>25.491.125,60</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 24L2473636</td><td>04.200.649/0001-07</td><td>92</td><td>1</td><td>15.776,00</td><td>15.921.417,85</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 24L2473636</td><td>04.200.649/0001-07</td><td>92</td><td>1</td><td>17.500,00</td><td>17.661.309,10</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25B2867899</td><td>04.200.649/0001-07</td><td>93</td><td>1</td><td>40.000,00</td><td>36.658.814,10</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25B2867899</td><td>04.200.649/0001-07</td><td>93</td><td>1</td><td>2.051,00</td><td>1.879.680,69</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25B2867899</td><td>04.200.649/0001-07</td><td>93</td><td>1</td><td>4.792,00</td><td>4.391.725,93</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25B2867899</td><td>04.200.649/0001-07</td><td>93</td><td>1</td><td>4.191,00</td><td>3.840.927,25</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25B2867899</td><td>04.200.649/0001-07</td><td>93</td><td>1</td><td>2.029,00</td><td>1.859.518,35</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25B2867899</td><td>04.200.649/0001-07</td><td>93</td><td>1</td><td>4.788,00</td><td>4.388.060,05</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25E3518733</td><td>04.200.649/0001-07</td><td>105</td><td>1</td><td>10.000,00</td><td>8.367.058,02</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25E3518733</td><td>04.200.649/0001-07</td><td>105</td><td>1</td><td>6.281,00</td><td>5.255.349,14</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25E3518733</td><td>04.200.649/0001-07</td><td>105</td><td>1</td><td>1.319,00</td><td>1.103.614,95</td>
+</tr>
+<tr>
+<td>CIA PROVINCIA DE SECURITIZACAO - CRI - 25E3518733</td><td>04.200.649/0001-07</td><td>105</td><td>1</td><td>1.916,00</td><td>1.603.128,32</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 20G0926014</td><td>09.304.427/0001-58</td><td>1</td><td>193</td><td>34.358,00</td><td>33.014.002,32</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 21C0774127</td><td>09.304.427/0001-58</td><td>1</td><td>222</td><td>7.092,00</td><td>6.751.625,60</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 22J0268287</td><td>09.304.427/0001-58</td><td>6</td><td>1</td><td>19.483,00</td><td>23.351.815,26</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 22J0268287</td><td>09.304.427/0001-58</td><td>6</td><td>1</td><td>19.483,00</td><td>23.351.815,26</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 22J0268287</td><td>09.304.427/0001-58</td><td>6</td><td>1</td><td>19.482,00</td><td>23.350.616,69</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 22L1258273</td><td>09.304.427/0001-58</td><td>17</td><td>1</td><td>35.881,00</td><td>37.070.413,93</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 25K3285301</td><td>09.304.427/0001-58</td><td>106</td><td>1</td><td>19.000,00</td><td>19.026.644,59</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 25L3391401</td><td>09.304.427/0001-58</td><td>112</td><td>1</td><td>8.000,00</td><td>8.022.982,88</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 25L3533980</td><td>09.304.427/0001-58</td><td>110</td><td>1</td><td>11.000,00</td><td>10.851.124,73</td>
+</tr>
+<tr>
+<td>HABITASEC SEC S.A. - CRI - 25L3861195</td><td>09.304.427/0001-58</td><td>110</td><td>1</td><td>20.500,00</td><td>19.230.126,50</td>
+</tr>
+<tr>
+<td>LEVERAGE CIA SEC - CRI - 24B1573243</td><td>48.415.978/0001-40</td><td>4</td><td>1</td><td>13.711,00</td><td>10.279.464,34</td>
+</tr>
+<tr>
+<td>LEVERAGE CIA SEC - CRI - 24B1573243</td><td>48.415.978/0001-40</td><td>4</td><td>1</td><td>11.304,00</td><td>8.474.878,92</td>
+</tr>
+<tr>
+<td>LEVERAGE CIA SEC - CRI - 25F1981809</td><td>48.415.978/0001-40</td><td>35</td><td>1</td><td>35.064,00</td><td>35.187.222,33</td>
+</tr>
+<tr>
+<td>LEVERAGE CIA SEC - CRI - 25F1981809</td><td>48.415.978/0001-40</td><td>35</td><td>1</td><td>9.182,00</td><td>9.214.267,50</td>
+</tr>
+<tr>
+<td>LEVERAGE CIA SEC - CRI - 25F1981809</td><td>48.415.978/0001-40</td><td>35</td><td>1</td><td>2.145,00</td><td>2.152.537,99</td>
+</tr>
+<tr>
+<td>LEVERAGE CIA SEC - CRI - 25F1981809</td><td>48.415.978/0001-40</td><td>35</td><td>1</td><td>5.109,00</td><td>5.126.954,11</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 12J0037879</td><td>02.773.542/0001-22</td><td>1</td><td>69</td><td>1.336,00</td><td>387.216,76</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 20A0977906</td><td>02.773.542/0001-22</td><td>1</td><td>261</td><td>10.000,00</td><td>7.535.455,98</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 20A0977906</td><td>02.773.542/0001-22</td><td>1</td><td>261</td><td>14.523,00</td><td>10.943.742,72</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 20A0978038</td><td>02.773.542/0001-22</td><td>1</td><td>268</td><td>10.000,00</td><td>9.246.821,51</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 20A0978038</td><td>02.773.542/0001-22</td><td>1</td><td>268</td><td>14.523,00</td><td>13.429.158,88</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 20L0710860</td><td>02.773.542/0001-22</td><td>1</td><td>313</td><td>24.456,00</td><td>15.946.987,31</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 21D0457416</td><td>02.773.542/0001-22</td><td>1</td><td>316</td><td>49.985,00</td><td>30.182.504,86</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 21D0543780</td><td>02.773.542/0001-22</td><td>1</td><td>335</td><td>30.271,00</td><td>25.349.502,66</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 21L0666509</td><td>02.773.542/0001-22</td><td>1</td><td>422</td><td>34.869.049,00</td><td>27.515.734,58</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 22A0226257</td><td>02.773.542/0001-22</td><td>1</td><td>469</td><td>25.500,00</td><td>19.967.692,06</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 22D0945203</td><td>02.773.542/0001-22</td><td>1</td><td>424</td><td>27.586,00</td><td>21.781.142,61</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 22E1284935</td><td>02.773.542/0001-22</td><td>24</td><td>1</td><td>40.000,00</td><td>32.678.931,06</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 22F1357736</td><td>02.773.542/0001-22</td><td>24</td><td>2</td><td>20.213,00</td><td>16.729.072,42</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 23E1930252</td><td>02.773.542/0001-22</td><td>1</td><td>542</td><td>10.894,00</td><td>9.578.364,06</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 23K2348010</td><td>02.773.542/0001-22</td><td>223</td><td>1</td><td>35.498,00</td><td>16.545.307,10</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 23L2343460</td><td>02.773.542/0001-22</td><td>232</td><td>1</td><td>47.816,00</td><td>39.863.682,37</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 24L1812703</td><td>02.773.542/0001-22</td><td>352</td><td>1</td><td>39.470,00</td><td>40.556.708,94</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 24L2679482</td><td>02.773.542/0001-22</td><td>357</td><td>1</td><td>23.356,00</td><td>17.937.533,60</td>
+</tr>
+<tr>
+<td>OPEA SEC S.A. - CRI - 26C5001174</td><td>02.773.542/0001-22</td><td>596</td><td>1</td><td>64.700,00</td><td>64.700.000,00</td>
+</tr>
+<tr>
+<td>PLANETA SEC S.A. - CRI - 19H0182182</td><td>07.587.384/0001-30</td><td>4</td><td>116</td><td>355,00</td><td>1.363.531,06</td>
+</tr>
+<tr>
+<td>PLANETA SEC S.A. - CRI - 21B0631104</td><td>07.587.384/0001-30</td><td>4</td><td>173</td><td>25.547,00</td><td>25.663.870,98</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 19L0899539</td><td>26.609.050/0001-64</td><td>1</td><td>30</td><td>24.987,00</td><td>20.913.913,56</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 20J0545879</td><td>26.609.050/0001-64</td><td>1</td><td>40</td><td>24.835,00</td><td>12.316.745,74</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 20J0909894</td><td>26.609.050/0001-64</td><td>1</td><td>44</td><td>40.246,00</td><td>36.071.421,83</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 21E0665350</td><td>26.609.050/0001-64</td><td>1</td><td>50</td><td>114,00</td><td>3.245,39</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 21E0665350</td><td>26.609.050/0001-64</td><td>1</td><td>50</td><td>459,00</td><td>13.066,97</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 21E0665350</td><td>26.609.050/0001-64</td><td>1</td><td>50</td><td>455,00</td><td>12.953,10</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 21L0695831</td><td>26.609.050/0001-64</td><td>1</td><td>91</td><td>19.040,00</td><td>12.844.177,21</td>
+</tr>
+<tr>
+<td>TRAVESSIA SEC S.A. - CRI - 22H2247401</td><td>26.609.050/0001-64</td><td>14</td><td>2</td><td>19.390,00</td><td>5.202.521,51</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 16L0152594</td><td>12.130.744/0001-00</td><td>1</td><td>83</td><td>1,00</td><td>1.292.685,39</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 18F0879525</td><td>12.130.744/0001-00</td><td>1</td><td>149</td><td>7.124,00</td><td>1.181.837,50</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 20B0980166</td><td>12.130.744/0001-00</td><td>1</td><td>212</td><td>3.253,00</td><td>2.265.973,86</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 20B0980166</td><td>12.130.744/0001-00</td><td>1</td><td>212</td><td>28.589,00</td><td>19.914.517,93</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 20K0696607</td><td>12.130.744/0001-00</td><td>1</td><td>290</td><td>26.393,00</td><td>25.996.601,64</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 21D0737500</td><td>12.130.744/0001-00</td><td>1</td><td>371</td><td>35.000,00</td><td>44.852.437,55</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 21F1035597</td><td>12.130.744/0001-00</td><td>1</td><td>362</td><td>17.784,00</td><td>14.064.773,35</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 21I0892057</td><td>12.130.744/0001-00</td><td>1</td><td>433</td><td>13.900,00</td><td>14.039.993,80</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 21J0648649</td><td>12.130.744/0001-00</td><td>1</td><td>467</td><td>20.000,00</td><td>6.312.324,76</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 21J0648697</td><td>12.130.744/0001-00</td><td>1</td><td>468</td><td>739,00</td><td>298.889,71</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 21J0648697</td><td>12.130.744/0001-00</td><td>1</td><td>468</td><td>19.511,00</td><td>7.891.254,52</td>
+</tr>
+<tr>
+<td>TRUE SEC S.A. - CRI - 22I1423539</td><td>12.130.744/0001-00</td><td>98</td><td>1</td><td>11.363,00</td><td>5.508.122,98</td>
+</tr>
+<tr>
+<td>VERT CIA SEC - CRI - 20J0837185</td><td>25.005.683/0001-09</td><td>27</td><td>1</td><td>17.067,00</td><td>3.625.694,42</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 19K0981679</td><td>08.769.451/0001-08</td><td>4</td><td>54</td><td>11.031,00</td><td>8.243.347,90</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 19K0981679</td><td>08.769.451/0001-08</td><td>4</td><td>54</td><td>3.500,00</td><td>2.615.512,43</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 19K0981682</td><td>08.769.451/0001-08</td><td>4</td><td>55</td><td>20.000,00</td><td>14.516.605,02</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 20F0719220</td><td>08.769.451/0001-08</td><td>4</td><td>93</td><td>19.902,00</td><td>17.908.308,61</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 20F0719220</td><td>08.769.451/0001-08</td><td>4</td><td>93</td><td>17.115,00</td><td>15.400.497,53</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 20F0719220</td><td>08.769.451/0001-08</td><td>4</td><td>93</td><td>3.947,00</td><td>3.551.607,58</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 20F0719220</td><td>08.769.451/0001-08</td><td>4</td><td>93</td><td>1.475,00</td><td>1.327.241,24</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 20K0568000</td><td>08.769.451/0001-08</td><td>4</td><td>132</td><td>16.716,00</td><td>14.662.686,63</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 20K0568000</td><td>08.769.451/0001-08</td><td>4</td><td>132</td><td>19.300,00</td><td>16.929.280,44</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 20K0571487</td><td>08.769.451/0001-08</td><td>4</td><td>133</td><td>27.961,00</td><td>23.416.074,44</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 21H0976574</td><td>08.769.451/0001-08</td><td>4</td><td>338</td><td>19.230,00</td><td>16.768.242,67</td>
+</tr>
+<tr>
+<td>VIRGO CIA DE SECURITIZACAO - CRI - 24J4921075</td><td>08.769.451/0001-08</td><td>221</td><td>1</td><td>1.386,00</td><td>1.315.027,84</td>
+</tr>
+<tr>
+<td>VIRGO II CIA DE SECURITIZACAO - CRI - 13C0038450</td><td>02.105.040/0001-23</td><td>2</td><td>192</td><td>16,00</td><td>380.181,34</td>
+</tr>
+<tr>
+<td>VIRGO II CIA DE SECURITIZACAO - CRI - 15F0717310</td><td>02.105.040/0001-23</td><td>2</td><td>255</td><td>25,00</td><td>212.235,48</td>
+</tr>
+<tr>
+<td>VIRGO II CIA DE SECURITIZACAO - CRI - 18J0698011</td><td>02.105.040/0001-23</td><td>2</td><td>303</td><td>1.905,00</td><td>8.348.209,89</td>
+</tr>
+<tr>
+<td>VIRGO II CIA DE SECURITIZACAO - CRI - 18J0698011</td><td>02.105.040/0001-23</td><td>2</td><td>303</td><td>95,00</td><td>416.314,93</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.3
+            </th><th align="left" colspan="4">Letras de Cr&eacute;dito Imobili&aacute;rio (LCI)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.4
+            </th><th align="left" colspan="4">Letra Imobili&aacute;ria Garantida (LIG)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.5
+            </th><th align="left" colspan="4">Certificado de Potencial Adicional de Constru&ccedil;&atilde;o (CEPAC)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.6
+            </th><th align="left" colspan="4">A&ccedil;&otilde;es</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.7
+            </th><th align="left" colspan="4">A&ccedil;&otilde;es de Sociedades cujo o &uacute;nico prop&oacute;sito se enquadra entre as atividades permitidas aos FII</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.8
+            </th><th align="left" colspan="4">Cotas de Sociedades que se enquadre entre as atividades permitidas aos FII</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.9
+            </th><th align="left" colspan="4">Fundo de Investimento em A&ccedil;&otilde;es (FIA)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.10
+            </th><th align="left" colspan="4">Fundo de Investimento em Participa&ccedil;&otilde;es (FIP)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.11
+            </th><th align="left" colspan="4">Fundo de Investimento em Direitos Credit&oacute;rios (FIDC)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.12
+            </th><th align="left" colspan="4">Outras cotas de Fundos de Investimento</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.13
+            </th><th align="left" colspan="5">Outros Ativos Financeiros</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+<h3 align="left">1.3</h3>
+</th><th align="left" colspan="2">
+<h3 align="left">Ativos mantidos para as Necessidades de liquidez</h3>
+</th>
+</tr>
+<tr>
+<td width="77%"><b>Informa&ccedil;&otilde;es do Ativo</b></td><td width="15%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;Disponibilidades</td><td width="15%">30.892,84</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;T&iacute;tulos P&uacute;blicos</td><td width="15%">13.288.860,42</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;T&iacute;tulos Privados</td><td width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;Fundos de Renda Fixa</td><td width="15%"></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h2 align="left">2.</h2>
+</td><td>
+<h2 align="left">Aquisi&ccedil;&otilde;es e Aliena&ccedil;&otilde;es</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h3 align="left">2.1</h3>
+</td><td>
+<h3 align="left">Terrenos</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.1.1
+            </th><td width="42%"><b>Aquisi&ccedil;&otilde;es realizadas no trimestre (endere&ccedil;o, &aacute;rea - m2, entre outras caracter&iacute;sticas relevantes)</b></td><td align="center" width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao total investido</b></td><td align="center" width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao PL</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.1.2
+            </th><td width="42%"><b>Aliena&ccedil;&otilde;es realizadas no trimestre (endere&ccedil;o, &aacute;rea - m2, data da aliena&ccedil;&atilde;o, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao total investido &agrave; &eacute;poca da aliena&ccedil;&atilde;o</b></td><td width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao PL</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h3 align="left">2.2</h3>
+</td><td>
+<h3 align="left">Im&oacute;veis</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.2.1
+            </th><td width="42%"><b>Aquisi&ccedil;&otilde;es realizadas no trimestre (nome, endere&ccedil;o, &aacute;rea - m2, n&ordm; de unidades ou lojas, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao total investido</b></td><td width="25%"><b>Categoria (Renda ou Venda)</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.2.2
+            </th><td width="42%"><b>Aliena&ccedil;&otilde;es realizadas no trimestre (nome, endere&ccedil;o, &aacute;rea - m2, n&ordm; de unidades ou lojas, data da aliena&ccedil;&atilde;o, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao total investido &agrave; &eacute;poca da aliena&ccedil;&atilde;o</b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao PL</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h2 align="left">3.</h2>
+</td><td>
+<h2 align="left">Outras Informa&ccedil;&otilde;es</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h3 align="left">3.1</h3>
+</td><td>
+<h3 align="left">Rentabilidade Garantida</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              3.1.1
+            </th><td width="25%"><b>Rela&ccedil;&atilde;o de Ativos sujeitos &agrave; garantia de rentabilidade&sup3;</b></td><td width="10%"><b>% garantido relativo</b></td><td width="22%"><b>Garantidor</b></td><td width="35%"><b>Principais caracter&iacute;sticas da garantia (tempo, valor, forma, riscos incorridos, entre outros aspectos relevantes)</b></td>
+</tr>
+<tr>
+<td align="left" colspan="4">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              3.1.2
+            </th><th align="left" colspan="3">Rentabilidade efetiva no per&iacute;odo sob a vig&ecirc;ncia de garantia</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td rowspan="2" width="70%">
+<h2>Demonstra&ccedil;&otilde;es Trimestrais dos Resultados Cont&aacute;bil e Financeiro</h2>
+</td><td width="30%" colspan="2" align="Center"><b>Valor(R$)</b></td>
+</tr>
+<tr>
+<td width="15%" align="center"><b>Cont&aacute;bil</b></td><td width="15%" align="center"><b>Financeiro⁴</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          A
+        </th><th align="left" colspan="3">Ativos Imobili&aacute;rios</th>
+</tr>
+<tr>
+<th align="left" colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Estoques:</th>
+</tr>
+<tr>
+<td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receita de venda de im&oacute;veis em estoque</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Custo dos im&oacute;veis em estoque vendidos</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor de realiza&ccedil;&atilde;o dos estoques</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de im&oacute;veis em estoque</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de im&oacute;veis em estoque</h4>
+</td><td align="center"><b>0</b></td><td align="center"><b>0</b></td>
+</tr>
+<tr>
+<th align="left" colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Propriedades para investimento:</th>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de alugu&eacute;is das propriedades para investimento</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com manuten&ccedil;&atilde;o e conserva&ccedil;&atilde;o das propriedades para investimento</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de venda de propriedades para investimento</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Custo das propriedades para investimento vendidas</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo das propriedades para investimento</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas das propriedades para investimento</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de im&oacute;veis para renda</h4>
+</td><td align="center"><b>0</b></td><td align="center"><b>0</b></td>
+</tr>
+<tr>
+<th align="left" colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Ativos imobili&aacute;rios representados por T&iacute;tulos e Valores Mobili&aacute;rios ("TVM"):</th>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de juros dos ativos imobili&aacute;rios representados por TVM</td><td align="center">50.460.860,68</td><td align="center">40.004.675,25</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo dos ativos imobili&aacute;rios representados por TVM</td><td align="center">-2.555.723,74</td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Resultado na venda de ativos imobili&aacute;rios representados por TVM</td><td align="center">-1.295.137,35</td><td align="center">-565.543,48</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de ativos imobili&aacute;rios representados por TVM</td><td align="center">-1.654.060,67</td><td align="center"></td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de ativos imobili&aacute;rios representados por TVM</h4>
+</td><td align="center"><b>44.955.938,92</b></td><td align="center"><b>39.439.131,77</b></td>
+</tr>
+<tr>
+<td>
+<h4>&nbsp;Resultado l&iacute;quido dos ativos imobili&aacute;rios</h4>
+</td><td valign="bottom" align="center"><b>44.955.938,92</b></td><td valign="bottom" align="center"><b>39.439.131,77</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          B
+        </th><th align="left" colspan="3">&nbsp;Recursos mantidos para as necessidades de liquidez</th>
+</tr>
+<tr>
+<td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de juros de aplica&ccedil;&otilde;es financeiras</td><td align="center" width="15%">1.047.833,37</td><td align="center" width="15%">1.355.975,43</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo de aplica&ccedil;&otilde;es financeiras</td><td align="center">-293,04</td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Resultado na venda de aplica&ccedil;&otilde;es financeiras</td><td align="center">-18.345,98</td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de aplica&ccedil;&otilde;es financeiras</td><td align="center">-988.510,94</td><td align="center">-1.519.911,58</td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;Resultado l&iacute;quido dos recursos mantidos para as necessidades de liquidez</h4>
+</td><td valign="bottom" align="center"><b>40.683,41</b></td><td valign="bottom" align="center"><b>-163.936,15</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+         C
+        </th><td width="62%">
+<h4 align="left">&nbsp;Resultado l&iacute;quido com instrumentos financeiros derivativos</h4>
+</td><td valign="bottom" align="center" width="15%"></td><td valign="bottom" align="center" width="15%"></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          D
+        </th><th align="left" colspan="3">&nbsp;Outras receitas/despesas</th>
+</tr>
+<tr>
+<td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de administra&ccedil;&atilde;o</td><td align="center" width="15%">-2.982.830,77</td><td align="center" width="15%">-2.973.203,01</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de desempenho (performance)</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Consultoria especializada de que trata o art. 31, II, ICVM 472</td><td align="center" width="15%">-105.391,44</td><td align="center" width="15%">-60.000</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Empresa especializada de que trata o art. 31, III, ICVM 472</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Formador de mercado de que trata o art. 31, IV, ICVM 472</td><td align="center" width="15%">-64.074,54</td><td align="center" width="15%">-64.074,54</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Cust&oacute;dia dos t&iacute;tulos e valores mobili&aacute;rios do FII</td><td align="center" width="15%">-193.505,57</td><td align="center" width="15%">-191.929,14</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Auditoria independente</td><td align="center" width="15%">-24.096</td><td align="center" width="15%">-24.096</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Representante(s) de cotistas</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxas, impostos ou contribui&ccedil;&otilde;es federais, estaduais e municipais (incluindo a CVM)</td><td align="center" width="15%">-102.203,38</td><td align="center" width="15%">-107.301,58</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Comiss&otilde;es e emolumentos pagos sobre as opera&ccedil;&otilde;es do FII</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Honor&aacute;rios de advogados, custas e despesas correlatas incorridas em defesa dos interesses do FII (Judicial ou Extrajudicialmente)</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Gastos derivados da celebra&ccedil;&atilde;o de contratos de seguro sobre os ativos do FII</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com avalia&ccedil;&otilde;es obrigat&oacute;rias</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de ingresso ou sa&iacute;da dos fundos de que o FII seja cotista</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com o registro de documentos em cart&oacute;rio</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas</td><td align="center" width="15%">-17.849,04</td><td align="center" width="15%">-225.855,04</td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;Total de outras receitas/despesas</h4>
+</td><td align="center" width="15%"><b>-3.489.950,74</b></td><td align="center" width="15%"><b>-3.646.459,31</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          E = A + B + C + D
+        </th><td width="62%">
+<h4 align="left">&nbsp;Resultado cont&aacute;bil/financeiro trimestral l&iacute;quido</h4>
+</td><td align="center" width="15%"><b>41.506.671,59</b></td><td align="center" width="15%"><b>35.628.736,31</b></td>
+</tr>
+</table>
+<p></p>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="85%">
+<h2>Distribui&ccedil;&atilde;o do resultado acumulado no trimestre/semestre*</h2>
+</td><td align="center" width="15%"><b>Valor(R$)</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="center" valign="top" width="8%"><b>F = &sum;E</b></td><td width="77%"><b>&nbsp;Resultado financeiro l&iacute;quido acumulado no trimestre/semestre corrente</b></td><td align="center" width="15%"><b>35.628.736,31</b></td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>G = 0,95 x F</b></td><td><b>&nbsp;95% do resultado financeiro l&iacute;quido acumulado (art. 10, p.u., da Lei 8.668/93)</b></td><td align="center"><b>33.847.299,4945</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="center" valign="top" width="8%"><b>H.i</b></td><td width="77%">
+          &nbsp;(-) Parcela do resultado financeiro n&atilde;o declarada para distribui&ccedil;&atilde;o ao longo do trimestre (1&ordm; ou 3&ordm;)
+        </td><td align="center" width="15%"></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" width="8%">
+              H
+            </th><td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="center" valign="top" width="8%"><b>I.i</b></td><td width="77%">
+          &nbsp;(+) Lucro cont&aacute;bil pass&iacute;vel de distribui&ccedil;&atilde;o que excede ao total do resultado financeiro⁵.
+        </td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="8%"><b>I.ii</b></td><td width="77%">
+          &nbsp;(+) Resultado financeiro que excede o m&iacute;nimo de 95%⁷.
+        </td><td align="center" width="15%">5.913.381,71</td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>J = G - &sum;H + I</b></td><td><b>&nbsp;Rendimentos declarados</b></td><td align="center"><b>39.760.681,2045</b></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+          K
+        </td><td>
+          &nbsp;(-) Rendimentos pagos antecipadamente durante o trimestre/semestre
+        </td><td align="center">-26.507.120,8</td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>L = J - K</b></td><td><b>&nbsp;Rendimento l&iacute;quido a pagar remanescente no encerramento do trimestre/semestre</b></td><td align="center"><b>13.253.560,4045</b></td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>M = J/F</b></td><td>
+          &nbsp;% do resultado financeiro l&iacute;quido declarado no trimestre/semestre
+        </td><td align="center">111,5972%</td>
+</tr>
+</table>
+<p></p>
+<table class="no_border" width="95%" align="center">
+<tr class="no_border">
+<td class="no_border">* Quando se referir ao Informe Trimestral do 2&ordm; e 4&ordm; trimestres de cada ano, onde as informa&ccedil;&otilde;es dever&atilde;o acumular tamb&eacute;m os valores correspondentes ao trimestre imediatamente anterior, ou seja, 1&ordm; e 3&ordm; trimestres, respectivamente.</td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Notas</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>Dentre as caracter&iacute;sticas relevantes dos im&oacute;veis, (i) descrever os direitos que o fundo det&eacute;m sobre os im&oacute;veis, com men&ccedil;&atilde;o aos principais termos de quaisquer contratos de financiamento, promessas de compra e venda, bem como quaisquer outros instrumentos que lhe assegurem tais direitos; (ii) descrever os &ocirc;nus e garantias que recaem sobre os im&oacute;veis; (iii) indicar se o im&oacute;vel foi adquirido em regime de condom&iacute;nio, e se existe acordo dispondo sobre a constitui&ccedil;&atilde;o da propriedade em comum e reparti&ccedil;&atilde;o dos rendimentos por ela gerados; (iv) prazo para conclus&atilde;o do empreendimento.</td>
+</tr>
+<tr>
+<td align="center">2.</td><td>Nos os casos em que a divulga&ccedil;&atilde;o de tais informa&ccedil;&otilde;es prejudique as rela&ccedil;&otilde;es contratuais estabelecidas, o administrador deve informar a quantidade de im&oacute;veis que se encontram em tal situa&ccedil;&atilde;o e o percentual de receitas oriunda desse rol de ativos.</td>
+</tr>
+<tr>
+<td align="center">3.</td><td>No item que trata da rela&ccedil;&atilde;o de ativos sujeitos &agrave; garantia, o Ativo dever&aacute; ser identificado. No caso de (i) im&oacute;veis, pelo nome, ou endere&ccedil;o, caso o im&oacute;vel n&atilde;o possua um nome, (ii) terrenos, pelo endere&ccedil;o e (iii) demais ativos, pelas caracter&iacute;sticas principais que possibilitem a perfeita identifica&ccedil;&atilde;o pelo cotista.</td>
+</tr>
+<tr>
+<td align="center">4.</td><td>O resultado financeiro representa o quanto do resultado cont&aacute;bil foi efetivamente pago/recebido no m&ecirc;s ou o montante recebido/pago no m&ecirc;s que tenha sido objeto de apropria&ccedil;&atilde;o em meses anteriores. Em resumo, corresponde ao efeito caixa das receitas e despesas. </td>
+</tr>
+<tr>
+<td align="center">5.</td><td>Corresponde a parcela do lucro cont&aacute;bil apropriado no per&iacute;odo ainda n&atilde;o recebida, a qual o administrador declara distribuir como excedente ao total do resultado financeiro.</td>
+</tr>
+<tr>
+<td align="center">6.</td><td>
+<table class="no_border">
+<tr class="no_border">
+<td>Para os fundos n&atilde;o listados em bolsa de valores, mercado de balc&atilde;o organizado e que sejam, cumulativamente, exclusivos, dedicados exclusivamente a investidores profissionais, ou onde a totalidade dos cotistas mant&eacute;m v&iacute;nculo familiar ou societ&aacute;rio familiar, nos termos das regras gerias sobre fundos de investimento, a divulga&ccedil;&atilde;o das seguintes informa&ccedil;&otilde;es &eacute; facultativa, devendo, contudo, ser disponibilizada aos cotistas do fundo quando requeridas:</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.1.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 1.1.1.2.4, 1.1.1.2.5 e 1.1.1.2.6 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.2.1 &ndash; outras caracter&iacute;sticas relevantes, % locado, e colunas % de conclus&atilde;o das obras e custos de constru&ccedil;&atilde;o.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 1.1.2.2.2 e 1.1.2.2.3 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.3.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.3.2 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.4.1 &ndash; outras caracter&iacute;sticas relevantes, % vendido, e colunas % de conclus&atilde;o das obras e custos de constru&ccedil;&atilde;o.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 1.1.2.4.2 e 1.1.2.4.3 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 2.1.1, 2.1.2, 2.2.1, 2.2.2 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">7.</td><td>Caso o fundo venha a distribuir valor superior ao m&iacute;nimo de 95% do seu resultado financeiro acumulado no semestre.</td>
+</tr>
+</table>
+</body>
+</html>

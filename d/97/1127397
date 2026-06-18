@@ -1,0 +1,607 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-V : Informe Anual</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual - FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td width="30%"><span class="dado-cabecalho">FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO CAIXA CEDAE RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td width="25%"><span class="dado-cabecalho">10.991.914/0001-15</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">01/03/2010</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRCXCECTF004</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">1.712.750,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo/Classe Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Tijolo</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>Renda</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Definida</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Escrit&oacute;rios</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">CAIXA ECONOMICA FEDERAL</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">00.360.305/0001-04</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">AVENIDA PAULISTA,
+              750,
+              9&ordm; ANDAR-
+              BELA VISTA-
+              S&Atilde;O PAULO-
+              SP-
+              01310-908</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">(11) 2220 1848</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.caixa.gov.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">geafi06@caixa.gov.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">12/2025</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">1.</h3>
+</td><td width="32%">
+<h3 align="left">Prestadores de servi&ccedil;os</h3>
+</td><td width="12%">
+<h3 align="left">CNPJ</h3>
+</td><td width="35%">
+<h3 align="left">Endere&ccedil;o</h3>
+</td><td width="15%">
+<h3 align="left">Telefone</h3>
+</td>
+</tr>
+<tr>
+<td>
+          1.1
+        </td><td>
+          Gestor: CAIXA ECON&Ocirc;MICA FEDERAL</td><td>00..36.0.3/05/0-00</td><td>AVENIDA PAULISTA, 750, 9&ordm; ANDAR, BELA VISTA, S&Atilde;O PAULO/SP, CEP 01310-908</td><td>(11) 3572 4600</td>
+</tr>
+<tr>
+<td>
+          1.2
+        </td><td>
+          Custodiante: BANVOX DISTRIBUIDORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS LTDA</td><td>02..67.1.7/43/0-00</td><td>AVENIDA BRIGADEIRO FARIA LIMA, 3477, 8&ordm; ANDAR, CONJUNTOS 83 E 84, TORRE B, ITAIM BIBI, S&Atilde;O PAULO/SP</td><td>(11) 2197 4406</td>
+</tr>
+<tr>
+<td>
+          1.3
+        </td><td>
+          Auditor Independente: PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES</td><td>61..56.2.1/12/0-01</td><td>SETOR HOTELEIRO SUL, QUADRA 06, CONJUNTO A, BLOCO C, SALAS 801 A 811, EDIF&Iacute;CIO BUSINESS CENTER TOWER, BRAS&Iacute;LIA/DF</td><td>(11) 3674 2000</td>
+</tr>
+<tr>
+<td>
+          1.4
+        </td><td>
+          Formador de Mercado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.5
+        </td><td>
+          Distribuidor de cotas: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.6
+        </td><td>
+          Consultor Especializado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.7
+        </td><td>
+          Empresa Especializada para administrar as loca&ccedil;&otilde;es: </td><td>../-</td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              1.8
+            </th><th align="left" colspan="4">Outros prestadores de servi&ccedil;os&sup1;:</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">2.</h3>
+</td><td>
+<h3 align="left">Investimentos FII</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          2.1
+        </td><td colspan="4"><b>Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3 align="left">3.</h3>
+</td><td>
+<h3 align="left">Programa de investimentos para os exerc&iacute;cios seguintes, incluindo, se necess&aacute;rio, as informa&ccedil;&otilde;es descritas no item 1.1 com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados:</h3>
+</td>
+</tr>
+<tr>
+<td>A Administradora avalia continuamente a necessidade de investimento no im&oacute;vel de propriedade do Fundo buscando sempre manter o edif&iacute;cio em bom estado de conserva&ccedil;&atilde;o e uso.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">4.</h3>
+</td><td>
+<h3 align="left">An&aacute;lise do administrador sobre:</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.1
+        </td><td><b>Resultado do fundo no exerc&iacute;cio findo</b></td>
+</tr>
+<tr>
+<td>Nos termos do art. 10, p.u. da Lei n&ordm; 8668/93, c/c os art. 23 a 25 do Anexo do Regulamento, o Fundo distribuir&aacute; aos seus Cotistas, at&eacute; o dia 15 de cada m&ecirc;s, no m&iacute;nimo, 95% (noventa e cinco por cento) dos lucros auferidos no m&ecirc;s imediatamente anterior, apurados segundo o regime de caixa, com base nos lucros auferidos no m&ecirc;s imediatamente anterior, apurados segundo o regime de caixa, com base no balancete referente ao &uacute;ltimo dia &uacute;til de cada m&ecirc;s. No exerc&iacute;cio de 2025, o resultado apurado pelo regime de caixa totalizou R$ 9.789.886,83, refletindo principalmente as receitas recorrentes provenientes da loca&ccedil;&atilde;o do imovel de sua titularidade. Ressalte-se que, em virtude da aprova&ccedil;&atilde;o pelos cotistas do Fundo, por meio de Consulta Formal, da proposta de renova&ccedil;&atilde;o do per&iacute;odo locat&iacute;cio do im&oacute;vel de propriedade do Fundo, cumpre destacar que foi celebrado em 28/09/2021 pelo Fundo um novo contrato de loca&ccedil;&atilde;o com a CEDAE, o qual reflete os termos e condi&ccedil;&otilde;es dispostos na Proposta da Administradora, material que foi parte integrante da Consulta Formal realizada pela Administradora. Dessa forma, o novo prazo de loca&ccedil;&atilde;o do im&oacute;vel teve in&iacute;cio em 28 de setembro de 2021 e se encerrar&aacute; em 28 de setembro de 2031, de maneira que, a partir desse novo ciclo operacional do Fundo, a distribui&ccedil;&atilde;o de rendimento aos cotistas tem como principal lastro o novo contrato de loca&ccedil;&atilde;o firmado com a CEDAE.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.2
+        </td><td><b>Conjuntura econ&ocirc;mica do segmento do mercado imobili&aacute;rio de atua&ccedil;&atilde;o relativo ao per&iacute;odo findo</b></td>
+</tr>
+<tr>
+<td>De acordo com relat&oacute;rio da Colliers referente ao ano de 2025, o mercado de escrit&oacute;rios no Rio de Janeiro apresentou sinais consistentes de recupera&ccedil;&atilde;o, especialmente nas regi&otilde;es Centro e Orla, que concentraram parcela relevante das novas ocupa&ccedil;&otilde;es ao longo do per&iacute;odo. Ao final de 2025, a taxa de vac&acirc;ncia no segmento de escrit&oacute;rios corporativos de alto padr&atilde;o foi reduzida para aproximadamente 21% (vinte e um por cento), o menor patamar da s&eacute;rie hist&oacute;rica iniciada em 2016, refletindo absor&ccedil;&atilde;o l&iacute;quida e maior demanda por im&oacute;veis bem localizados. A regi&atilde;o central da cidade, onde se localiza o im&oacute;vel de propriedade do Fundo, acompanhou esse movimento de melhora gradativa dos fundamentos do mercado, beneficiada pela presen&ccedil;a de ocupa&ccedil;&otilde;es do setor p&uacute;blico e pela aus&ecirc;ncia de novos estoques relevantes ao longo do ano. Ainda que o ambiente macroecon&ocirc;mico tenha permanecido desafiador, observou-se maior estabilidade nos pre&ccedil;os de loca&ccedil;&atilde;o, com eleva&ccedil;&atilde;o moderada do valor pedido em edif&iacute;cios de melhor padr&atilde;o, indicando recomposi&ccedil;&atilde;o do equil&iacute;brio entre oferta e demanda. Nesse contexto, o mercado de im&oacute;veis para loca&ccedil;&atilde;o passou a exigir menor flexibilidade por parte dos propriet&aacute;rios, sobretudo em ativos com perfil corporativo consolidado e contratos de longo prazo. Tal din&acirc;mica favoreceu im&oacute;veis com ocupa&ccedil;&atilde;o integral e locat&aacute;rios de baixo risco de cr&eacute;dito, caracter&iacute;sticas presentes no portf&oacute;lio do Fundo, que manteve vac&acirc;ncia de 0% (zero por cento) ao longo de 2025, sustentado por contrato de loca&ccedil;&atilde;o vigente com a CEDAE. </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.3
+        </td><td><b>Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da carteira</b></td>
+</tr>
+<tr>
+<td>Para o per&iacute;odo seguinte, a gest&atilde;o do Fundo permanece orientada por uma estrat&eacute;gia convervadora e focada na previsibilidade de resultados, considerando que o Fundo det&eacute;m um &uacute;nico ativo imobili&aacute;rio corporativo, integralmente locado, com contrato de longo prazo vigente at&eacute; setembro de 2031. Nesse contexto, a atua&ccedil;&atilde;o da Administradora e da Gestora seguir&aacute; direcionada &agrave; manuten&ccedil;&atilde;o do bom estado de conserva&ccedil;&atilde;o, funcionalidade e adequa&ccedil;&atilde;o do im&oacute;vel, assegurando sua plena utiliza&ccedil;&atilde;o e preserva&ccedil;&atilde;o de valor ao longo do tempo. Adicionalmente, a gest&atilde;o continuar&aacute; priorizando o acompanhamento e a correta administra&ccedil;&atilde;o do contrato de loca&ccedil;&atilde;o firmado com a CEDAE, que constitui a principal fonte de receitas do Fundo, garantindo estabilidade de caixa e baixo risco operacional. Em paralelo, a estrat&eacute;gia para 2025/2026 contempla a otimiza&ccedil;&atilde;o dos resultados do Fundo, por meio do controle rigoroso de despesas, adequada gest&atilde;o de caixa e observ&acirc;ncia estrita da Pol&iacute;tica de Distribui&ccedil;&atilde;o de rendimentos, de forma a manter a atratividade do Fundo para seus Cotistas mesmo em um ambiente macroecon&ocirc;mico ainda marcado por incertezas.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3>5.</h3>
+</td><td>
+<h3>Riscos incorridos pelos cotistas inerentes aos investimentos do FII:</h3>
+</td>
+</tr>
+<tr>
+<td>
+          Ver anexo no final do documento. <a href="#anexos">Anexos</a></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              6.
+            </th><td align="center" colspan="2" width="49%"><b>Valor Cont&aacute;bil dos ativos imobili&aacute;rios do FII</b></td><td rowspan="2" align="center" width="25%"><b>Valor Justo, nos termos da ICVM 516 (SIM ou N&Atilde;O)</b></td><td rowspan="2" align="center" width="20%"><b>Percentual de Valoriza&ccedil;&atilde;o/Desvaloriza&ccedil;&atilde;o apurado no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>Rela&ccedil;&atilde;o de ativos imobili&aacute;rios</b></td><td align="center" width="24%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>EDIF&Iacute;CIO SEDE CEDAE</td><td align="center">101.000.000,01</td><td align="center">SIM</td><td align="center">-0,99%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          6.1
+        </td><td><b>Crit&eacute;rios utilizados na referida avalia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>A avalia&ccedil;&atilde;o levou em considera&ccedil;&atilde;o o cen&aacute;rio atual, com o edif&iacute;cio locado, por meio de um fluxo de caixa descontado considerando o contrato atual e ao final dele, considerou-se que o im&oacute;vel seria levado a mercado e locado com um contrato hipot&eacute;tico, no qual o valor de loca&ccedil;&atilde;o foi definido pelo m&eacute;todo comparativo direto. O fluxo de caixa apresenta horizonte de 10 (dez) anos, ao final do qual &eacute; simulada a venda de propriedade. Foram analisadas ainda informa&ccedil;&otilde;es complementares de apoio obtidas durante a vistoria do im&oacute;vel, que serviriam de base para os c&aacute;lculos e apropria&ccedil;&atilde;o final de valor. O im&oacute;vel foi avaliado na suposi&ccedil;&atilde;o de que esteja livre e desembara&ccedil;ado de quaisquer &ocirc;nus, encargos ou gravames de qualquer natureza que possam afetar o seu valor.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>7.</b></td><td colspan="7"><b>Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>8.</b></td><td colspan="4"><b>Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados em causas jur&iacute;dicas semelhantes, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>9.</b></td><td><b>An&aacute;lise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes:</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">10.</h3>
+</td><td>
+<h3 align="left">Assembleia Geral</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.1
+        </td><td><b>Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos &agrave; assembleia geral estar&atilde;o &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise:</b></td>
+</tr>
+<tr>
+<td>AVENIDA PAULISTA, 750, 9&ordm; ANDAR, BELA VISTA, S&Atilde;O PAULO/SP, CEP 01310-908<br>www.caixa.gov.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.2
+        </td><td><b>Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas para (i) a inclus&atilde;o de mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s delibera&ccedil;&otilde;es propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais cotistas para envio de pedido p&uacute;blico de procura&ccedil;&atilde;o.</b></td>
+</tr>
+<tr>
+<td>E-mail: geafi06@caixa.gov.br; Telefone: (11) 2220 1848.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto.</b></td>
+</tr>
+<tr>
+<td>Regulamento, Parte Geral, arts. 9&ordm; a 18. Anexo, art. 28 e &sect;&sect;.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico.</b></td>
+</tr>
+<tr>
+<td>Regulamento, Parte Geral, arts. 9&ordm; a 18. Anexo, art. 28 e &sect;&sect;.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">11.</h3>
+</td><td>
+<h3 align="left">Remunera&ccedil;&atilde;o do Administrador</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>11.1</b></td><td colspan="3"><b>Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento:</b></td>
+</tr>
+<tr>
+<td colspan="3">Regulamento, Anexo, art. art. 10 e &sect;&sect;.</td>
+</tr>
+<tr>
+<td><b>Valor pago no ano de refer&ecirc;ncia (R$):</b></td><td><b>% sobre o patrim&ocirc;nio cont&aacute;bil:</b></td><td><b>% sobre o patrim&ocirc;nio a valor de mercado:</b></td>
+</tr>
+<tr>
+<td>641.131,84</td><td>0,59%</td><td>0,92%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">12.</h3>
+</td><td>
+<h3 align="left">Governan&ccedil;a</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.1</b></td><td colspan="4"><b>Representante(s) de cotistas</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.2</b></td><td colspan="4"><b>Diretor Respons&aacute;vel pelo FII</b></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome: </span></td><td width="30%"><span class="dado-cabecalho">RICARDO TROES</span></td><td width="25%"><span class="titulo-dado">Idade: </span></td><td width="25%"><span class="dado-cabecalho">43 ANOS</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Profiss&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">ECONOMI&Aacute;RIO</span></td><td width="25%"><span class="titulo-dado">CPF: </span></td><td width="25%"><span class="dado-cabecalho">311.948.148-32</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">E-mail: </span></td><td width="30%"><span class="dado-cabecalho">deasq@caixa.gov.br</span></td><td width="25%"><span class="titulo-dado">Forma&ccedil;&atilde;o acad&ecirc;mica: </span></td><td width="25%"><span class="dado-cabecalho">N&Iacute;VEL SUPERIOR COMPLETO</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas detidas do FII: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Quantidade de cotas do FII compradas no per&iacute;odo: </span></td><td width="25%"><span class="dado-cabecalho">0,00</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas do FII vendidas no per&iacute;odo: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Data de in&iacute;cio na fun&ccedil;&atilde;o: </span></td><td width="25%"><span class="dado-cabecalho">15/06/2023</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome da Empresa</span></td><td><span class="titulo-dado">Per&iacute;odo</span></td><td><span class="titulo-dado">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="titulo-dado">Atividade principal da empresa na qual tais experi&ecirc;ncias ocorreram</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">CAIXA ECON&Ocirc;MICA FEDERAL</span></td><td><span class="dado-cabecalho">JUN/23 AT&Eacute; O MOMENTO</span></td><td><span class="dado-cabecalho">DIRETOR DE ADMINISTRA&Ccedil;&Atilde;O FIDUCI&Aacute;RIA E SERVI&Ccedil;OS QUALIFICADOS</span></td><td><span class="dado-cabecalho">BANCO M&Uacute;LTIPLO COM CARTEIRA M&Uacute;LTIPLA</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">CAIXA DISTRIBUIDORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS S/A</span></td><td><span class="dado-cabecalho">SET/21 A JUN/23</span></td><td><span class="dado-cabecalho">SUPERINTENDENTE NACIONAL DE RISCO, COMPLIANCE E GOVERNAN&Ccedil;AS</span></td><td><span class="dado-cabecalho">GEST&Atilde;O DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">CAIXA ECON&Ocirc;MICA FEDERAL</span></td><td><span class="dado-cabecalho">OUT/19 A SET/21</span></td><td><span class="dado-cabecalho">GERENTE NACIONAL DE ADMINISTRA&Ccedil;&Atilde;O FIDUCI&Aacute;RIA</span></td><td><span class="dado-cabecalho">BANCO M&Uacute;LTIPLO COM CARTEIRA M&Uacute;LTIPLA</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Evento</span></td><td colspan="2"><span class="titulo-dado">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="2"><span class="dado-cabecalho">NADA CONSTA</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas aplicadas</span></td><td colspan="2"><span class="dado-cabecalho">NADA CONSTA</span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>13.</b></td><td colspan="6"><b>Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas adquirido.</b></td>
+</tr>
+<tr>
+<td width="20%"><b>Faixas de Pulveriza&ccedil;&atilde;o</b></td><td width="16%"><b>N&ordm; de cotistas</b></td><td width="16%"><b>N&ordm; de cotas detidas</b></td><td width="16%"><b>% de cotas detido em rela&ccedil;&atilde;o ao total emitido</b></td><td width="16%"><b>% detido por PF</b></td><td width="16%"><b>% detido por PJ</b></td>
+</tr>
+<tr>
+<td>
+          At&eacute; 5% das cotas
+        </td><td>2.926,00</td><td>1.188.966,00</td><td>69,41%</td><td>63,91%</td><td>5,50%</td>
+</tr>
+<tr>
+<td>
+          Acima de 5% at&eacute; 10%
+        </td><td>2,00</td><td>203.754,00</td><td>11,89%</td><td>0,00%</td><td>11,89%</td>
+</tr>
+<tr>
+<td>
+          Acima de 10% at&eacute; 15%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 15% at&eacute; 20%
+        </td><td>1,00</td><td>320.230,00</td><td>18,69%</td><td>0,00%</td><td>18,69%</td>
+</tr>
+<tr>
+<td>
+          Acima de 20% at&eacute; 30%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 30% at&eacute; 40%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 40% at&eacute; 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">14.</h3>
+</td><td>
+<h3 align="left">Transa&ccedil;&otilde;es a que se refere o art. 34 e inciso IX do art.35, da Instru&ccedil;&atilde;o CVM n&ordm; 472, de 2008</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">15.</h3>
+</td><td>
+<h3 align="left">Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.1
+        </td><td><b>Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores, indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es relevantes n&atilde;o divulgadas, locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos.</b></td>
+</tr>
+<tr>
+<td>Regulamento, Parte Geral, arts. 9&ordm; a 18. Anexo, art. 28 e &sect;&sect;.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.2
+        </td><td><b>Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>Regulamento, Anexo, arts. 12 a 15.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.3
+        </td><td><b>Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>O Fundo n&atilde;o possui participa&ccedil;&otilde;es societ&aacute;rias.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.4
+        </td><td><b>Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o, manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso.</b></td>
+</tr>
+<tr>
+<td>Fernando Henrique Augusto, Maur&iacute;cio Ant&ocirc;nio Alves da Costa, Eliana Marques Lisboa e Fabr&iacute;cio Honorato Soares.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>16.</b></td><td><b>Regras e prazos para chamada de capital do fundo:</b></td>
+</tr>
+<tr>
+<td>Regulamento, Anexo, arts.16 a 19.</td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+<tr>
+<td style="padding-left:20px"><a href="downloadDocumentoAdicional?idDocumento=1127397&amp;idDocumentoAdicional=36">5. Fatores de Risco</a></td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Nota</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>A rela&ccedil;&atilde;o de prestadores de servi&ccedil;os de que trata o item 1.8 deve ser indicada quando o referido prestador de servi&ccedil;os representar mais de 5% das despesas do FII</td>
+</tr>
+</table>
+</body>
+</html>

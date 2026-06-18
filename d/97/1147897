@@ -1,0 +1,876 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-V : Informe Anual</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual - FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td width="30%"><span class="dado-cabecalho">XP CR&Eacute;DITO IMOBILI&Aacute;RIO - FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td width="25%"><span class="dado-cabecalho">28.516.301/0001-91</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">31/07/2019</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRXPCICTF007</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">8.701.552,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo/Classe Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">Sim</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Papel</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>H&iacute;brido</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Ativa</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Outros</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">XP INVESTIMENTOS CCTVM S.A.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">02.332.886/0001-04</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">AVENIDA ATAULFO DE PAIVA,
+              153,
+              5&ordm; e 8&ordm; andares-
+              LEBLON-
+              RIO DE JANEIRO-
+              RJ-
+              22440-033</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">(11) 3027-2237</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.xpi.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">adm.fundos.estruturados@xpi.com.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">12/2025</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">1.</h3>
+</td><td width="32%">
+<h3 align="left">Prestadores de servi&ccedil;os</h3>
+</td><td width="12%">
+<h3 align="left">CNPJ</h3>
+</td><td width="35%">
+<h3 align="left">Endere&ccedil;o</h3>
+</td><td width="15%">
+<h3 align="left">Telefone</h3>
+</td>
+</tr>
+<tr>
+<td>
+          1.1
+        </td><td>
+          Gestor: XP VISTA ASSET MANAGMENT LTDA.</td><td>16.789.525/0001-98</td><td>AV PRESIDENTE JUSCELINO KUBITSCHEK 1909, TORRE SUL ANDAR 30 PARTE
+CEP 04543-907</td><td>(11) 3265-3700</td>
+</tr>
+<tr>
+<td>
+          1.2
+        </td><td>
+          Custodiante: OLIVEIRA TRUST DTVM S.A.</td><td>36.113.876/0001-91</td><td>Avenida das Am&eacute;ricas, n.&ordm; 3434, Bloco 07, Sala 201, Barra da Tijuca, Rio de Janeiro/RJ
+CEP 22631-000</td><td>(21) 3514-0000</td>
+</tr>
+<tr>
+<td>
+          1.3
+        </td><td>
+          Auditor Independente: PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA</td><td>61..56.2.1/12/0-00</td><td>AV BRIG FARIA LIMA 3732, ANDAR 16 - PARTES 1 A 6, ITAIM BIBI, S&atilde;o Paulo - SP</td><td>(11) 4004-8000</td>
+</tr>
+<tr>
+<td>
+          1.4
+        </td><td>
+          Formador de Mercado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.5
+        </td><td>
+          Distribuidor de cotas: XP INVESTIMENTOS CCTVM S.A.</td><td>02.332.886/0001-04</td><td>AVENIDA ATAULFO DE PAIVA, n&ordm; 153, SALA 201, LEBLON, RIO DE JANEIRO, RJ
+CEP 90010-040</td><td>(11) 3027-2237</td>
+</tr>
+<tr>
+<td>
+          1.6
+        </td><td>
+          Consultor Especializado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.7
+        </td><td>
+          Empresa Especializada para administrar as loca&ccedil;&otilde;es: </td><td>../-</td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              1.8
+            </th><th align="left" colspan="4">Outros prestadores de servi&ccedil;os&sup1;:</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">2.</h3>
+</td><td>
+<h3 align="left">Investimentos FII</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          2.1
+        </td><td colspan="4"><b>Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td width="24%"><b>Rela&ccedil;&atilde;o dos Ativos adquiridos no per&iacute;odo</b></td><td width="40%"><b>Objetivos</b></td><td width="15%"><b>Montantes Investidos</b></td><td width="15%"><b>Origem dos recursos</b></td>
+</tr>
+<tr>
+<td>19I0737680</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>6.035.085,50</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>20A0982855</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>20.558.767,06</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>20F0689770</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>1.999.929,98</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>20G0800227</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>8.893.360,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>23D1515316</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>33.680.421,44</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>23F1508169</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>3.700.044,01</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>23F2426912</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>3.114.390,37</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>23G2239867</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>8.500.153,36</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>23K2260145</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>9.081.876,88</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24B1276213</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>26.587.867,70</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24C1526928</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>25.435.026,24</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24C1924689</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>4.042.880,24</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24E2453531</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>3.379.687,24</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24I1177541</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>9.336.083,05</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24I2268708</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>14.999.888,05</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24J2248382</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>10.007.852,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>24L1853110</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>20.853.013,50</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>25B2178970</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>5.000.000,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>25C3830957</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>4.999.731,29</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>25F3429327</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>20.787.126,23</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>25F8639014</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>40.058.715,15</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>25J2841065</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>7.358.000,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>25J2841095</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>18.642.000,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>25L3373552</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>6.000.000,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>BHIAA0</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>3.896.097,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>BHIAC0</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>6.701.210,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>GARE11</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>31.999.997,09</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>GARE12</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>0,50</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>GARE13</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>90,10</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>GARE14</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>8.000.880,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>GARE15</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>31.964.481,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>KORE11</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>49.344,78</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>PSEC11</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>4.736.173,20</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>SNCI11</td><td>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</td><td>2.076,00</td><td>Recursos de Caixa</td>
+</tr>
+<tr>
+<td>OT SOBERANO</td><td>Ativo mantido por necessidade de liquidez</td><td>607.085.968,75</td><td>Recursos de Caixa</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3 align="left">3.</h3>
+</td><td>
+<h3 align="left">Programa de investimentos para os exerc&iacute;cios seguintes, incluindo, se necess&aacute;rio, as informa&ccedil;&otilde;es descritas no item 1.1 com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados:</h3>
+</td>
+</tr>
+<tr>
+<td>Fundo tem como objetivo o investimento em ativos com lastro em empreendimentos imobili&aacute;rios e direitos a estes inerentes relacionados, preponderantemente atrav&eacute;s da aquisi&ccedil;&atilde;o de Certificados de Receb&iacute;veis Imobili&aacute;rios ("CRIs") e cotas de Fundos de Investimento Imobili&aacute;rio ("FIIs"), al&eacute;m de fundos de liquidez ("Fundos Indexados").</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">4.</h3>
+</td><td>
+<h3 align="left">An&aacute;lise do administrador sobre:</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.1
+        </td><td><b>Resultado do fundo no exerc&iacute;cio findo</b></td>
+</tr>
+<tr>
+<td>Ao longo de 2025 o fundo obteve bons resultados financeiros atrav&eacute;s de gest&atilde;o ativa e origina&ccedil;&atilde;o pr&oacute;pria dos ativos investidos, como cotas de outros fundos imobili&aacute;rios e CRIs. Ao que tange o book de CRIs o fundo teve durante o ano uma receita aproximada de R$ 94 milh&otilde;es e distribui&ccedil;&atilde;o parecida, j&aacute; nos fundos imobili&aacute;rios, o XPCI totalizou R$ 5,3 milh&otilde;es de receita no exerc&iacute;cio, as receitas proveniente dos fundos de liquidez totalizaram R$ 1,9 milh&otilde;es.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.2
+        </td><td><b>Conjuntura econ&ocirc;mica do segmento do mercado imobili&aacute;rio de atua&ccedil;&atilde;o relativo ao per&iacute;odo findo</b></td>
+</tr>
+<tr>
+<td>Em 2025, o ambiente macroecon&ocirc;mico brasileiro mostrou sinais consistentes de consolida&ccedil;&atilde;o do processo de desinfla&ccedil;&atilde;o e de normaliza&ccedil;&atilde;o gradual da pol&iacute;tica monet&aacute;ria, com melhora das expectativas para crescimento e maior previsibilidade da trajet&oacute;ria de juros. Nesse contexto mais construtivo, seguimos buscando capturar um carrego atrativo em termos reais, ao mesmo tempo em que refor&ccedil;amos os controles de risco em todas as etapas do processo de investimento. A sele&ccedil;&atilde;o de ativos priorizou emissores com hist&oacute;rico s&oacute;lido de cr&eacute;dito, estruturas de garantias robustas, testes de estresse conservadores de fluxo de caixa e forte alinhamento de interesses entre originadores, devedores e investidores. Al&eacute;m disso, aprofundamos a diversifica&ccedil;&atilde;o por devedores, lastros e prazos, com limites r&iacute;gidos de concentra&ccedil;&atilde;o e monitoramento cont&iacute;nuo de indicadores de risco (como alavancagem, cobertura de juros e avan&ccedil;o de obras). Acreditamos que essa combina&ccedil;&atilde;o de vis&atilde;o construtiva para o ciclo econ&ocirc;mico, disciplina na an&aacute;lise de cr&eacute;dito e rigor na gest&atilde;o de riscos posicionou bem o fundo para capturar oportunidades no mercado de CRIs em 2025, preservando o capital dos investidores e criando condi&ccedil;&otilde;es favor&aacute;veis para gera&ccedil;&atilde;o de valor no longo prazo.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.3
+        </td><td><b>Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da carteira</b></td>
+</tr>
+<tr>
+<td>Em 2026, projetamos um ambiente mais construtivo para o mercado local, com trajet&oacute;ria de queda de juros e infla&ccedil;&atilde;o em processo de converg&ecirc;ncia para a meta. Esse movimento tende a tornar o mercado de capitais mais atrativo, fazendo com que o cr&eacute;dito privado &ndash; em especial via CRIs &ndash; seja mais atrativo tanto para emissores quanto para investidores, com maior volume de emiss&otilde;es, alongamento de prazos e spreads ainda em n&iacute;veis interessantes. Para um fundo alocador em CRIs, isso representa uma janela relevante de oportunidades: ampliam-se as alternativas de opera&ccedil;&otilde;es bem estruturadas, com garantias robustas, melhor diversifica&ccedil;&atilde;o de risco e potencial de gera&ccedil;&atilde;o de carrego real atrativo. Em 2026, continuaremos a buscar originadores de boa qualidade e estruturas alinhadas com a estrat&eacute;gia core do fundo, aproveitando o ciclo de redu&ccedil;&atilde;o de juros para combinar maior liquidez do mercado de capitais com rigor na gest&atilde;o de risco e preserva&ccedil;&atilde;o de capital no longo prazo.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3>5.</h3>
+</td><td>
+<h3>Riscos incorridos pelos cotistas inerentes aos investimentos do FII:</h3>
+</td>
+</tr>
+<tr>
+<td>
+          Ver anexo no final do documento. <a href="#anexos">Anexos</a></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              6.
+            </th><td align="center" colspan="2" width="49%"><b>Valor Cont&aacute;bil dos ativos imobili&aacute;rios do FII</b></td><td rowspan="2" align="center" width="25%"><b>Valor Justo, nos termos da ICVM 516 (SIM ou N&Atilde;O)</b></td><td rowspan="2" align="center" width="20%"><b>Percentual de Valoriza&ccedil;&atilde;o/Desvaloriza&ccedil;&atilde;o apurado no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>Rela&ccedil;&atilde;o de ativos imobili&aacute;rios</b></td><td align="center" width="24%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>24E2453531</td><td align="center">2.538.653,68</td><td align="center">SIM</td><td align="center">-66,26%</td>
+</tr>
+<tr>
+<td>BHIAC0</td><td align="center">2.180.084,55</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>20G0800227</td><td align="center">52.178.382,52</td><td align="center">SIM</td><td align="center">17,35%</td>
+</tr>
+<tr>
+<td>24I2268708</td><td align="center">13.115.496,19</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>24B1276213</td><td align="center">11.013.615,35</td><td align="center">SIM</td><td align="center">-25,03%</td>
+</tr>
+<tr>
+<td>23F1508169</td><td align="center">3.699.954,95</td><td align="center">SIM</td><td align="center">-29,77%</td>
+</tr>
+<tr>
+<td>25L3373552</td><td align="center">6.131.809,23</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>23G2239867</td><td align="center">8.523.295,17</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>BHIAA0</td><td align="center">1.274.997,74</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>24C1526928</td><td align="center">29.021.853,04</td><td align="center">SIM</td><td align="center">-13,04%</td>
+</tr>
+<tr>
+<td>24C1924689</td><td align="center">4.044.883,50</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>20F0689770</td><td align="center">13.853.243,25</td><td align="center">SIM</td><td align="center">-22,76%</td>
+</tr>
+<tr>
+<td>13J0119975</td><td align="center">3.481.957,83</td><td align="center">SIM</td><td align="center">-6,85%</td>
+</tr>
+<tr>
+<td>15L0542353</td><td align="center">1.737.750,34</td><td align="center">SIM</td><td align="center">-25,36%</td>
+</tr>
+<tr>
+<td>17I0181659</td><td align="center">7.311.081,71</td><td align="center">SIM</td><td align="center">-4,58%</td>
+</tr>
+<tr>
+<td>18J0698011</td><td align="center">3.806.900,37</td><td align="center">SIM</td><td align="center">-25,50%</td>
+</tr>
+<tr>
+<td>19G0228153</td><td align="center">20.203.190,01</td><td align="center">SIM</td><td align="center">-0,37%</td>
+</tr>
+<tr>
+<td>19L0882278</td><td align="center">30.740.211,05</td><td align="center">SIM</td><td align="center">-1,79%</td>
+</tr>
+<tr>
+<td>19L0882479</td><td align="center">10.229.373,11</td><td align="center">SIM</td><td align="center">-1,78%</td>
+</tr>
+<tr>
+<td>20B0849733</td><td align="center">14.407.249,79</td><td align="center">SIM</td><td align="center">-19,59%</td>
+</tr>
+<tr>
+<td>20B0850705</td><td align="center">2.148.621,51</td><td align="center">SIM</td><td align="center">-17,83%</td>
+</tr>
+<tr>
+<td>20C0936929</td><td align="center">15.622.563,55</td><td align="center">SIM</td><td align="center">-11,58%</td>
+</tr>
+<tr>
+<td>20F0755573</td><td align="center">157.641,04</td><td align="center">SIM</td><td align="center">-19,19%</td>
+</tr>
+<tr>
+<td>20H0695880</td><td align="center">6.330.380,08</td><td align="center">SIM</td><td align="center">1,99%</td>
+</tr>
+<tr>
+<td>20J0909894</td><td align="center">529.713,72</td><td align="center">SIM</td><td align="center">-0,84%</td>
+</tr>
+<tr>
+<td>20L0687041</td><td align="center">5.036.284,91</td><td align="center">SIM</td><td align="center">-12,56%</td>
+</tr>
+<tr>
+<td>21D0453486</td><td align="center">1.529.550,42</td><td align="center">SIM</td><td align="center">-33,03%</td>
+</tr>
+<tr>
+<td>21J0043571</td><td align="center">13.924.624,45</td><td align="center">SIM</td><td align="center">6,02%</td>
+</tr>
+<tr>
+<td>21L0730011</td><td align="center">4.074.034,09</td><td align="center">SIM</td><td align="center">-69,40%</td>
+</tr>
+<tr>
+<td>22C0981880</td><td align="center">3.415.416,30</td><td align="center">SIM</td><td align="center">-72,65%</td>
+</tr>
+<tr>
+<td>22E1284935</td><td align="center">57.340.669,12</td><td align="center">SIM</td><td align="center">-2,26%</td>
+</tr>
+<tr>
+<td>22G1232724</td><td align="center">9.085.582,01</td><td align="center">SIM</td><td align="center">-3,63%</td>
+</tr>
+<tr>
+<td>22L1314899</td><td align="center">50.389.475,15</td><td align="center">SIM</td><td align="center">0,18%</td>
+</tr>
+<tr>
+<td>23F2426912</td><td align="center">38.175.448,33</td><td align="center">SIM</td><td align="center">14,34%</td>
+</tr>
+<tr>
+<td>23H1539646</td><td align="center">4.632.942,29</td><td align="center">SIM</td><td align="center">2,60%</td>
+</tr>
+<tr>
+<td>20B0817201</td><td align="center">69.152.392,92</td><td align="center">SIM</td><td align="center">-4,42%</td>
+</tr>
+<tr>
+<td>24I2431440</td><td align="center">7.460.099,16</td><td align="center">SIM</td><td align="center">-37,62%</td>
+</tr>
+<tr>
+<td>24K1682338</td><td align="center">6.237.337,04</td><td align="center">SIM</td><td align="center">-29,30%</td>
+</tr>
+<tr>
+<td>24J2248382</td><td align="center">23.008.945,25</td><td align="center">SIM</td><td align="center">-15,46%</td>
+</tr>
+<tr>
+<td>25B2178970</td><td align="center">3.653.385,52</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>23K2260145</td><td align="center">7.075.843,69</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>25C3830957</td><td align="center">4.831.699,59</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>23D1515316</td><td align="center">33.100.409,05</td><td align="center">SIM</td><td align="center">4,29%</td>
+</tr>
+<tr>
+<td>25F8639014</td><td align="center">40.159.232,72</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>25J2841095</td><td align="center">19.140.434,63</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>24I1177541</td><td align="center">9.489.816,71</td><td align="center">SIM</td><td align="center">6,27%</td>
+</tr>
+<tr>
+<td>24L1853110</td><td align="center">21.168.370,40</td><td align="center">SIM</td><td align="center">41,92%</td>
+</tr>
+<tr>
+<td>25J2841065</td><td align="center">7.563.963,80</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>MCCI11</td><td align="center">16.514.090,62</td><td align="center">SIM</td><td align="center">13,86%</td>
+</tr>
+<tr>
+<td>SNCI11</td><td align="center">1.699,20</td><td align="center">SIM</td><td align="center">-0,36%</td>
+</tr>
+<tr>
+<td>BTCI11</td><td align="center">3.481.606,42</td><td align="center">SIM</td><td align="center">-36,73%</td>
+</tr>
+<tr>
+<td>KORE11</td><td align="center">44.148,85</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>GARE14</td><td align="center">8.045.280,00</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>GARE13</td><td align="center">90,60</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>GARE15</td><td align="center">32.177.577,54</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>PSEC11</td><td align="center">5.103.839,40</td><td align="center">SIM</td><td align="center">0,00%</td>
+</tr>
+<tr>
+<td>GCRI11</td><td align="center">5.234.754,77</td><td align="center">SIM</td><td align="center">12,66%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          6.1
+        </td><td><b>Crit&eacute;rios utilizados na referida avalia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>&Eacute; utilizado o crit&eacute;rio de marca&ccedil;&atilde;o a mercado, conforme manual de precifica&ccedil;&atilde;o do custodiante dispon&iacute;vel no site https://www.oliveiratrust.com.br.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>7.</b></td><td colspan="7"><b>Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>8.</b></td><td colspan="4"><b>Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados em causas jur&iacute;dicas semelhantes, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>9.</b></td><td><b>An&aacute;lise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes:</b></td>
+</tr>
+<tr>
+<td>N&atilde;o possui informa&ccedil;ao apresentada. </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">10.</h3>
+</td><td>
+<h3 align="left">Assembleia Geral</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.1
+        </td><td><b>Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos &agrave; assembleia geral estar&atilde;o &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise:</b></td>
+</tr>
+<tr>
+<td>AVENIDA ATAULFO DE PAIVA 153, 5&ordm; ANDAR, LEBLON, RIO DE JANEIRO - RJ, CEP: 22440-032<br>assembleia.cotista@xpi.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.2
+        </td><td><b>Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas para (i) a inclus&atilde;o de mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s delibera&ccedil;&otilde;es propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais cotistas para envio de pedido p&uacute;blico de procura&ccedil;&atilde;o.</b></td>
+</tr>
+<tr>
+<td>Endere&ccedil;o eletr&ocirc;nico: assembleia.cotista@xpi.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto.</b></td>
+</tr>
+<tr>
+<td>Poder&atilde;o participar da Assembleia os cotistas inscritos no registro de cotistas do Fundo na data da convoca&ccedil;&atilde;o da respectiva Assembleia, seus representantes legais ou procuradores legalmente constitu&iacute;dos h&aacute; menos de 1 (um) ano. Sendo assim, &eacute; necess&aacute;rio apresentar documento de identifica&ccedil;&atilde;o v&aacute;lido, no caso de cotista pessoa f&iacute;sica, ou em caso de pessoa jur&iacute;dica ou fundo de investimento, documento de identifica&ccedil;&atilde;o v&aacute;lido do(s) representante(s) acompanhado de c&oacute;pia autenticada do estatuto/contrato social ou c&oacute;pia simples do regulamento e procura&ccedil;&atilde;o espec&iacute;fica para comprovar poderes. Em caso de cotista representado por procurador, a procura&ccedil;&atilde;o deve trazer poderes espec&iacute;ficos para pr&aacute;tica do voto e estar com firma reconhecida. No caso de consultas formais, dever&atilde;o ser observados os prazos e condi&ccedil;&otilde;es espec&iacute;ficas a cada consulta conforme detalhado em seu edital, observado sempre o prazo m&iacute;nimo previsto em regulamento e na regulamenta&ccedil;&atilde;o vigente. O procedimento para verifica&ccedil;&atilde;o da qualidade de cotista e sua representa&ccedil;&atilde;o acima descrita tamb&eacute;m &eacute; aplic&aacute;vel neste caso.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico.</b></td>
+</tr>
+<tr>
+<td>A Assembleia Geral de Cotistas ser&aacute; instalada com a presen&ccedil;a de pelo menos 01 (um) Cotista, sendo que as delibera&ccedil;&otilde;es poder&atilde;o ser realizadas mediante processo de consulta formal, sem a necessidade de reuni&atilde;o presencial de cotistas, por meio de correspond&ecirc;ncia escrita ou eletr&ocirc;nica (e-mail), plataforma eletr&ocirc;nica ou via mecanismo digital &ldquo;click through&rdquo;, a ser realizado pelo Administrador junto a cada Cotista do Fundo, desde que observadas as formalidades previstas na Instru&ccedil;&atilde;o CVM 472.  Cada Cota corresponder&aacute; ao direito de 01 (um) voto na Assembleia Geral de Cotistas.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">11.</h3>
+</td><td>
+<h3 align="left">Remunera&ccedil;&atilde;o do Administrador</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>11.1</b></td><td colspan="3"><b>Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento:</b></td>
+</tr>
+<tr>
+<td colspan="3">Pela administra&ccedil;&atilde;o do Fundo, nela compreendidas as atividades de administra&ccedil;&atilde;o, gest&atilde;o, cust&oacute;dia, escritura&ccedil;&atilde;o e controladoria e demais servi&ccedil;os previstos no Artigo 29 da Instru&ccedil;&atilde;o CVM n&ordm; 472/08, bem como as outras atividades descritas nos Artigos 2&deg;, 3&deg; e 4&deg; acima, o Fundo pagar&aacute;, nos termos deste Regulamento e em conformidade com a regulamenta&ccedil;&atilde;o vigente, uma remunera&ccedil;&atilde;o (&ldquo;Taxa de Administra&ccedil;&atilde;o&rdquo;) equivalente a 1% (um por cento) ao ano, calculado sobre a Base de C&aacute;lculo da Taxa de Administra&ccedil;&atilde;o (conforme definido abaixo), assegurado o valor m&iacute;nimo equivalente a R$40.000,00 (quarenta mil reais) por m&ecirc;s, exceto nos 3 (tr&ecirc;s) primeiros meses contados a partir da data da 1&ordf; (primeira) integraliza&ccedil;&atilde;o de Cotas da 1&ordf; (primeira) emiss&atilde;o do Fundo (inclusive), em que a Taxa de Administra&ccedil;&atilde;o referente &agrave;s Cotas da 1&ordf; (primeira) emiss&atilde;o do Fundo ser&aacute; equivalente a R$18.700,00 (dezoito mil e setecentos reais) ao m&ecirc;s.</td>
+</tr>
+<tr>
+<td><b>Valor pago no ano de refer&ecirc;ncia (R$):</b></td><td><b>% sobre o patrim&ocirc;nio cont&aacute;bil:</b></td><td><b>% sobre o patrim&ocirc;nio a valor de mercado:</b></td>
+</tr>
+<tr>
+<td>337.031,22</td><td>0,04%</td><td>0,04%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">12.</h3>
+</td><td>
+<h3 align="left">Governan&ccedil;a</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.1</b></td><td colspan="4"><b>Representante(s) de cotistas</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.2</b></td><td colspan="4"><b>Diretor Respons&aacute;vel pelo FII</b></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome: </span></td><td width="30%"><span class="dado-cabecalho">Lizandro Sommer Arnoni</span></td><td width="25%"><span class="titulo-dado">Idade: </span></td><td width="25%"><span class="dado-cabecalho">50</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Profiss&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">Administrador</span></td><td width="25%"><span class="titulo-dado">CPF: </span></td><td width="25%"><span class="dado-cabecalho">279.902.288-07</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">E-mail: </span></td><td width="30%"><span class="dado-cabecalho">Jur&iacute;dico.regulatorio@xpi.com.br</span></td><td width="25%"><span class="titulo-dado">Forma&ccedil;&atilde;o acad&ecirc;mica: </span></td><td width="25%"><span class="dado-cabecalho">Administra&ccedil;&atilde;o de Empresas</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas detidas do FII: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Quantidade de cotas do FII compradas no per&iacute;odo: </span></td><td width="25%"><span class="dado-cabecalho">0,00</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas do FII vendidas no per&iacute;odo: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Data de in&iacute;cio na fun&ccedil;&atilde;o: </span></td><td width="25%"><span class="dado-cabecalho">29/09/2021</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome da Empresa</span></td><td><span class="titulo-dado">Per&iacute;odo</span></td><td><span class="titulo-dado">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="titulo-dado">Atividade principal da empresa na qual tais experi&ecirc;ncias ocorreram</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">XP Investimentos CCTVM S.A.</span></td><td><span class="dado-cabecalho">Desde setembro de 2021</span></td><td><span class="dado-cabecalho">Diretor de Administra&ccedil;&atilde;o Fiduci&aacute;ria</span></td><td><span class="dado-cabecalho">Diretor respons&aacute;vel pelos servi&ccedil;os de administra&ccedil;&atilde;o fiduci&aacute;ria</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">BNY Mellon Servi&ccedil;os Financeiros DTVM</span></td><td><span class="dado-cabecalho">mar&ccedil;o de 2015 a agosto de 2021</span></td><td><span class="dado-cabecalho">Diretor Executivo</span></td><td><span class="dado-cabecalho">Diretor Executivo respons&aacute;vel pelos servi&ccedil;os de administra&ccedil;&atilde;o fiduci&aacute;ria, cust&oacute;dia e controladoria</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Evento</span></td><td colspan="2"><span class="titulo-dado">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="2"><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas aplicadas</span></td><td colspan="2"><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>13.</b></td><td colspan="6"><b>Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas adquirido.</b></td>
+</tr>
+<tr>
+<td width="20%"><b>Faixas de Pulveriza&ccedil;&atilde;o</b></td><td width="16%"><b>N&ordm; de cotistas</b></td><td width="16%"><b>N&ordm; de cotas detidas</b></td><td width="16%"><b>% de cotas detido em rela&ccedil;&atilde;o ao total emitido</b></td><td width="16%"><b>% detido por PF</b></td><td width="16%"><b>% detido por PJ</b></td>
+</tr>
+<tr>
+<td>
+          At&eacute; 5% das cotas
+        </td><td>72.815,00</td><td>8.701.552,00</td><td>100,00%</td><td>80,11%</td><td>19,89%</td>
+</tr>
+<tr>
+<td>
+          Acima de 5% at&eacute; 10%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 10% at&eacute; 15%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 15% at&eacute; 20%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 20% at&eacute; 30%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 30% at&eacute; 40%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 40% at&eacute; 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">14.</h3>
+</td><td>
+<h3 align="left">Transa&ccedil;&otilde;es a que se refere o art. 34 e inciso IX do art.35, da Instru&ccedil;&atilde;o CVM n&ordm; 472, de 2008</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">15.</h3>
+</td><td>
+<h3 align="left">Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.1
+        </td><td><b>Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores, indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es relevantes n&atilde;o divulgadas, locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos.</b></td>
+</tr>
+<tr>
+<td>Todos os atos ou fatos relevantes do Fundo s&atilde;o divulgados na p&aacute;gina do Administrador (www.xpi.com.br/administracao-fiduciaria/), do Fundo (www.051capital.com) e sistema FundosNet da B3 S.A.- Brasil, Bolsa e Balc&atilde;o (˜B3˜).</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.2
+        </td><td><b>Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>O Fundo n&atilde;o possui pol&iacute;tica de negocia&ccedil;&atilde;o de cotas.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.3
+        </td><td><b>Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>A Pol&iacute;tica de Exerc&iacute;cio de Direito de Votos est&aacute; dispon&iacute;vel no site do Gestor www.xpasset.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.4
+        </td><td><b>Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o, manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso.</b></td>
+</tr>
+<tr>
+<td>N/A</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>16.</b></td><td><b>Regras e prazos para chamada de capital do fundo:</b></td>
+</tr>
+<tr>
+<td>N&atilde;o h&aacute; chamada de capital prevista para o fundo.</td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+<tr>
+<td style="padding-left:20px"><a href="downloadDocumentoAdicional?idDocumento=1147897&amp;idDocumentoAdicional=36">5. Fatores de Risco</a></td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Nota</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>A rela&ccedil;&atilde;o de prestadores de servi&ccedil;os de que trata o item 1.8 deve ser indicada quando o referido prestador de servi&ccedil;os representar mais de 5% das despesas do FII</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,611 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-V : Informe Anual</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual - FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td width="30%"><span class="dado-cabecalho">HIRE FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td width="25%"><span class="dado-cabecalho">63.806.554/0001-09</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">01/12/2025</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BR0QJ4CTF003</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">2.740.301,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo/Classe Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Tijolo</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>Renda</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Ativa</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Outros</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">22.610.500/0001-88</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">RUA GILBERTO SABINO,
+              215,
+              4 ANDAR-
+              PINHEIROS-
+              S&Atilde;O PAULO-
+              SP-
+              05425020</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">(11) 3030-7177</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">https://www.vortx.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">regulatorio.funds@vortx.com.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">12/2025</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">1.</h3>
+</td><td width="32%">
+<h3 align="left">Prestadores de servi&ccedil;os</h3>
+</td><td width="12%">
+<h3 align="left">CNPJ</h3>
+</td><td width="35%">
+<h3 align="left">Endere&ccedil;o</h3>
+</td><td width="15%">
+<h3 align="left">Telefone</h3>
+</td>
+</tr>
+<tr>
+<td>
+          1.1
+        </td><td>
+          Gestor: HIRE GEST&Atilde;O DE RECURSOS LTDA.</td><td>53..94.2.8/85/0-00</td><td>Rua Campos Bicudo, 98, Conjunto 61 e 62 (parte), Bairro Jardim Europa, S&atilde;o Paulo &ndash; SP, CEP: 04536-010</td><td>(11) 2532-1065</td>
+</tr>
+<tr>
+<td>
+          1.2
+        </td><td>
+          Custodiante: VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA</td><td>22..61.0.5/00/0-00</td><td>Rua Gilberto Sabino, 215, 4&ordm; Andar, S&atilde;o Paulo - SP, CEP 05425-020</td><td>(11) 3030-7177</td>
+</tr>
+<tr>
+<td>
+          1.3
+        </td><td>
+          Auditor Independente: BAKER TILLY 4PARTNERS AUDITORES INDEPENDENTES LTDA.</td><td>18..59.6.9/45/0-00</td><td>Rua Castilho, 392 &ndash; Conjuntos 31, 32 e 42, Brooklin Paulista, 04568-010, S&atilde;o Paulo &ndash; SP</td><td>(11) 3107-4505</td>
+</tr>
+<tr>
+<td>
+          1.4
+        </td><td>
+          Formador de Mercado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.5
+        </td><td>
+          Distribuidor de cotas: VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA</td><td>22..61.0.5/00/0-00</td><td>Rua Gilberto Sabino, 215, 4&ordm; Andar, S&atilde;o Paulo - SP, CEP 05425-020</td><td>(11) 3030-7177</td>
+</tr>
+<tr>
+<td>
+          1.6
+        </td><td>
+          Consultor Especializado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.7
+        </td><td>
+          Empresa Especializada para administrar as loca&ccedil;&otilde;es: </td><td>../-</td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              1.8
+            </th><th align="left" colspan="4">Outros prestadores de servi&ccedil;os&sup1;:</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">2.</h3>
+</td><td>
+<h3 align="left">Investimentos FII</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          2.1
+        </td><td colspan="4"><b>Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3 align="left">3.</h3>
+</td><td>
+<h3 align="left">Programa de investimentos para os exerc&iacute;cios seguintes, incluindo, se necess&aacute;rio, as informa&ccedil;&otilde;es descritas no item 1.1 com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados:</h3>
+</td>
+</tr>
+<tr>
+<td>Informa&ccedil;&atilde;o n&atilde;o apresentada</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">4.</h3>
+</td><td>
+<h3 align="left">An&aacute;lise do administrador sobre:</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.1
+        </td><td><b>Resultado do fundo no exerc&iacute;cio findo</b></td>
+</tr>
+<tr>
+<td>Informa&ccedil;&atilde;o n&atilde;o apresentada</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.2
+        </td><td><b>Conjuntura econ&ocirc;mica do segmento do mercado imobili&aacute;rio de atua&ccedil;&atilde;o relativo ao per&iacute;odo findo</b></td>
+</tr>
+<tr>
+<td>Informa&ccedil;&atilde;o n&atilde;o apresentada</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.3
+        </td><td><b>Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da carteira</b></td>
+</tr>
+<tr>
+<td>Informa&ccedil;&atilde;o n&atilde;o apresentada</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3>5.</h3>
+</td><td>
+<h3>Riscos incorridos pelos cotistas inerentes aos investimentos do FII:</h3>
+</td>
+</tr>
+<tr>
+<td>
+          Ver anexo no final do documento. <a href="#anexos">Anexos</a></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              6.
+            </th><td align="center" colspan="2" width="49%"><b>Valor Cont&aacute;bil dos ativos imobili&aacute;rios do FII</b></td><td rowspan="2" align="center" width="25%"><b>Valor Justo, nos termos da ICVM 516 (SIM ou N&Atilde;O)</b></td><td rowspan="2" align="center" width="20%"><b>Percentual de Valoriza&ccedil;&atilde;o/Desvaloriza&ccedil;&atilde;o apurado no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>Rela&ccedil;&atilde;o de ativos imobili&aacute;rios</b></td><td align="center" width="24%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>PREDIO_64345</td><td align="center">220.500.000,00</td><td align="center">SIM</td><td align="center">33,22%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          6.1
+        </td><td><b>Crit&eacute;rios utilizados na referida avalia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>Informa&ccedil;&atilde;o n&atilde;o apresentada</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>7.</b></td><td colspan="7"><b>Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>8.</b></td><td colspan="4"><b>Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados em causas jur&iacute;dicas semelhantes, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>9.</b></td><td><b>An&aacute;lise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes:</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">10.</h3>
+</td><td>
+<h3 align="left">Assembleia Geral</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.1
+        </td><td><b>Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos &agrave; assembleia geral estar&atilde;o &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise:</b></td>
+</tr>
+<tr>
+<td>Rua Gilberto Sabino, n&ordm; 215, 4&ordm; andar, Pinheiros, CEP: 05425-020<br>www.vortx.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.2
+        </td><td><b>Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas para (i) a inclus&atilde;o de mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s delibera&ccedil;&otilde;es propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais cotistas para envio de pedido p&uacute;blico de procura&ccedil;&atilde;o.</b></td>
+</tr>
+<tr>
+<td>Endere&ccedil;o f&iacute;sico: Rua Gilberto Sabino, n&ordm; 215, 4&ordm; Andar, Pinheiros, SP e endere&ccedil;o eletr&ocirc;nico: fundos@vortx.com.br  e  www.vortx.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto.</b></td>
+</tr>
+<tr>
+<td>a participa&ccedil;&atilde;o dos cotistas em assembleia geral exige a comprova&ccedil;&atilde;o da titularidade por meio de inscri&ccedil;&atilde;o no registro de cotistas na data da convoca&ccedil;&atilde;o, sendo permitido o voto apenas aos cotistas, seus representantes legais ou procuradores devidamente constitu&iacute;dos. Cotistas inadimplentes n&atilde;o podem votar em rela&ccedil;&atilde;o &agrave;s cotas n&atilde;o integralizadas, as quais tamb&eacute;m n&atilde;o s&atilde;o consideradas para fins de qu&oacute;rum.
+
+O regulamento admite a delibera&ccedil;&atilde;o por meio de consulta formal, sem realiza&ccedil;&atilde;o de assembleia, mediante comunica&ccedil;&atilde;o eletr&ocirc;nica ou f&iacute;sica, com prazo m&iacute;nimo de 10 dias para manifesta&ccedil;&atilde;o por meio eletr&ocirc;nico e de 15 dias por meio f&iacute;sico, produzindo tais manifesta&ccedil;&otilde;es os mesmos efeitos das decis&otilde;es assembleares.
+
+A participa&ccedil;&atilde;o a dist&acirc;ncia &eacute; permitida, podendo as assembleias ocorrer de forma eletr&ocirc;nica ou h&iacute;brida, com envio de votos por comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica antes do in&iacute;cio da assembleia. O processo deve garantir a autenticidade e seguran&ccedil;a das informa&ccedil;&otilde;es, com identifica&ccedil;&atilde;o do cotista, e a convoca&ccedil;&atilde;o deve conter as instru&ccedil;&otilde;es necess&aacute;rias para viabilizar a participa&ccedil;&atilde;o e o exerc&iacute;cio do voto.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico.</b></td>
+</tr>
+<tr>
+<td>As delibera&ccedil;&otilde;es da assembleia geral de cotistas poder&atilde;o ser tomadas mediante processo de consulta formal, por meio eletr&ocirc;nico, dirigido pelo ADMINISTRADOR a cada cotista, para resposta de acordo com os prazos e qu&oacute;runs estabelecidos na regulamenta&ccedil;&atilde;o aplic&aacute;vel.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">11.</h3>
+</td><td>
+<h3 align="left">Remunera&ccedil;&atilde;o do Administrador</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>11.1</b></td><td colspan="3"><b>Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento:</b></td>
+</tr>
+<tr>
+<td colspan="3">Taxa de Administra&ccedil;&atilde;o: 0,136% ao ano sobre o patrim&ocirc;nio l&iacute;quido do Fundo, aplicado (a.1) sobre o valor cont&aacute;bil do patrim&ocirc;nio l&iacute;quido da Classe (&ldquo;PL&rdquo;); ou (a.2) caso as cotas da Classe tenham integrado ou passado a integrar, no per&iacute;odo, &iacute;ndices de mercado, cuja metodologia preveja crit&eacute;rios de inclus&atilde;o que considerem a liquidez das cotas e crit&eacute;rios de pondera&ccedil;&atilde;o que considerem o volume financeiro das cotas emitidas pela Classe, como por exemplo, o IFIX, sobre o valor de mercado da Classe, calculado com base na m&eacute;dia di&aacute;ria da cota&ccedil;&atilde;o de fechamento das cotas de emiss&atilde;o da Classe no m&ecirc;s anterior ao do pagamento da remunera&ccedil;&atilde;o (&ldquo;Base de C&aacute;lculo da Taxa de Administra&ccedil;&atilde;o&rdquo;), a qual ser&aacute; paga at&eacute; o 5&ordm; (quinto) Dia &Uacute;til de cada m&ecirc;s subsequente ao da presta&ccedil;&atilde;o dos servi&ccedil;os, vencendo-se a primeira mensalidade no 5&ordm; (quinto) Dia &Uacute;til do m&ecirc;s seguinte ao da primeira integraliza&ccedil;&atilde;o de recursos na Classe, observado o valor m&iacute;nimo mensal de R$ 15.360,00, (&ldquo;Taxa de Administra&ccedil;&atilde;o&rdquo;).  Caso o fundo passe a ter um PL superior a R$ 1.000.000.000,00 (um bilh&atilde;o de reais) a taxa de administra&ccedil;&atilde;o ser&aacute; reduzida para 0,09135% ao ano. </td>
+</tr>
+<tr>
+<td><b>Valor pago no ano de refer&ecirc;ncia (R$):</b></td><td><b>% sobre o patrim&ocirc;nio cont&aacute;bil:</b></td><td><b>% sobre o patrim&ocirc;nio a valor de mercado:</b></td>
+</tr>
+<tr>
+<td>NaN</td><td>NaN</td><td>NaN</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">12.</h3>
+</td><td>
+<h3 align="left">Governan&ccedil;a</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.1</b></td><td colspan="4"><b>Representante(s) de cotistas</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.2</b></td><td colspan="4"><b>Diretor Respons&aacute;vel pelo FII</b></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome: </span></td><td width="30%"><span class="dado-cabecalho">Ricardo Fuscaldi de Figueiredo Baptista</span></td><td width="25%"><span class="titulo-dado">Idade: </span></td><td width="25%"><span class="dado-cabecalho">54</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Profiss&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">Engenheiro</span></td><td width="25%"><span class="titulo-dado">CPF: </span></td><td width="25%"><span class="dado-cabecalho">11475074816</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">E-mail: </span></td><td width="30%"><span class="dado-cabecalho">rfb@vortx.com.br</span></td><td width="25%"><span class="titulo-dado">Forma&ccedil;&atilde;o acad&ecirc;mica: </span></td><td width="25%"><span class="dado-cabecalho">Engenharia Eletr&ocirc;nica (ITA), MBA Finan&ccedil;as (IBMEC-SP)</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas detidas do FII: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Quantidade de cotas do FII compradas no per&iacute;odo: </span></td><td width="25%"><span class="dado-cabecalho">0,00</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas do FII vendidas no per&iacute;odo: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Data de in&iacute;cio na fun&ccedil;&atilde;o: </span></td><td width="25%"><span class="dado-cabecalho">24/06/2025</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome da Empresa</span></td><td><span class="titulo-dado">Per&iacute;odo</span></td><td><span class="titulo-dado">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="titulo-dado">Atividade principal da empresa na qual tais experi&ecirc;ncias ocorreram</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">V&oacute;rtx DTVM</span></td><td><span class="dado-cabecalho">2023-atual</span></td><td><span class="dado-cabecalho">Diretor de Administra&ccedil;&atilde;o Fiduci&aacute;ria, Diretor respons&aacute;vel pela &aacute;rea de Risco, Compliance e Controles internos</span></td><td><span class="dado-cabecalho">Diretor de Administra&ccedil;&atilde;o Fiduci&aacute;ria, Diretor respons&aacute;vel pela &aacute;rea de Risco, Compliance e Controles internos</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">RCF Financial Consulting</span></td><td><span class="dado-cabecalho">2022-2023</span></td><td><span class="dado-cabecalho">S&oacute;cio Fundador</span></td><td><span class="dado-cabecalho">S&oacute;cio Fundador</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">Armor Capital Asset</span></td><td><span class="dado-cabecalho">2020-2022</span></td><td><span class="dado-cabecalho">S&oacute;cio S&ecirc;nior e Diretor Executivo</span></td><td><span class="dado-cabecalho">S&oacute;cio S&ecirc;nior e Diretor Executivo</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Evento</span></td><td colspan="2"><span class="titulo-dado">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas aplicadas</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>13.</b></td><td colspan="6"><b>Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas adquirido.</b></td>
+</tr>
+<tr>
+<td width="20%"><b>Faixas de Pulveriza&ccedil;&atilde;o</b></td><td width="16%"><b>N&ordm; de cotistas</b></td><td width="16%"><b>N&ordm; de cotas detidas</b></td><td width="16%"><b>% de cotas detido em rela&ccedil;&atilde;o ao total emitido</b></td><td width="16%"><b>% detido por PF</b></td><td width="16%"><b>% detido por PJ</b></td>
+</tr>
+<tr>
+<td>
+          At&eacute; 5% das cotas
+        </td><td>3,00</td><td>32.033,00</td><td>1,17%</td><td>1,17%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 5% at&eacute; 10%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 10% at&eacute; 15%
+        </td><td>1,00</td><td>372.464,00</td><td>13,59%</td><td>0,00%</td><td>13,59%</td>
+</tr>
+<tr>
+<td>
+          Acima de 15% at&eacute; 20%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 20% at&eacute; 30%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 30% at&eacute; 40%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 40% at&eacute; 50%
+        </td><td>0,00</td><td>0,00</td><td>0,00%</td><td>0,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 50%
+        </td><td>1,00</td><td>2.335.804,00</td><td>85,24%</td><td>0,00%</td><td>85,24%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">14.</h3>
+</td><td>
+<h3 align="left">Transa&ccedil;&otilde;es a que se refere o art. 34 e inciso IX do art.35, da Instru&ccedil;&atilde;o CVM n&ordm; 472, de 2008</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">15.</h3>
+</td><td>
+<h3 align="left">Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.1
+        </td><td><b>Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores, indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es relevantes n&atilde;o divulgadas, locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos.</b></td>
+</tr>
+<tr>
+<td>Todos os atos ou fatos relevantes do Fundo ser&atilde;o divulgados na p&aacute;gina do Fundo, www.vortx.com.br e no sistema FundosNet da B3 S.A.- Brasil, Bolsa e Balc&atilde;o (B3) e da CVM.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.2
+        </td><td><b>Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>As Cotas ser&atilde;o admitidas &agrave; negocia&ccedil;&atilde;o no Mercado de Bolsa administrado pela B3 S.A &ndash; Brasil, Bolsa, Balc&atilde;o, observados o disposto no Regulamento do Fundo</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.3
+        </td><td><b>Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>O exerc&iacute;cio do direito de voto decorrente de ativos financeiros e valores mobili&aacute;rios detidos pelas Classes, a que se refere o item 9.3.,(h), acima, seguir&aacute; o disposto na pol&iacute;tica de exerc&iacute;cio de direito de voto do Gestor, dispon&iacute;vel no seguinte endere&ccedil;o eletr&ocirc;nico: https://www.hirecapital.com.br/politicas/.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.4
+        </td><td><b>Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o, manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso.</b></td>
+</tr>
+<tr>
+<td>N&atilde;o aplic&aacute;vel.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>16.</b></td><td><b>Regras e prazos para chamada de capital do fundo:</b></td>
+</tr>
+<tr>
+<td>O termo de aceita&ccedil;&atilde;o, o compromisso de investimento ou o documento de subscri&ccedil;&atilde;o aplic&aacute;vel, poder&atilde;o conter obriga&ccedil;&atilde;o do investidor de integralizar o valor do capital subscrito de acordo com chamadas realizadas pelo Administrador, conforme orienta&ccedil;&atilde;o do Gestor, e observados os limites previstos neste Regulamento no que se refere a despesas e encargos do Fundo, sempre que for necess&aacute;rio o aporte de recursos para seu pagamento. O comunicado aos cotistas dever&aacute; conter, no m&iacute;nimo, as seguintes informa&ccedil;&otilde;es: (i) quantidade de Cotas que dever&atilde;o ser integralizadas; (ii) valor total que dever&aacute; ser integralizado; e (iii) data prevista para liquida&ccedil;&atilde;o da chamada de capital, de modo que os investidores acessem seus custodiantes para realiza&ccedil;&atilde;o das opera&ccedil;&otilde;es de integraliza&ccedil;&atilde;o das cotas. Ao receberem a chamada de capital, os cotistas ser&atilde;o obrigados aportar no prazo limite informado na chamada de capital, conforme solicitado pelo Administrador, sendo que as chamadas de capital dever&atilde;o ser realizadas com no m&iacute;nimo de 5 (cinco) Dias &Uacute;teis de anteced&ecirc;ncia da data final para aporte.</td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+<tr>
+<td style="padding-left:20px"><a href="downloadDocumentoAdicional?idDocumento=1150830&amp;idDocumentoAdicional=36">5. Fatores de Risco</a></td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Nota</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>A rela&ccedil;&atilde;o de prestadores de servi&ccedil;os de que trata o item 1.8 deve ser indicada quando o referido prestador de servi&ccedil;os representar mais de 5% das despesas do FII</td>
+</tr>
+</table>
+</body>
+</html>

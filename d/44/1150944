@@ -1,0 +1,617 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-V : Informe Anual</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual - FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td width="30%"><span class="dado-cabecalho">XP CORPORATE MACA&Eacute; FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO DE RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td width="25%"><span class="dado-cabecalho">16.802.320/0001-03</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">11/03/2013</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRXPCMCTF009</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">2.414.570,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo/Classe Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Tijolo</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>Renda</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Definida</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Escrit&oacute;rios</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">OSLO CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">13.673.855/0001-25</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">Rua Dr. Eduardo de Souza Aranha,
+              153,
+              4&ordm; andar-
+              Vila Nova Concei&ccedil;&atilde;o-
+              S&atilde;o Paulo-
+              SP-
+              04543120</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">	(11) 3513-3199</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.oslodtvm.com</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">admfundos@oslodtvm.com</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">12/2025</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">1.</h3>
+</td><td width="32%">
+<h3 align="left">Prestadores de servi&ccedil;os</h3>
+</td><td width="12%">
+<h3 align="left">CNPJ</h3>
+</td><td width="35%">
+<h3 align="left">Endere&ccedil;o</h3>
+</td><td width="15%">
+<h3 align="left">Telefone</h3>
+</td>
+</tr>
+<tr>
+<td>
+          1.1
+        </td><td>
+          Gestor: URCA GEST&Atilde;O DE RECURSOS LTDA</td><td>31.818.879/0001-07</td><td>Rua Urussu&iacute;, 125 - Sala 101 e 102 - Itaim Bibi - S&atilde;o Paulo - SP</td><td>(11) 3078-0869</td>
+</tr>
+<tr>
+<td>
+          1.2
+        </td><td>
+          Custodiante: OSLO CAPITAL DTVM S.A.</td><td>13.673.855/0001-25</td><td>Rua Doutor Eduardo de Souza Aranha, 153 - 4&ordm; andar - Vila Nova Concei&ccedil;&atilde;o - S&atilde;o Paulo - SP</td><td>(11) 3513-3199</td>
+</tr>
+<tr>
+<td>
+          1.3
+        </td><td>
+          Auditor Independente: CLA BRASIL</td><td>54.080.721/0001-88</td><td>Avenida das Na&ccedil;oes Unidas, 11541- 18&ordm; andar, conj 182- Brooklin Paulista- SP</td><td>(11) 2050-5320</td>
+</tr>
+<tr>
+<td>
+          1.4
+        </td><td>
+          Formador de Mercado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.5
+        </td><td>
+          Distribuidor de cotas: OSLO CAPITAL DTVM S.A.</td><td>13.673.855/0001-25</td><td>Rua Doutor Eduardo de Souza Aranha, 153 - 4&ordm; andar - Vila Nova Concei&ccedil;&atilde;o - S&atilde;o Paulo - SP</td><td>(11) 3513-3199</td>
+</tr>
+<tr>
+<td>
+          1.6
+        </td><td>
+          Consultor Especializado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.7
+        </td><td>
+          Empresa Especializada para administrar as loca&ccedil;&otilde;es: </td><td>../-</td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              1.8
+            </th><th align="left" colspan="4">Outros prestadores de servi&ccedil;os&sup1;:</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">2.</h3>
+</td><td>
+<h3 align="left">Investimentos FII</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          2.1
+        </td><td colspan="4"><b>Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3 align="left">3.</h3>
+</td><td>
+<h3 align="left">Programa de investimentos para os exerc&iacute;cios seguintes, incluindo, se necess&aacute;rio, as informa&ccedil;&otilde;es descritas no item 1.1 com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados:</h3>
+</td>
+</tr>
+<tr>
+<td>O Fundo pretende, nos exerc&iacute;cios seguintes, apenas realizar a loca&ccedil;&atilde;o dos im&oacute;veis vagos e fazer a gest&atilde;o definida do FII.
+
+Na data de elabora&ccedil;&atilde;o deste informe, n&atilde;o h&aacute; compromissos firmes de aquisi&ccedil;&atilde;o de novos ativos.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">4.</h3>
+</td><td>
+<h3 align="left">An&aacute;lise do administrador sobre:</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.1
+        </td><td><b>Resultado do fundo no exerc&iacute;cio findo</b></td>
+</tr>
+<tr>
+<td>O Fundo apresentou resultado negativo de 24,56% no exerc&iacute;cio, com um Patrim&ocirc;nio L&iacute;quido de R$ 49.590.371,35</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.2
+        </td><td><b>Conjuntura econ&ocirc;mica do segmento do mercado imobili&aacute;rio de atua&ccedil;&atilde;o relativo ao per&iacute;odo findo</b></td>
+</tr>
+<tr>
+<td>O segmento de salas comerciais apresenta din&acirc;mica est&aacute;vel e aderente &agrave;s necessidades do mercado local, com demanda consistente tanto para venda quanto para loca&ccedil;&atilde;o. A procura concentra-se em unidades inseridas em edif&iacute;cios comerciais consolidados, com padr&atilde;o construtivo adequado ao uso corporativo, boa acessibilidade e infraestrutura urbana completa, caracter&iacute;sticas que influenciam diretamente a atratividade e a liquidez dos im&oacute;veis.
+
+Quanto &agrave; loca&ccedil;&atilde;o, observa-se demanda cont&iacute;nua por salas prontas para uso, bem conservadas e estrategicamente localizadas, atendendo principalmente empresas de pequeno e m&eacute;dio porte, profissionais liberais, consult&oacute;rios e prestadores de servi&ccedil;os. A facilidade de acesso, a visibilidade comercial e a oferta de servi&ccedil;os no entorno contribuem para menor vac&acirc;ncia e maior estabilidade de ocupa&ccedil;&atilde;o.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.3
+        </td><td><b>Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da carteira</b></td>
+</tr>
+<tr>
+<td>Para o per&iacute;odo seguinte o fundo pretende realizar a loca&ccedil;&atilde;o das unidades dispon&iacute;veis e fazer a gest&atilde;o ativa do FII.
+
+Na data de elabora&ccedil;&atilde;o deste informe, n&atilde;o h&aacute; compromissos firmes de aquisi&ccedil;&atilde;o de novos ativos.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3>5.</h3>
+</td><td>
+<h3>Riscos incorridos pelos cotistas inerentes aos investimentos do FII:</h3>
+</td>
+</tr>
+<tr>
+<td>
+          Ver anexo no final do documento. <a href="#anexos">Anexos</a></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              6.
+            </th><td align="center" colspan="2" width="49%"><b>Valor Cont&aacute;bil dos ativos imobili&aacute;rios do FII</b></td><td rowspan="2" align="center" width="25%"><b>Valor Justo, nos termos da ICVM 516 (SIM ou N&Atilde;O)</b></td><td rowspan="2" align="center" width="20%"><b>Percentual de Valoriza&ccedil;&atilde;o/Desvaloriza&ccedil;&atilde;o apurado no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>Rela&ccedil;&atilde;o de ativos imobili&aacute;rios</b></td><td align="center" width="24%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>IM&Oacute;VEL - MACA&Eacute;</td><td align="center">50.630.063,68</td><td align="center">N&Atilde;O</td><td align="center">-28,29%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          6.1
+        </td><td><b>Crit&eacute;rios utilizados na referida avalia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>Para a avalia&ccedil;&atilde;o do im&oacute;vel em loca&ccedil;&atilde;o, adotou-se o m&eacute;todo da renda capitalizada que se aplica especialmente a ativos geradores de fluxo de caixa previs&iacute;vel. A proje&ccedil;&atilde;o de receita foi elaborada com base nas condi&ccedil;&otilde;es dos contratos de loca&ccedil;&atilde;o dos im&oacute;veis.
+
+A renda foi projetada ao longo de um horizonte de dois anos e um m&ecirc;s, com crescimento anual compat&iacute;vel com as expectativas inflacion&aacute;rias e com a evolu&ccedil;&atilde;o hist&oacute;rica dos alugu&eacute;is na &aacute;rea de influ&ecirc;ncia do im&oacute;vel. Ap&oacute;s esse per&iacute;odo, considerou-se um crescimento residual est&aacute;vel, coerente com a taxa de longo prazo da economia, para fins de c&aacute;lculo da perpetuidade.
+
+Todos os fluxos futuros de receita foram descontados a valor presente por meio de uma taxa de desconto calculada a partir da metodologia do CAPM (Capital Asset Pricing Model).</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>7.</b></td><td colspan="7"><b>Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>8.</b></td><td colspan="4"><b>Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados em causas jur&iacute;dicas semelhantes, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>9.</b></td><td><b>An&aacute;lise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes:</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">10.</h3>
+</td><td>
+<h3 align="left">Assembleia Geral</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.1
+        </td><td><b>Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos &agrave; assembleia geral estar&atilde;o &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise:</b></td>
+</tr>
+<tr>
+<td>Rua Dr. Eduardo de Souza Aranha, 153 - 4 andar - Vila Nova Concei&ccedil;&atilde;o - S&atilde;o Paulo - SP<br>www.oslodtvm.com</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.2
+        </td><td><b>Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas para (i) a inclus&atilde;o de mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s delibera&ccedil;&otilde;es propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais cotistas para envio de pedido p&uacute;blico de procura&ccedil;&atilde;o.</b></td>
+</tr>
+<tr>
+<td>As informa&ccedil;&otilde;es sobre o fundo disponibilizadas aos cotistas poder&atilde;o ser obtidas junto ao administrador do fundo no site www.oslodtvm.com e atrav&eacute;s do site  fnet.bmfbovespa.com.br . O comunicado, envio, divulga&ccedil;&atilde;o e/ou disponibiliza&ccedil;&atilde;o, pelo administrador, de quaisquer informa&ccedil;&otilde;es, comunicados, cartas e documentos, cuja obriga&ccedil;&atilde;o esteja disposta no regulamento do fundo ou na regulamenta&ccedil;&atilde;o vigente, ser&aacute; realizado por meio de correio eletr&ocirc;nico (e-mail).
+
+Para contato &eacute; disponibilizado aos cotistas esses meios:
+
+Telefone: 11 3513-3199
+E-mail: admfundos@oslodtvm.com
+Endere&ccedil;o: Rua Dr. Eduardo de Souza Aranha, 153</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto.</b></td>
+</tr>
+<tr>
+<td>A qualidade de cotista &eacute; comprovada pelo registro no livro de cotistas do Administrador do fundo. A Assembl&eacute;ia de cotistas poder&aacute; eleger um representante para fiscalizar os investimentos do fundo. O Administrador poder&aacute; realizar convoca&ccedil;&otilde;es e consultas formais por interm&eacute;dio de correio eletr&ocirc;nico (e-mail), com a descri&ccedil;&atilde;o da mat&eacute;ria a ser deliberada. Ser&aacute; considerado consultado o cotista para o qual for enviado o correio eletr&ocirc;nico.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico.</b></td>
+</tr>
+<tr>
+<td>Os cond&ocirc;minos podem votar por meio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica e dever&atilde;o responder a consulta ou convoca&ccedil;&atilde;o do Administrador no prazo de 5 (cinco) dias &uacute;teis, a contar do recebimento do referido correio eletr&ocirc;nico.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">11.</h3>
+</td><td>
+<h3 align="left">Remunera&ccedil;&atilde;o do Administrador</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>11.1</b></td><td colspan="3"><b>Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento:</b></td>
+</tr>
+<tr>
+<td colspan="3">A Classe &Uacute;nica do Fundo pagar&aacute; uma taxa de administra&ccedil;&atilde;o (&ldquo;Taxa de Administra&ccedil;&atilde;o&rdquo;), correspondente a 1% (um por cento) ao ano sobre o valor do patrim&ocirc;nio l&iacute;quido da Classe, provisionada diariamente com base em um ano de 252 (duzentos e cinquenta e dois) dias e paga mensalmente, at&eacute; o 5&ordm; (quinto) Dia &Uacute;til do m&ecirc;s subsequente, observada, ainda, a remunera&ccedil;&atilde;o m&iacute;nima de  R$ 18.000,00 (dezoito mil reais) mensais, na data base de 01 de agosto de 2025, corrigida anualmente pela varia&ccedil;&atilde;o do &Iacute;ndice Geral de Pre&ccedil;os do Mercado - IGP-M, divulgado pela Funda&ccedil;&atilde;o Get&uacute;lio Vargas&ndash; FGV.
+</td>
+</tr>
+<tr>
+<td><b>Valor pago no ano de refer&ecirc;ncia (R$):</b></td><td><b>% sobre o patrim&ocirc;nio cont&aacute;bil:</b></td><td><b>% sobre o patrim&ocirc;nio a valor de mercado:</b></td>
+</tr>
+<tr>
+<td>72.000,00</td><td>0,14%</td><td>0,14%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">12.</h3>
+</td><td>
+<h3 align="left">Governan&ccedil;a</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.1</b></td><td colspan="4"><b>Representante(s) de cotistas</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.2</b></td><td colspan="4"><b>Diretor Respons&aacute;vel pelo FII</b></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome: </span></td><td width="30%"><span class="dado-cabecalho">Ariana Renata Pavan</span></td><td width="25%"><span class="titulo-dado">Idade: </span></td><td width="25%"><span class="dado-cabecalho">36</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Profiss&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">Diretora de Administra&ccedil;&atilde;o Fiduci&aacute;ria</span></td><td width="25%"><span class="titulo-dado">CPF: </span></td><td width="25%"><span class="dado-cabecalho">321.299.588-26</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">E-mail: </span></td><td width="30%"><span class="dado-cabecalho">apavan@oslodtvm.com</span></td><td width="25%"><span class="titulo-dado">Forma&ccedil;&atilde;o acad&ecirc;mica: </span></td><td width="25%"><span class="dado-cabecalho">Economista</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas detidas do FII: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Quantidade de cotas do FII compradas no per&iacute;odo: </span></td><td width="25%"><span class="dado-cabecalho">0,00</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas do FII vendidas no per&iacute;odo: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Data de in&iacute;cio na fun&ccedil;&atilde;o: </span></td><td width="25%"><span class="dado-cabecalho">21/10/2021</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Evento</span></td><td colspan="2"><span class="titulo-dado">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas aplicadas</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>13.</b></td><td colspan="6"><b>Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas adquirido.</b></td>
+</tr>
+<tr>
+<td width="20%"><b>Faixas de Pulveriza&ccedil;&atilde;o</b></td><td width="16%"><b>N&ordm; de cotistas</b></td><td width="16%"><b>N&ordm; de cotas detidas</b></td><td width="16%"><b>% de cotas detido em rela&ccedil;&atilde;o ao total emitido</b></td><td width="16%"><b>% detido por PF</b></td><td width="16%"><b>% detido por PJ</b></td>
+</tr>
+<tr>
+<td>
+          At&eacute; 5% das cotas
+        </td><td>16.486,00</td><td>2.087.752,00</td><td>86,46%</td><td>98,91%</td><td>1,09%</td>
+</tr>
+<tr>
+<td>
+          Acima de 5% at&eacute; 10%
+        </td><td>2,00</td><td>326.818,00</td><td>13,54%</td><td>100,00%</td><td>0,00%</td>
+</tr>
+<tr>
+<td>
+          Acima de 10% at&eacute; 15%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 15% at&eacute; 20%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 20% at&eacute; 30%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 30% at&eacute; 40%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 40% at&eacute; 50%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 50%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">14.</h3>
+</td><td>
+<h3 align="left">Transa&ccedil;&otilde;es a que se refere o art. 34 e inciso IX do art.35, da Instru&ccedil;&atilde;o CVM n&ordm; 472, de 2008</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">15.</h3>
+</td><td>
+<h3 align="left">Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.1
+        </td><td><b>Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores, indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es relevantes n&atilde;o divulgadas, locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos.</b></td>
+</tr>
+<tr>
+<td>As informa&ccedil;&otilde;es sobre fatos relevantes s&atilde;o divulgadas ao p&uacute;blico e aos cotistas, bem como &agrave; Comiss&atilde;o de Valores Mobili&aacute;rios - CVM, junto ao administrador do fundo no site www.oslodtvm.com e atrav&eacute;s do site fnet.bmfbovespa.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.2
+        </td><td><b>Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>As cotas, ap&oacute;s subscritas e integralizadas, ser&atilde;o registradas para negocia&ccedil;&atilde;o em mercado secund&aacute;rio, a crit&eacute;rio da Administradora, e somente poder&atilde;o ser negociadas em mercado de bolsa de valores ou mercado de balc&atilde;o organizado administrado pela B3 S.A. &ndash; Brasil, Bolsa, Balc&atilde;o (&ldquo;B3&rdquo;).</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.3
+        </td><td><b>Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>Fica estabelecido que o GESTOR deste FUNDO adota Pol&iacute;tica de Exerc&iacute;cio de Direito de Voto em Assembleias, que disciplina os princ&iacute;pios gerais, o processo decis&oacute;rio e quais as mat&eacute;rias relevantes obrigat&oacute;rias para os exerc&iacute;cios do direito de voto pelo GESTOR do FUNDO em assembleias de sociedades nas quais o FUNDO participe. Tal pol&iacute;tica orienta as decis&otilde;es do GESTOR em assembleias de detentores de t&iacute;tulos e valores mobili&aacute;rios que confiram aos seus titulares o direito de voto. A Pol&iacute;tica de Exerc&iacute;cio de Direito de Voto adotada pelo GESTOR, cuja c&oacute;pia &eacute; entregue ao COTISTA no momento de seu ingresso no FUNDO, est&aacute; divulgada no s&iacute;tio do GESTOR na rede mundial de computadores (internet) - www.oslodtvm.com</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.4
+        </td><td><b>Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o, manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso.</b></td>
+</tr>
+<tr>
+<td>A divulga&ccedil;&atilde;o das informa&ccedil;&otilde;es do fundo est&atilde;o a cargo da &aacute;rea de Administra&ccedil;&atilde;o Fiduci&aacute;ria, a qual pode ser contactada atrav&eacute;s do seguinte e-mail admfundos@oslodtvm.com</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>16.</b></td><td><b>Regras e prazos para chamada de capital do fundo:</b></td>
+</tr>
+<tr>
+<td>Eventuais chamadas de capital, devido a necessidade de caixa com respectivos aportes de cotistas, ser&atilde;o realizadas de acordo com o regulamento do fundo.</td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+<tr>
+<td style="padding-left:20px"><a href="downloadDocumentoAdicional?idDocumento=1150944&amp;idDocumentoAdicional=36">5. Fatores de Risco</a></td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Nota</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>A rela&ccedil;&atilde;o de prestadores de servi&ccedil;os de que trata o item 1.8 deve ser indicada quando o referido prestador de servi&ccedil;os representar mais de 5% das despesas do FII</td>
+</tr>
+</table>
+</body>
+</html>

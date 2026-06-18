@@ -1,0 +1,211 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Perfil do Fundo</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+          
+          td.no_border_left {
+          border-left: 1pt hidden:
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Perfil do Fundo</h2>
+<table width="95%" align="center">
+<tr>
+<td colspan="4">
+<h2>1. Dados Gerais</h2>
+</td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo: </span></td><td width="30%"><span class="dado-cabecalho">SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO IS RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="25%"><span class="dado-cabecalho">43.741.171/0001-84</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Administrador: </span></td><td width="30%"><span class="dado-cabecalho">QI CORRETORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS S.A.</span></td><td width="25%"><span class="titulo-dado">CNPJ do Administrador: </span></td><td width="25%"><span class="dado-cabecalho">62.285.390/0001-40</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de Negocia&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Bolsa</span></td><td><span class="titulo-dado">Nome de Preg&atilde;o: </span></td><td><span class="dado-cabecalho">FII SUNO EL</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo de Negocia&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">SNEL11</span></td><td><span class="titulo-dado">ISIN: </span></td><td><span class="dado-cabecalho">BRSNELCTF010</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="4">
+<h2>2. Dados Complementares</h2>
+</td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Tipo de Fundo: </span></td><td width="30%"><span class="dado-cabecalho">FII</span></td><td width="25%"><span class="titulo-dado">P&uacute;blico Alvo (Conforme Regulamento): </span></td><td width="25%"><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Exerc&iacute;cio Social: </span></td><td><span class="dado-cabecalho">dezembro</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Constitui&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">02/08/2021</span></td><td><span class="titulo-dado">Data de Registro na CVM: </span></td><td><span class="dado-cabecalho">23/09/2022</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="3">
+<h2>3. Patrim&ocirc;nio do Fundo</h2>
+</td><td><span style="margin:5px"><b>Data da Informa&ccedil;&atilde;o: </b></span><span>20/01/2026</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas integralizadas: </span></td><td width="30%"><span class="dado-cabecalho">72.325.868</span></td><td width="25%"><span class="titulo-dado">Capital Autorizado: </span></td><td width="25%"><span class="dado-cabecalho">Sim</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Valor da Cota: </span></td><td><span class="dado-cabecalho">R$ 8,60000000000</span></td><td><span class="titulo-dado">Valor do Capital Autorizado: </span></td><td><span class="dado-cabecalho">R$ 10.000.000.000,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Patrim&ocirc;nio do Fundo: </span></td><td><span class="dado-cabecalho">R$ 622.002.464,80</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="6">
+<h2>4. Prestadores de Servi&ccedil;o</h2>
+</td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Diretor Respons&aacute;vel: </span></td><td width="30%"><span class="dado-cabecalho">Daniel Doll Lemos</span></td><td width="10%"><span class="titulo-dado">Endere&ccedil;o: </span></td><td colspan="3"><span class="dado-cabecalho">Avenida Rebou&ccedil;as </span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">fii.adm@qitech.com.br</span></td><td><span class="titulo-dado">N&uacute;mero: </span></td><td><span class="dado-cabecalho">2942</span></td><td><span class="titulo-dado">Complemento: </span></td><td><span class="dado-cabecalho">10&ordm; andar</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Telefone </span></td><td><span class="dado-cabecalho">11 2827-3591</span></td><td><span class="titulo-dado">CEP: </span></td><td><span class="dado-cabecalho">05402500</span></td><td><span class="titulo-dado">Cidade: </span></td><td><span class="dado-cabecalho">S&atilde;o Paulo</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Gestor </span></td><td><span class="dado-cabecalho">SUNO GESTORA DE RECURSOS LTDA</span></td><td><span class="titulo-dado">UF: </span></td><td><span class="dado-cabecalho">SP</span></td><td><span class="titulo-dado">Pa&iacute;s: </span></td><td><span class="dado-cabecalho">Brasil</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Escriturador </span></td><td><span class="dado-cabecalho">QI CORRETORA DE T&Iacute;ULOS E VALORES MOBILI&Aacute;RIOS S.A</span></td><td><span class="titulo-dado">Site: </span></td><td colspan="3"><span class="dado-cabecalho">https://qitech.com.br/</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="4">
+<h2>5. Pol&iacute;tica de Distribui&ccedil;&atilde;o de Resultados</h2>
+</td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Periodicidade: </span></td><td width="30%"><span class="dado-cabecalho">Administradora dever&aacute; distribuir semestralmente pelo menos 95%</span></td><td width="25%"><span class="titulo-dado">Data de pagamento: </span></td><td><span class="dado-cabecalho">Sem no dia 25 de cada m&ecirc;s ou no preg&atilde;o imediatamente anterior caso n&atilde;o haja preg&atilde;o no dia 25</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data-base: </span></td><td><span class="dado-cabecalho">Fechamento do dia 15 de cada m&ecirc;s</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="4">
+<h2>6. Objetivo e Pol&iacute;tica de Investimento</h2>
+</td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Classifica&ccedil;&atilde;o ANBIMA: </span></td><td width="30%"><span class="dado-cabecalho">Multiestrat&eacute;gia - Gest&atilde;o Ativa &ndash; Outros&rdquo;</span></td><td style="vertical-align: text-top;" rowspan="2" width="10%"><span class="titulo-dado">Objetivo: </span></td><td style="vertical-align: text-top;" rowspan="2"><span class="dado-cabecalho">objetivo da Classe &eacute; a obten&ccedil;&atilde;o de renda e ganho de capital, bem como o fomento da transi&ccedil;&atilde;o energ&eacute;tica brasileira para fontes mais sustent&aacute;veis, a serem obtidos mediante investimento (i) diretamente em im&oacute;veis, direitos reais sobre im&oacute;veis relacionados e/ou destinados ao segmento de gera&ccedil;&atilde;o de energia el&eacute;trica de matriz limpa, tal como solar, e&oacute;lica, hidrel&eacute;trica, entre outras (&ldquo;Im&oacute;veis Alvo&rdquo;), por meio da aquisi&ccedil;&atilde;o de bens im&oacute;veis ou direitos reais sobre im&oacute;veis destinados &agrave; gera&ccedil;&atilde;o de energia el&eacute;trica por fontes limpas (como solar, e&oacute;lica, hidrel&eacute;trica), para posterior aliena&ccedil;&atilde;o, loca&ccedil;&atilde;o, arrendamento ou explora&ccedil;&atilde;o do direito de superf&iacute;cie, incluindo bens e direitos a eles relacionados</span></td>
+</tr>
+<tr>
+<td style="vertical-align: text-top;"><span class="titulo-dado">Pol&iacute;tica de Investimento: </span></td><td style="vertical-align: text-top; text-align: justify"><span class="dado-cabecalho">A Classe investir&aacute;, no m&iacute;nimo, 2/3 (dois ter&ccedil;os) do patrim&ocirc;nio l&iacute;quido da Classe em Ativos Alvo, e poder&aacute;, ainda, adquirir os ativos abaixo listados (&ldquo;Outros Ativos&rdquo; e, em conjunto com os Ativos Alvo, doravante denominados simplesmente os &ldquo;Ativos&rdquo;):
+(i)letras de cr&eacute;dito imobili&aacute;rio;
+(ii)letras hipotec&aacute;rias;
+(iii)letras imobili&aacute;rias garantidas;
+(iv)cotas de fundos de investimento em participa&ccedil;&otilde;es que tenham como pol&iacute;tica de investimento, exclusivamente, atividades permitidas aos FII;
+(v)cotas de fundos de investimento em direitos credit&oacute;rios que tenham como pol&iacute;tica de investimento, exclusivamente, atividades permitidas aos FII e desde que as cotas tenham sido objeto de oferta p&uacute;blica registrada na CVM ou cujo registro tenha sido dispensado nos termos da regulamenta&ccedil;&atilde;o em vigor;
+(vi)a&ccedil;&otilde;es ou cotas de sociedades cujo &uacute;nico prop&oacute;sito se enquadre entre as atividades permitidas aos FII;
+(vii)a&ccedil;&otilde;es, b&ocirc;nus de subscri&ccedil;&atilde;o, seus cupons, direitos, recibos de subscri&ccedil;&atilde;o e certificados de desdobramentos, certificados de dep&oacute;sito de valores mobili&aacute;rios, c&eacute;dulas de deb&ecirc;ntures, cotas de fundos de investimento, notas promiss&oacute;rias, e quaisquer outros valores mobili&aacute;rios, desde que se trate de emissores registrados na CVM e cujas atividades preponderantes sejam permitidas aos FII;
+(viii)im&oacute;veis que n&atilde;o sejam Im&oacute;veis Alvo; e
+(ix)demais ativos financeiros, t&iacute;tulos e valores mobili&aacute;rios que sejam ou venham a ser permitidos pela legisla&ccedil;&atilde;o ou regulamenta&ccedil;&atilde;o aplic&aacute;vel</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="4">
+<h2>7. Informa&ccedil;&otilde;es Adicionais</h2>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: text-top;"><span class="dado-cabecalho"></span></td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,632 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-V : Informe Anual</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual - FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td width="30%"><span class="dado-cabecalho">FII EUROPAR Responsabilidade Limitada</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td width="25%"><span class="dado-cabecalho">05.437.916/0001-27</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">10/12/2002</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BREUROCTF011</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">383.936,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo/Classe Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Tijolo</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>H&iacute;brido</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Definida</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Log&iacute;stica</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">COINVALORES CCVM LTDA</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">00.336.036/0001-40</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">Av. Brigadeiro Faria Lima,
+              1800,
+              2&ordm; andar-
+              Jardim Paulistano-
+              S&atilde;o Paulo-
+              SP-
+              01451-000</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">113035-4141</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.coinvalores.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">admfundoimobiliarios@coinvalores.com.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">12/2025</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">1.</h3>
+</td><td width="32%">
+<h3 align="left">Prestadores de servi&ccedil;os</h3>
+</td><td width="12%">
+<h3 align="left">CNPJ</h3>
+</td><td width="35%">
+<h3 align="left">Endere&ccedil;o</h3>
+</td><td width="15%">
+<h3 align="left">Telefone</h3>
+</td>
+</tr>
+<tr>
+<td>
+          1.1
+        </td><td>
+          Gestor: Coinvalores C. C. V. M. Ltda.</td><td>00..33.6.0/36/0-00</td><td>Av. Brigadeiro Faria Lima, 1800 - 2&ordm; andar - S&atilde;o Paulo - SP.</td><td>(11) 3035-4141</td>
+</tr>
+<tr>
+<td>
+          1.2
+        </td><td>
+          Custodiante: Banco Daycoval</td><td>62..23.2.8/89/0-00</td><td>Av. Paulista, 1793 - 2&ordm; andar - Bela Vista - S&atilde;o Paulo - SP.</td><td>(11) 3138-0500</td>
+</tr>
+<tr>
+<td>
+          1.3
+        </td><td>
+          Auditor Independente: Confiance Auditores Independentes</td><td>05..45.2.3/11/0-00</td><td>Av. Vereador Jos&eacute; Diniz, 3651 - 10&ordm; andar -  Campo Belo - S&atilde;o Paulo - SP.</td><td>(11) 5044-0683</td>
+</tr>
+<tr>
+<td>
+          1.4
+        </td><td>
+          Formador de Mercado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.5
+        </td><td>
+          Distribuidor de cotas: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.6
+        </td><td>
+          Consultor Especializado: </td><td>../-</td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          1.7
+        </td><td>
+          Empresa Especializada para administrar as loca&ccedil;&otilde;es: </td><td>../-</td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              1.8
+            </th><th align="left" colspan="4">Outros prestadores de servi&ccedil;os&sup1;:</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">2.</h3>
+</td><td>
+<h3 align="left">Investimentos FII</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          2.1
+        </td><td colspan="4"><b>Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3 align="left">3.</h3>
+</td><td>
+<h3 align="left">Programa de investimentos para os exerc&iacute;cios seguintes, incluindo, se necess&aacute;rio, as informa&ccedil;&otilde;es descritas no item 1.1 com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados:</h3>
+</td>
+</tr>
+<tr>
+<td>Conforme Ata de Apura&ccedil;&atilde;o publicada em 21 de janeiro de 2026, foi aprovada, por maioria dos votos, o Aumento de Capital no montante de R$ 8.556.282,72 (Oito milh&otilde;es, quinhentos e cinquenta e seis mil, duzentos e oitenta e dois reais e setenta e dois centavos) com a emiss&atilde;o de 25.947 (vinte e cinco mil e novecentos e quarenta e sete) novas cotas ao pre&ccedil;o unit&aacute;rio de R$ 329,76 (trezentos e vinte e nove reais e setenta e seis centavos) tendo como base o valor patrimonial da cota do m&ecirc;s de nov/25.
+
+A Oferta foi conclu&iacute;da  com a capta&ccedil;&atilde;o de 100% do montante total  e encerrada em 24/03/26. O recurso ser&aacute; destinada &agrave; constru&ccedil;&atilde;o de dois galp&otilde;es dentro do Centro de Distribui&ccedil;&atilde;o Anhanguera &ldquo;CDA&rdquo; com &aacute;rea total de 3.400m&sup2;, cujo per&iacute;odo de constru&ccedil;&atilde;o poder&aacute; variar de 14 a 16 meses. Com esse aumento de ABL, o CDA ter&aacute; otimiza&ccedil;&atilde;o m&aacute;xima, reduzir&aacute; o custo de condom&iacute;nio estimado em R$ 1,00 por m&sup2; bem como aumentar&aacute; a receita do Fundo gerando um ganho de Yield conforme estudo de viabilidade anexo &agrave; Ata de Assembl&eacute;ia Extraordin&aacute;ria. A primeira etapa da obra &eacute; voltada a obten&ccedil;&atilde;o das licen&ccedil;as e documenta&ccedil;&otilde;es, neste sentido , a administradora j&aacute; est&aacute; se mobilizando junto a construtora para in&iacute;cio desta etapa. 
+
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">4.</h3>
+</td><td>
+<h3 align="left">An&aacute;lise do administrador sobre:</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.1
+        </td><td><b>Resultado do fundo no exerc&iacute;cio findo</b></td>
+</tr>
+<tr>
+<td> No Exerc&iacute;cio findo em 31/12/2025 o Fundo apresentou um resultado de R$ 35.161 milh&otilde;es, sendo que desse resultado,  R$ 25.860 milh&otilde;es refere-se a varia&ccedil;&atilde;o positiva  do Ajuste a Valor Justo dos im&oacute;veis pertencentes &agrave; carteira do Fundo, desta forma, o resultado operacional do Fundo, expurgando a varia&ccedil;&atilde;o do ajuste a valor justo, foi de R$ 9.301 milh&otilde;es. No exerc&iacute;cio, o Fundo distribuiu aos quotistas o montante de R$ 9.072 milh&otilde;es (8.673 milh&otilde;es em 2024).</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.2
+        </td><td><b>Conjuntura econ&ocirc;mica do segmento do mercado imobili&aacute;rio de atua&ccedil;&atilde;o relativo ao per&iacute;odo findo</b></td>
+</tr>
+<tr>
+<td>O mercado de galp&otilde;es log&iacute;sticos em S&atilde;o Paulo continua aquecido, principalmente para im&oacute;veis localizados dentro da cidade de S&atilde;o Paulo,  como &eacute; o caso do CDA localizado no Km 17 da Rodovia Anhanguera. A taxa de de vac&acirc;ncia para im&oacute;veis localizado dentro de S&atilde;o Paulo continua baixa segundo informa&ccedil;&otilde;es de algumas consultorias, a taxa de vac&acirc;ncia em S&atilde;o Paulo terminou o ano de 2025 em torno de 5%, tal informa&ccedil;&atilde;o ratifica que o mercado log&iacute;stico, puxado pelo cont&iacute;nuo crescimento do e-commerce e atividades de last mile, continua com demanda aquecida favorecendo principalmente im&oacute;veis com excelente localiza&ccedil;&atilde;o. J&aacute; para o Rio de Janeiro,  o mercado de log&iacute;stica seguiu uma trajet&oacute;ria de crescimento mais lenta com situa&ccedil;&otilde;es mercadol&oacute;gicas distintas em rela&ccedil;&atilde;o a S&atilde;o Paulo, conforme dados de consultoria especializada, no ano passado, os condom&iacute;nios log&iacute;sticos localizados no Rio de Janeiro encerraram o per&iacute;odo com a menor taxa de vac&acirc;ncia da hist&oacute;ria em torno de 14%, ou seja, ainda que o mercado n&atilde;o tenha acompanhado o r&iacute;tmo acelerado de crescimento de S&atilde;o Paulo e de outras regi&otilde;es do Brasil, &eacute; um fato que o mercado vem demonstrando crescente com aumento da demanda para busca de im&oacute;veis log&iacute;sticos especialmente quando localizados pr&oacute;ximos ao centro do Rio de Janeito e aos dois aeroportos, Gale&atilde;o e Santos Dumond, como &eacute; caso dos dois CDRJs localizados em Olaria. Por fim,  cabe refor&ccedil;ar, que ativos com localiza&ccedil;&otilde;es privilegiadas em regi&otilde;es pr&oacute;ximas aos grandes centros metropolitanos como &eacute; o caso dos ativos do Fundo tem sido um bom diferencial, e, n&atilde;o &eacute; por acaso que conseguimos manter a taxa de ocupa&ccedil;&atilde;o em 100%. </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          4.3
+        </td><td><b>Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da carteira</b></td>
+</tr>
+<tr>
+<td>Os im&oacute;veis que comp&otilde;em a carteira do Fundo encerraram o exerc&iacute;cio com 100% de ocupa&ccedil;&atilde;o, considerando que setor permanece aquecido, principalmente para im&oacute;veis localizados em um raio de 15km das principais vias de  S&atilde;o Paulo assim como no Rio de Janeiro,  a pespectiva da administradora &eacute; manter esse nivel de  ocupa&ccedil;&atilde;o.  O atual cen&aacute;rio econ&ocirc;mico, tanto nacional como o internacional, continua desafiador, sobretudo em decorr&ecirc;ncia do conflito envolvendo Israel, Estados Unidos e Ir&atilde; e  com envolvimento de outros pa&iacute;ses da regi&atilde;o do Oriente M&eacute;dio. Os reflexos da tens&atilde;o no Oriente M&eacute;dio, especialmente com o risco de bloqueio do Estreito de Ormuz, por onde passam cerca de 20% do petr&oacute;leo mundial, j&aacute; podem ser verificados com a forte alta no pre&ccedil;o do barril de petr&oacute;leo, de at&eacute; 40% em mar&ccedil;o. Al&eacute;m disso, o Brasil segue com a preocupa&ccedil;&atilde;o no equil&iacute;brio da contas p&uacute;blicas, al&eacute;m de ser um ano de elei&ccedil;&atilde;o, o que pode gerar incertezas sobre o rumo da pol&iacute;tica econ&ocirc;mica e da austeridade fiscal.  De acordo com o Boletim Focus divulgado em 16/03/2026, a proje&ccedil;&atilde;o da SELIC para 2026 &eacute; de 12,25%, j&aacute; a proje&ccedil;&atilde;o para o IPCA &eacute; de 4,10%. Como mencionado acima, o reflexo da guerra no Oriente M&eacute;dio traz uma inseguran&ccedil;a adicional para o cen&aacute;rio econ&ocirc;mico, o que pode comprometer as previs&otilde;es. Neste sentido, antes do in&iacute;cio do conflito havia uma expectativa de redu&ccedil;&atilde;o da taxa de juros de at&eacute;, 0,50 p.p, no entanto, na reuni&atilde;o do COPOM realizada em 17/03/2026 a decis&atilde;o foi mais cautelosa, com redu&ccedil;&atilde;o de apenas 0,25 p.p. De qualquer forma, considerando a excelente localiza&ccedil;&atilde;o dos ativos do Fundo e o cont&iacute;nuo crescimento do mercado de e-commerce e Last Mile, acreditamos que os ativos est&atilde;o muito bem posicionados , assim, esperamos mater a ocupa&ccedil;&atilde;o de 100% para ano de 2026.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+<h3>5.</h3>
+</td><td>
+<h3>Riscos incorridos pelos cotistas inerentes aos investimentos do FII:</h3>
+</td>
+</tr>
+<tr>
+<td>
+          Ver anexo no final do documento. <a href="#anexos">Anexos</a></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="200" width="3%">
+              6.
+            </th><td align="center" colspan="2" width="49%"><b>Valor Cont&aacute;bil dos ativos imobili&aacute;rios do FII</b></td><td rowspan="2" align="center" width="25%"><b>Valor Justo, nos termos da ICVM 516 (SIM ou N&Atilde;O)</b></td><td rowspan="2" align="center" width="20%"><b>Percentual de Valoriza&ccedil;&atilde;o/Desvaloriza&ccedil;&atilde;o apurado no per&iacute;odo</b></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>Rela&ccedil;&atilde;o de ativos imobili&aacute;rios</b></td><td align="center" width="24%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>Centro de Distribui&ccedil;&atilde;o Anhanguera -   CDA </td><td align="center">118.539.000,00</td><td align="center">SIM</td><td align="center">27,19%</td>
+</tr>
+<tr>
+<td>Centro de distribui&ccedil;&atilde;o do Rio de Janeiro - CDRJ </td><td align="center">17.646.000,00</td><td align="center">SIM</td><td align="center">4,59%</td>
+</tr>
+<tr>
+<td>Torre de Testes de Elevadores </td><td align="center">14.770.000,00</td><td align="center">SIM</td><td align="center">1,85%</td>
+</tr>
+<tr>
+<td>Investimento Sistemas de Seguran&ccedil;a</td><td align="center">238.588,25</td><td align="center">N&Atilde;O</td><td align="center">0,00%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          6.1
+        </td><td><b>Crit&eacute;rios utilizados na referida avalia&ccedil;&atilde;o</b></td>
+</tr>
+<tr>
+<td>Metodologia: Para determinar o valor justo dos ativos classificados como Propriedade para Investimentos no patrim&ocirc;nio do Fundo, foram utilizadas diferentes metodologias de avalia&ccedil;&atilde;o.
+
+Para os ativos situados em S&atilde;o Paulo (&ldquo;Galp&atilde;o CDA 1, 2 e 3&rdquo;) e no Rio de Janeiro (&ldquo;Galp&atilde;o CDRJ 1 e CDRJ 2&rdquo;), aplicou-se o M&eacute;todo de Capitaliza&ccedil;&atilde;o da Renda atrav&eacute;s de Fluxo de Caixa Descontado. Para os M&oacute;dulos I e II do Galp&atilde;o Localizado no CDA , a Avaliadora considerou uma taxa de desconto de 9,75%. Para os M&oacute;dulos III, IV, Galp&otilde;es III do CDA e Galp&atilde;o II da Paulo Zing a avaliadora considerou uma taxa de desconto de 9,50%. Para os Galp&otilde;es do Rio de Janeiro, a avaliadora considerou uma taxa de desconto de 9,75%. J&aacute; para a Torre de Testes de Elevadores, localizada em Interlagos, foi adotada exclusivamente a Metodologia Evolutiva.
+
+Adicionalmente, na elabora&ccedil;&atilde;o do fluxo de caixa descontado, seguiram-se os seguintes crit&eacute;rios:
+
+&sect;&nbsp;&nbsp;Per&iacute;odo de proje&ccedil;&atilde;o expl&iacute;cita: admitindo uma fase futura de maior proximidade temporal e melhores condi&ccedil;&otilde;es de previsibilidade, normalmente estabelecida em 10 anos; 
+
+&sect;&nbsp;&nbsp;Valor Residual: equivalente ao restante da vida &uacute;til do empreendimento. Este fluxo de caixa futuro de longo prazo &eacute; substitu&iacute;do por um valor equivalente &uacute;nico no final do per&iacute;odo de proje&ccedil;&atilde;o expl&iacute;cita.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>7.</b></td><td colspan="7"><b>Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>8.</b></td><td colspan="4"><b>Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados em causas jur&iacute;dicas semelhantes, n&atilde;o sigilosos e relevantes</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>9.</b></td><td><b>An&aacute;lise dos impactos em caso de perda e valores envolvidos relacionados aos processos judiciais sigilosos relevantes:</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">10.</h3>
+</td><td>
+<h3 align="left">Assembleia Geral</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.1
+        </td><td><b>Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos &agrave; assembleia geral estar&atilde;o &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise:</b></td>
+</tr>
+<tr>
+<td>Av. Brigadeiro Faria Lima, 1800 - 2&deg; andar <br>admfundoimobiliario@coinvalores.com.br</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.2
+        </td><td><b>Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas para (i) a inclus&atilde;o de mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s delibera&ccedil;&otilde;es propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais cotistas para envio de pedido p&uacute;blico de procura&ccedil;&atilde;o.</b></td>
+</tr>
+<tr>
+<td>O envio de mat&eacute;rias, temas da ordem do dia bem como os documentos pertinentes &agrave;s delibera&ccedil;&otilde;es poder&atilde;o ser encaminhados por endere&ccedil;o do e-mail do administrador, sendo, o mesmo endere&ccedil;o de e-mail objeto das respostas dos itens de delibera&ccedil;&atilde;o ou poder&aacute; ser encaminhado via correio no endere&ccedil;o da administradora devidamente indicado no Edital ou carta consulta. O endere&ccedil;o eletr&ocirc;nico bem como o endere&ccedil;o f&iacute;sico do administrador objeto da resposta ser&aacute; o mesmo para envio p&uacute;blico de procura&ccedil;&atilde;o.  O pedido de listas de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais quotistas podem ser encaminhado para o mesmo endere&ccedil;o f&iacute;sico e eletr&ocirc;nico constante do Edital de Convoca&ccedil;&atilde;o ou carta consulta sendo o mesmo endere&ccedil;os de respostas &agrave;s delibera&ccedil;&otilde;es. </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos cotistas em assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de consultas formais, se admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto.</b></td>
+</tr>
+<tr>
+<td>Somente poder&atilde;o votar nas Assembleias quotistas inscritos no livro de registro do escriturador do Fundo bem como aqueles identificados no posi&ccedil;&atilde;o de quotista advinda dos respectivos agentes de cust&oacute;dia disponibilizado pelo escriturador e B3 . O quotista titular das quotas dever&aacute; apresentar documento de identifica&ccedil;&atilde;o  ou prova de representa&ccedil;&atilde;o. O procurador do quotista dever&aacute; estar munido de procura&ccedil;&atilde;o, lavrada h&aacute; menos de 1 (um)ano  com poderes espec&iacute;ficos para pr&aacute;tica do ato, com firma reconhecida pelo quotista outorgante. De acordo com  o regulamento do Fundo a ADMINISTRADORA poder&aacute; optar por promover as delibera&ccedil;&otilde;es mediante processo de consulta formalizada em carta ou outra forma de comunica&ccedil;&atilde;o escrita, inclusive por meio de comunica&ccedil;&atilde;o eletr&ocirc;nica (e-mail), dirigida por ela a cada um dos QUOTISTAS, para resposta no prazo m&aacute;ximo de 30 (trinta) dias, neste hip&oacute;tese, ser&aacute; encaminhado atrav&eacute;s de e-mail cadastrado no administrador o link para vota&ccedil;&atilde;o do sistema de plataforma eletr&ocirc;nica cujo voto vincular&aacute;, por meio de par&acirc;metros do sistema, o CPF e registrar&aacute; o IP da m&aacute;quina do cotista votante. No caso de vota&ccedil;&atilde;o eletr&ocirc;nica, o quotista dever&aacute; apresentar carta resposta devidamente assinada   juntamente com documento de identifica&ccedil;&atilde;o, procura&ccedil;&atilde;o ou  documento societ&aacute;rio no caso de Pessoa Jur&iacute;dica. No caso de vota&ccedil;&atilde;o eletr&ocirc;nica atrav&eacute;s de consulta formal por meio de plataformas eletr&ocirc;nicas, o quotista dever&aacute; fazer o uploud da procura&ccedil;&atilde;o quando da vota&ccedil;&atilde;o. Os documentos apresentados ser&atilde;o confrontados com a assinatura da carta resposta cujas informa&ccedil;&otilde;es ser&atilde;o comprovadas no livro de registro junto ao custodiante do Fundo bem como atrav&eacute;s do relat&oacute;rio de posi&ccedil;&atilde;o de cust&oacute;dia disponibilizados pelo escriturador e B3.. A previs&atilde;o de vota&ccedil;&atilde;o eletr&ocirc;nica bem como a realiza&ccedil;&atilde;o de consultas formais est&atilde;o previstas no regulamento do Fundo. No Edital de Convoca&ccedil;&atilde;o est&aacute; expresso o artigo do regulamento de que trata a vota&ccedil;&atilde;o Eletr&ocirc;nica bem como menciona o endere&ccedil;o eletr&ocirc;nico para envio do voto por meio de carta resposta.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          10.3
+        </td><td><b>Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico.</b></td>
+</tr>
+<tr>
+<td>N&atilde;o h&aacute; previs&atilde;o no regulamento.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">11.</h3>
+</td><td>
+<h3 align="left">Remunera&ccedil;&atilde;o do Administrador</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>11.1</b></td><td colspan="3"><b>Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento:</b></td>
+</tr>
+<tr>
+<td colspan="3">Pelos servi&ccedil;os de gest&atilde;o e administra&ccedil;&atilde;o do FUNDO a ADMINISTRADORA receber&aacute; Taxa de Administra&ccedil;&atilde;o equivalente a 5,0% (cinco por cento) ao ano sobre a receita bruta auferida pelo FUNDO, observado o valor m&iacute;nimo de R$ 30.000,00 (trinta mil reais) por m&ecirc;s, valor este que ser&aacute; corrigido anualmente pela varia&ccedil;&atilde;o do IGP-M (&iacute;ndice Geral de Pre&ccedil;os de Mercado), elaborado e divulgado pela Funda&ccedil;&atilde;o Get&uacute;lio Vargas &ndash; FGV, a partir de maio de 2013. A remunera&ccedil;&atilde;o da ADMINISTRADORA ser&aacute; paga mensalmente at&eacute; o 5&ordm; (quinto) dia &uacute;til do m&ecirc;s seguinte ao da presta&ccedil;&atilde;o de servi&ccedil;os, contra a respectiva fatura.4.7.2. A ADMINISTRADORA poder&aacute; receber tamb&eacute;m taxa de desempenho, desde que aprovado pela assembleia geral.O m&eacute;todo de c&aacute;lculo da Taxa de Administra&ccedil;&atilde;o ser&aacute; aplicado mesmo que o Fundo integre ou passe a integrar &iacute;ndice de mercado no m&ecirc;s anterior, conforme aprovado em Assembleia Geral. </td>
+</tr>
+<tr>
+<td><b>Valor pago no ano de refer&ecirc;ncia (R$):</b></td><td><b>% sobre o patrim&ocirc;nio cont&aacute;bil:</b></td><td><b>% sobre o patrim&ocirc;nio a valor de mercado:</b></td>
+</tr>
+<tr>
+<td>NaN</td><td>NaN</td><td>NaN</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">12.</h3>
+</td><td>
+<h3 align="left">Governan&ccedil;a</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.1</b></td><td colspan="4"><b>Representante(s) de cotistas</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>12.2</b></td><td colspan="4"><b>Diretor Respons&aacute;vel pelo FII</b></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome: </span></td><td width="30%"><span class="dado-cabecalho">Fernando Ferreira da Silva Telles</span></td><td width="25%"><span class="titulo-dado">Idade: </span></td><td width="25%"><span class="dado-cabecalho">74</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Profiss&atilde;o: </span></td><td width="30%"><span class="dado-cabecalho">Corretor Valores</span></td><td width="25%"><span class="titulo-dado">CPF: </span></td><td width="25%"><span class="dado-cabecalho">307.745.278-20</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">E-mail: </span></td><td width="30%"><span class="dado-cabecalho">fernandostelles@coinvalores.com.br</span></td><td width="25%"><span class="titulo-dado">Forma&ccedil;&atilde;o acad&ecirc;mica: </span></td><td width="25%"><span class="dado-cabecalho">0</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas detidas do FII: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Quantidade de cotas do FII compradas no per&iacute;odo: </span></td><td width="25%"><span class="dado-cabecalho">0,00</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Quantidade de cotas do FII vendidas no per&iacute;odo: </span></td><td width="30%"><span class="dado-cabecalho">0,00</span></td><td width="25%"><span class="titulo-dado">Data de in&iacute;cio na fun&ccedil;&atilde;o: </span></td><td width="25%"><span class="dado-cabecalho">01/01/1982</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome da Empresa</span></td><td><span class="titulo-dado">Per&iacute;odo</span></td><td><span class="titulo-dado">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="titulo-dado">Atividade principal da empresa na qual tais experi&ecirc;ncias ocorreram</span></td>
+</tr>
+<tr>
+<td><span class="dado-cabecalho">Coinvalores C.C.V.M. Ltda.</span></td><td><span class="dado-cabecalho">24/06/1996</span></td><td><span class="dado-cabecalho">Diretor</span></td><td><span class="dado-cabecalho">Sociedade Corretora</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="titulo-dado">Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Evento</span></td><td colspan="2"><span class="titulo-dado">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td colspan="2"><span class="titulo-dado">Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas aplicadas</span></td><td colspan="2"><span class="dado-cabecalho"></span></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>13.</b></td><td colspan="6"><b>Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas adquirido.</b></td>
+</tr>
+<tr>
+<td width="20%"><b>Faixas de Pulveriza&ccedil;&atilde;o</b></td><td width="16%"><b>N&ordm; de cotistas</b></td><td width="16%"><b>N&ordm; de cotas detidas</b></td><td width="16%"><b>% de cotas detido em rela&ccedil;&atilde;o ao total emitido</b></td><td width="16%"><b>% detido por PF</b></td><td width="16%"><b>% detido por PJ</b></td>
+</tr>
+<tr>
+<td>
+          At&eacute; 5% das cotas
+        </td><td>2.016,00</td><td>238.808,00</td><td>62,20%</td><td>61,81%</td><td>0,39%</td>
+</tr>
+<tr>
+<td>
+          Acima de 5% at&eacute; 10%
+        </td><td>4,00</td><td>145.128,00</td><td>37,80%</td><td>37,80%</td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 10% at&eacute; 15%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 15% at&eacute; 20%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 20% at&eacute; 30%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 30% at&eacute; 40%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 40% at&eacute; 50%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>
+          Acima de 50%
+        </td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">14.</h3>
+</td><td>
+<h3 align="left">Transa&ccedil;&otilde;es a que se refere o art. 34 e inciso IX do art.35, da Instru&ccedil;&atilde;o CVM n&ordm; 472, de 2008</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="3%">
+<h3 align="left">15.</h3>
+</td><td>
+<h3 align="left">Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.1
+        </td><td><b>Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada pelo administrador, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores, indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es relevantes n&atilde;o divulgadas, locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos.</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.2
+        </td><td><b>Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas do fundo, se houver, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.3
+        </td><td><b>Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em participa&ccedil;&otilde;es societ&aacute;rias do fundo, ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de computadores.</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%">
+          15.4
+        </td><td><b>Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o, manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso.</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="200" width="3%"><b>16.</b></td><td><b>Regras e prazos para chamada de capital do fundo:</b></td>
+</tr>
+<tr>
+<td>
+            N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+          </td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+<tr>
+<td style="padding-left:20px"><a href="downloadDocumentoAdicional?idDocumento=1144917&amp;idDocumentoAdicional=36">5. Fatores de Risco</a></td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Nota</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>A rela&ccedil;&atilde;o de prestadores de servi&ccedil;os de que trata o item 1.8 deve ser indicada quando o referido prestador de servi&ccedil;os representar mais de 5% das despesas do FII</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,4446 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ANEXO 39-II : Informe Trimestral de FII</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Trimestral de FII</h2>
+<table border="1" width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Nome do Fundo: </span></td><td><span class="dado-cabecalho">BRC Renda Corporativa Fundo de Investimento Imobili&aacute;rio - Responsabilidade Limitada</span></td><td><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="17%"><span class="dado-cabecalho">30.567.216/0001-02</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">17/05/2018</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidores em Geral</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRFATNCTF000</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">6.007.941,00</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Fundo Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Multiestrat&eacute;gia</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>N&atilde;o possui subclassifica&ccedil;&atilde;o</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Ativa</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Multicategoria</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">BR-CAPITAL DTVM S.A.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">44.077.014/0001-89</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">RUA SURUBIM,
+              577,
+              CONJ. 101-
+              CIDADE MON&Ccedil;&Otilde;ES-
+              S&Atilde;O PAULO-
+              SP-
+              04571-050</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">(11) 5508-3500</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.brcapital.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">fundos@brcapital.com.br</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">01/2026</span></td><td><span class="titulo-dado">Data de Encerramento do Trimestre: </span></td><td><span class="dado-cabecalho">31/03/2026</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">O Fundo se enquadra na defini&ccedil;&atilde;o da nota "6": </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td></td><td></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="8%">
+<h2 align="left">1.</h2>
+</td><td>
+<h2 align="left">Informa&ccedil;&otilde;es por tipo de ativo</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h3 align="left">1.1</h3>
+</td><td>
+<h3 align="left">Direitos reais sobre bens im&oacute;veis</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h3>1.1.1</h3>
+</th><th align="left">
+<h3 align="left">Terrenos</h3>
+</th>
+</tr>
+<tr>
+<td>
+                N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+              </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" width="8%">
+<h3>1.1.2</h3>
+</th><td>
+<h3 align="left">Im&oacute;veis</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h4 align="left">1.1.2.1</h4>
+</td><td>
+<h4 align="left">Im&oacute;veis para renda acabados</h4>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="100" width="8%">
+              1.1.2.1.1
+            </td><td width="40%"><b>Rela&ccedil;&atilde;o de Im&oacute;veis para renda acabados (nome, endere&ccedil;o, &aacute;rea - m2, n&ordm; de unidades ou lojas, entre outras caracter&iacute;sticas relevantes&sup1;)</b></td><td align="center" width="5%"><b>% de Vac&acirc;ncia</b></td><td align="center" width="10%"><b>% de Inadimpl&ecirc;ncia (a partir de 90 dias de atraso)</b></td><td align="center" width="10%"><b>% em rela&ccedil;&atilde;o &agrave;s receitas do FII</b></td><td width="15%"><b>Rela&ccedil;&atilde;o de setores de atua&ccedil;&atilde;o dos inquilinos respons&aacute;veis por mais de 10% das receitas oriundas do im&oacute;vel</b></td><td width="6%"><b>% em rela&ccedil;&atilde;o &agrave;s receitas oriundas do im&oacute;vel</b></td><td width="6%"><b>% em rela&ccedil;&atilde;o &agrave;s receitas do FII</b></td>
+</tr>
+<tr>
+<td>Atrium I<br>Rua do R&oacute;cio, 220<br>
+                &Aacute;rea (m2):
+                260,20<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 21</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5292%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5292%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium I<br>Rua do R&oacute;cio, 220<br>
+                &Aacute;rea (m2):
+                260,20<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 22</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,8592%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Ambiental</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,8592%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Conselheiro Paranagu&aacute;<br>Avenida Brigadeiro Faria Lima, 1234<br>
+                &Aacute;rea (m2):
+                392,72<br>
+                N&ordm; de unidades ou lojas:
+                4<br>cjs. 192, 193, 194 e 195</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,0767%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,0767%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>&Eacute;rika<br>Rua do R&oacute;cio, 351<br>
+                &Aacute;rea (m2):
+                251,03<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 82</td><td align="center">38,8888%</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Setin Tower<br>Rua Fid&ecirc;ncio Ramos, 100<br>
+                &Aacute;rea (m2):
+                287,98<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Escrit&oacute;rio 5</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4817%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Promo&ccedil;&otilde;es de vendas</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4817%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Business Center<br>Rua Gomes de Carvalho, 1306<br>
+                &Aacute;rea (m2):
+                470,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 151 </td><td align="center">100,0000%</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>VAGO</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium I<br>Rua do R&oacute;cio, 220<br>
+                &Aacute;rea (m2):
+                260,20<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 111</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,7179%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,7179%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium I<br>Rua do R&oacute;cio, 220<br>
+                &Aacute;rea (m2):
+                260,20<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 101</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6109%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Feiras e Exposi&ccedil;&otilde;es</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6109%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Ol&iacute;mpia Park<br>Rua Gomes de Carvalho, 1329<br>
+                &Aacute;rea (m2):
+                210,10<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 102</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4069%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Com&eacute;rcio de energia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4069%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Aeroporto II<br>Rua Funchal, 513<br>
+                &Aacute;rea (m2):
+                171,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 72</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3688%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3688%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium I<br>Rua do R&oacute;cio, 220<br>
+                &Aacute;rea (m2):
+                260,20<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 102</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4264%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4264%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Setin Tower<br>Rua Fid&ecirc;ncio Ramos, 100<br>
+                &Aacute;rea (m2):
+                277,65<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Escrit&oacute;rio 8</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5978%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5978%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>THERA OFFICE<br>Avenida Engenheiro Lu&iacute;s Carlos Berrini, 105<br>
+                &Aacute;rea (m2):
+                184,00<br>
+                N&ordm; de unidades ou lojas:
+                4<br>cjs. 1210, 1211, 1212 e 1213</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5048%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5048%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium I<br>Rua do R&oacute;cio, 220<br>
+                &Aacute;rea (m2):
+                260,20<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 92</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6911%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6911%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Conselheiro Paranagu&aacute;<br>Avenida Brigadeiro Faria Lima, 1234<br>
+                &Aacute;rea (m2):
+                281,92<br>
+                N&ordm; de unidades ou lojas:
+                5<br>cjs. 52, 53, 54, 55 e 56</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,7052%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,7052%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Arandu <br>Rua Arizona, 1366<br>
+                &Aacute;rea (m2):
+                253,65<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 111</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3574%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Com&eacute;rcio atacadista de medicamentos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3574%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Arandu <br>Rua Arizona, 1366<br>
+                &Aacute;rea (m2):
+                253,65<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj .82</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4948%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Entretenimento</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4948%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Aeroporto I<br>Rua Funchal, 573<br>
+                &Aacute;rea (m2):
+                167,00<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 31 e 32</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3822%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3822%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium II<br>Rua Helena. 235<br>
+                &Aacute;rea (m2):
+                411,07<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 61</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,0482%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,0482%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Network<br>Avenida Doutor Cardoso de Melo, 1340<br>
+                &Aacute;rea (m2):
+                412,60<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 151 e 152</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,1291%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,1291%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>MAXIMUM OFFICE CENTER<br>Avenida Doutor Cardoso de Melo, 1608<br>
+                &Aacute;rea (m2):
+                493,68<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 31</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,1484%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,1484%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>MONTREAL<br>Rua Funchal, 129<br>
+                &Aacute;rea (m2):
+                214,10<br>
+                N&ordm; de unidades ou lojas:
+                1<br>sala E6B</td><td align="center">13,3333%</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Distribuidora de combust&iacute;vel</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>UCHOA <br>Rua Sans&atilde;o Alves dos Santos, 76<br>
+                &Aacute;rea (m2):
+                288,07<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 21 e 22</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5702%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Educa&ccedil;&atilde;o</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5702%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>THERA OFFICE<br>Avenida Engenheiro Lu&iacute;s Carlos Berrini, 105<br>
+                &Aacute;rea (m2):
+                149,00<br>
+                N&ordm; de unidades ou lojas:
+                3<br>cjs. 1207, 1208 e 1209</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3636%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Contabilidade</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3636%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>GC SQUARE CORPORATE<br>Rua Gomes de Carvalho, 1108<br>
+                &Aacute;rea (m2):
+                213,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 84</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5794%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5794%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>ATRIUM VII<br>Rua Pequetita, 215<br>
+                &Aacute;rea (m2):
+                208,03<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 31</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6166%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6166%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>GC SQUARE CORPORATE<br>Rua Gomes de Carvalho, 1108<br>
+                &Aacute;rea (m2):
+                204,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 82</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5442%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5442%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Conselheiro Paranagu&aacute;<br>Avenida Brigadeiro Faria Lima, 1234<br>
+                &Aacute;rea (m2):
+                166,90<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs.45 e 46</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3272%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3272%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>EDIF&Iacute;CIO MANHATTAN<br>Rua Tabapu&atilde;, 627<br>
+                &Aacute;rea (m2):
+                149,86<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 92 e 94</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3363%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3363%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>EDIF&Iacute;CIO IRACEMA<br>Rua Doutor Renato Paes de Barros, 717<br>
+                &Aacute;rea (m2):
+                200,78<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 101 e 102</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5054%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5054%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Conselheiro Paranagu&aacute;<br>Avenida Brigadeiro Faria Lima, 1234<br>
+                &Aacute;rea (m2):
+                274,86<br>
+                N&ordm; de unidades ou lojas:
+                4<br>cjs.41, 42, 43 e 44</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6086%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6086%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>MAXIMUM OFFICE CENTER<br>Av. Dr. Cardoso de Melo, 1608<br>
+                &Aacute;rea (m2):
+                244,58<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 71</td><td align="center">7,7777%</td><td align="center">7,7777%</td><td align="center">0,0000%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Incorpora&ccedil;&atilde;o</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>MAXIMUM OFFICE CENTER<br>Av. Dr. Cardoso de Melo, 1608<br>
+                &Aacute;rea (m2):
+                229,44<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 72</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5727%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Com&eacute;rcio de combust&iacute;veis</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5727%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Avenida Paulista<br>Av. Paulista, 2022<br>
+                &Aacute;rea (m2):
+                334,81<br>
+                N&ordm; de unidades ou lojas:
+                4<br>cj 91 ao 94</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,8926%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Viagens corporativas</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,8926%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Avenida Paulista<br>Av. Paulista, 2022<br>
+                &Aacute;rea (m2):
+                227,90<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs.95 ao 96</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4403%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Agroneg&oacute;cio</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4403%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Vagas de garagem Edif&iacute;cio Av. Paulista, cj 91 ao 96<br>Av. Paulista, 2022<br>
+                &Aacute;rea (m2):
+                110,65<br>
+                N&ordm; de unidades ou lojas:
+                4<br>vagas de garagem dos cjs. 91 ao 96</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,0069%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Unidade aut&ocirc;noma de estacionamento</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0069%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Fortaleza<br>Av. Luiz Carlos Berrini, 1461<br>
+                &Aacute;rea (m2):
+                278,92<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 101</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4888%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4888%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Lafayette<br>Rua Tabapu&atilde;, 500<br>
+                &Aacute;rea (m2):
+                152,08<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 111 e 112</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3475%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Vendas de eletr&ocirc;nicos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3475%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Lafayette<br>Rua Tabapu&atilde;, 500<br>
+                &Aacute;rea (m2):
+                151,20<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 113 e 114</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3294%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3294%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Columbus<br>AL. Campinas, 457<br>
+                &Aacute;rea (m2):
+                203,30<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 2A e 2B</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4625%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Log&iacute;stica</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4625%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Na&ccedil;&otilde;es Unidas III<br>Av. das Na&ccedil;&otilde;es Unidas, 11857<br>
+                &Aacute;rea (m2):
+                535,51<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs. 151 e 152</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,4644%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,4644%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Francisco Lopes<br>Rua Dr. Cardoso de Melo, 1855 <br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 52</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,8198%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,8198%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Plaza I<br>Rua James Joule, 92<br>
+                &Aacute;rea (m2):
+                306,35<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 62</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,8598%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,8598%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bueno Business Tower<br>Rua Dr. Cardoso De Melo, 1336<br>
+                &Aacute;rea (m2):
+                606,65<br>
+                N&ordm; de unidades ou lojas:
+                2<br>Cjs. 141 e 142</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,3220%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Ind&uacute;stria automobil&iacute;stica</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,3220%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Plaza I<br>Rua James Joule, 92<br>
+                &Aacute;rea (m2):
+                306,35<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 41</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4565%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Farmac&ecirc;utico</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4565%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Vagas de garagem Edif&iacute;cio Plaza I <br>Rua James Joule, 92<br>
+                &Aacute;rea (m2):
+                88,83<br>
+                N&ordm; de unidades ou lojas:
+                7<br>vagas de garagem 07, 08, 39, 43, 44, 57-58 (vaga dupla) e 58-59 (vaga dupla)</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,0416%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Unidade aut&ocirc;noma de estacionamento</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0416%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Spazio Centrale<br>Alameda Itu, 852<br>
+                &Aacute;rea (m2):
+                276,60<br>
+                N&ordm; de unidades ou lojas:
+                2<br>Cjs. 71 e 72</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5241%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5241%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium VIII<br>Rua Fid&ecirc;ncio Ramos, 213 <br>
+                &Aacute;rea (m2):
+                582,92<br>
+                N&ordm; de unidades ou lojas:
+                2<br>Cjs. 11 e 12</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,0911%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,0911%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium IV<br>Rua Helena, 260<br>
+                &Aacute;rea (m2):
+                198,14<br>
+                N&ordm; de unidades ou lojas:
+                2<br>Cjs. 21 e 23</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3600%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3600%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium Jardins<br>Rua Cristiano Viana, 401<br>
+                &Aacute;rea (m2):
+                989,13<br>
+                N&ordm; de unidades ou lojas:
+                11<br>Cjs. 1501 a 1511</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,5529%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os de eventos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,5529%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium VIII<br>Rua Fid&ecirc;ncio Ramos, 213 <br>
+                &Aacute;rea (m2):
+                291,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 51</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5405%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Holding</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5405%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Brasif<br>Rua Luigi Galvani, 146<br>
+                &Aacute;rea (m2):
+                319,10<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 31</td><td align="center">62,2222%</td><td align="center">0,0000%</td><td align="center">0,4245%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4245%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>The Taj Office Tower<br>Rua Casa do Ator, 1.117<br>
+                &Aacute;rea (m2):
+                340,41<br>
+                N&ordm; de unidades ou lojas:
+                3<br>Cj. 111, 113 e 114</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,1278%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,1278%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Beira Rio<br>Rua Beira Rio, 57<br>
+                &Aacute;rea (m2):
+                286,13<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 51</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6102%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6102%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Setin Tower<br>Rua Fid&ecirc;ncio Ramos, 100<br>
+                &Aacute;rea (m2):
+                244,39<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 14</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6926%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6926%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Francisco Lopes<br>Rua Dr. Cardoso de Melo, 1855 <br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 51</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,9370%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,9370%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Atrium II<br>Rua Helena. 235<br>
+                &Aacute;rea (m2):
+                661,63<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 111</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,7858%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os de eventos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,7858%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Santa Filippa<br>Avenida Paulista,  668<br>
+                &Aacute;rea (m2):
+                280,68<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 120 - Sala 2</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,9774%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,9774%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Santa Filippa<br>Avenida Paulista,  668<br>
+                &Aacute;rea (m2):
+                187,12<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 120 - Sala 1</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5167%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5167%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Wilson Mendes Caldeira<br>Av. das Na&ccedil;&otilde;es Unidas, 10.989<br>
+                &Aacute;rea (m2):
+                559,89<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 82</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,2024%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Com&eacute;rcio de energia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,2024%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Ronaldo Sampaio Ferreira<br>Pra&ccedil;a Jo&atilde;o Duran Alonso, 34<br>
+                &Aacute;rea (m2):
+                380,79<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 42</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,1519%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,1519%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Business Center (Jardins)<br>Rua Teixeira da Silva, 650/660<br>
+                &Aacute;rea (m2):
+                257,39<br>
+                N&ordm; de unidades ou lojas:
+                2<br>Cjs. 133 e 134</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5478%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5478%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>The Taj Office Tower<br>Rua Casa do Ator, 1117<br>
+                &Aacute;rea (m2):
+                101,77<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 112</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3230%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3230%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Monumento<br>Av. Brigadeiro Faria Lima, n&ordm; 1478<br>
+                &Aacute;rea (m2):
+                312,88<br>
+                N&ordm; de unidades ou lojas:
+                2<br>Cj 801 a 808</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,8415%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,8415%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Francisco Lopes<br>Rua Dr. Cardoso de Melo, 1855 <br>
+                &Aacute;rea (m2):
+                769,62<br>
+                N&ordm; de unidades ou lojas:
+                2<br>Cj. 11 e 12 e Box 140 a 146 do 2&ordm; subsolo; e Box 145 a 147 do 1&ordm; subsolo do Cj. Manager Center, &agrave; R. Dr. Cardoso de Mello, esquina da Rua Funchal</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,8410%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Ind&uacute;stria t&ecirc;xtil</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,8410%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Brasif<br>Rua Luigi Galvani, 146<br>
+                &Aacute;rea (m2):
+                319,10<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj.11</td><td align="center">22,2222%</td><td align="center">0,0000%</td><td align="center">0,4189%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguran&ccedil;a Eletr&ocirc;nica</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4189%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Gold Center<br>Rua Arizona, 1426<br>
+                &Aacute;rea (m2):
+                161,55<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj.32</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4335%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4335%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Dr. Naur Martins<br>Rua Professor Artur Ramos, 96<br>
+                &Aacute;rea (m2):
+                199,06<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj.51</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4457%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4457%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Veranda Berrini<br>Rua Ribeiro do Vale, 152<br>
+                &Aacute;rea (m2):
+                184,19<br>
+                N&ordm; de unidades ou lojas:
+                3<br>cjs. 71, 72 e 77</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6413%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6413%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Trade Tower Service &amp; Business<br>Rua Helena, 218<br>
+                &Aacute;rea (m2):
+                532,88<br>
+                N&ordm; de unidades ou lojas:
+                12<br>cjs.301 a 312 e vagas de garagem cobertas, n&ordm; 47 a 58</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,2571%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Com&eacute;rcio de energia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,2571%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Setin Tower<br>Rua Fid&ecirc;ncio Ramos, 100<br>
+                &Aacute;rea (m2):
+                515,29<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 17</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,4852%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,4852%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Fl&oacute;rida<br>Rua Florida, 1738<br>
+                &Aacute;rea (m2):
+                350,06<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs.11 e 12</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,7546%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Marketing</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,7546%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Dr. Naur Martins<br>Rua Professor Artur Ramos, 96<br>
+                &Aacute;rea (m2):
+                199,06<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj.52</td><td align="center">11,1111%</td><td align="center">0,0000%</td><td align="center">0,1312%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,1312%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Gold Center<br>Rua Arizona, 1426<br>
+                &Aacute;rea (m2):
+                161,55<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj.21</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4010%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Farmac&ecirc;utico</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4010%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Gold Center<br>Rua Arizona, 1426<br>
+                &Aacute;rea (m2):
+                161,55<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj.22</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4054%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4054%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Tangram<br>Rua Ibiraj&aacute;, 244<br>
+                &Aacute;rea (m2):
+                1.186,37<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cj.401 -  o conjunto e o estacionamento foram considerados unificados - &aacute;rea de estacionamento localizada no t&eacute;rreo da torre 2, com &aacute;rea privativa de 503,33. Utilizadas pelos conjuntos pertencentes ao fundo no edif&iacute;cio.</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,0820%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Incorpora&ccedil;&atilde;o</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,0820%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Luxor Center<br>Rua Arizona, n&ordm; 1349<br>
+                &Aacute;rea (m2):
+                143,28<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 8A</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3636%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3636%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Luxor Center<br>Rua Arizona, n&ordm; 1349<br>
+                &Aacute;rea (m2):
+                143,28<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 9A</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3654%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3654%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Luxor Center<br>Rua Arizona, n&ordm; 1349<br>
+                &Aacute;rea (m2):
+                141,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 9B</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3641%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os de eventos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3641%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bolsa de Im&oacute;veis<br>Av. das Na&ccedil;&otilde;es Unidas, 11.541<br>
+                &Aacute;rea (m2):
+                513,10<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj. 142 +  2 vagas de garagem com matr&iacute;culas individualizadas</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4151%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Engenharia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4151%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Conselheiro Paranagu&aacute;<br>Avenida Brigadeiro Faria Lima, n&ordm; 1.234<br>
+                &Aacute;rea (m2):
+                351,80<br>
+                N&ordm; de unidades ou lojas:
+                6<br>cj. 61 a 66</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,9561%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Ind&uacute;stria de m&aacute;quinas</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,9561%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Gold Center<br>Rua Arizona, 1426<br>
+                &Aacute;rea (m2):
+                306,50<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cj 91 e 92</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,7220%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Ind&uacute;stria de m&aacute;quinas</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,7220%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Gold Center<br>Rua Arizona, 1426<br>
+                &Aacute;rea (m2):
+                158,49<br>
+                N&ordm; de unidades ou lojas:
+                1<br> cj 102</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4770%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4770%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Gold Center<br>Rua Arizona, 1426<br>
+                &Aacute;rea (m2):
+                152,92<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 101</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3933%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3933%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Palladio <br>Rua Fid&ecirc;ncio Ramos, 223<br>
+                &Aacute;rea (m2):
+                110,89<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 114</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3428%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Engenharia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3428%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Ronaldo Sampaio Ferreira<br>Pra&ccedil;a Jo&atilde;o Duran Alonso, 34<br>
+                &Aacute;rea (m2):
+                380,79<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 41</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,0908%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,0908%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Arandu <br>Rua Arizona, 1366<br>
+                &Aacute;rea (m2):
+                253,65<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 112</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4742%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4742%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Brasilinterpart <br>Av. Na&ccedil;&otilde;es Unidas, 11.633<br>
+                &Aacute;rea (m2):
+                266,34<br>
+                N&ordm; de unidades ou lojas:
+                1<br> cj 111</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5176%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Cosm&eacute;ticos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5176%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Brasilinterpart <br>Av. Na&ccedil;&otilde;es Unidas, 11.633<br>
+                &Aacute;rea (m2):
+                177,95<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 112</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3814%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3814%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Luxor Center<br>Rua Arizona, n&ordm; 1349<br>
+                &Aacute;rea (m2):
+                141,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br> cj 10B</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,2532%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,2532%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>GAUD&Iacute;<br>Rua Princesa Isabel, 86 e 94 <br>
+                &Aacute;rea (m2):
+                159,97<br>
+                N&ordm; de unidades ou lojas:
+                3<br>cjs 121 ao 123</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3317%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os M&eacute;dicos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3317%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>GAUD&Iacute;<br>Rua Princesa Isabel, 86 e 95<br>
+                &Aacute;rea (m2):
+                106,65<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs 124 ao 125</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,2232%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,2232%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>HD 873<br>Rua Henri Dunant, 873<br>
+                &Aacute;rea (m2):
+                194,30<br>
+                N&ordm; de unidades ou lojas:
+                4<br>cjs 1706 a 1709</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6548%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os M&eacute;dicos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6548%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>ED. LED CORPORATE<br>Rua Robert Bush, 45,67 e 235<br>
+                &Aacute;rea (m2):
+                1.965,07<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cjs 1801 e 1804</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">4,0126%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Outros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>4,0126%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Monterey OfficeTower<br>Rua &Aacute;lvaro Rodrigues, 182<br>
+                &Aacute;rea (m2):
+                136,72<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cj 151, 152 e mezaninos</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,1638%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,1638%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Monterey OfficeTower<br>Rua &Aacute;lvaro Rodrigues, 182<br>
+                &Aacute;rea (m2):
+                68,36<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 153 e mezanino</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,2434%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,2434%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Monterey OfficeTower<br>Rua &Aacute;lvaro Rodrigues, 182<br>
+                &Aacute;rea (m2):
+                136,72<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cj 154, 155 e mezaninos</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,2164%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Incorpora&ccedil;&atilde;o</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,2164%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Concorde<br>Rua Funchal, 203<br>
+                &Aacute;rea (m2):
+                231,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 61 </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,9068%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,9068%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Concorde<br>Rua Funchal, 203<br>
+                &Aacute;rea (m2):
+                163,80<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 62</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4940%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Equipamentos para transporte ferrovi&aacute;rio</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4940%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Banco Mercantil<br>Av. Paulista, 925 <br>
+                &Aacute;rea (m2):
+                215,72<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 102</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,8270%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Educa&ccedil;&atilde;o</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,8270%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Brasilinterpart <br>Avenida das Na&ccedil;&otilde;es Unidas, 11.633<br>
+                &Aacute;rea (m2):
+                442,59<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cj 53 e 54</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,9145%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,9145%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Brasilinterpart <br>Avenida das Na&ccedil;&otilde;es Unidas, 11.633<br>
+                &Aacute;rea (m2):
+                886,88<br>
+                N&ordm; de unidades ou lojas:
+                4<br>cj 171 a 174</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">4,3428%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Outros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>4,3428%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>GBC<br>Av. Dr. Cardoso de Melo, 1666<br>
+                &Aacute;rea (m2):
+                133,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 81</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5570%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Marketing</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5570%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>GBC<br>Av. Dr. Cardoso de Melo, 1666<br>
+                &Aacute;rea (m2):
+                133,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 82</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6013%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6013%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                221,34<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 11A </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5027%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5027%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                163,47<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 11B; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4226%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4226%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                193,79<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 12A</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4559%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Ind&uacute;stria de m&aacute;quinas</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4559%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                191,02<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 12B</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3774%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3774%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                193,79<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 21A</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4344%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os M&eacute;dicos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4344%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                191,02<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 21B; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4634%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4634%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                221,34<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 22A; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,5254%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5254%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                163,47<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 22B; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4750%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4750%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                206,80<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 31A;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4748%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4748%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                178,01<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 31B; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4258%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4258%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                198,06<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 32A;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4501%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4501%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1856<br>
+                &Aacute;rea (m2):
+                186,75<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 32B; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4292%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Atividades auxiliares dos transportes a&eacute;reos</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4292%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 51; contrato de loca&ccedil;&atilde;o junto com 52A</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,9658%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,9658%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                186,63<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 52A; contrato de loca&ccedil;&atilde;o junto com 51;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4684%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4684%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                198,18<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 52B;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,3372%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Tecnologia</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,3372%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 61;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4652%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Incorpora&ccedil;&atilde;o</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4652%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 62; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,3185%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,3185%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 82;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,4041%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguran&ccedil;a contra inc&ecirc;ncio</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,4041%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 91; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,4065%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,4065%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 101; contrato de loca&ccedil;&atilde;o junto com 102;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,4065%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,4065%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 102; contrato de loca&ccedil;&atilde;o junto com 101;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,4065%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os advocat&iacute;cios</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,4065%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                76,96<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 111A; contrato de loca&ccedil;&atilde;o junto com 112;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,1910%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,1910%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                307,85<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj. 111B; </td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,6363%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Com&eacute;rcio de produtos customizados</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,6363%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 112; contrato de loca&ccedil;&atilde;o junto com 111A;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">0,9552%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Servi&ccedil;os Financeiros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,9552%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                769,62<br>
+                N&ordm; de unidades ou lojas:
+                2<br>cj 141 e 142;</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td align="center">1,8402%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Seguros</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>100,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,8402%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                384,81<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 151 contrato de loca&ccedil;&atilde;o junto com 152B;</td><td align="center">60,0000%</td><td align="center">0,0000%</td><td align="center">0,5579%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Agroneg&oacute;cio</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,5579%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                327,09<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 152A;</td><td align="center">43,3333%</td><td align="center">0,0000%</td><td align="center">1,1006%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Consultoria</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>1,1006%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1856<br>
+                &Aacute;rea (m2):
+                57,72<br>
+                N&ordm; de unidades ou lojas:
+                1<br>cj 152B; contrato de loca&ccedil;&atilde;o junto com 151;</td><td align="center">60,0000%</td><td align="center">0,0000%</td><td align="center">0,0837%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Agroneg&oacute;cio</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0837%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Bras&iacute;lio Machado <br>Av. Dr. Cardoso De Melo, 1855<br>
+                &Aacute;rea (m2):
+                270,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Loja 02; contrato de loca&ccedil;&atilde;o formalizado, vigente a partir de 01/07/26;</td><td align="center">100,0000%</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Vago</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>Arco do Triunfo<br>Av. Ang&eacute;lica, 745<br>
+                &Aacute;rea (m2):
+                4.145,00<br>
+                N&ordm; de unidades ou lojas:
+                53<br>
+Loja A e cjs 11 a 134 - em prospec&ccedil;&atilde;o de loca&ccedil;&atilde;o</td><td align="center">100,0000%</td><td align="center">0,0000%</td><td align="center">0,0000%</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>Vago</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td><td>
+<table class="no_border" cellpadding="5" height="100%" width="100%" align="top">
+<tr class="no_border" height="100%">
+<td>0,0000%</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="100" width="8%">
+              1.1.2.1.2
+            </td><td width="40%"><b>Distribui&ccedil;&atilde;o dos contratos de loca&ccedil;&atilde;o dos im&oacute;veis por prazo de vencimento</b></td><td width="25%"><b>% de contratos dos im&oacute;veis alocados na faixa (% em rela&ccedil;&atilde;o ao valor total das receitas auferidas pelo fundo advindas de im&oacute;veis para renda acabados)</b></td><td width="27%"><b>% de contratos dos im&oacute;veis alocados na faixa (% em rela&ccedil;&atilde;o &agrave;s receitas do FII)</b></td>
+</tr>
+<tr>
+<td>
+              At&eacute; 3 meses
+            </td><td align="center">2,4145%</td><td align="center">2,1917%</td>
+</tr>
+<tr>
+<td>
+              De 3 meses e 1 dia a 6 meses
+            </td><td align="center">2,5707%</td><td align="center">2,3335%</td>
+</tr>
+<tr>
+<td>
+              De 6 meses e 1 dia a 9 meses
+            </td><td align="center">0,9833%</td><td align="center">0,8926%</td>
+</tr>
+<tr>
+<td>
+              De 9 meses e 1 dia a 12 meses
+            </td><td align="center">2,4048%</td><td align="center">2,1829%</td>
+</tr>
+<tr>
+<td>
+              De 12 meses e 1 dia a 15 meses
+            </td><td align="center">3,1518%</td><td align="center">2,8609%</td>
+</tr>
+<tr>
+<td>
+              De 15 meses e 1 dia a 18 meses
+            </td><td align="center">8,2757%</td><td align="center">7,5121%</td>
+</tr>
+<tr>
+<td>
+              De 18 meses e 1 dia a 21 meses
+            </td><td align="center">3,3245%</td><td align="center">3,0177%</td>
+</tr>
+<tr>
+<td>
+              De 21 meses e 1 dia a 24 meses
+            </td><td align="center">3,3978%</td><td align="center">3,0843%</td>
+</tr>
+<tr>
+<td>
+              De 24 meses e 1 dia a 27 meses
+            </td><td align="center">4,5996%</td><td align="center">4,1752%</td>
+</tr>
+<tr>
+<td>
+              De 27 meses e 1 dia a 30 meses
+            </td><td align="center">4,1190%</td><td align="center">3,7389%</td>
+</tr>
+<tr>
+<td>
+              De 30 meses e 1 dia a 33 meses
+            </td><td align="center">12,1325%</td><td align="center">11,0130%</td>
+</tr>
+<tr>
+<td>
+              De 33 meses e 1 dia a 36 meses
+            </td><td align="center">10,1233%</td><td align="center">9,1892%</td>
+</tr>
+<tr>
+<td>
+              Acima de 36 meses
+            </td><td align="center">42,2404%</td><td align="center">38,3427%</td>
+</tr>
+<tr>
+<td>
+              Prazo indeterminado
+            </td><td align="center">0,0534%</td><td align="center">0,0486%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="100" width="8%">
+              1.1.2.1.3
+            </td><td width="40%"><b>Distribui&ccedil;&atilde;o dos contratos dos im&oacute;veis por indexador de reajuste</b></td><td width="25%"><b>% de contratos dos im&oacute;veis reajustados pelo respectivo indexador (% em rela&ccedil;&atilde;o ao valor total das receitas auferidas pelo fundo advindas de im&oacute;veis para renda acabados)</b></td><td width="27%"><b>% de contratos dos im&oacute;veis reajustados pelo respectivo indexador (% em rela&ccedil;&atilde;o &agrave;s receitas do FII)</b></td>
+</tr>
+<tr>
+<td>
+              IGP-M
+            </td><td align="center">39,7038%</td><td align="center">36,0402%</td>
+</tr>
+<tr>
+<td>
+              INPC
+            </td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>
+              IPCA
+            </td><td align="center">59,3755%</td><td align="center">53,8967%</td>
+</tr>
+<tr>
+<td>
+              INCC
+            </td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>sem reajuste</td><td align="center">0,6586%</td><td align="center">0,5978%</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" width="8%" valign="top">
+              1.1.2.1.4
+            </td><td>
+<table width="100%" class="no_border" align="center">
+<tr class="no_border">
+<td><b>Principais caracter&iacute;sticas contratuais comuns (Cl&aacute;usulas de reajuste, indexadores, cl&aacute;usulas de rescis&atilde;o, garantias exigidas, entre outras informa&ccedil;&otilde;es relevantes): </b></td>
+</tr>
+<tr class="no_border">
+<td>Parte dos contrato s&atilde;o reajustados utilizando-se o indice do IGP-M , parte pelo Ipca
+Os contratos de loca&ccedil;&atilde;o do Ed. Bras&iacute;lio Machado preveem a quantidade de vagas a serem utilizadas por conjunto, de acordo com as &aacute;reas locadas.
+As vac&acirc;ncias indicadas s&atilde;o relativas aos dias de transi&ccedil;&atilde;o de inquilinos.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="left" valign="top" rowspan="100" width="8%">
+              1.1.2.1.5
+            </td><td colspan="2"><b>Caracter&iacute;sticas contratuais individualizadas por im&oacute;vel relevante que destoem sensivelmente dos demais contratos (dispor, no m&iacute;nimo, a respeito dos itens discriminados acima, quando n&atilde;o protegidas por cl&aacute;usula de sigilo, entre outras informa&ccedil;&otilde;es relevantes)&sup2;:</b></td>
+</tr>
+<tr>
+<td width="40%"><b>Im&oacute;vel (nome, ou endere&ccedil;o, caso n&atilde;o possua um nome)</b></td><td width="52%"><b>Caracter&iacute;sticas contratuais</b></td>
+</tr>
+<tr>
+<td>Ed. Condom&iacute;nio Tangram, laje  401</td><td>Prazo de loca&ccedil;&atilde;o de 120 meses. Multa de 36 pacotes do locat&iacute;cio, no caso de rescis&atilde;o antes de 48 meses. E no caso de rescis&atilde;o ap&oacute;s 48 meses, multa de 12 pacotes, sendo esta &uacute;ltima sofrer&aacute; decr&eacute;scimo, de acordo com o prazo n&atilde;o cumprido de contrato. Cj.401 - at&eacute; o relat&oacute;rio anterior (1&ordm; trim /25) o conjunto e o estacionamento foram considerados separadamente, a partir deste relat&oacute;rio eles foram unificados - &aacute;rea de estacionamento localizada no t&eacute;rreo da torre 2, com &aacute;rea privativa de 503,33. Utilizadas pelos conjuntos pertencentes ao fundo no edif&iacute;cio, totalizando 1.186,37.</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Arco do Triunfo</td><td>Adquirido no trimestre, se encontra em obras para o retrofit. Sua ocupa&ccedil;&atilde;o ocorrer&aacute; de forma gradativa, ao longo de um prazo estimado entre oito e  dez meses. Todos os escrit&oacute;rios do Ed. Arco do Triunfo est&atilde;o em fase de reforma e prospec&ccedil;&atilde;o, com alguns em tratativas comerciais para loca&ccedil;&atilde;o.</td>
+</tr>
+<tr>
+<td>Ed. Concorde - cj 61</td><td>&Aacute;rea de Matr&iacute;cula 229,70m&sup2;. &Aacute;rea privativa 231,00 m&sup3;, inclui &aacute;reas de circula&ccedil;&atilde;o.</td>
+</tr>
+<tr>
+<td>Ed. Concorde - cj 62</td><td>&Aacute;rea de Matr&iacute;cula 153,30&sup2;. &Aacute;rea privativa  de 162,80 m2 inclui &aacute;reas de circula&ccedil;&atilde;o.</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%" align="left" valign="top">
+              1.1.2.1.6
+            </td><td>
+<table width="100%" class="no_border" align="center">
+<tr class="no_border">
+<td><b>Pol&iacute;ticas de contrata&ccedil;&atilde;o de seguros para a preserva&ccedil;&atilde;o dos im&oacute;veis dessa categoria:</b></td>
+</tr>
+<tr class="no_border">
+<td>Cl&aacute;usula de exig&ecirc;ncia para a contrata&ccedil;&atilde;o de seguro com cobertura contra  Inc&ecirc;ndio.</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h4 align="left">1.1.2.2</h4>
+</th><td>
+<h4 align="left">Im&oacute;veis para renda em constru&ccedil;&atilde;o</h4>
+</td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h4 align="left">1.1.2.3</h4>
+</th><td>
+<h4 align="left">Im&oacute;veis para Venda Acabados</h4>
+</td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="2" width="8%">
+<h4 align="left">1.1.2.4</h4>
+</th><td>
+<h4 align="left">Im&oacute;veis para Venda em Constru&ccedil;&atilde;o</h4>
+</td>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="3" width="8%">
+<h3>1.1.3</h3>
+</th><th align="left">
+<h3 align="left">Outros Direitos reais Sobre Bens Im&oacute;veis</h3>
+</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h3 align="left">1.2</h3>
+</td><td>
+<h3 align="left">Ativos financeiros</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.1
+            </th><th align="left" colspan="4">Fundos de Investimento Imobili&aacute;rio - FII</th>
+</tr>
+<tr>
+<td width="40%"><b>Fundo</b></td><td width="22%"><b>CNPJ</b></td><td width="15%"><b>Quantidade</b></td><td width="15%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>TJK RENDA IMOBILI&Aacute;RIA FII</td><td>../-</td><td>43.652,00</td><td>12.535.108,32</td>
+</tr>
+<tr>
+<td>OXIG&Ecirc;NIO 2 FII DE RESPONSABILIDADE LTDA</td><td>../-</td><td>144.275,00</td><td>18.272.223,84</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.2
+            </th><th align="left" colspan="4">Certificado de Receb&iacute;veis Imobili&aacute;rios (CRI)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.3
+            </th><th align="left" colspan="4">Letras de Cr&eacute;dito Imobili&aacute;rio (LCI)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.4
+            </th><th align="left" colspan="4">Letra Imobili&aacute;ria Garantida (LIG)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.5
+            </th><th align="left" colspan="4">Certificado de Potencial Adicional de Constru&ccedil;&atilde;o (CEPAC)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.6
+            </th><th align="left" colspan="4">A&ccedil;&otilde;es</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.7
+            </th><th align="left" colspan="4">A&ccedil;&otilde;es de Sociedades cujo o &uacute;nico prop&oacute;sito se enquadra entre as atividades permitidas aos FII</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.8
+            </th><th align="left" colspan="4">Cotas de Sociedades que se enquadre entre as atividades permitidas aos FII</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.9
+            </th><th align="left" colspan="4">Fundo de Investimento em A&ccedil;&otilde;es (FIA)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.10
+            </th><th align="left" colspan="4">Fundo de Investimento em Participa&ccedil;&otilde;es (FIP)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.11
+            </th><th align="left" colspan="4">Fundo de Investimento em Direitos Credit&oacute;rios (FIDC)</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.12
+            </th><th align="left" colspan="4">Outras cotas de Fundos de Investimento</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              1.2.13
+            </th><th align="left" colspan="5">Outros Ativos Financeiros</th>
+</tr>
+<tr>
+<td width="25%"><b>Emissor</b></td><td width="15%"><b>CNPJ</b></td><td width="22%"><b>Ativo</b></td><td width="15%"><b>Quantidade</b></td><td width="15%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>Aplica&ccedil;&atilde;o Trust DI Banco Ita&uacute;</td><td>60.701.190/0001-04</td><td>CDB</td><td>12.736,82</td><td>5.904.158,86</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+<h3 align="left">1.3</h3>
+</th><th align="left" colspan="2">
+<h3 align="left">Ativos mantidos para as Necessidades de liquidez</h3>
+</th>
+</tr>
+<tr>
+<td width="77%"><b>Informa&ccedil;&otilde;es do Ativo</b></td><td width="15%"><b>Valor (R$)</b></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;Disponibilidades</td><td width="15%">140.455,76</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;T&iacute;tulos P&uacute;blicos</td><td width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;T&iacute;tulos Privados</td><td width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;Fundos de Renda Fixa</td><td width="15%">5.904.158,86</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h2 align="left">2.</h2>
+</td><td>
+<h2 align="left">Aquisi&ccedil;&otilde;es e Aliena&ccedil;&otilde;es</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h3 align="left">2.1</h3>
+</td><td>
+<h3 align="left">Terrenos</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.1.1
+            </th><td width="42%"><b>Aquisi&ccedil;&otilde;es realizadas no trimestre (endere&ccedil;o, &aacute;rea - m2, entre outras caracter&iacute;sticas relevantes)</b></td><td align="center" width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao total investido</b></td><td align="center" width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao PL</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.1.2
+            </th><td width="42%"><b>Aliena&ccedil;&otilde;es realizadas no trimestre (endere&ccedil;o, &aacute;rea - m2, data da aliena&ccedil;&atilde;o, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao total investido &agrave; &eacute;poca da aliena&ccedil;&atilde;o</b></td><td width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao PL</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h3 align="left">2.2</h3>
+</td><td>
+<h3 align="left">Im&oacute;veis</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.2.1
+            </th><td width="42%"><b>Aquisi&ccedil;&otilde;es realizadas no trimestre (nome, endere&ccedil;o, &aacute;rea - m2, n&ordm; de unidades ou lojas, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao total investido</b></td><td width="25%"><b>Categoria (Renda ou Venda)</b></td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Concorde<br>Rua Funchal, 495<br>
+                &Aacute;rea (m2):
+                231,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj 61, localizado no 6&ordm; andar do edif&iacute;cio, Matr&iacute;cula n&ordm; 33443, do 4&deg; RGI de S&atilde;o Paulo, com 5 vagas de garagem indeterminadas.</td><td align="center">0,6634%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Concorde<br>Rua Funchal, 495<br>
+                &Aacute;rea (m2):
+                163,80<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj 62, localizado no 6&ordm; andar do edif&iacute;cio, Matr&iacute;cula n&ordm; 33444, do 4&deg; RGI de S&atilde;o Paulo, com 5 vagas de garagem indeterminadas.</td><td align="center">0,4700%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Banco Mercantil<br>Av. Paulista n&ordm; 925 <br>
+                &Aacute;rea (m2):
+                215,72<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj 102 localizado no 10&ordm;andar ou  14&ordm; pavimento. Matr&iacute;cula n&ordm; 73372, com 2 vagas, Matr&iacute;culas 733373 e 733374 respecitivamente, do 4&deg; RGI de S&atilde;o Paulo.</td><td align="center">0,6823%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Brasilinterpart<br>Av. das Na&ccedil;&otilde;es Unidas, 11633<br>
+                &Aacute;rea (m2):
+                254,27<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj 53, localizados no 5&ordm; andar ou  9&ordm; pavimento. Matr&iacute;cula n&ordm; 118496 respectivamente, do 15&deg; RGI de S&atilde;o Paulo. A &aacute;rea indicada inclui 254,27m&sup2;, com 5 vagas de garagem  indeterminadas. </td><td align="center">0,8112%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Brasilinterpart <br>Av. das Na&ccedil;&otilde;es Unidas, 11633<br>
+                &Aacute;rea (m2):
+                188,32<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj 54, localizados no 5&ordm; andar ou  9&ordm; pavimento. Matr&iacute;cula n&ordm; 118497 respectivamente, do 15&deg; RGI de S&atilde;o Paulo. A &aacute;rea indicada inclui 188,32m&sup2;, com 5 vagas de garagem  indeterminadas. </td><td align="center">0,6008%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Brasilinterpart <br>Av. das Na&ccedil;&otilde;es Unidas, 11633<br>
+                &Aacute;rea (m2):
+                886,88<br>
+                N&ordm; de unidades ou lojas:
+                4<br>Cjs 171 a 174 localizados no 17&ordm; andar. Matr&iacute;culas n&ordm; 118494 e 118495 para cjs 171 / 172 e Matr&iacute;culas 112745 e 112746 para cjs 173 / 174, todas do 15&deg; RGI. A &aacute;rea indicada inclui 886,88m&sup2; de terra&ccedil;o. Inclusas 17 vagas no indeterminadas totais, citadas nas matr&iacute;culas </td><td align="center">2,7699%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio Brasilinterpart <br>Av. das Na&ccedil;&otilde;es Unidas, 11633<br>
+                &Aacute;rea (m2):
+                90,00<br>
+                N&ordm; de unidades ou lojas:
+                9<br>Vagas de garagem de 48 a 56, matr&iacute;culas de 118472 a 118480, , todas do 15&deg; RGI. </td><td align="center">0,3222%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio GBC<br>Av. Dr. Cardoso de Mello, 1687<br>
+                &Aacute;rea (m2):
+                133,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj 81, localizados no 8&ordm; andar ou  8&ordm; pavimento. Matr&iacute;cula n&ordm; 109677, do 4&deg; RGI de S&atilde;o Paulo. A &aacute;rea indicada inclui 133m&sup2;, com 2 vagas de garagem  indeterminadas. </td><td align="center">0,4738%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Edif&iacute;cio GBC <br>Av. Dr. Cardoso de Mello, 1687<br>
+                &Aacute;rea (m2):
+                133,00<br>
+                N&ordm; de unidades ou lojas:
+                1<br>Cj 82, localizados no 8&ordm; andar ou  8&ordm; pavimento. Matr&iacute;cula n&ordm; 109678, do 4&deg; RGI de S&atilde;o Paulo. A &aacute;rea indicada inclui 133m&sup2;, com 2 vagas de garagem  indeterminadas. </td><td align="center">0,4738%</td><td align="center">Renda</td>
+</tr>
+<tr>
+<td>Ed. Arco do Triunfo<br>Av. Ang&eacute;lica, 745<br>
+                &Aacute;rea (m2):
+                4.145,00<br>
+                N&ordm; de unidades ou lojas:
+                53<br>Loja A e cjs de 11 a 134. Matr&iacute;culas 82749 a 82801, do 2&ordm; RGI de S&atilde;o Paulo. </td><td align="center">4,8389%</td><td align="center">Renda</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              2.2.2
+            </th><td width="42%"><b>Aliena&ccedil;&otilde;es realizadas no trimestre (nome, endere&ccedil;o, &aacute;rea - m2, n&ordm; de unidades ou lojas, data da aliena&ccedil;&atilde;o, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao total investido &agrave; &eacute;poca da aliena&ccedil;&atilde;o</b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao PL</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td width="8%">
+<h2 align="left">3.</h2>
+</td><td>
+<h2 align="left">Outras Informa&ccedil;&otilde;es</h2>
+</td>
+</tr>
+<tr>
+<td>
+<h3 align="left">3.1</h3>
+</td><td>
+<h3 align="left">Rentabilidade Garantida</h3>
+</td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              3.1.1
+            </th><td width="25%"><b>Rela&ccedil;&atilde;o de Ativos sujeitos &agrave; garantia de rentabilidade&sup3;</b></td><td width="10%"><b>% garantido relativo</b></td><td width="22%"><b>Garantidor</b></td><td width="35%"><b>Principais caracter&iacute;sticas da garantia (tempo, valor, forma, riscos incorridos, entre outros aspectos relevantes)</b></td>
+</tr>
+<tr>
+<td align="left" colspan="4">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="left" valign="top" rowspan="100" width="8%">
+              3.1.2
+            </th><th align="left" colspan="3">Rentabilidade efetiva no per&iacute;odo sob a vig&ecirc;ncia de garantia</th>
+</tr>
+<tr>
+<td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td rowspan="2" width="70%">
+<h2>Demonstra&ccedil;&otilde;es Trimestrais dos Resultados Cont&aacute;bil e Financeiro</h2>
+</td><td width="30%" colspan="2" align="Center"><b>Valor(R$)</b></td>
+</tr>
+<tr>
+<td width="15%" align="center"><b>Cont&aacute;bil</b></td><td width="15%" align="center"><b>Financeiro⁴</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          A
+        </th><th align="left" colspan="3">Ativos Imobili&aacute;rios</th>
+</tr>
+<tr>
+<th align="left" colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Estoques:</th>
+</tr>
+<tr>
+<td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receita de venda de im&oacute;veis em estoque</td><td align="center" width="15%">0</td><td align="center" width="15%">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Custo dos im&oacute;veis em estoque vendidos</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor de realiza&ccedil;&atilde;o dos estoques</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de im&oacute;veis em estoque</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de im&oacute;veis em estoque</h4>
+</td><td align="center"><b>0</b></td><td align="center"><b>0</b></td>
+</tr>
+<tr>
+<th align="left" colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Propriedades para investimento:</th>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de alugu&eacute;is das propriedades para investimento</td><td align="center">16.823.598,34</td><td align="center">16.361.803,34</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com manuten&ccedil;&atilde;o e conserva&ccedil;&atilde;o das propriedades para investimento</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de venda de propriedades para investimento</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Custo das propriedades para investimento vendidas</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo das propriedades para investimento</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas das propriedades para investimento</td><td align="center">-2.115.921,55</td><td align="center">-2.182.533,96</td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de im&oacute;veis para renda</h4>
+</td><td align="center"><b>14.707.676,79</b></td><td align="center"><b>14.179.269,38</b></td>
+</tr>
+<tr>
+<th align="left" colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;Ativos imobili&aacute;rios representados por T&iacute;tulos e Valores Mobili&aacute;rios ("TVM"):</th>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de juros dos ativos imobili&aacute;rios representados por TVM</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo dos ativos imobili&aacute;rios representados por TVM</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Resultado na venda de ativos imobili&aacute;rios representados por TVM</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de ativos imobili&aacute;rios representados por TVM</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de ativos imobili&aacute;rios representados por TVM</h4>
+</td><td align="center"><b>0</b></td><td align="center"><b>0</b></td>
+</tr>
+<tr>
+<td>
+<h4>&nbsp;Resultado l&iacute;quido dos ativos imobili&aacute;rios</h4>
+</td><td valign="bottom" align="center"><b>14.707.676,79</b></td><td valign="bottom" align="center"><b>14.179.269,38</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          B
+        </th><th align="left" colspan="3">&nbsp;Recursos mantidos para as necessidades de liquidez</th>
+</tr>
+<tr>
+<td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de juros de aplica&ccedil;&otilde;es financeiras</td><td align="center" width="15%">715.716,22</td><td align="center" width="15%">715.716,22</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo de aplica&ccedil;&otilde;es financeiras</td><td align="center"></td><td align="center"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Resultado na venda de aplica&ccedil;&otilde;es financeiras</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de aplica&ccedil;&otilde;es financeiras</td><td align="center">0</td><td align="center">0</td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;Resultado l&iacute;quido dos recursos mantidos para as necessidades de liquidez</h4>
+</td><td valign="bottom" align="center"><b>715.716,22</b></td><td valign="bottom" align="center"><b>715.716,22</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+         C
+        </th><td width="62%">
+<h4 align="left">&nbsp;Resultado l&iacute;quido com instrumentos financeiros derivativos</h4>
+</td><td valign="bottom" align="center" width="15%"></td><td valign="bottom" align="center" width="15%"></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          D
+        </th><th align="left" colspan="3">&nbsp;Outras receitas/despesas</th>
+</tr>
+<tr>
+<td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de administra&ccedil;&atilde;o</td><td align="center" width="15%">-699.461,67</td><td align="center" width="15%">-636.679,22</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de desempenho (performance)</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Consultoria especializada de que trata o art. 31, II, ICVM 472</td><td align="center" width="15%">-790.344,25</td><td align="center" width="15%">-755.114,33</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Empresa especializada de que trata o art. 31, III, ICVM 472</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Formador de mercado de que trata o art. 31, IV, ICVM 472</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Cust&oacute;dia dos t&iacute;tulos e valores mobili&aacute;rios do FII</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Auditoria independente</td><td align="center" width="15%">-0,5</td><td align="center" width="15%">-6.812,5</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Representante(s) de cotistas</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxas, impostos ou contribui&ccedil;&otilde;es federais, estaduais e municipais (incluindo a CVM)</td><td align="center" width="15%">-10.119,36</td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Comiss&otilde;es e emolumentos pagos sobre as opera&ccedil;&otilde;es do FII</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Honor&aacute;rios de advogados, custas e despesas correlatas incorridas em defesa dos interesses do FII (Judicial ou Extrajudicialmente)</td><td align="center" width="15%">-30.500</td><td align="center" width="15%">-30.500</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Gastos derivados da celebra&ccedil;&atilde;o de contratos de seguro sobre os ativos do FII</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com avalia&ccedil;&otilde;es obrigat&oacute;rias</td><td align="center" width="15%">-137.050</td><td align="center" width="15%">-137.050</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de ingresso ou sa&iacute;da dos fundos de que o FII seja cotista</td><td align="center" width="15%"></td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com o registro de documentos em cart&oacute;rio</td><td align="center" width="15%">-20.744,44</td><td align="center" width="15%">-20.744,44</td>
+</tr>
+<tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas</td><td align="center" width="15%">-60.328,24</td><td align="center" width="15%">-60.328,24</td>
+</tr>
+<tr>
+<td>
+<h4 align="left">&nbsp;Total de outras receitas/despesas</h4>
+</td><td align="center" width="15%"><b>-1.748.548,46</b></td><td align="center" width="15%"><b>-1.647.228,73</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" rowspan="100" width="8%">
+          E = A + B + C + D
+        </th><td width="62%">
+<h4 align="left">&nbsp;Resultado cont&aacute;bil/financeiro trimestral l&iacute;quido</h4>
+</td><td align="center" width="15%"><b>13.674.844,55</b></td><td align="center" width="15%"><b>13.247.756,87</b></td>
+</tr>
+</table>
+<p></p>
+<table border="1" width="95%" align="center">
+<tr>
+<td width="85%">
+<h2>Distribui&ccedil;&atilde;o do resultado acumulado no trimestre/semestre*</h2>
+</td><td align="center" width="15%"><b>Valor(R$)</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="center" valign="top" width="8%"><b>F = &sum;E</b></td><td width="77%"><b>&nbsp;Resultado financeiro l&iacute;quido acumulado no trimestre/semestre corrente</b></td><td align="center" width="15%"><b>13.247.736,87</b></td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>G = 0,95 x F</b></td><td><b>&nbsp;95% do resultado financeiro l&iacute;quido acumulado (art. 10, p.u., da Lei 8.668/93)</b></td><td align="center"><b>12.585.350,0265</b></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="center" valign="top" width="8%"><b>H.i</b></td><td width="77%">
+          &nbsp;(-) Parcela do resultado financeiro n&atilde;o declarada para distribui&ccedil;&atilde;o ao longo do trimestre (1&ordm; ou 3&ordm;)
+        </td><td align="center" width="15%"></td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<th align="center" valign="top" width="8%">
+              H
+            </th><td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+</tr>
+</table>
+<table class="no_border_top" width="95%" align="center">
+<tr>
+<td align="center" valign="top" width="8%"><b>I.i</b></td><td width="77%">
+          &nbsp;(+) Lucro cont&aacute;bil pass&iacute;vel de distribui&ccedil;&atilde;o que excede ao total do resultado financeiro⁵.
+        </td><td align="center" width="15%"></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="8%"><b>I.ii</b></td><td width="77%">
+          &nbsp;(+) Resultado financeiro que excede o m&iacute;nimo de 95%⁷.
+        </td><td align="center" width="15%">1.663.077,17</td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>J = G - &sum;H + I</b></td><td><b>&nbsp;Rendimentos declarados</b></td><td align="center"><b>14.248.427,1965</b></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+          K
+        </td><td>
+          &nbsp;(-) Rendimentos pagos antecipadamente durante o trimestre/semestre
+        </td><td align="center">-14.248.427,2</td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>L = J - K</b></td><td><b>&nbsp;Rendimento l&iacute;quido a pagar remanescente no encerramento do trimestre/semestre</b></td><td align="center"><b>-0,0035</b></td>
+</tr>
+<tr>
+<td align="center" valign="top"><b>M = J/F</b></td><td>
+          &nbsp;% do resultado financeiro l&iacute;quido declarado no trimestre/semestre
+        </td><td align="center">107,5537%</td>
+</tr>
+</table>
+<p></p>
+<table class="no_border" width="95%" align="center">
+<tr class="no_border">
+<td class="no_border">* Quando se referir ao Informe Trimestral do 2&ordm; e 4&ordm; trimestres de cada ano, onde as informa&ccedil;&otilde;es dever&atilde;o acumular tamb&eacute;m os valores correspondentes ao trimestre imediatamente anterior, ou seja, 1&ordm; e 3&ordm; trimestres, respectivamente.</td>
+</tr>
+</table>
+<p></p>
+<h3 align="center">Notas</h3>
+<table width="95%" align="center">
+<tr>
+<td align="center" width="4%">1.</td><td>Dentre as caracter&iacute;sticas relevantes dos im&oacute;veis, (i) descrever os direitos que o fundo det&eacute;m sobre os im&oacute;veis, com men&ccedil;&atilde;o aos principais termos de quaisquer contratos de financiamento, promessas de compra e venda, bem como quaisquer outros instrumentos que lhe assegurem tais direitos; (ii) descrever os &ocirc;nus e garantias que recaem sobre os im&oacute;veis; (iii) indicar se o im&oacute;vel foi adquirido em regime de condom&iacute;nio, e se existe acordo dispondo sobre a constitui&ccedil;&atilde;o da propriedade em comum e reparti&ccedil;&atilde;o dos rendimentos por ela gerados; (iv) prazo para conclus&atilde;o do empreendimento.</td>
+</tr>
+<tr>
+<td align="center">2.</td><td>Nos os casos em que a divulga&ccedil;&atilde;o de tais informa&ccedil;&otilde;es prejudique as rela&ccedil;&otilde;es contratuais estabelecidas, o administrador deve informar a quantidade de im&oacute;veis que se encontram em tal situa&ccedil;&atilde;o e o percentual de receitas oriunda desse rol de ativos.</td>
+</tr>
+<tr>
+<td align="center">3.</td><td>No item que trata da rela&ccedil;&atilde;o de ativos sujeitos &agrave; garantia, o Ativo dever&aacute; ser identificado. No caso de (i) im&oacute;veis, pelo nome, ou endere&ccedil;o, caso o im&oacute;vel n&atilde;o possua um nome, (ii) terrenos, pelo endere&ccedil;o e (iii) demais ativos, pelas caracter&iacute;sticas principais que possibilitem a perfeita identifica&ccedil;&atilde;o pelo cotista.</td>
+</tr>
+<tr>
+<td align="center">4.</td><td>O resultado financeiro representa o quanto do resultado cont&aacute;bil foi efetivamente pago/recebido no m&ecirc;s ou o montante recebido/pago no m&ecirc;s que tenha sido objeto de apropria&ccedil;&atilde;o em meses anteriores. Em resumo, corresponde ao efeito caixa das receitas e despesas. </td>
+</tr>
+<tr>
+<td align="center">5.</td><td>Corresponde a parcela do lucro cont&aacute;bil apropriado no per&iacute;odo ainda n&atilde;o recebida, a qual o administrador declara distribuir como excedente ao total do resultado financeiro.</td>
+</tr>
+<tr>
+<td align="center">6.</td><td>
+<table class="no_border">
+<tr class="no_border">
+<td>Para os fundos n&atilde;o listados em bolsa de valores, mercado de balc&atilde;o organizado e que sejam, cumulativamente, exclusivos, dedicados exclusivamente a investidores profissionais, ou onde a totalidade dos cotistas mant&eacute;m v&iacute;nculo familiar ou societ&aacute;rio familiar, nos termos das regras gerias sobre fundos de investimento, a divulga&ccedil;&atilde;o das seguintes informa&ccedil;&otilde;es &eacute; facultativa, devendo, contudo, ser disponibilizada aos cotistas do fundo quando requeridas:</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.1.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 1.1.1.2.4, 1.1.1.2.5 e 1.1.1.2.6 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.2.1 &ndash; outras caracter&iacute;sticas relevantes, % locado, e colunas % de conclus&atilde;o das obras e custos de constru&ccedil;&atilde;o.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 1.1.2.2.2 e 1.1.2.2.3 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.3.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.3.2 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Item 1.1.2.4.1 &ndash; outras caracter&iacute;sticas relevantes, % vendido, e colunas % de conclus&atilde;o das obras e custos de constru&ccedil;&atilde;o.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 1.1.2.4.2 e 1.1.2.4.3 &ndash; todo o conte&uacute;do.</td>
+</tr>
+<tr class="no_border">
+<td>&bull;	Itens 2.1.1, 2.1.2, 2.2.1, 2.2.2 &ndash; outras caracter&iacute;sticas relevantes.</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">7.</td><td>Caso o fundo venha a distribuir valor superior ao m&iacute;nimo de 95% do seu resultado financeiro acumulado no semestre.</td>
+</tr>
+</table>
+</body>
+</html>

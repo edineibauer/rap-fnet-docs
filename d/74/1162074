@@ -1,0 +1,186 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Formul&aacute;rio de Libera&ccedil;&atilde;o para Negocia&ccedil;&atilde;o de Cotas</title>
+<style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+          
+          td.no_border_left {
+          border-left: 1pt hidden:
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+		  .texto-tabela-centralizado
+		  {
+		  width: 10%;
+		  text-align: center; 
+		  vertical-align: middle;
+		  }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Formul&aacute;rio de Libera&ccedil;&atilde;o para Negocia&ccedil;&atilde;o de Cotas</h2>
+<table width="95%" align="center">
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Fundo: </span></td><td width="30%"><span class="dado-cabecalho">CAPIT&Acirc;NIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="25%"><span class="dado-cabecalho">18.979.895/0001-13</span></td>
+</tr>
+<tr>
+<td width="20%"><span class="titulo-dado">Nome do Administrador: </span></td><td width="30%"><span class="dado-cabecalho">BTG PACTUAL SERVI&Ccedil;OS FINANCEIROS S/A DTVM</span></td><td width="25%"><span class="titulo-dado">CNPJ do Administrador: </span></td><td width="25%"><span class="dado-cabecalho">59.281.253/0001-23</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">Respons&aacute;vel pela informa&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">GUSTAVO PIERSANTI</span></td><td><span class="titulo-dado">Telefone do respons&aacute;vel: </span></td><td><span class="dado-cabecalho">1133833102</span></td>
+</tr>
+<tr>
+<td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">ri.fundoslistados@btgpactual.com</span></td><td><span class="titulo-dado">Nome de preg&atilde;o: </span></td><td><span class="dado-cabecalho">FII CAPI SEC</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="9">
+<h3 align="left">Informa&ccedil;&otilde;es sobre a oferta</h3>
+</td>
+</tr>
+<tr>
+<td colspan="6"></td><td class="texto-tabela-centralizado" colspan="3"><b>Secund&aacute;rio - In&iacute;cio da revenda</b></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado"><b>C&oacute;digo ISIN da cota</b></td><td class="texto-tabela-centralizado"><b>Ticker</b></td><td class="texto-tabela-centralizado"><b>N&ordm; da emiss&atilde;o</b></td><td class="texto-tabela-centralizado"><b>S&eacute;rie</b></td><td class="texto-tabela-centralizado"><b>Tipo de oferta</b></td><td width="20%" class="texto-tabela-centralizado"><b>Data de encerramento</b></td><td width="20%" class="texto-tabela-centralizado"><b>Profissional</b></td><td width="20%" class="texto-tabela-centralizado"><b>Qualificado</b></td><td width="20%" class="texto-tabela-centralizado"><b>Varejo</b></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">BRCPTSCTF004</td><td class="texto-tabela-centralizado">CPTS11</td><td class="texto-tabela-centralizado">15</td><td class="texto-tabela-centralizado">&Uacute;NICA</td><td class="texto-tabela-centralizado">Rito autom&aacute;tico</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">24/03/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">01/07/2020</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">01/07/2020</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">01/07/2020</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td colspan="10">
+<h3 align="left">Informa&ccedil;&otilde;es por ativo</h3>
+</td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado"><b>Ticker</b></td><td class="texto-tabela-centralizado"><b>C&oacute;digo ISIN da liquida&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Especifica&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b> Quantidade de Cotas</b></td><td class="texto-tabela-centralizado"><b>Data da Integraliza&ccedil;&atilde;o</b></td><td width="20%" class="texto-tabela-centralizado"><b>Data de Libera&ccedil;&atilde;o do Lock-Up (Somente para ICVM 476)</b></td><td class="texto-tabela-centralizado"><b>Data da Convers&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Data de Libera&ccedil;&atilde;o da Negocia&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Pagamento de Rendimento Pro-Rata</b></td><td class="texto-tabela-centralizado"><b>Data da Divulga&ccedil;&atilde;o do Rendimento</b></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">CPTS13</td><td class="texto-tabela-centralizado">BRCPTSR30M13</td><td class="texto-tabela-centralizado">Liquida&ccedil;&atilde;o DP</td><td class="texto-tabela-centralizado">71.784</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">03/02/2026</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/04/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">17/04/2026</span></td><td class="texto-tabela-centralizado">Sim</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/04/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">CPTS15</td><td class="texto-tabela-centralizado">BRCPTSR31M12</td><td class="texto-tabela-centralizado">Liquida&ccedil;&atilde;o Oferta</td><td class="texto-tabela-centralizado">433.082</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">06/02/2026</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/04/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">17/04/2026</span></td><td class="texto-tabela-centralizado">Sim</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/04/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">CPTS16</td><td class="texto-tabela-centralizado">BRCPTSR32M11</td><td class="texto-tabela-centralizado">Liquida&ccedil;&atilde;o Oferta</td><td class="texto-tabela-centralizado">3.888.386</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">10/02/2026</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/04/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">17/04/2026</span></td><td class="texto-tabela-centralizado">Sim</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/04/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">CPTS17</td><td class="texto-tabela-centralizado">BRCPTSR33M10</td><td class="texto-tabela-centralizado">Liquida&ccedil;&atilde;o Oferta</td><td class="texto-tabela-centralizado">1.059.707</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">09/03/2026</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/04/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">17/04/2026</span></td><td class="texto-tabela-centralizado">Sim</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/04/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">CPTS18</td><td class="texto-tabela-centralizado">BRCPTSR34M19</td><td class="texto-tabela-centralizado">Liquida&ccedil;&atilde;o Oferta</td><td class="texto-tabela-centralizado">2.112.000</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">17/03/2026</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/04/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">17/04/2026</span></td><td class="texto-tabela-centralizado">Sim</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/04/2026</span></td>
+</tr>
+<tr>
+<td class="texto-tabela-centralizado">CPTS11</td><td class="texto-tabela-centralizado">BRCPTSCTF004</td><td class="texto-tabela-centralizado">Liquida&ccedil;&atilde;o escriturador</td><td class="texto-tabela-centralizado">7.692.241</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">20/03/2026</span></td><td width="20%" class="texto-tabela-centralizado"></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/04/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">17/04/2026</span></td><td class="texto-tabela-centralizado">Sim</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">13/04/2026</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Qtd de cotas integralizadas: </span></td><td><span class="dado-valores">15.257.200</span></td><td><span class="titulo-dado">Valor da cota: </span></td><td><span class="dado-valores">R$ 8,960000000000000</span></td><td><span class="titulo-dado">Montante final: </span></td><td><span class="dado-valores">R$ 136.704.512,00</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Chamada de capital*: </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+<div style="margin-left: 29.664;" width="95%">
+<span style="font-size:11; color:red">*</span><span style="font-size:11">Preencher apenas quando houver cotas subscritas ainda n&atilde;o integralizadas</span>
+</div>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Houve retrata&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Bolsa</span></td>
+</tr>
+</table>
+<p></p>
+<table width="95%" align="center">
+<tr>
+<td width="100%"><a id="anexos" name="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+</tr>
+</table>
+</body>
+</html>
