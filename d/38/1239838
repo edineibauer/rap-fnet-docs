@@ -1,0 +1,522 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Informe Anual FIAGRO</title>
+<style type="text/css">
+          table {
+          border-collapse: collapse;
+
+          width: 95%;
+          }
+
+          table, td, th {
+          padding: 3px;
+          border: 1px solid black;
+          font-size: 11;
+          }
+
+          body {
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .title-b3 {
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho {
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores {
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+          .dado-versao {
+          display:block;
+          font-size:11;
+          text-align: right;
+          margin-right: 25px
+          }
+
+          .w-30 {
+          width: 30%;
+          }
+
+          .pl-20 {
+          padding-left: 20px;
+          }
+
+          .pl-40 {
+          padding-left: 40px;
+          }
+
+          .pl-60 {
+          padding-left: 60px;
+          }
+
+          .pl-80 {
+          padding-left: 80px;
+          }
+
+          .celula-numero-secao {
+          width: 1vw;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual FIAGRO</h2>
+<span class="dado-versao">
+      Vers&atilde;o: 1.0</span>
+<table width="95%" align="center">
+<tr>
+<td><span class="title-b3">Nome do fundo</span></td><td><span class="dado-cabecalho">ASSET BANK AGRONEG&Oacute;CIOS FIAGRO - DIREITOS CREDIT&Oacute;RIOS - RESPONSABILIDADE LIMITADA</span></td><td><span class="title-b3">CNPJ do fundo</span></td><td></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da classe</span></td><td><span class="dado-cabecalho">ASSET BANK AGRONEG&Oacute;CIOS FIAGRO - DIREITOS CREDIT&Oacute;RIOS - RESPONSABILIDADE LIMITADA</span></td><td><span class="title-b3">CNPJ da classe</span></td><td><span class="dado-cabecalho">52.670.402/0001-05</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data do Registro de Funcionamento</span></td><td><span class="dado-cabecalho">01/12/2023</span></td><td><span class="title-b3">P&uacute;blico alvo</span></td><td><span class="dado-cabecalho">INVESTIDOR QUALIFICADO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">C&oacute;digo ISIN</span></td><td><span class="dado-cabecalho">BRAAGRCTF017</span></td><td><span class="title-b3">Classe exclusiva</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar</span></td><td><span class="dado-cabecalho">NAO</span></td><td><span class="title-b3">Classe Previdenci&aacute;ria</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Tipo de classe previdenci&aacute;ria</span></td><td><span class="dado-cabecalho"></span></td><td><span class="title-b3">Classifica&ccedil;&atilde;o da autorregula&ccedil;&atilde;o (se houver)</span></td><td><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Prazo de Dura&ccedil;&atilde;o</span></td><td><span class="dado-cabecalho">Indeterminado</span></td><td><span class="title-b3">Encerramento do exerc&iacute;cio social</span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Mercado de negocia&ccedil;&atilde;o das cotas</span></td><td><span class="dado-cabecalho">BALCAO NAO ORGANIZADO</span></td><td><span class="title-b3">Entidade administradora de mercado organizado, se for o caso</span></td><td><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome do Administrador</span></td><td><span class="dado-cabecalho">AZUMI DISTRIBUIDORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS LTDA.</span></td><td><span class="title-b3">CNPJ do Administrador</span></td><td><span class="dado-cabecalho">40.434.681/0001-10</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Compet&ecirc;ncia</span></td><td colspan="3"><span class="dado-cabecalho">12/2025</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="50%" align="center" id="prestadores-servico">
+<thead>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1. Prestadores de Servi&ccedil;os</span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Prestador</span></td><td><span class="title-b3">Nome</span></td><td><span class="title-b3">CNPJ</span></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="celula-numero-secao"><span class="title-b3">1.1</span></td><td><span class="title-b3">Gestor</span></td><td><span>ASSET BANK ASSET MANAGEMENT LTDA.</span></td><td><span>42.221.617/0001-87</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.2</span></td><td><span class="title-b3">Custodiante</span></td><td><span>AZUMI DISTRIBUIDORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS LTDA.</span></td><td><span>40.434.681/0001-10</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.3</span></td><td><span class="title-b3">Auditor Independente</span></td><td><span>NEXT AUDITORES INDEPENDENTES S/S LTDA.</span></td><td><span>19.280.834/0001-26</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.4</span></td><td><span class="title-b3">Formador de Mercado</span></td><td><span></span></td><td><span>../-</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.5</span></td><td><span class="title-b3">Distribuidor de Cotas</span></td><td><span>SAFRA ASSET CORRETORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS S.A.</span></td><td><span>65.913.436/0001-17</span></td>
+</tr>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1.8 Outros Pretadores de Servi&ccedil;o</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">2. Investimentos</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="5"><span class="title-b3">2.1</span></td><td><span class="title-b3">Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</span></td><td colspan="3"><span>O fundo adquiriu cotas de Fundo de investimento em Direitos Credit&oacute;rios; Direitos Credit&oacute;rios; CPR.</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Rela&ccedil;&atilde;o dos Ativos adquiridos no per&iacute;odo</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Ativo</span></td><td><span class="title-b3">Objetivos</span></td><td><span class="title-b3">Montantes Investidos</span></td><td><span class="title-b3">Origem dos Recursos</span></td>
+</tr>
+<tr>
+<td><span>CF 48050002  FIDC CAMPO</span></td><td><span>RENTABILIDADE</span></td><td><span>R$ 1.000.000,00</span></td><td><span>PR&Oacute;PRIOS</span></td>
+</tr>
+<tr>
+<td><span>CF 48050471 FIDC CAMPO</span></td><td><span>RENTABILIDADE</span></td><td><span>R$ 500.000,00</span></td><td><span>PR&Oacute;PRIOS</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">2.2</span></td><td colspan="4"><span class="title-b3">
+            Informa&ccedil;&otilde;es sobre a regularidade da inscri&ccedil;&atilde;o dos im&oacute;veis rurais,
+            se houver, no
+            Cadastro Ambiental Rural &ndash; CAR ou explica&ccedil;&atilde;o sobre sua desnecessidade
+          </span></td>
+</tr>
+<tr>
+<td colspan="4"><span>N/A</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">3. Programa de Investimentos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Programa de investimentos para os exerc&iacute;cios seguintes, incluindo,
+            se necess&aacute;rio, as
+            informa&ccedil;&otilde;es com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados
+          </span></td>
+</tr>
+<tr>
+<td><span>O Fundo tem por objetivo a realiza&ccedil;&atilde;o de investimentos nas cadeias produtivas agroindustriais, preponderantemente por meio da aquisi&ccedil;&atilde;o de direitos credit&oacute;rios, t&iacute;tulos e valores mobili&aacute;rios vinculados ao agroneg&oacute;cio, bem como im&oacute;veis rurais ou participa&ccedil;&otilde;es em ativos relacionados ao setor agroindustrial (&ldquo;Ativos-Alvo&rdquo;).</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">4. An&aacute;lise do Gestor sobre</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">4.1</span></td><td><span class="title-b3">Resultado no exerc&iacute;cio findo</span></td>
+</tr>
+<tr>
+<td><span>No exerecicio findo em 31.12.2025 o Fundo apresentou um resultado de (4.300.000,00).</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.2</span></td><td><span class="title-b3">
+            Conjuntura econ&ocirc;mica do segmento de atua&ccedil;&atilde;o relativo ao per&iacute;odo
+            findo
+          </span></td>
+</tr>
+<tr>
+<td><span>O segmento de Fundos de Investimento nas Cadeias Produtivas Agroindustriais (FIAGRO) esteve inserido, no per&iacute;odo findo em 31 de dezembro de 2025, em um ambiente de recupera&ccedil;&atilde;o gradual ap&oacute;s um ciclo adverso observado em 2024, marcado por eventos de cr&eacute;dito relevantes no setor do agroneg&oacute;cio.
+No &acirc;mbito macroecon&ocirc;mico, o per&iacute;odo foi caracterizado por uma pol&iacute;tica monet&aacute;ria ainda restritiva durante parte do ano, com taxas de juros em patamar elevado, o que, por um lado, sustentou a atratividade das opera&ccedil;&otilde;es indexadas ao CDI e &agrave; infla&ccedil;&atilde;o (IPCA), mas, por outro, manteve a competi&ccedil;&atilde;o com ativos tradicionais de renda fixa e pressionou a precifica&ccedil;&atilde;o das cotas no mercado secund&aacute;rio.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.3</span></td><td><span class="title-b3">
+            Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da
+            carteira
+          </span></td>
+</tr>
+<tr>
+<td><span>Ampliar as possibilidades de ganho  buscando a diversifica&ccedil;&atilde;o dos ativos.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">5. Riscos Incorridos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Riscos incorridos pelos cotistas inerentes aos investimentos</span></td><td><span>Risco de mercado dos ativos financeiros, riscos de cr&eacute;dito dos direitos credit&oacute;rios e dos ativos financeiros, riscos de liquidez, riscos operacionais envolvendo o fundo, riscos de descontinuidade, riscos relacionados ao setor de atua&ccedil;&atilde;o dos devedores, risco de altera&ccedil;&otilde;es tribut&aacute;rias e mudan&ccedil;as na legisla&ccedil;&atilde;o tribut&aacute;ria (risco tribut&aacute;rio) e riscos relativos &agrave; inexist&ecirc;ncia de uma regulamenta&ccedil;&atilde;o completa na CVM sobre os FIAGROS.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">6. Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="3"><span class="title-b3">
+            7. Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados
+            em causas jur&iacute;dicas
+            semelhantes, n&atilde;o sigilosos e relevantes
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">N&deg; do Processo</span></td><td><span class="title-b3">Valores Envolvidos</span></td><td><span class="title-b3">Causa da conting&ecirc;ncia</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">8. An&aacute;lise de Impacto</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            An&aacute;lise dos impactos em caso de perda e valores envolvidos
+            relacionados aos processos
+            judiciais sigilosos relevantes
+          </span></td><td><span>N/A</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">9. Assembleia Geral</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">9.1</span></td><td><span class="title-b3">
+            Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos
+            &agrave; assembleia estar&atilde;o
+            &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise
+          </span></td>
+</tr>
+<tr>
+<td><span>https://azumidtvm.com.br/</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.2</span></td><td><span class="title-b3">
+            Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas
+            para (i) a inclus&atilde;o de
+            mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s
+            delibera&ccedil;&otilde;es
+            propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais
+            cotistas para envio de
+            pedido p&uacute;blico de procura&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td><span>https://azumidtvm.com.br/</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.3</span></td><td><span class="title-b3">
+            Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos
+            cotistas em
+            assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade
+            de cotista e
+            representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de
+            consultas formais, se
+            admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e
+            envio de
+            comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto
+          </span></td>
+</tr>
+<tr>
+<td><span>Respeitado o previsto na cl&aacute;usula 15.3 acima, somente podem votar na Assembleia de Cotistas os Cotistas, seus representantes legais ou procuradores legalmente constitu&iacute;dos h&aacute; menos de 1 (um) ano, sendo que o instrumento de mandato dever&aacute; ser depositado na sede da Administradora no prazo de 2 (dois) Dias &Uacute;teis antes da data de realiza&ccedil;&atilde;o da Assembleia de Cotistas. </span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.4</span></td><td><span class="title-b3">Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico</span></td>
+</tr>
+<tr>
+<td><span>A convoca&ccedil;&atilde;o da Assembleia de Cotistas dever&aacute; ser feita com no m&iacute;nimo 10 (dez) dias de anteced&ecirc;ncia, contado o prazo da data de publica&ccedil;&atilde;o do an&uacute;ncio, do envio de carta com aviso de recebimento aos Cotistas ou do correio eletr&ocirc;nico, e ser&aacute; disponibilizada nas p&aacute;ginas da Administradora, da Gestora e, caso a distribui&ccedil;&atilde;o de cotas esteja em andamento, dos distribuidores na rede mundial de computadores.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">10. Remunera&ccedil;&atilde;o do Administrador e do Gestor</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="3"><span class="title-b3">10.1</span></td><td><span class="title-b3">Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento</span></td><td colspan="2"><span>Pelos servi&ccedil;os de administra&ccedil;&atilde;o do Fundo, ser&aacute; pago mensalmente &agrave; Administradora uma remunera&ccedil;&atilde;o equivalente a 0,05% ao ano sobre o patrim&ocirc;nio l&iacute;quido do Fundo, a contar da primeira data de integraliza&ccedil;&atilde;o das cotas.</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Valor pago no ano de refer&ecirc;ncia (R$)</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio cont&aacute;bil</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio a valor de mercado</span></td>
+</tr>
+<tr>
+<td><span>R$ 10.000,00</span></td><td><span>0,12%</span></td><td><span>0,12%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">11. Governan&ccedil;a</span></td>
+</tr>
+<tr>
+<td colspan="5"><span class="title-b3">Representante(s) dos cotistas</span></td>
+</tr>
+</table>
+<table style="border-top-style: hidden" border="1" width="95%" align="center">
+<tr>
+<td colspan="5"><span class="title-b3">Diretor Respons&aacute;vel pelo Fundo</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="19"><span class="title-b3">11.2</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome</span></td><td colspan="3"><span>Vitor Peredo Moscatelli</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Idade</span></td><td colspan="3"><span>47</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Profiss&atilde;o</span></td><td colspan="3"><span>Diretor de Administra&ccedil;&atilde;o Fiduci&aacute;ria</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">CPF</span></td><td colspan="3"><span>332.506.578-32</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">E-mail</span></td><td colspan="3"><span>vitor.moscatelli@azumidtvm.com.br</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Forma&ccedil;&atilde;o acad&ecirc;mica</span></td><td colspan="3"><span>ECONOMISTA</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas detidas da Classe</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe compradas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe vendidas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data de in&iacute;cio na fun&ccedil;&atilde;o</span></td><td colspan="3"><span>01/06/2021</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da Empresa</span></td><td><span class="title-b3">Per&iacute;odo</span></td><td><span class="title-b3">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="title-b3">Atividade Principal da Empresa</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">
+            Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido
+            durante os &uacute;ltimos 5
+            anos
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Evento</span></td><td colspan="3"><span class="title-b3">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="3"><span>N/A</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas
+            aplicadas
+          </span></td><td colspan="3"><span>N/A</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="6"><span class="title-b3">
+            12. Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas
+            adquirido
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Faixas de Pulveriza&ccedil;&atilde;o</span></td><td><span class="title-b3">N&ordm; de cotistas</span></td><td><span class="title-b3">N&ordm; de cotas detidas</span></td><td><span class="title-b3">% de cotas detido em rela&ccedil;&atilde;o ao total emitido</span></td><td><span class="title-b3">% detido por PF</span></td><td><span class="title-b3">% detido por PJ</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">At&eacute; 5% das cotas</span></td><td><span>1147</span></td><td><span>37786</span></td><td><span>25,55%</span></td><td><span>96,91%</span></td><td><span>3,09%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 5% at&eacute; 10%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 10% at&eacute; 15%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 15% at&eacute; 20%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 20% at&eacute; 30%</span></td><td><span>1</span></td><td><span>33749</span></td><td><span>22,82%</span></td><td><span>0,00%</span></td><td><span>100,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 30% at&eacute; 40%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>100,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 40% at&eacute; 50%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 50%</span></td><td><span>1</span></td><td><span>76350</span></td><td><span>51,63%</span></td><td><span>0,00%</span></td><td><span>100,00%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="7"><span class="title-b3">
+            13. Transa&ccedil;&otilde;es com ativos envolvendo potencial conflito de
+            interesses e a assembleia de
+            aprova&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Ativo negociado</span></td><td><span class="title-b3">Natureza da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Data da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Valor envolvido</span></td><td><span class="title-b3">Data da assembleia de autoriza&ccedil;&atilde;o</span></td><td><span class="title-b3">Contraparte</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">14. Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.1</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada
+            pelo administrador,
+            ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores,
+            indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es
+            relevantes n&atilde;o divulgadas,
+            locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos
+          </span></td>
+</tr>
+<tr>
+<td><span>http://www.azumidtvm.com.br e https://fnet.bmfbovespa.com.br/</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.2</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas, se houver, ou
+            disponibilizar o link
+            correspondente da p&aacute;gina do administrador na rede mundial de computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>A transfer&ecirc;ncia de titularidade das Cotas do Fundo fica condicionada &agrave; verifica&ccedil;&atilde;o pela Administradora da adequa&ccedil;&atilde;o do investidor ao perfil de Investidor Autorizado, bem como do atendimento das demais formalidades estabelecidas neste Regulamento e na regulamenta&ccedil;&atilde;o vigente. As Cotas ser&atilde;o admitidas para (i) distribui&ccedil;&atilde;o no mercado prim&aacute;rio por meio do Sistema  de Distribui&ccedil;&atilde;o de Ativos (&ldquo;DDA&rdquo;), administrado e operacionalizado pela B3; e (ii) negocia&ccedil;&atilde;o e liquida&ccedil;&atilde;o no mercado secund&aacute;rio por meio do mercado de bolsa, administrado e operacionalizado pela B3, sendo a cust&oacute;dia das Novas Cotas realizadas na B3.  </span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.3</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em
+            participa&ccedil;&otilde;es societ&aacute;rias, ou
+            disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>https://assetbankmanagement.com.br/governanca/. </span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.4</span></td><td><span class="title-b3">
+            Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o,
+            manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e
+            fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso
+          </span></td>
+</tr>
+<tr>
+<td><span>N/A.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">15. Regras e prazos para chamada de capital</span></td>
+</tr>
+<tr>
+<td><span>N/A.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">16. Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados, incluindo a periodicidade e
+            a base de c&aacute;lculo
+            com a concilia&ccedil;&atilde;o da distribui&ccedil;&atilde;o do exerc&iacute;cio
+          </span></td><td><span>Sem preju&iacute;zo do disposto em outros dispositivos do regulamento, o Fundo poder&aacute;, por solicita&ccedil;&atilde;o da gestora, mensalmente,preferencialmente  no 10&deg; (d&eacute;cimo) dia &uacute;til de cada m&ecirc;s, observados os prazos e os procedimentos operacionais da B3, realizar a distribui&ccedil;&atilde;o, parcial ou total, dos resultados acumulados pelo Fundo, exclusivamente a titulo de distribui&ccedil;&atilde;o de rendimentos.
+Independentemente do valor do patrim&ocirc;nio l&iacute;quido do Fundo, a remunera&ccedil;&atilde;o devida aos titulares das cotas seniores e das cotas subordinadas mezanino, por ocasi&atilde;o de amortiza&ccedil;&otilde;es extraordin&aacute;rias, resgates ou distribui&ccedil;&otilde;es de resultados, ficar&aacute; limitada &agrave; respectiva meta de remunera&ccedil;&atilde;o vigente na data do pagamento, a qual constitui o limite m&aacute;ximo de remunera&ccedil;&atilde;o aplic&aacute;vel a essas classes de cotas.
+Ap&oacute;s a apura&ccedil;&atilde;o, incorpora&ccedil;&atilde;o e pagamento integral dos resultados devidos &agrave;s cotas seniores e &agrave;s cotas subordinadas mezanino, eventual excedente decorrente da valoriza&ccedil;&atilde;o da carteira do fundo, inclusive na data de sua liquida&ccedil;&atilde;o, ser&aacute; integralmente destinado &agrave;s cotas subordinadas j&uacute;nior.
+No exerc&iacute;cio findo em 31 de dezembro de 2025, houve a distribui&ccedil;&atilde;o de rendimento no montante de R$ 660, ( zero em 2024).</span></td>
+</tr>
+</table>
+</body>
+</html>
