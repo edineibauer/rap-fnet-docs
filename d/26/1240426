@@ -1,0 +1,761 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Informe Anual FIAGRO</title>
+<style type="text/css">
+          table {
+          border-collapse: collapse;
+
+          width: 95%;
+          }
+
+          table, td, th {
+          padding: 3px;
+          border: 1px solid black;
+          font-size: 11;
+          }
+
+          body {
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .title-b3 {
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho {
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores {
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+          .dado-versao {
+          display:block;
+          font-size:11;
+          text-align: right;
+          margin-right: 25px
+          }
+
+          .w-30 {
+          width: 30%;
+          }
+
+          .pl-20 {
+          padding-left: 20px;
+          }
+
+          .pl-40 {
+          padding-left: 40px;
+          }
+
+          .pl-60 {
+          padding-left: 60px;
+          }
+
+          .pl-80 {
+          padding-left: 80px;
+          }
+
+          .celula-numero-secao {
+          width: 1vw;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual FIAGRO</h2>
+<span class="dado-versao">
+      Vers&atilde;o: 1.0</span>
+<table width="95%" align="center">
+<tr>
+<td><span class="title-b3">Nome do fundo</span></td><td><span class="dado-cabecalho">XP CR&Eacute;DITO AGR&Iacute;COLA-FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS IMOB.-FIAGRO-IMOB.</span></td><td><span class="title-b3">CNPJ do fundo</span></td><td></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da classe</span></td><td><span class="dado-cabecalho">XP CR&Eacute;DITO AGR&Iacute;COLA-FIAGRO</span></td><td><span class="title-b3">CNPJ da classe</span></td><td><span class="dado-cabecalho">41.269.527/0001-01</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data do Registro de Funcionamento</span></td><td><span class="dado-cabecalho">12/08/2021</span></td><td><span class="title-b3">P&uacute;blico alvo</span></td><td><span class="dado-cabecalho">INVESTIDORES EM GERAL</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">C&oacute;digo ISIN</span></td><td><span class="dado-cabecalho">BRXPCACTF004</span></td><td><span class="title-b3">Classe exclusiva</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar</span></td><td><span class="dado-cabecalho">NAO</span></td><td><span class="title-b3">Classe Previdenci&aacute;ria</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Tipo de classe previdenci&aacute;ria</span></td><td><span class="dado-cabecalho"></span></td><td><span class="title-b3">Classifica&ccedil;&atilde;o da autorregula&ccedil;&atilde;o (se houver)</span></td><td><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Prazo de Dura&ccedil;&atilde;o</span></td><td><span class="dado-cabecalho">Indeterminado</span></td><td><span class="title-b3">Encerramento do exerc&iacute;cio social</span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Mercado de negocia&ccedil;&atilde;o das cotas</span></td><td><span class="dado-cabecalho">BOLSA</span></td><td><span class="title-b3">Entidade administradora de mercado organizado, se for o caso</span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome do Administrador</span></td><td><span class="dado-cabecalho">XP INVESTIMENTOS CORRETORA DE C&Acirc;MBIO, T&Iacute;TULOS E VALORESMOBILIARIOS S.A.</span></td><td><span class="title-b3">CNPJ do Administrador</span></td><td><span class="dado-cabecalho">02.332.886/0001-04</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Compet&ecirc;ncia</span></td><td colspan="3"><span class="dado-cabecalho">12/2025</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="50%" align="center" id="prestadores-servico">
+<thead>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1. Prestadores de Servi&ccedil;os</span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Prestador</span></td><td><span class="title-b3">Nome</span></td><td><span class="title-b3">CNPJ</span></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="celula-numero-secao"><span class="title-b3">1.1</span></td><td><span class="title-b3">Gestor</span></td><td><span>XP VISTA ASSET MANAGEMENT LTDA.</span></td><td><span>16.789.525/0001-98</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.2</span></td><td><span class="title-b3">Custodiante</span></td><td><span>OLIVEIRA TRUST DTVM S.A.</span></td><td><span>36.113.876/0001-91</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.3</span></td><td><span class="title-b3">Auditor Independente</span></td><td><span>ERNST &amp; YOUNG AUDITORES INDEPENDENTES S/S LTDA</span></td><td><span>61.366.936/0001-25</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.4</span></td><td><span class="title-b3">Formador de Mercado</span></td><td><span>XP INVESTIMENTOS CCTVM S.A.</span></td><td><span>02.332.886/0001-04</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.5</span></td><td><span class="title-b3">Distribuidor de Cotas</span></td><td><span>XP INVESTIMENTOS CCTVM S.A.</span></td><td><span>02.332.886/0001-04</span></td>
+</tr>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1.8 Outros Pretadores de Servi&ccedil;o</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">2. Investimentos</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="25"><span class="title-b3">2.1</span></td><td><span class="title-b3">Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</span></td><td colspan="3"><span>O fundo tem por objetivo obter ganhos de capital, mediante a valoriza&ccedil;&atilde;o de suas Cotas, conforme a Pol&iacute;tica de Investimento definida abaixo, por meio da aplica&ccedil;&atilde;o, preponderantemente, assim entendido como mais de 67% (sessenta e sete por cento) do patrim&ocirc;nio l&iacute;quido da Classe, em (i) certificados de receb&iacute;veis do agroneg&oacute;cio (&ldquo;CRA&rdquo;); (ii) certificados de receb&iacute;veis imobili&aacute;rios lastreados em cr&eacute;ditos imobili&aacute;rios relativos a im&oacute;veis rurais (&ldquo;CRI&rdquo;); (iii) Letras de Cr&eacute;dito do Agroneg&oacute;cio - LCA; e (iv) cotas de emiss&atilde;o de outros FIAGROs, fundos de investimento imobili&aacute;rio ou fundos de investimento em direitos credit&oacute;rios cuja pol&iacute;tica de investimento seja compat&iacute;vel com a desta Classe, que apliquem mais de 50% (cinquenta por cento) de seu patrim&ocirc;nio l&iacute;quido em ativos permitidos aos FIAGROs, nos termos das disposi&ccedil;&otilde;es regulat&oacute;rias aplic&aacute;veis, e que possuam pol&iacute;ticas de investimento destinadas &agrave; aplica&ccedil;&atilde;o de recursos nas cadeias produtivas do agroneg&oacute;cio (conjuntamente, os &ldquo;Ativos Alvo&rdquo;), com gest&atilde;o ativa da carteira da Classe pela Gestora. Diante do descrito anteriormente, o Fundo possui uma posi&ccedil;&atilde;o s&oacute;lida em CRIs e CRAas em R$ 296.574.534,34, e R$ 93.030.362,78 em cotas de investimento de outros fundos, consolidando um PL de R$ 439.171.939,80 </span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Rela&ccedil;&atilde;o dos Ativos adquiridos no per&iacute;odo</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Ativo</span></td><td><span class="title-b3">Objetivos</span></td><td><span class="title-b3">Montantes Investidos</span></td><td><span class="title-b3">Origem dos Recursos</span></td>
+</tr>
+<tr>
+<td><span>22K1802248</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 5.000.043,14</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA021005QS</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 74.363,46</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA022002MH</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 3.007.019,25</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA022009KI</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 225.221,87</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA02200AHU</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 3.147.924,90</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA023004SA</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 103.002,91</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA023008N6</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 112.740,52</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA02300CNN</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 72.703,08</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA0240053E</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 120.501,65</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA025000MJ</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 14.951.456,16</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA025002XL</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 15.000.000,00</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA025006SH</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 7.019.978,85</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>CRA02500810</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 24.000.000,00</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>AGROFORTE FIDC SR4</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 2.599.999,99</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>AGROJIVE I FIDC MZA</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 5.257.978,61</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>AGROJIVE I FIDC MZB</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 802.789,43</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>ECOAGRO FIAGRO SN6</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 3.006.453,83</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>FERT FIDC</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 5.000.000,00</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>FIDC FIA CRED AGRI 2</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 22.395.329,39</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>FIDC OPI CREDITO AGR</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 12.558.200,00</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>GOPLAN FIDC SN3</span></td><td><span>Proporcionar aos seus cotistas a valorização e a rentabilidade de suas cotas no longo prazo</span></td><td><span>R$ 4.000.000,00</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td><span>OT SOBERANO</span></td><td><span>Ativo mantido por necessidade de liquidez</span></td><td><span>R$ 362.187.618,61</span></td><td><span>Recuros de Caixa</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">2.2</span></td><td colspan="4"><span class="title-b3">
+            Informa&ccedil;&otilde;es sobre a regularidade da inscri&ccedil;&atilde;o dos im&oacute;veis rurais,
+            se houver, no
+            Cadastro Ambiental Rural &ndash; CAR ou explica&ccedil;&atilde;o sobre sua desnecessidade
+          </span></td>
+</tr>
+<tr>
+<td colspan="4"><span>O fundo investe somente em t&iacute;tulos</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">3. Programa de Investimentos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Programa de investimentos para os exerc&iacute;cios seguintes, incluindo,
+            se necess&aacute;rio, as
+            informa&ccedil;&otilde;es com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados
+          </span></td>
+</tr>
+<tr>
+<td><span>Fundo tem como objetivo a aplica&ccedil;&atilde;o primordialmente, em (i) certificados de receb&iacute;veis do agroneg&oacute;cio (&ldquo;CRA&rdquo;); (ii) certificados de receb&iacute;veis imobili&aacute;rios lastreados em cr&eacute;ditos imobili&aacute;rios relativos a im&oacute;veis rurais (&ldquo;CRI&rdquo;); (iii) as cotas de Fundos de Investimento em Direitos Credit&oacute;rios &ndash; FIDC que tenham como pol&iacute;tica de investimento, exclusivamente, atividades permitidas aos FIAGRO-Imobili&aacute;rio; (iv) Letras de Cr&eacute;dito do Agroneg&oacute;cio - LCA; e (v) cotas de outros FIAGRO-Imobili&aacute;rio cuja pol&iacute;tica de investimento seja compat&iacute;vel com a deste Fundo.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">4. An&aacute;lise do Gestor sobre</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">4.1</span></td><td><span class="title-b3">Resultado no exerc&iacute;cio findo</span></td>
+</tr>
+<tr>
+<td><span>Ao longo de 2025 o fundo obteve bons resultados financeiros atrav&eacute;s de gest&atilde;o ativa e origina&ccedil;&atilde;o pr&oacute;pria dos ativos investidos, focando em CRAs com boa rela&ccedil;&atilde;o risco-retorno.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.2</span></td><td><span class="title-b3">
+            Conjuntura econ&ocirc;mica do segmento de atua&ccedil;&atilde;o relativo ao per&iacute;odo
+            findo
+          </span></td>
+</tr>
+<tr>
+<td><span>Ao longo de 2025 o fundo obteve bons resultados financeiros atrav&eacute;s de gest&atilde;o ativa e origina&ccedil;&atilde;o pr&oacute;pria dos ativos investidos, focando em CRAs com boa rela&ccedil;&atilde;o risco-retorno.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.3</span></td><td><span class="title-b3">
+            Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da
+            carteira
+          </span></td>
+</tr>
+<tr>
+<td><span>A perspectiva para o pr&oacute;ximo per&iacute;odo &eacute; de continua&ccedil;&atilde;o da estrat&eacute;gia de reciclagem de portf&oacute;lio, com aliena&ccedil;&otilde;es que gerem importante ganho de capital ao Fundo e novos investimentos em ativos com boa rela&ccedil;&atilde;o risco/retorno, visando aumentar o carrego do portf&oacute;lio e manter um n&iacute;vel interessante de rentabilidade.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">5. Riscos Incorridos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Riscos incorridos pelos cotistas inerentes aos investimentos</span></td><td><span>N&atilde;o obstante a dilig&ecirc;ncia do Administrador em colocar em pr&aacute;tica a Pol&iacute;tica de Investimento delineada, os investimentos do Fundo est&atilde;o, por sua natureza, sujeitos a flutua&ccedil;&otilde;es t&iacute;picas do mercado, risco de cr&eacute;dito, risco sist&ecirc;mico, condi&ccedil;&otilde;es adversas de liquidez e negocia&ccedil;&atilde;o at&iacute;pica nos mercados de atua&ccedil;&atilde;o e, mesmo que o Administrador mantenha rotinas e procedimentos de gerenciamento de riscos, n&atilde;o h&aacute; qualquer garantia de elimina&ccedil;&atilde;o da possibilidade de perdas para o Fundo e para o Cotista.
+
+A seguir, encontram-se descritos os principais riscos inerentes ao Fundo, os quais n&atilde;o s&atilde;o os &uacute;nicos aos quais est&atilde;o sujeitos os investimentos no Fundo e no Brasil em geral. Os neg&oacute;cios, situa&ccedil;&atilde;o financeira ou resultados
+do Fundo podem ser adversa e materialmente afetados por quaisquer desses riscos, sem preju&iacute;zo de riscos adicionais que n&atilde;o sejam atualmente de conhecimento do Administrador ou que sejam julgados de pequena
+relev&acirc;ncia neste momento:
+
+Riscos Macroecon&ocirc;micos e Regulat&oacute;rios:
+
+(i) Riscos relacionados a fatores macroecon&ocirc;micos, pol&iacute;tica governamental e globaliza&ccedil;&atilde;o:
+
+O Fundo desenvolver&aacute; suas atividades no mercado brasileiro, estando sujeito, portanto, aos efeitos da pol&iacute;tica
+econ&ocirc;mica praticada pelo Governo Federal. Ocasionalmente, o governo brasileiro interv&eacute;m na economia, realizando relevantes mudan&ccedil;as em suas pol&iacute;ticas. As medidas do governo brasileiro para controlar a infla&ccedil;&atilde;o e implementar as pol&iacute;ticas econ&ocirc;mica e monet&aacute;ria, por exemplo, t&ecirc;m envolvido, no passado recente, altera&ccedil;&otilde;es nas taxas de juros, interven&ccedil;&otilde;es no mercado de c&acirc;mbio para evitar oscila&ccedil;&otilde;es relevantes no valor do d&oacute;lar, aumento das tarifas p&uacute;blicas, entre outras medidas. Essas pol&iacute;ticas, bem como outras condi&ccedil;&otilde;es macroecon&ocirc;micas, podem impactar significativamente a economia e o mercado de capitais nacional. A ado&ccedil;&atilde;o
+de medidas que possam resultar na flutua&ccedil;&atilde;o da moeda, indexa&ccedil;&atilde;o da economia, instabilidade de pre&ccedil;os, eleva&ccedil;&atilde;o de taxas de juros ou influenciar a pol&iacute;tica fiscal vigente poder&atilde;o impactar os neg&oacute;cios, as condi&ccedil;&otilde;es
+financeiras, os resultados operacionais do Fundo e a consequente distribui&ccedil;&atilde;o de rendimentos aos Cotistas do
+Fundo. Impactos negativos na economia, tais como recess&atilde;o, perda do poder aquisitivo da moeda e aumento
+exagerado das taxas de juros resultantes de pol&iacute;ticas internas ou fatores externos podem influenciar nos resultados do Fundo. Como exemplo, algumas consequ&ecirc;ncias dos riscos macroecon&ocirc;micos s&atilde;o: (i) aumento das taxas de juros que poderiam reduzir a demanda por im&oacute;veis ou aumentar os custos de financiamento das
+sociedades investidas ou ainda reduzir o apetite dos bancos comerciais na concess&atilde;o de cr&eacute;dito tanto para incorporadora, quando o Fundo utilizasse deste expediente, como para compradores de im&oacute;veis; (ii) aumento da infla&ccedil;&atilde;o que poderia levar a um aumento nos custos de execu&ccedil;&atilde;o dos empreendimentos imobili&aacute;rios ou mesmo impactar a capacidade de tomar cr&eacute;dito dos compradores de im&oacute;veis; e (iii) altera&ccedil;&otilde;es da pol&iacute;tica habitacional que poderia reduzir a disponibilidade de cr&eacute;dito para o financiamento das obras dos empreendimentos ou mesmo do financiamento dispon&iacute;vel para os compradores de im&oacute;veis ou o custo de obras, com redu&ccedil;&atilde;o dos incentivos atualmente concedidos a setor imobili&aacute;rio.
+
+(ii) Riscos de mercado:
+
+Existe a possibilidade de ocorrerem flutua&ccedil;&otilde;es de mercado, nacionais e internacionais, afetando pre&ccedil;os, taxas
+de juros, &aacute;gios, des&aacute;gios e volatilidades dos ativos do Fundo, entre outros fatores, com consequentes oscila&ccedil;&otilde;es do valor das Cotas do Fundo, podendo resultar em ganhos ou perdas para os Cotistas.
+
+Riscos do Fundo:
+
+(iii) Riscos de n&atilde;o realiza&ccedil;&atilde;o do investimento:
+
+N&atilde;o h&aacute; garantias de que os investimentos pretendidos pelo Fundo estejam dispon&iacute;veis no momento e em quantidade convenientes ou desej&aacute;veis &agrave; satisfa&ccedil;&atilde;o de sua Pol&iacute;tica de Investimentos, o que pode resultar em
+investimentos menores ou mesmo a n&atilde;o realiza&ccedil;&atilde;o destes investimentos a n&atilde;o realiza&ccedil;&atilde;o de investimentos em ativos imobili&aacute;rios ou a realiza&ccedil;&atilde;o desses investimentos em valor inferior ao pretendido pelo Fundo, considerando os custos do Fundo, dentre os quais a Taxa de Administra&ccedil;&atilde;o, poder&aacute; afetar negativamente os resultados da carteira do Fundo e o valor da Cota.
+
+(iv) Riscos de liquidez, descontinuidade do investimento e descasamento de prazos:
+
+Os fundos de investimento imobili&aacute;rio representam modalidade de investimento em desenvolvimento no mercado brasileiro e s&atilde;o constitu&iacute;dos, por for&ccedil;a regulamentar e legal, como condom&iacute;nios fechados, n&atilde;o sendo
+admitido resgate das Cotas, antecipado ou n&atilde;o, em hip&oacute;tese alguma. Os Cotistas poder&atilde;o enfrentar dificuldades na negocia&ccedil;&atilde;o das Cotas no mercado secund&aacute;rio. Adicionalmente, determinados ativos do Fundo podem passar por per&iacute;odos de dificuldade de execu&ccedil;&atilde;o de ordens de compra e venda, ocasionados por baixas ou inexistentes demanda e negociabilidade. Nestas condi&ccedil;&otilde;es, o Administrador poder&aacute; enfrentar dificuldade de liquidar ou negociar tais ativos pelo pre&ccedil;o e no momento desejados e, consequentemente, o Fundo poder&aacute; enfrentar problemas de liquidez. Adicionalmente, a varia&ccedil;&atilde;o negativa dos ativos financeiros poder&aacute; impactar o Patrim&ocirc;nio L&iacute;quido do Fundo. Al&eacute;m disso, existem algumas hip&oacute;teses em que a Assembleia Geral de Cotistas poder&aacute; optar pela liquida&ccedil;&atilde;o do Fundo e outras hip&oacute;teses em que o resgate das Cotas poder&aacute; ser realizado mediante a entrega dos ativos integrantes da carteira do Fundo. Na hip&oacute;tese de os Cotistas virem a receber ativos integrantes da carteira, h&aacute; o risco de receberem fra&ccedil;&atilde;o ideal de Ativos Imobili&aacute;rios, que ser&aacute; entregue ap&oacute;s a constitui&ccedil;&atilde;o de condom&iacute;nio sobre tais ativos. Nestas situa&ccedil;&otilde;es, os Cotistas poder&atilde;o encontrar dificuldades para vender os ativos recebidos quando da liquida&ccedil;&atilde;o do Fundo.
+
+(v) Riscos atrelados aos Ativos investidos:
+
+O Administrador desenvolve seus melhores esfor&ccedil;os na sele&ccedil;&atilde;o, controle e acompanhamento dos ativos do
+Fundo. Todavia, a despeito desses esfor&ccedil;os, pode n&atilde;o ser poss&iacute;vel para o Administrador identificar falhas na
+administra&ccedil;&atilde;o ou na gest&atilde;o dos ativos investidos.
+
+(vi) Riscos de cr&eacute;dito:
+
+Os Outros Ativos integrantes da carteira do Fundo podem estar sujeitos &agrave; capacidade de seus devedores em
+honrar os compromissos de pagamento de juros e principal referentes a tais Outros Ativos. Altera&ccedil;&otilde;es nas condi&ccedil;&otilde;es financeiras dos emissores dos Outros Ativos ou na percep&ccedil;&atilde;o que os investidores t&ecirc;m sobre tais condi&ccedil;&otilde;es, bem como altera&ccedil;&otilde;es nas condi&ccedil;&otilde;es econ&ocirc;micas e pol&iacute;ticas que possam comprometer a sua capacidade de pagamento, podem trazer impactos significativos nos pre&ccedil;os e na liquidez dos ativos de liquidez. O Fundo poder&aacute; incorrer em risco de cr&eacute;dito na liquida&ccedil;&atilde;o das opera&ccedil;&otilde;es realizadas por meio de corretoras e distribuidoras de t&iacute;tulos e valores mobili&aacute;rios que venham a intermediar as opera&ccedil;&otilde;es de compra e venda de ativos em nome do Fundo. Na hip&oacute;tese de falta de capacidade ou falta de disposi&ccedil;&atilde;o de pagamento de qualquer dos emissores de ativos ou das contrapartes nas opera&ccedil;&otilde;es integrantes da carteira do Fundo, o Fundo poder&aacute; sofrer perdas, podendo inclusive incorrer em custos para conseguir recuperar os seus cr&eacute;ditos.
+
+(vii) Risco de Liquidez:
+
+Os fundos de investimento imobili&aacute;rio encontram pouca liquidez no mercado brasileiro, sendo uma modalidade de investimento pouco disseminada em tal mercado. Adicionalmente, os fundos de investimento imobili&aacute;rio s&atilde;o constitu&iacute;dos sempre na forma de condom&iacute;nios fechados, n&atilde;o sendo admitida, portanto, a possibilidade de resgate de suas Cotas. Dessa forma, os Cotistas poder&atilde;o enfrentar dificuldades em realizar a venda de suas Cotas no mercado secund&aacute;rio, mesmo admitindo para estas a negocia&ccedil;&atilde;o no mercado de bolsa ou de balc&atilde;o organizado. Desse modo, o investidor que adquirir as Cotas do Fundo dever&aacute; estar consciente de que o investimento no Fundo consiste em investimento de longo prazo. Ainda, caso as Cotas do Fundo sejam
+distribu&iacute;das nos termos da Instru&ccedil;&atilde;o CVM n&ordm; 476/09, os Cotistas somente poder&atilde;o ceder suas Cotas ap&oacute;s 90 (noventa) dias da sua subscri&ccedil;&atilde;o. Adicionalmente, a cess&atilde;o de tais Cotas somente poder&aacute; se dar para Investidores Qualificados, assim definidos nos termos Resolu&ccedil;&atilde;o n&ordm; 30 da CVM, de 11 de maio de 2021, conforme alterada, ressalvada a hip&oacute;tese de registro de tais Cotas perante a CVM.
+
+(viii) Risco relativo &agrave; propriedade das cotas e dos Ativos Imobili&aacute;rios:
+
+Apesar de a carteira do Fundo ser composta tamb&eacute;m por participa&ccedil;&otilde;es em a&ccedil;&otilde;es ou cotas de sociedades cujo
+prop&oacute;sito seja investimentos em direitos reais sobre bens im&oacute;veis, a propriedade de referidas cotas e/ou a&ccedil;&otilde;es n&atilde;o confere aos Cotistas a propriedade direta sobre os im&oacute;veis em desenvolvimentos por estas, ou seja, nesta situa&ccedil;&atilde;o, o Cotista n&atilde;o poder&aacute; exercer qualquer direito real sobre os empreendimentos integrantes direta ou indiretamente do patrim&ocirc;nio do Fundo.
+
+(ix) Risco de concentra&ccedil;&atilde;o da carteira do Fundo:
+
+O Fundo destinar&aacute; os recursos captados nesta oferta para a aquisi&ccedil;&atilde;o dos Ativos Imobili&aacute;rios que integrar&atilde;o o patrim&ocirc;nio do Fundo, de acordo com a sua Pol&iacute;tica de Investimento, observando-se, ainda, que poder&atilde;o ser
+realizadas novas emiss&otilde;es, tantas quantas sejam necess&aacute;rias, visando a permitir que o Fundo possa adquirir outros Ativos Imobili&aacute;rios. Independentemente da possibilidade de aquisi&ccedil;&atilde;o de diversos Ativos Imobili&aacute;rios pelo Fundo, inicialmente, o Fundo ir&aacute; adquirir Ativos Imobili&aacute;rios derivados de um n&uacute;mero limitado de empreendimentos imobili&aacute;rios, o que poder&aacute; gerar uma concentra&ccedil;&atilde;o da carteira do Fundo. Essa concentra&ccedil;&atilde;o poder&aacute;, eventualmente, acarretar perdas patrimoniais ao Fundo e aos Cotistas do Fundo, tendo em vista, principalmente, que nesse caso os resultados do Fundo depender&atilde;o dos resultados atingidos por poucos empreendimentos imobili&aacute;rios.
+
+(x) Risco relativo &agrave; concentra&ccedil;&atilde;o e pulveriza&ccedil;&atilde;o:
+
+Poder&aacute; ocorrer situa&ccedil;&atilde;o em que um &uacute;nico Cotista venha a integralizar parcela substancial da emiss&atilde;o ou mesmo a totalidade das Cotas do Fundo, passando tal cotista a deter uma posi&ccedil;&atilde;o expressivamente concentrada, fragilizando, assim, a posi&ccedil;&atilde;o dos eventuais cotistas minorit&aacute;rios. Nesta hip&oacute;tese, h&aacute; possibilidade de que delibera&ccedil;&otilde;es sejam tomadas pelo Cotista majorit&aacute;rio em fun&ccedil;&atilde;o de seus interesses exclusivos em detrimento do Fundo e/ou dos Cotistas minorit&aacute;rios.
+
+(xi) Risco de dilui&ccedil;&atilde;o da participa&ccedil;&atilde;o do Cotista:
+
+O Fundo poder&aacute; captar recursos adicionais no futuro atrav&eacute;s de novas emiss&otilde;es de Cotas por necessidade de
+capital ou para aquisi&ccedil;&atilde;o de novos ativos. Caso ocorram novas emiss&otilde;es, os Cotistas poder&atilde;o ter suas respectivas participa&ccedil;&otilde;es dilu&iacute;das.
+
+(xii) Risco de inexist&ecirc;ncia de qu&oacute;rum nas delibera&ccedil;&otilde;es a serem tomadas pela assembleia geral:
+
+Determinadas mat&eacute;rias que s&atilde;o objeto de Assembleia Geral de Cotistas somente ser&atilde;o deliberadas quando aprovadas por maioria qualificada dos Cotistas. Tendo em vista que fundos de investimento imobili&aacute;rios tendem a possuir um n&uacute;mero elevado de cotistas, &eacute; poss&iacute;vel que as mat&eacute;rias que dependam de qu&oacute;rum qualificado fiquem impossibilitadas de aprova&ccedil;&atilde;o pela aus&ecirc;ncia de qu&oacute;rum na instala&ccedil;&atilde;o (quando aplic&aacute;vel) e na vota&ccedil;&atilde;o de tais assembleias. A impossibilidade de delibera&ccedil;&atilde;o de determinadas mat&eacute;rias pode ensejar, dentre outros preju&iacute;zos, a liquida&ccedil;&atilde;o antecipada do Fundo.
+
+(xiii) Risco de n&atilde;o pagamento de rendimentos aos investidores:
+
+&Eacute; poss&iacute;vel que o Fundo n&atilde;o possua caixa para a realiza&ccedil;&atilde;o da distribui&ccedil;&atilde;o de rendimentos aos investidores por
+uma s&eacute;rie de fatores, como os citados de forma exemplificada a seguir (i) o fato de os empreendimentos imobili&aacute;rios estarem em fase de constru&ccedil;&atilde;o; (ii) car&ecirc;ncia no pagamento de juros dos valores mobili&aacute;rios; e (iii) n&atilde;o distribui&ccedil;&atilde;o de dividendos pelas sociedades investidas, tendo em vista que os empreendimentos imobili&aacute;rios objetos de investimento por tais sociedades investidas ainda estarem em fase de constru&ccedil;&atilde;o ou a
+n&atilde;o obten&ccedil;&atilde;o do financiamento imobili&aacute;rio pelos compradores.
+
+(xiv) Risco de altera&ccedil;&otilde;es tribut&aacute;rias e mudan&ccedil;as na legisla&ccedil;&atilde;o:
+
+A Lei n&ordm; 8.668/93, conforme alterada pela Lei 9.779/99, estabelece que a receita operacional dos Fundos de Investimento Imobili&aacute;rio &eacute; isenta de tributa&ccedil;&atilde;o, desde que o Fundo n&atilde;o aplique recursos em empreendimento
+imobili&aacute;rio que tenha como incorporador, construtor ou s&oacute;cio, cotista que possua, isoladamente ou em conjunto com pessoa a ele ligada, mais de 25% (vinte e cinco por cento) das Cotas.
+
+Nos termos da Lei n&ordm; 9.779/99, os fundos de investimento imobili&aacute;rio s&atilde;o obrigados a distribuir a seus cotistas,
+no m&iacute;nimo, 95% (noventa e cinco por cento) dos lucros apurados segundo o regime de caixa. Os rendimentos distribu&iacute;dos aos Cotistas s&atilde;o tributados na fonte pela al&iacute;quota de 20% (vinte por cento). N&atilde;o obstante, de acordo com o artigo 3&ordm;, par&aacute;grafo &uacute;nico, inciso II, da Lei n&ordm; 11.033, de 21 de dezembro de 2004, conforme alterada, ficam isentos do imposto de renda retido na fonte e na declara&ccedil;&atilde;o de ajuste anual das pessoas f&iacute;sicas os rendimentos distribu&iacute;dos por Fundos de Investimento Imobili&aacute;rio, desde que observados cumulativamente os seguintes requisitos:
+
+(i) cujas Cotas sejam admitidas &agrave; negocia&ccedil;&atilde;o exclusivamente em bolsas de valores ou no mercado de balc&atilde;o organizado;
+
+(ii) o cotista seja titular de Cotas que representem menos de 10% (dez por cento) do montante total de Cotas emitidas pelo Fundo ou (b) cujas Cotas derem direito ao recebimento de rendimentos inferiores a 10% (dez por cento) do total de rendimentos auferidos pelo Fundo; e
+
+(iii) o Fundo conte com, no m&iacute;nimo, 50 (cinquenta) Cotistas.
+
+Como as Cotas s&atilde;o negociadas livremente no mercado secund&aacute;rio, n&atilde;o existe garantia que o Fundo ter&aacute; no m&iacute;nimo 50 (cinquenta) cotistas. Ainda, embora tais regras tribut&aacute;rias estejam vigentes desde a edi&ccedil;&atilde;o do mencionado diploma legal, existe o risco de eventual reforma tribut&aacute;ria.
+
+Assim, o risco tribut&aacute;rio engloba o risco de perdas ou redu&ccedil;&atilde;o dos ganhos decorrentes da cria&ccedil;&atilde;o de novos tributos ou de interpreta&ccedil;&atilde;o diversa da legisla&ccedil;&atilde;o vigente sobre a incid&ecirc;ncia de quaisquer tributos ou a revoga&ccedil;&atilde;o ou o desenquadramento do Fundo &agrave;s regras de isen&ccedil;&otilde;es vigentes, sujeitando o Fundo ou seus Cotistas a novos recolhimentos n&atilde;o previstos inicialmente.
+
+(xv) Risco regulat&oacute;rio:
+
+Toda a arquitetura do modelo financeiro, econ&ocirc;mico e jur&iacute;dico deste Fundo considera um conjunto de rigores e obriga&ccedil;&otilde;es de parte a parte estipuladas atrav&eacute;s de contratos p&uacute;blicos ou privados tendo por diretrizes a legisla&ccedil;&atilde;o em vigor. Entretanto, em raz&atilde;o da pouca maturidade e da falta de tradi&ccedil;&atilde;o e jurisprud&ecirc;ncia no mercado de capitais brasileiro, no que tange a este tipo de opera&ccedil;&atilde;o financeira, em situa&ccedil;&otilde;es de estresse, poder&aacute; haver perdas por parte dos Investidores em raz&atilde;o do disp&ecirc;ndio de tempo e recursos para manuten&ccedil;&atilde;o do arcabou&ccedil;o contratual estabelecido.
+
+(xvi) Riscos de despesas extraordin&aacute;rias:
+
+O Fundo, na qualidade de propriet&aacute;rio dos im&oacute;veis, estar&aacute; eventualmente sujeito ao pagamento de despesas
+extraordin&aacute;rias, tais como conserva&ccedil;&atilde;o, instala&ccedil;&atilde;o de equipamentos de seguran&ccedil;a, indeniza&ccedil;&otilde;es trabalhistas,
+bem como quaisquer outras despesas que n&atilde;o sejam rotineiras na manuten&ccedil;&atilde;o dos im&oacute;veis e dos condom&iacute;nios
+em que se situam. O pagamento de tais despesas ensejaria uma redu&ccedil;&atilde;o na rentabilidade das Cotas do Fundo.
+
+Risco dos Ativos Imobili&aacute;rios:
+
+(xvii) Riscos relacionados aos Ativos Imobili&aacute;rios:
+
+Os pagamentos relativos aos t&iacute;tulos ou valores mobili&aacute;rios de emiss&atilde;o das sociedades investidas ou os pagamentos relativos aos empreendimentos imobili&aacute;rios, como dividendos, juros e outras formas de remunera&ccedil;&atilde;o e bonifica&ccedil;&atilde;o podem vir a se frustrar em raz&atilde;o da insolv&ecirc;ncia, fal&ecirc;ncia, mau desempenho operacional do respectivo ativo imobili&aacute;rio, ou, ainda, em decorr&ecirc;ncia de outros fatores. Em tais ocorr&ecirc;ncias, o Fundo e os seus Cotistas poder&atilde;o experimentar perdas, n&atilde;o havendo qualquer garantia ou certeza quanto &agrave; possibilidade de elimina&ccedil;&atilde;o de tais riscos. Caso determinada sociedade investida tenha sua fal&ecirc;ncia decretada ou caso haja a desconsidera&ccedil;&atilde;o da personalidade jur&iacute;dica, a responsabilidade pelo pagamento de determinados passivos poder&aacute; ser atribu&iacute;da ao Fundo, impactando o valor das Cotas, o que poder&aacute; resultar em Patrim&ocirc;nio L&iacute;quido negativo no Fundo. Os investimentos nos Ativos Imobili&aacute;rios envolvem riscos relativos ao setor imobili&aacute;rio. N&atilde;o h&aacute; garantia quanto ao desempenho desse setor e nem tampouco certeza de que o desempenho de cada um dos Ativos Imobili&aacute;rios acompanhe o desempenho m&eacute;dio desse setor. Em fun&ccedil;&atilde;o de diversos fatores relacionados ao funcionamento de &oacute;rg&atilde;os p&uacute;blicos de que pode vir a depender o Fundo no desempenho de suas opera&ccedil;&otilde;es, n&atilde;o h&aacute; qualquer garantia de que o Fundo conseguir&aacute; exercer todos os seus direitos de s&oacute;cio ou investidor dos Ativos Imobili&aacute;rios, ou como adquirente ou alienante de a&ccedil;&otilde;es ou outros valores mobili&aacute;rios de emiss&atilde;o de tais sociedades, nem de que, caso o Fundo consiga exercer tais direitos, os efeitos obtidos ser&atilde;o condizentes com os seus direitos originais ou obtidos no tempo esperado. Tais fatores poder&atilde;o impactar negativamente a carteira do Fundo.
+
+(xviii) Risco relativo ao desenvolvimento imobili&aacute;rio devido &agrave; extensa legisla&ccedil;&atilde;o:
+
+Em que pese n&atilde;o ser o objetivo preponderante do Fundo, o desenvolvimento de empreendimentos imobili&aacute;rios sujeita-se ao cumprimento de uma extensa legisla&ccedil;&atilde;o que define todas as condi&ccedil;&otilde;es para dar in&iacute;cio a venda dos im&oacute;veis bem como para concluir a entrega de um empreendimento. Atrasos na concess&atilde;o de aprova&ccedil;&otilde;es ou mudan&ccedil;as na legisla&ccedil;&atilde;o aplic&aacute;vel poder&atilde;o impactar negativamente os resultados dos Ativos Imobili&aacute;rios e consequentemente o resultado do Fundo.
+
+(xix) Risco de cr&eacute;dito dos locat&aacute;rios que celebrem contratos com o Fundo:
+
+A qualidade de recebimento dos receb&iacute;veis depende diretamente da capacidade de pagamento dos locat&aacute;rios.
+Se houver inadimpl&ecirc;ncia o Fundo ser&aacute; prejudicado.
+
+(xx) Risco de reclama&ccedil;&otilde;es de terceiros:
+
+Na qualidade de propriet&aacute;ria de im&oacute;veis e no &acirc;mbito de suas atividades, o Fundo e/ou as sociedades investidas
+poder&atilde;o responder a processos administrativos ou judiciais, o que poder&aacute; impactar negativamente a rentabilidade do empreendimento imobili&aacute;rio e consequentemente do Fundo.
+
+(xxi) Risco de despesas extraordin&aacute;rias:
+
+O Fundo, como propriet&aacute;rio dos Ativos Imobili&aacute;rios, est&aacute; sujeito &agrave; necessidade de alocar recursos adicionais
+para a conclus&atilde;o dos empreendimentos imobili&aacute;rios. A aloca&ccedil;&atilde;o de recursos adicionais poder&aacute; impactar negativamente a rentabilidade do empreendimento imobili&aacute;rio e consequentemente do Fundo.
+
+(xxii) Riscos ambientais:
+
+H&aacute; o risco que ocorram problemas ambientais nos Ativos Imobili&aacute;rios que venham a ser objeto de investimento direto ou indireto pelo Fundo, como exemplo, contamina&ccedil;&atilde;o de terrenos, podas indevidas de vegeta&ccedil;&atilde;o, vendavais, inunda&ccedil;&otilde;es ou os decorrentes de vazamento de esgoto sanit&aacute;rio, acarretando assim na perda de subst&acirc;ncia econ&ocirc;mica de tais ativos imobili&aacute;rios situados nas proximidades das &aacute;reas atingidas por estes.
+
+(xxiii) Risco de desapropria&ccedil;&atilde;o:
+
+H&aacute; possibilidade de que ocorra a desapropria&ccedil;&atilde;o, parcial ou total, do(s) im&oacute;vel(is) de propriedade do Fundo, por decis&atilde;o unilateral do Poder P&uacute;blico, a fim de atender finalidades de utilidade e interesse p&uacute;blico.
+
+(xxiv) Risco de sinistro:
+
+No caso de sinistro envolvendo a integridade f&iacute;sica dos im&oacute;veis que compor&atilde;o o patrim&ocirc;nio do Fundo, os recursos obtidos pela cobertura do seguro depender&atilde;o da capacidade de pagamento da companhia seguradora contratada, nos termos da ap&oacute;lice exigida, bem como as indeniza&ccedil;&otilde;es a serem pagas pelas seguradoras poder&atilde;o ser insuficientes para a repara&ccedil;&atilde;o do dano sofrido, observadas as condi&ccedil;&otilde;es gerais das ap&oacute;lices. No caso de sinistro envolvendo a integridade f&iacute;sica dos im&oacute;veis n&atilde;o segurados, o Administrador poder&aacute; n&atilde;o recuperar a perda do ativo. A ocorr&ecirc;ncia de um sinistro significativo n&atilde;o segurado ou indeniz&aacute;vel, parcial ou integralmente, pode ter um efeito adverso nos resultados operacionais e na condi&ccedil;&atilde;o financeira do Fundo.
+
+(xxv) Riscos de desvaloriza&ccedil;&atilde;o dos Ativos Imobili&aacute;rios e condi&ccedil;&otilde;es externas:
+
+O valor dos Ativos Imobili&aacute;rios est&aacute; sujeito a condi&ccedil;&otilde;es sobre as quais o Administrador do Fundo n&atilde;o tem controle nem tampouco pode influir ou evitar. O n&iacute;vel de desenvolvimento econ&ocirc;mico e as condi&ccedil;&otilde;es da economia em geral poder&atilde;o afetar o desempenho e a expectativa de retorno dos Ativos Imobili&aacute;rios que integrar&atilde;o o patrim&ocirc;nio do Fundo e, consequentemente, a expectativa de remunera&ccedil;&atilde;o futura dos investidores. Desta forma, poder&aacute; haver desvaloriza&ccedil;&atilde;o da Cota do Fundo, o que afetar&aacute; de forma negativa o seu retorno.
+
+(xxvi) Risco de Derivativos:
+
+Com rela&ccedil;&atilde;o a determinados investimentos, o Fundo poder&aacute; utilizar t&eacute;cnicas de hedge (mecanismos de prote&ccedil;&atilde;o) destinados a reduzir os riscos de movimentos negativos nas taxas de juros, pre&ccedil;os de valores mobili&aacute;rios e taxas cambiais. Embora possam reduzir determinados riscos, essas opera&ccedil;&otilde;es por si s&oacute; podem gerar outros riscos. Assim sendo, embora o Fundo possa se beneficiar do uso desses mecanismos de prote&ccedil;&atilde;o, mudan&ccedil;as n&atilde;o previstas nas taxas de juros, pre&ccedil;os dos valores mobili&aacute;rios ou taxas de c&acirc;mbio podem resultar
+em um pior desempenho em geral para o Fundo em compara&ccedil;&atilde;o ao cen&aacute;rio em que tais opera&ccedil;&otilde;es de hedge
+n&atilde;o tivessem sido contratadas.
+
+(xxvii) Risco de Descontinuidade:
+
+A Assembleia Geral de Cotistas poder&aacute; optar pela liquida&ccedil;&atilde;o antecipada do Fundo. Nessa situa&ccedil;&atilde;o, os Cotistas
+ter&atilde;o seu horizonte original de investimento reduzido e poder&atilde;o n&atilde;o conseguir reinvestir os recursos que esperavam investir no Fundo ou receber a mesma remunera&ccedil;&atilde;o que esperava ser proporcionada pelo Fundo.
+O Fundo ou o Administrador n&atilde;o ser&atilde;o obrigados a pagar qualquer multa ou penalidade a qualquer Cotista, a qualquer t&iacute;tulo, em decorr&ecirc;ncia da liquida&ccedil;&atilde;o do Fundo.
+
+(xxviii) Riscos Relacionados &agrave; Cess&atilde;o de Receb&iacute;veis Originados a partir do Investimento em im&oacute;veis e/ou Ativos Imobili&aacute;rios:
+
+Considerando que o Fundo poder&aacute; realizar a cess&atilde;o de receb&iacute;veis de ativos para a antecipa&ccedil;&atilde;o de recursos, existe o risco de (i) caso os recursos sejam utilizados para reinvestimento, a renda obtida com a realiza&ccedil;&atilde;o da aquisi&ccedil;&atilde;o de Im&oacute;veis resultar em fluxo de recursos menor do que aquele objeto de cess&atilde;o, gerando ao Fundo diminui&ccedil;&atilde;o de ganhos, ou (ii) caso o Administrador decida pela realiza&ccedil;&atilde;o de amortiza&ccedil;&atilde;o extraordin&aacute;ria das Cotas com base nos recursos recebidos, impacto negativo no pre&ccedil;o de negocia&ccedil;&atilde;o das Cotas, assim como na rentabilidade esperada pelo Investidor, que ter&aacute; seu horizonte de investimento reduzido no que diz respeito &agrave; parcela amortizada.
+
+Riscos Referentes &agrave; Primeira Emiss&atilde;o:
+
+(xxix) Risco de Conflito de Interesses:
+
+Os atos que caracterizem situa&ccedil;&otilde;es de conflito de interesses entre o Fundo e o Administrador dependem de aprova&ccedil;&atilde;o pr&eacute;via, espec&iacute;fica e informada em Assembleia Geral de Cotistas, nos termos do artigo 34 da Instru&ccedil;&atilde;o CVM n&ordm; 472/08. Adicionalmente, o Fundo poder&aacute; contar com prestadores de servi&ccedil;o que sejam do mesmo grupo econ&ocirc;mico. Essa rela&ccedil;&atilde;o societ&aacute;ria poder&aacute; eventualmente acarretar conflito de interesses no desenvolvimento das atividades a serem desempenhadas ao Fundo.
+
+Outros Riscos:
+
+(xxx) Demais riscos:
+
+O Fundo tamb&eacute;m poder&aacute; estar sujeito a outros riscos advindos de motivos alheios ou ex&oacute;genos, tais como morat&oacute;ria, guerras, revolu&ccedil;&otilde;es, mudan&ccedil;as nas regras aplic&aacute;veis aos ativos financeiros, mudan&ccedil;as impostas aos
+ativos financeiros integrantes da carteira, altera&ccedil;&atilde;o na pol&iacute;tica econ&ocirc;mica e decis&otilde;es judiciais. As aplica&ccedil;&otilde;es realizadas no Fundo n&atilde;o contam com garantia do Administrador, da institui&ccedil;&atilde;o respons&aacute;vel pela distribui&ccedil;&atilde;o p&uacute;blica das Cotas, do Fundo Garantidor de Cr&eacute;ditos &ndash; FGC ou de qualquer outro mecanismo de seguro.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">6. Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="3"><span class="title-b3">
+            7. Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados
+            em causas jur&iacute;dicas
+            semelhantes, n&atilde;o sigilosos e relevantes
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">N&deg; do Processo</span></td><td><span class="title-b3">Valores Envolvidos</span></td><td><span class="title-b3">Causa da conting&ecirc;ncia</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">8. An&aacute;lise de Impacto</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            An&aacute;lise dos impactos em caso de perda e valores envolvidos
+            relacionados aos processos
+            judiciais sigilosos relevantes
+          </span></td><td><span>N&atilde;o possui informa&ccedil;ao apresentada. </span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">9. Assembleia Geral</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">9.1</span></td><td><span class="title-b3">
+            Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos
+            &agrave; assembleia estar&atilde;o
+            &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise
+          </span></td>
+</tr>
+<tr>
+<td><span>Endere&ccedil;o F&iacute;sico: Praia de Botafogo, 501, Bloco I, Botafogo, CEP 22.250-911, Rio de Janeiro/RJ Endere&ccedil;o Eletr&ocirc;nico: assembleia.cotista@xpi.com.br</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.2</span></td><td><span class="title-b3">
+            Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas
+            para (i) a inclus&atilde;o de
+            mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s
+            delibera&ccedil;&otilde;es
+            propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais
+            cotistas para envio de
+            pedido p&uacute;blico de procura&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td><span>Endere&ccedil;o eletr&ocirc;nico: assembleia.cotista@xpi.com.br</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.3</span></td><td><span class="title-b3">
+            Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos
+            cotistas em
+            assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade
+            de cotista e
+            representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de
+            consultas formais, se
+            admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e
+            envio de
+            comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto
+          </span></td>
+</tr>
+<tr>
+<td><span>Poder&atilde;o participar da Assembleia os cotistas inscritos no registro de cotistas do Fundo na data da convoca&ccedil;&atilde;o da respectiva Assembleia, seus representantes legais ou procuradores legalmente constitu&iacute;dos h&aacute; menosde 1 (um) ano. Sendo assim, &eacute; necess&aacute;rio apresentar documento de identifica&ccedil;&atilde;o v&aacute;lido, no caso de cotista pessoa f&iacute;sica, ou em caso de pessoa jur&iacute;dica ou fundo de investimento, documento de identifica&ccedil;&atilde;o v&aacute;lidodo(s) representante(s) acompanhado de c&oacute;pia autenticada do estatuto/contrato social ou c&oacute;pia simples do regulamento e procura&ccedil;&atilde;o espec&iacute;fica para comprovar poderes. Em caso de cotista representado por procurador,a procura&ccedil;&atilde;o deve trazer poderes espec&iacute;ficos para pr&aacute;tica do voto e estar com firma reconhecida. No caso de consultas formais, dever&atilde;o ser observados os prazos e condi&ccedil;&otilde;es espec&iacute;ficas a cada consulta conformedetalhado em seu edital, observado sempre o prazo m&iacute;nimo previsto em regulamento e na regulamenta&ccedil;&atilde;o vigente. O procedimento para verifica&ccedil;&atilde;o da qualidade de cotista e sua representa&ccedil;&atilde;o acima descrita tamb&eacute;m&eacute; aplic&aacute;vel neste caso.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.4</span></td><td><span class="title-b3">Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico</span></td>
+</tr>
+<tr>
+<td><span>A Assembleia Geral de Cotistas ser&aacute; instalada com a presen&ccedil;a de pelo menos 01 (um) Cotista, sendo que as delibera&ccedil;&otilde;es poder&atilde;o ser realizadas mediante processo de consulta formal, sem a necessidade de reuni&atilde;opresencial de cotistas, por meio de correspond&ecirc;ncia escrita ou eletr&ocirc;nica (e-mail), plataforma eletr&ocirc;nica ou via mecanismo digital &ldquo;click through&rdquo;, a ser realizado pelo Administrador junto a cada Cotista do Fundo,desde que observadas as formalidades previstas na Instru&ccedil;&atilde;o CVM 472. Cada Cota corresponder&aacute; ao direito de 01 (um) voto na Assembleia Geral de Cotistas.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">10. Remunera&ccedil;&atilde;o do Administrador e do Gestor</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="3"><span class="title-b3">10.1</span></td><td><span class="title-b3">Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento</span></td><td colspan="2"><span>A Administradora e Gestora receber&atilde;o, pelos respectivos servi&ccedil;os de administra&ccedil;&atilde;o fiduci&aacute;ria e de gest&atilde;o de recursos prestados em favor da Classe, remunera&ccedil;&atilde;o conjunta composta de valor equivalente a 1% (um inteiro por cento) ao ano sobre calculado sobre a Base de C&aacute;lculo da Taxa M&aacute;xima Global, sendo assegurado um valor m&iacute;nimo equivalente a R$ 25.000,00 (vinte e cinco mil reais) por m&ecirc;s. A Taxa M&aacute;xima Global ser&aacute; calculada e provisionada diariamente, mediante a divis&atilde;o da taxa anual &agrave; raz&atilde;o de 252 (duzentos e cinquenta e dois) Dias &Uacute;teis.As parcelas mensais da Taxa M&aacute;xima Global ser&atilde;o devidas no 5&ordm; (quinto) Dia &Uacute;til do m&ecirc;s subsequente &agrave; presta&ccedil;&atilde;o dos servi&ccedil;os.O valor m&iacute;nimo mensal da Taxa M&aacute;xima Global ser&aacute; atualizado anualmente, a partir do m&ecirc;s em que se deu o in&iacute;cio das atividades da Classe, pela varia&ccedil;&atilde;o positiva do IPCA, ou por outro &iacute;ndice que vier a substitu&iacute;-lo nos termos da lei.</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Valor pago no ano de refer&ecirc;ncia (R$)</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio cont&aacute;bil</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio a valor de mercado</span></td>
+</tr>
+<tr>
+<td><span>R$ 315.653,50</span></td><td><span>0,07%</span></td><td><span>0,07%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">11. Governan&ccedil;a</span></td>
+</tr>
+<tr>
+<td colspan="5"><span class="title-b3">Representante(s) dos cotistas</span></td>
+</tr>
+</table>
+<table style="border-top-style: hidden" border="1" width="95%" align="center">
+<tr>
+<td colspan="5"><span class="title-b3">Diretor Respons&aacute;vel pelo Fundo</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="19"><span class="title-b3">11.2</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome</span></td><td colspan="3"><span>Lizandro Sommer Arnoni</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Idade</span></td><td colspan="3"><span>50</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Profiss&atilde;o</span></td><td colspan="3"><span>Administrador</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">CPF</span></td><td colspan="3"><span>279.902.288-07</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">E-mail</span></td><td colspan="3"><span>juridico.regulatorio@xpi.com.br</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Forma&ccedil;&atilde;o acad&ecirc;mica</span></td><td colspan="3"><span>Administra&ccedil;&atilde;o de Empresas</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas detidas da Classe</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe compradas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe vendidas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data de in&iacute;cio na fun&ccedil;&atilde;o</span></td><td colspan="3"><span>01/09/2021</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da Empresa</span></td><td><span class="title-b3">Per&iacute;odo</span></td><td><span class="title-b3">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="title-b3">Atividade Principal da Empresa</span></td>
+</tr>
+<tr>
+<td><span>XP Investimentos CCTVM S.A.</span></td><td><span>Desde setembro de 2021</span></td><td><span>Diretor de Administra&ccedil;&atilde;o Fiduci&aacute;ria</span></td><td><span>Diretor respons&aacute;vel pelos servi&ccedil;os de administra&ccedil;&atilde;o fiduci&aacute;ria</span></td>
+</tr>
+<tr>
+<td><span>BNY Mellon Servi&ccedil;os Financeiros DTVM</span></td><td><span>mar&ccedil;o de 2015 a agosto de 2021</span></td><td><span>Diretor Executivo</span></td><td><span>Diretor Executivo respons&aacute;vel pelos servi&ccedil;os de administra&ccedil;&atilde;o fiduci&aacute;ria, cust&oacute;dia e controladoria</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">
+            Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido
+            durante os &uacute;ltimos 5
+            anos
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Evento</span></td><td colspan="3"><span class="title-b3">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="3"><span>N&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas
+            aplicadas
+          </span></td><td colspan="3"><span>N&atilde;o</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="6"><span class="title-b3">
+            12. Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas
+            adquirido
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Faixas de Pulveriza&ccedil;&atilde;o</span></td><td><span class="title-b3">N&ordm; de cotistas</span></td><td><span class="title-b3">N&ordm; de cotas detidas</span></td><td><span class="title-b3">% de cotas detido em rela&ccedil;&atilde;o ao total emitido</span></td><td><span class="title-b3">% detido por PF</span></td><td><span class="title-b3">% detido por PJ</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">At&eacute; 5% das cotas</span></td><td><span>93713</span></td><td><span>45523076</span></td><td><span>100,00%</span></td><td><span>93,86%</span></td><td><span>6,14%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 5% at&eacute; 10%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 10% at&eacute; 15%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 15% at&eacute; 20%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 20% at&eacute; 30%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 30% at&eacute; 40%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 40% at&eacute; 50%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 50%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="7"><span class="title-b3">
+            13. Transa&ccedil;&otilde;es com ativos envolvendo potencial conflito de
+            interesses e a assembleia de
+            aprova&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Ativo negociado</span></td><td><span class="title-b3">Natureza da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Data da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Valor envolvido</span></td><td><span class="title-b3">Data da assembleia de autoriza&ccedil;&atilde;o</span></td><td><span class="title-b3">Contraparte</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">14. Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.1</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada
+            pelo administrador,
+            ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores,
+            indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es
+            relevantes n&atilde;o divulgadas,
+            locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos
+          </span></td>
+</tr>
+<tr>
+<td><span>Todos os atos ou fatos relevantes do Fundo s&atilde;o divulgados na p&aacute;gina do Administrador (www.xpi.com.br/administracao-fiduciaria/), do Fundo e sistema FundosNet da B3 S.A.- Brasil, Bolsa e Balc&atilde;o (˜B3˜).</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.2</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas, se houver, ou
+            disponibilizar o link
+            correspondente da p&aacute;gina do administrador na rede mundial de computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>O Fundo n&atilde;o possui pol&iacute;tica de negocia&ccedil;&atilde;o de cotas.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.3</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em
+            participa&ccedil;&otilde;es societ&aacute;rias, ou
+            disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>A Pol&iacute;tica de Exerc&iacute;cio de Direito de Votos est&aacute; dispon&iacute;vel no site do Gestor https://www.xpasset.com.br/</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.4</span></td><td><span class="title-b3">
+            Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o,
+            manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e
+            fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso
+          </span></td>
+</tr>
+<tr>
+<td><span>N/A</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">15. Regras e prazos para chamada de capital</span></td>
+</tr>
+<tr>
+<td><span>N&atilde;o h&aacute; chamada de capital prevista para o fundo.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">16. Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados, incluindo a periodicidade e
+            a base de c&aacute;lculo
+            com a concilia&ccedil;&atilde;o da distribui&ccedil;&atilde;o do exerc&iacute;cio
+          </span></td><td><span>A Administradora distribuir&aacute; aos Cotistas, independentemente da realiza&ccedil;&atilde;o de Assembleia de Cotistas, no m&iacute;nimo, 95% (noventa e cinco por cento) dos lucros auferidos pela Classe, apurados segundo o regime de compet&ecirc;ncia, conforme o Of&iacute;cio-Circular Conjunto CVM/SSE/SNC/N&ordm; 1/2025 e a regulamenta&ccedil;&atilde;o aplic&aacute;vel, at&eacute; o limite do lucro cont&aacute;bil, ou seja, lucro acumulado ou do exerc&iacute;cio, com base em balan&ccedil;o ou balancete semestral encerrado em 30 de junho e 31 de dezembro de cada ano (&ldquo;Distribui&ccedil;&atilde;o de Rendimentos&rdquo;). Havendo resultado a ser distribu&iacute;do aos Cotistas, conforme acima disposto, a Administradora informar&aacute; a data base de tal apura&ccedil;&atilde;o para fins de determina&ccedil;&atilde;o dos Cotistas que far&atilde;o jus ao recebimento, a data de pagamento, que dever&aacute; ser at&eacute; o 10&ordm; (d&eacute;cimo) Dia &Uacute;til subsequente ao t&eacute;rmino do referido per&iacute;odo de apura&ccedil;&atilde;o, e o valor a ser pago por Cota. No exerc&iacute;cio de 2025, o Fundo apresentou um total de rendimentos distribu&iacute;dos de R$ 58.576.000,00, aproximadamente, nas quais R$ 53.547.000 foram pagos mensalmente em 2025, e cerca de R$ 5.029.000 ser&atilde;o pagos em 2026 referente a 2025.  </span></td>
+</tr>
+</table>
+</body>
+</html>

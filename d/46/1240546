@@ -1,0 +1,530 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Informe Anual FIAGRO</title>
+<style type="text/css">
+          table {
+          border-collapse: collapse;
+
+          width: 95%;
+          }
+
+          table, td, th {
+          padding: 3px;
+          border: 1px solid black;
+          font-size: 11;
+          }
+
+          body {
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .title-b3 {
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho {
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores {
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+          .dado-versao {
+          display:block;
+          font-size:11;
+          text-align: right;
+          margin-right: 25px
+          }
+
+          .w-30 {
+          width: 30%;
+          }
+
+          .pl-20 {
+          padding-left: 20px;
+          }
+
+          .pl-40 {
+          padding-left: 40px;
+          }
+
+          .pl-60 {
+          padding-left: 60px;
+          }
+
+          .pl-80 {
+          padding-left: 80px;
+          }
+
+          .celula-numero-secao {
+          width: 1vw;
+          }
+        </style>
+</head>
+<body>
+<a href="javascript:window.print()">Imprimir</a>
+<h2 align="center">Informe Anual FIAGRO</h2>
+<span class="dado-versao">
+      Vers&atilde;o: 1.0</span>
+<table width="95%" align="center">
+<tr>
+<td><span class="title-b3">Nome do fundo</span></td><td><span class="dado-cabecalho">SPARTA FIAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - IMOB RESP LIMITADA</span></td><td><span class="title-b3">CNPJ do fundo</span></td><td></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da classe</span></td><td><span class="dado-cabecalho">SPARTA FIAGRO FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS - IMOB RESP LIMITADA</span></td><td><span class="title-b3">CNPJ da classe</span></td><td><span class="dado-cabecalho">48.903.610/0001-21</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data do Registro de Funcionamento</span></td><td><span class="dado-cabecalho">11/06/2025</span></td><td><span class="title-b3">P&uacute;blico alvo</span></td><td><span class="dado-cabecalho">INVESTIDORES EM GERAL</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">C&oacute;digo ISIN</span></td><td><span class="dado-cabecalho">BRCRAACTF008</span></td><td><span class="title-b3">Classe exclusiva</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar</span></td><td><span class="dado-cabecalho">NAO</span></td><td><span class="title-b3">Classe Previdenci&aacute;ria</span></td><td><span class="dado-cabecalho">NAO</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Tipo de classe previdenci&aacute;ria</span></td><td><span class="dado-cabecalho"></span></td><td><span class="title-b3">Classifica&ccedil;&atilde;o da autorregula&ccedil;&atilde;o (se houver)</span></td><td><span class="dado-cabecalho"></span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Prazo de Dura&ccedil;&atilde;o</span></td><td><span class="dado-cabecalho">Indeterminado</span></td><td><span class="title-b3">Encerramento do exerc&iacute;cio social</span></td><td><span class="dado-cabecalho">31/12</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Mercado de negocia&ccedil;&atilde;o das cotas</span></td><td><span class="dado-cabecalho">BOLSA</span></td><td><span class="title-b3">Entidade administradora de mercado organizado, se for o caso</span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome do Administrador</span></td><td><span class="dado-cabecalho">BTG Pactual Servi&ccedil;os Financeiros S.A. Distribuidora de T&iacute;tulos e Valores Mobili&aacute;rios</span></td><td><span class="title-b3">CNPJ do Administrador</span></td><td><span class="dado-cabecalho">59.281.253/0001-23</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Compet&ecirc;ncia</span></td><td colspan="3"><span class="dado-cabecalho">12/2025</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="50%" align="center" id="prestadores-servico">
+<thead>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1. Prestadores de Servi&ccedil;os</span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Prestador</span></td><td><span class="title-b3">Nome</span></td><td><span class="title-b3">CNPJ</span></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="celula-numero-secao"><span class="title-b3">1.1</span></td><td><span class="title-b3">Gestor</span></td><td><span>SPARTA ADMINISTRADORA DE RECURSOS LTDA.</span></td><td><span>72.745.714/0001-30</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.2</span></td><td><span class="title-b3">Custodiante</span></td><td><span>Banco BTG Pactual S.A.</span></td><td><span>30.306.294/0001-45</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.3</span></td><td><span class="title-b3">Auditor Independente</span></td><td><span>ERNST E YOUNG AUDITORES INDEPENDENTES S/S LTDA.</span></td><td><span>61.366.936/0001-25</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.4</span></td><td><span class="title-b3">Formador de Mercado</span></td><td><span></span></td><td><span>../-</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">1.5</span></td><td><span class="title-b3">Distribuidor de Cotas</span></td><td><span>Banco BTG Pactual S.A.</span></td><td><span>30.306.294/0001-45</span></td>
+</tr>
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">1.8 Outros Pretadores de Servi&ccedil;o</span></td>
+</tr>
+</tbody>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">2. Investimentos</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="8"><span class="title-b3">2.1</span></td><td><span class="title-b3">Descri&ccedil;&atilde;o dos neg&oacute;cios realizados no per&iacute;odo</span></td><td colspan="3"><span>Durante o per&iacute;odo, o fundo negociou CRA's e realizou opera&ccedil;&otilde;es compromissadas.</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Rela&ccedil;&atilde;o dos Ativos adquiridos no per&iacute;odo</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Ativo</span></td><td><span class="title-b3">Objetivos</span></td><td><span class="title-b3">Montantes Investidos</span></td><td><span class="title-b3">Origem dos Recursos</span></td>
+</tr>
+<tr>
+<td><span>CRA CDIE</span></td><td><span>Proporcionar aos cotistas a valoriza&ccedil;&atilde;o e a rentabilidade de suas cotas</span></td><td><span>R$ 155.988.502,47</span></td><td><span>Cotas do Fundo</span></td>
+</tr>
+<tr>
+<td><span>CRA IPCA</span></td><td><span>Proporcionar aos cotistas a valoriza&ccedil;&atilde;o e a rentabilidade de suas cotas</span></td><td><span>R$ 77.792.964,10</span></td><td><span>Cotas do Fundo</span></td>
+</tr>
+<tr>
+<td><span>CRA PRE</span></td><td><span>Proporcionar aos cotistas a valoriza&ccedil;&atilde;o e a rentabilidade de suas cotas</span></td><td><span>R$ 1.950.357,58</span></td><td><span>Cotas do Fundo</span></td>
+</tr>
+<tr>
+<td><span>CRI CDIE</span></td><td><span>Proporcionar aos cotistas a valoriza&ccedil;&atilde;o e a rentabilidade de suas cotas</span></td><td><span>R$ 2.488.327,44</span></td><td><span>Cotas do Fundo</span></td>
+</tr>
+<tr>
+<td><span>CRI IPCA</span></td><td><span>Proporcionar aos cotistas a valoriza&ccedil;&atilde;o e a rentabilidade de suas cotas</span></td><td><span>R$ 94.296,43</span></td><td><span>Cotas do Fundo</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">2.2</span></td><td colspan="4"><span class="title-b3">
+            Informa&ccedil;&otilde;es sobre a regularidade da inscri&ccedil;&atilde;o dos im&oacute;veis rurais,
+            se houver, no
+            Cadastro Ambiental Rural &ndash; CAR ou explica&ccedil;&atilde;o sobre sua desnecessidade
+          </span></td>
+</tr>
+<tr>
+<td colspan="4"><span>N/A</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">3. Programa de Investimentos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Programa de investimentos para os exerc&iacute;cios seguintes, incluindo,
+            se necess&aacute;rio, as
+            informa&ccedil;&otilde;es com rela&ccedil;&atilde;o aos investimentos ainda n&atilde;o realizados
+          </span></td>
+</tr>
+<tr>
+<td><span>O programa de investimentos do Fundo tem por objetivo a maximiza&ccedil;&atilde;o dos retornos aos cotistas, observada a adequada rela&ccedil;&atilde;o entre risco e retorno, em estrita conformidade com as diretrizes estabelecidas em sua Pol&iacute;tica de Investimento e demais documentos vigentes.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">4. An&aacute;lise do Gestor sobre</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">4.1</span></td><td><span class="title-b3">Resultado no exerc&iacute;cio findo</span></td>
+</tr>
+<tr>
+<td><span>O Sparta Fiagro encerrou 2025 com retorno acumulado de 15,8%, equivalente a 111% do CDI. O patrim&ocirc;nio l&iacute;quido do fundo ficou em R$ 241 MM, e o fundo distribuiu um total de R$14,70/cota, representando um dividend yield de 15,4%, em 12 meses.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.2</span></td><td><span class="title-b3">
+            Conjuntura econ&ocirc;mica do segmento de atua&ccedil;&atilde;o relativo ao per&iacute;odo
+            findo
+          </span></td>
+</tr>
+<tr>
+<td><span>O setor agroindustrial brasileiro registrou em 2025 desempenho operacional positivo. O PIB da agropecu&aacute;ria cresceu 12% no ano, impulsionado pela safra recorde de gr&atilde;os, pela produ&ccedil;&atilde;o elevada de prote&iacute;nas animais &mdash; com o Brasil tornando-se o maior exportador mundial de carne bovina &mdash; e pelo bom desempenho das cadeias sucroenerg&eacute;tica, av&iacute;cola e de caf&eacute;. As exporta&ccedil;&otilde;es do agroneg&oacute;cio totalizaram US$ 170 bilh&otilde;es, alta de 3,0% frente a 2024, respondendo por 49% das vendas externas do pa&iacute;s. Apesar dos resultados produtivos positivos, o ambiente financeiro do setor se deteriorou. A inadimpl&ecirc;ncia no cr&eacute;dito rural atingiu patamares recordes ao longo do ano, pressionada pela Selic em 15%, custos de produ&ccedil;&atilde;o elevados e margens comprimidas, em especial para os produtores rurais. As linhas tradicionais de cr&eacute;dito rural recuaram cerca de 15% no in&iacute;cio do Plano Safra 2025/26, e as institui&ccedil;&otilde;es financeiras passaram a exigir maior rigor nas garantias.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">4.3</span></td><td><span class="title-b3">
+            Perspectiva para o per&iacute;odo seguinte com base na composi&ccedil;&atilde;o da
+            carteira
+          </span></td>
+</tr>
+<tr>
+<td><span>Para o per&iacute;odo seguinte, a carteira do fundo se beneficia de fundamentos construtivos na maioria dos setores de exposi&ccedil;&atilde;o. A safra 2024/25 recorde, com 350 milh&otilde;es de toneladas de gr&atilde;os, garante oferta abundante de mat&eacute;ria-prima para as cadeias agroindustriais, favorecendo cooperativas verticalizadas e o setor de prote&iacute;nas animais via custo de ra&ccedil;&atilde;o mais acess&iacute;vel. No segmento de a&ccedil;&uacute;car e etanol (16,7% da carteira), a alta do petr&oacute;leo decorrente do conflito entre Estados Unidos e Ir&atilde; refor&ccedil;a a competitividade do etanol e sustenta o piso de pre&ccedil;os do setor, beneficiando tamb&eacute;m a alta de pre&ccedil;os do a&ccedil;&uacute;car, devido ao incentivo de menor produ&ccedil;&atilde;o do ado&ccedil;ante. A eleva&ccedil;&atilde;o da mistura obrigat&oacute;ria de anidro na gasolina para 30% amplia a demanda estrutural pelo biocombust&iacute;vel. As cooperativas agroindustriais possuem opera&ccedil;&otilde;es verticalizadas, com gera&ccedil;&atilde;o de resultado concentrada em produtos industrializados &mdash; farelos, &oacute;leos, ra&ccedil;&otilde;es &mdash; o que confere resili&ecirc;ncia frente &agrave;s oscila&ccedil;&otilde;es na renda do produtor rural. Na avicultura (10,4%) e nos frigor&iacute;ficos (3,6%), a demanda dom&eacute;stica segue aquecida e as exporta&ccedil;&otilde;es brasileiras de prote&iacute;nas mant&ecirc;m ritmo positivo, sustentadas pela diversifica&ccedil;&atilde;o de mercados. Em papel e celulose (5,3%), o Brasil segue ampliando produ&ccedil;&atilde;o e exporta&ccedil;&otilde;es, com perspectiva de recupera&ccedil;&atilde;o gradual de pre&ccedil;os. O principal ponto de aten&ccedil;&atilde;o &eacute; a incerteza geopol&iacute;tica decorrente do conflito no Oriente M&eacute;dio, que pressiona custos de energia, fretes e fertilizantes importados. A dura&ccedil;&atilde;o do conflito determinar&aacute; a extens&atilde;o desses impactos. Ainda assim, a diversifica&ccedil;&atilde;o setorial da carteira e a predomin&acirc;ncia de empresas com opera&ccedil;&otilde;es integradas posicionam o fundo de forma favor&aacute;vel para atravessar o per&iacute;odo.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">5. Riscos Incorridos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Riscos incorridos pelos cotistas inerentes aos investimentos</span></td><td><span>De forma n&atilde;o exaustiva, nos termos do disposto no Regulamento e no Termo de Ades&atilde;o, os principais riscos aos quais os cotistas est&atilde;o expostos, inerentes aos investimentos realizados pelo Fundo, compreendem, entre outros: (i) riscos de cr&eacute;dito; (ii) riscos de mercado; (iii) riscos de liquidez; (iv) riscos operacionais; (v) riscos relacionados &agrave; cobran&ccedil;a judicial ou extrajudicial dos Ativos-Alvo; (vi) risco de concentra&ccedil;&atilde;o; (vii) possibilidade de conflitos de interesses entre Cotistas; (viii) riscos associados ao investimento em cotas de FIAGROs; (ix) limita&ccedil;&otilde;es no gerenciamento de riscos; (x) risco decorrente da precifica&ccedil;&atilde;o dos ativos; (xi) inexist&ecirc;ncia de garantia de rentabilidade; (xii) risco tribut&aacute;rio; (xiii) riscos oriundos da utiliza&ccedil;&atilde;o de derivativos; (xiv) risco de interven&ccedil;&atilde;o ou de liquida&ccedil;&atilde;o judicial do Administrador; (xv) possibilidade de imposi&ccedil;&atilde;o de restri&ccedil;&otilde;es de natureza legal ou regulat&oacute;ria; (xvi) risco de governan&ccedil;a; e (xvii) riscos regulat&oacute;rios e judiciais.
+Ressalta-se que a descri&ccedil;&atilde;o detalhada de cada um dos riscos acima elencados, bem como de suas eventuais subdivis&otilde;es, encontra-se devidamente prevista no Regulamento e no Termo de Ades&atilde;o firmado pelo cotista, documentos que devem ser integralmente conhecidos e avaliados antes da realiza&ccedil;&atilde;o do investimento.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">6. Rela&ccedil;&atilde;o de processos judiciais, n&atilde;o sigilosos e relevantes</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="3"><span class="title-b3">
+            7. Rela&ccedil;&atilde;o de processos judiciais, repetitivos ou conexos, baseados
+            em causas jur&iacute;dicas
+            semelhantes, n&atilde;o sigilosos e relevantes
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">N&deg; do Processo</span></td><td><span class="title-b3">Valores Envolvidos</span></td><td><span class="title-b3">Causa da conting&ecirc;ncia</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">8. An&aacute;lise de Impacto</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            An&aacute;lise dos impactos em caso de perda e valores envolvidos
+            relacionados aos processos
+            judiciais sigilosos relevantes
+          </span></td><td><span>N/A</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">9. Assembleia Geral</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="2"><span class="title-b3">9.1</span></td><td><span class="title-b3">
+            Endere&ccedil;os (f&iacute;sico ou eletr&ocirc;nico) nos quais os documentos relativos
+            &agrave; assembleia estar&atilde;o
+            &agrave; disposi&ccedil;&atilde;o dos cotistas para an&aacute;lise
+          </span></td>
+</tr>
+<tr>
+<td><span>Aos cuidados do time de Eventos Estruturados, no endere&ccedil;o abaixo: Avenida Brigadeiro Faria Lima, 3477 - 14&ordm; andar - Itaim Bibi - S&atilde;o Paulo/SPDocumentos relativos &agrave; Assembleia Geral estar&atilde;o dispon&iacute;veis na sede do Administrador bem como no site da B3 S.A. &ndash; Brasil, Bolsa e Balc&atilde;o e doBanco BTG Pactual, os quais podem ser acessados respectivamente nos endere&ccedil;os eletr&ocirc;nicos abaixo:http://www.bmfbovespa.com.br/pt_br/produtos/listados-a-vista-e-derivativos/renda-variavel/fundos-de-investimentos/fii/fiis-listados/https://www.btgpactual.com/asset-management/administracao-fiduciaria
+Aos cuidados do time de Eventos Estruturados, no endere&ccedil;o abaixo: Avenida Brigadeiro Faria Lima, 3477 - 14&ordm; andar - Itaim Bibi - S&atilde;o Paulo/SPDocumentos relativos &agrave; Assembleia Geral estar&atilde;o dispon&iacute;veis na sede do Administrador bem como no site da B3 S.A. &ndash; Brasil, Bolsa e Balc&atilde;o e doBanco BTG Pactual, os quais podem ser acessados respectivamente nos endere&ccedil;os eletr&ocirc;nicos abaixo:http://www.bmfbovespa.com.br/pt_br/produtos/listados-a-vista-e-derivativos/renda-variavel/fundos-de-investimentos/fii/fiis-listados/https://www.btgpactual.com/asset-management/administracao-fiduciaria</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.2</span></td><td><span class="title-b3">
+            Indica&ccedil;&atilde;o dos meios de comunica&ccedil;&atilde;o disponibilizados aos cotistas
+            para (i) a inclus&atilde;o de
+            mat&eacute;rias na ordem do dia de assembleias gerais e o envio de documentos pertinentes &agrave;s
+            delibera&ccedil;&otilde;es
+            propostas; (ii) solicita&ccedil;&atilde;o de lista de endere&ccedil;os f&iacute;sicos e eletr&ocirc;nicos dos demais
+            cotistas para envio de
+            pedido p&uacute;blico de procura&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td><span>Caso o fundo seja listado, o Administrador disponibiliza aos cotistas o endere&ccedil;o de e-mail abaixo para solicita&ccedil;&otilde;es referentes as assembleias bem como d&uacute;vidas em geral:ri.fundoslistados@btgpactual.com, caso o fundo n&atilde;o seja listado, disponibiliza o e-mail: ol-reguladores@btgpactual.com</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.3</span></td><td><span class="title-b3">
+            Descri&ccedil;&atilde;o das regras e procedimentos aplic&aacute;veis &agrave; participa&ccedil;&atilde;o dos
+            cotistas em
+            assembleias gerais, incluindo (i) formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade
+            de cotista e
+            representa&ccedil;&atilde;o de cotistas em assembleia; (ii) procedimentos para a realiza&ccedil;&atilde;o de
+            consultas formais, se
+            admitidas em regulamento; (iii) regras e procedimentos para a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e
+            envio de
+            comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto
+          </span></td>
+</tr>
+<tr>
+<td><span>Quanto &agrave;s formalidades exigidas para a comprova&ccedil;&atilde;o da qualidade de cotista e representa&ccedil;&atilde;o de cotistas em Assembleia: Nos termos do Art. 22 dainstru&ccedil;&atilde;o CVM 472, somente poder&atilde;o votar os Cotistas inscritos no livro de registro de cotistas ou na conta de dep&oacute;sito das cotas na data deconvoca&ccedil;&atilde;o da Assembleia, seus representantes legais ou procuradores legalmente constru&iacute;dos h&aacute; menos de 1 (um) ano. Ainda importante que todosos documentos de identifica&ccedil;&atilde;o/representa&ccedil;&atilde;o sejam devidamente apresentados. Quais sejam: (a) Para Cotistas Pessoas F&iacute;sicas: c&oacute;pia de umdocumento de identifica&ccedil;&atilde;o, tal qual, RG, RNE ou CNH; (b) Para Cotistas Pessoas Jur&iacute;dicas: C&oacute;pia do &uacute;ltimo estatuto ou contrato social consolidadoe da documenta&ccedil;&atilde;o societ&aacute;ria outorgando poderes de representa&ccedil;&atilde;o ao(s) signat&aacute;rio(s) da declara&ccedil;&atilde;o referida no item &ldquo;a&rdquo; acima; (c) Para CotistasFundos de Investimento: C&oacute;pia autenticada do &uacute;ltimo regulamento consolidado do fundo e estatuto social do seu administrador, al&eacute;m dadocumenta&ccedil;&atilde;o societ&aacute;ria outorgando poderes de representa&ccedil;&atilde;o (ata de elei&ccedil;&atilde;o dos diretores e/ou procura&ccedil;&atilde;o com firma reconhecida). (d) Caso ocotista seja representado, o procurador dever&aacute; encaminhar, tamb&eacute;m, a respectiva procura&ccedil;&atilde;o com firma reconhecida, lavrada h&aacute; menos de 1 (um)ano, outorgando poderes espec&iacute;ficos para a pr&aacute;tica do ato. ii - Quando previsto em regulamento, &eacute; poss&iacute;vel a realiza&ccedil;&atilde;o de consultas formais. TaisConsultas s&atilde;o realizadas por meio do envio de uma Carta Consulta para a base de cotistas do Fundo, atrav&eacute;s dos endere&ccedil;os de e-mail dos Cotistasdisponibilizados pela B3 S.A. &ndash; Brasil, Bolsa e Balc&atilde;o ou anteriormente informados ao servi&ccedil;o de escritura&ccedil;&atilde;o de cotas do Fundo para os Cotistasque n&atilde;o tenham suas cotas depositadas em bolsa. Na consulta formal, constar&aacute; exposi&ccedil;&atilde;o do Administrador sobre os itens a serem deliberados, datalimite para manifesta&ccedil;&atilde;o do voto, prazo para apura&ccedil;&atilde;o dos votos e orienta&ccedil;&atilde;o sobre o envio da manifesta&ccedil;&atilde;o, bem como documentos que devem seranexados, como, por exemplo, os documentos de poderes de representa&ccedil;&atilde;o. Al&eacute;m disso, segue anexa &agrave; Consulta Formal uma carta resposta modelocom os itens em delibera&ccedil;&atilde;o, campo para voto e itens para preenchimento de dados do cotistas e assinatura; iii &ndash; Quanto as regras e procedimentospara a participa&ccedil;&atilde;o &agrave; dist&acirc;ncia e envio de comunica&ccedil;&atilde;o escrita ou eletr&ocirc;nica de voto, solicitamos que os cotistas mandem na forma da carta respostaanexa &agrave; consulta formal, dentro do prazo limite de manifesta&ccedil;&atilde;o de voto, por meio de envelope digital enviado, ou, em caso de recebimento decorrespond&ecirc;ncia via e-mail ou em via f&iacute;sica, por meio do e-mail ri.fundoslistados@btgpacual.com. Para manifesta&ccedil;&atilde;o por meio eletr&ocirc;nico &eacute; dado aoCotista a possibilidade de manifestar sua inten&ccedil;&atilde;o de voto pela plataforma de assinatura eletr&ocirc;nica reconhecida pelos padr&otilde;es de abono do BancoBTG Pactual, por meio da Cuore ou plataforma de assinatura eletr&ocirc;nica.</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">9.4</span></td><td><span class="title-b3">Pr&aacute;ticas para a realiza&ccedil;&atilde;o de assembleia por meio eletr&ocirc;nico</span></td>
+</tr>
+<tr>
+<td><span>A Assembleia em meio eletr&ocirc;nico (&ldquo;Assembleia Virtual&rdquo;) &eacute; realizada &agrave; dist&acirc;ncia com o objetivo de auxiliar os investidores do Fundo em ummomento de necessidade de distanciamento social, o Administrador segue as disposi&ccedil;&otilde;es do Of&iacute;cio n&deg; 36/2020 emitido pela Comiss&atilde;o de ValoresMobili&aacute;rios (&ldquo;CVM&rdquo;), e informa atrav&eacute;s do Edital de Convoca&ccedil;&atilde;o (&ldquo;Convoca&ccedil;&atilde;o&rdquo;) e a Proposta do Administrador da referida Assembleia que s&atilde;odisponibilizadas no Site do Administrador na rede mundial de computadores e no Sistema Integrado CVM e B3 (&ldquo;Fundos Net&rdquo;). Diante disso, osdocumentos de Assembleia n&atilde;o s&atilde;o enviados no formato f&iacute;sico para o endere&ccedil;o dos investidores, salvos os casos em que a Gest&atilde;o do Fundo optar porenviar a via f&iacute;sica. Adicionalmente, com o intuito de conferir maior publicidade e transpar&ecirc;ncia &agrave; realiza&ccedil;&atilde;o da Assembleia, o Administrador envia aConvoca&ccedil;&atilde;o tamb&eacute;m para os endere&ccedil;os de e-mail dos Cotistas disponibilizados pela B3 S.A. &ndash; Brasil, Bolsa e Balc&atilde;o ou anteriormente informadosao servi&ccedil;o de escritura&ccedil;&atilde;o de cotas do Fundo, para os Cotistas que n&atilde;o tenham suas cotas depositadas em bolsa. Nos termos do Art. 22 da instru&ccedil;&atilde;oCVM 472, somente poder&atilde;o votar os Cotistas inscritos no livro de registro de cotistas ou na conta de dep&oacute;sito das cotas na data de convoca&ccedil;&atilde;o daAssembleia, seus representantes legais ou procuradores legalmente constru&iacute;dos h&aacute; menos de 1 (um) ano. No que diz respeito ao acesso as AssembleiaVirtual, os cotistas se cadastram atrav&eacute;s do link presente no edital de convoca&ccedil;&atilde;o para acesso a Assembleia Virtual o ocorre por meio da plataformaWebex, para o cadastro &eacute; exigido que os documentos de identifica&ccedil;&atilde;o/representa&ccedil;&atilde;o sejam devidamente apresentados para valida&ccedil;&atilde;o do acesso aocotista. Conclu&iacute;do o pr&eacute;-cadastro, os dados dos cotistas ser&atilde;o validados: (a) os documentos informados pelos cotista; (b) se o cotista est&aacute; presente nabase de cotistas da data base da convoca&ccedil;&atilde;o. Se os dados apresentados estiverem de acordo com os crit&eacute;rios supracitados, &eacute; enviado ao endere&ccedil;o dee-mail informado o link final para acesso &agrave; Plataforma da Assembleia. Durante a realiza&ccedil;&atilde;o da Assembleia &eacute; eleito um Presidente e um Secret&aacute;rio,para que posteriormente e apresentado aos cotistas a proposta a ser deliberada. Por fim, &eacute; dado aos cotistas a oportunidade sanar poss&iacute;veis d&uacute;vidassobre os conte&uacute;dos que permeiam a Assembleia, atrav&eacute;s de um Chat All Participants (&ldquo;Chat&ldquo;ou &ldquo;Plataforma de Bate-Papo&rdquo;). Ap&oacute;s o encontro iniciala Assembleia &eacute; suspensa e reinstalada alguns dias ap&oacute;s seu in&iacute;cio com a presen&ccedil;a de qualquer n&uacute;mero de cotistas, nos termos do Art. 19 da Instru&ccedil;&atilde;o
+CVM 472, combinado com o Art. 70 da Instru&ccedil;&atilde;o CVM 555. Os Cotistas que conectarem-se &agrave; Plataforma nos termos acima ser&atilde;o consideradospresentes e assinantes da ata e do livro de presen&ccedil;a, ainda que se abstenham de votar. Ap&oacute;s aprovado pelo Presidente e o Secret&aacute;rio, &eacute; publicado oTermo de Apura&ccedil;&atilde;o e do Sum&aacute;rio de Decis&otilde;es Site da Administradora na rede mundial de computadores e no Fundos Net.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="4"><span class="title-b3">10. Remunera&ccedil;&atilde;o do Administrador e do Gestor</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="3"><span class="title-b3">10.1</span></td><td><span class="title-b3">Pol&iacute;tica de remunera&ccedil;&atilde;o definida em regulamento</span></td><td colspan="2"><span>O ADMINISTRADOR receber&aacute; por seus servi&ccedil;os uma taxa de administra&ccedil;&atilde;o equivalente &agrave; (&ldquo;Taxa de Administra&ccedil;&atilde;o&rdquo;) 0,15% (quinze cent&eacute;simos por cento) ao ano, &agrave; raz&atilde;o de 1/12 (um doze avos), observado o valor m&iacute;nimo mensal de R$ 20.000,00. O GESTOR receber&aacute; por seus servi&ccedil;os uma taxa de gest&atilde;o (&ldquo;Taxa de Gest&atilde;o&rdquo;) equivalente a 1,00% (um inteiro por cento) ao ano, &agrave; raz&atilde;o de 1/12 (um doze avos). Al&eacute;m da remunera&ccedil;&atilde;o que lhe &eacute; devida nos termos do caput, o GESTOR far&aacute; jus a uma taxa de performance (&ldquo;Taxa de Performance&rdquo;) calculada da seguinte forma: VT Performance = 0,20 x { [Vam-1] &ndash; (&Iacute;ndice de Corre&ccedil;&atilde;o*Vb)</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Valor pago no ano de refer&ecirc;ncia (R$)</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio cont&aacute;bil</span></td><td><span class="title-b3">% sobre o patrim&ocirc;nio a valor de mercado</span></td>
+</tr>
+<tr>
+<td><span>R$ 1.692.003,22</span></td><td><span>0,70%</span></td><td><span>0,70%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="5"><span class="title-b3">11. Governan&ccedil;a</span></td>
+</tr>
+<tr>
+<td colspan="5"><span class="title-b3">Representante(s) dos cotistas</span></td>
+</tr>
+</table>
+<table style="border-top-style: hidden" border="1" width="95%" align="center">
+<tr>
+<td colspan="5"><span class="title-b3">Diretor Respons&aacute;vel pelo Fundo</span></td>
+</tr>
+<tr>
+<td class="celula-numero-secao" rowspan="19"><span class="title-b3">11.2</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome</span></td><td colspan="3"><span>Gustavo Cotta Piersanti</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Idade</span></td><td colspan="3"><span>42</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Profiss&atilde;o</span></td><td colspan="3"><span>Administrador</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">CPF</span></td><td colspan="3"><span>016.697.087-56</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">E-mail</span></td><td colspan="3"><span>ol-reguladores@btgpactual.com</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Forma&ccedil;&atilde;o acad&ecirc;mica</span></td><td colspan="3"><span>Graduado em administra&ccedil;&atilde;o pela Pontif&iacute;cia Universidade Cat&oacute;lica do Rio de Janeiro em 2005.</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas detidas da Classe</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe compradas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Quantidade de cotas da Classe vendidas no per&iacute;odo</span></td><td colspan="3"><span>0</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Data de in&iacute;cio na fun&ccedil;&atilde;o</span></td><td colspan="3"><span>11/06/2025</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">Principais experi&ecirc;ncias profissionais durante os &uacute;ltimos 5 anos</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Nome da Empresa</span></td><td><span class="title-b3">Per&iacute;odo</span></td><td><span class="title-b3">Cargo e fun&ccedil;&otilde;es inerentes ao cargo</span></td><td><span class="title-b3">Atividade Principal da Empresa</span></td>
+</tr>
+<tr>
+<td colspan="4"><span class="title-b3">
+            Descri&ccedil;&atilde;o de qualquer dos seguintes eventos que tenham ocorrido
+            durante os &uacute;ltimos 5
+            anos
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Evento</span></td><td colspan="3"><span class="title-b3">Descri&ccedil;&atilde;o</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Qualquer condena&ccedil;&atilde;o criminal</span></td><td colspan="3"><span>N/A</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Qualquer condena&ccedil;&atilde;o em processo administrativo da CVM e as penas
+            aplicadas
+          </span></td><td colspan="3"><span>N/A</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="6"><span class="title-b3">
+            12. Distribui&ccedil;&atilde;o de cotistas, segundo o percentual de cotas
+            adquirido
+          </span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Faixas de Pulveriza&ccedil;&atilde;o</span></td><td><span class="title-b3">N&ordm; de cotistas</span></td><td><span class="title-b3">N&ordm; de cotas detidas</span></td><td><span class="title-b3">% de cotas detido em rela&ccedil;&atilde;o ao total emitido</span></td><td><span class="title-b3">% detido por PF</span></td><td><span class="title-b3">% detido por PJ</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">At&eacute; 5% das cotas</span></td><td><span>11057</span></td><td><span>2369836</span></td><td><span>100,00%</span></td><td><span>98,62%</span></td><td><span>1,38%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 5% at&eacute; 10%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 10% at&eacute; 15%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 15% at&eacute; 20%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 20% at&eacute; 30%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 30% at&eacute; 40%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 40% at&eacute; 50%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">Acima de 50%</span></td><td><span>0</span></td><td><span>0</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td><td><span>0,00%</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="7"><span class="title-b3">
+            13. Transa&ccedil;&otilde;es com ativos envolvendo potencial conflito de
+            interesses e a assembleia de
+            aprova&ccedil;&atilde;o
+          </span></td>
+</tr>
+<tr>
+<td></td><td><span class="title-b3">Ativo negociado</span></td><td><span class="title-b3">Natureza da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Data da transa&ccedil;&atilde;o</span></td><td><span class="title-b3">Valor envolvido</span></td><td><span class="title-b3">Data da assembleia de autoriza&ccedil;&atilde;o</span></td><td><span class="title-b3">Contraparte</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">14. Pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.1</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de divulga&ccedil;&atilde;o de ato ou fato relevante adotada
+            pelo administrador,
+            ou disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores,
+            indicando os procedimentos relativos &agrave; manuten&ccedil;&atilde;o de sigilo acerca de informa&ccedil;&otilde;es
+            relevantes n&atilde;o divulgadas,
+            locais onde estar&atilde;o dispon&iacute;veis tais informa&ccedil;&otilde;es, entre outros aspectos
+          </span></td>
+</tr>
+<tr>
+<td><span>De acordo com o previsto no Art. 37 do Anexo Normativo III, da Resolu&ccedil;&atilde;o CVM 175/2022, e a nossa pol&iacute;tica de divulga&ccedil;&atilde;o define prioritariamente como fato relevante eventos significativos na estrutura do Fundo como: vac&acirc;ncia, inadimpl&ecirc;ncia, novas loca&ccedil;&otilde;es e que possam representar 5% ou mais da Receita ou Distribui&ccedil;&atilde;o do Fundo na data da divulga&ccedil;&atilde;o, bem como demais situa&ccedil;&otilde;es que podem afetar de formaponder&aacute;vel inten&ccedil;&atilde;o dos investidores de realizar a aquisi&ccedil;&atilde;o ou venda de cotas. Para outras situa&ccedil;&otilde;es, todas s&atilde;o devidamente analisadas para que seconfirme se devem ou n&atilde;o ser classificadas como um fato relevante e consequentemente serem divulgadas de acordo com a pol&iacute;tica doAdministrador. A divulga&ccedil;&atilde;o &eacute; feita antes da abertura ou depois do fechamento do mercado atrav&eacute;s dos seguintes canais: Website: www.btgpactual.com | SAC: 0800 772 2827| Ouvidoria: 0800 722 0048</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.2</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de negocia&ccedil;&atilde;o de cotas, se houver, ou
+            disponibilizar o link
+            correspondente da p&aacute;gina do administrador na rede mundial de computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>https://www.btgpactual.com/asset-management/administracao-fiduciaria</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.3</span></td><td><span class="title-b3">
+            Descrever a pol&iacute;tica de exerc&iacute;cio do direito de voto em
+            participa&ccedil;&otilde;es societ&aacute;rias, ou
+            disponibilizar o link correspondente da p&aacute;gina do administrador na rede mundial de
+            computadores
+          </span></td>
+</tr>
+<tr>
+<td><span>A pol&iacute;tica de exerc&iacute;cio do direito de voto decorrente de ativos do fundo pode ser consultada a partir do regulamento do fundo, dispon&iacute;vel no site doAdministrador, por meio do endere&ccedil;o eletr&ocirc;nico: https://www.btgpactual.com/asset-management/administracao-fiduciaria</span></td>
+</tr>
+<tr>
+<td rowspan="2"><span class="title-b3">14.4</span></td><td><span class="title-b3">
+            Relacionar os funcion&aacute;rios respons&aacute;veis pela implanta&ccedil;&atilde;o,
+            manuten&ccedil;&atilde;o, avalia&ccedil;&atilde;o e
+            fiscaliza&ccedil;&atilde;o da pol&iacute;tica de divulga&ccedil;&atilde;o de informa&ccedil;&otilde;es, se for o caso
+          </span></td>
+</tr>
+<tr>
+<td><span>Bruno Duque Horta Nogueira &ndash; Diretor Executivo nomeado em 29 de abril de 2020. Advogado com especializa&ccedil;&atilde;o de direito empresarial formadopela Faculdade de Direito do Largo S&atilde;o Francisco - Universidade de S&atilde;o Paulo (USP). &Eacute; respons&aacute;vel pelo Departamento Jur&iacute;dico do BTG Pactual naAm&eacute;rica Latina, ingressou no Pactual em 2000 e tornou-se s&oacute;cio em 2009.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td><span class="title-b3">15. Regras e prazos para chamada de capital</span></td>
+</tr>
+<tr>
+<td><span>Ser&aacute; de acordo com estabelecido em Assembleia Geral Extraordin&aacute;ria respeitando as regras do regulamento.</span></td>
+</tr>
+</table>
+<br>
+<table border="1" width="95%" align="center">
+<tr style="background:#BFBFBF;">
+<td colspan="2"><span class="title-b3">16. Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados</span></td>
+</tr>
+<tr>
+<td><span class="title-b3">
+            Pol&iacute;tica de distribui&ccedil;&atilde;o de resultados, incluindo a periodicidade e
+            a base de c&aacute;lculo
+            com a concilia&ccedil;&atilde;o da distribui&ccedil;&atilde;o do exerc&iacute;cio
+          </span></td><td><span>Caso sejam auferidos lucros pela Classe, estes poder&atilde;o, a crit&eacute;rio do Gestor, e observado o disposto no item 6.3 acima, ser distribu&iacute;dos aos Cotistas, mensalmente, no 10&ordm; (d&eacute;cimo) dia &uacute;til do m&ecirc;s subsequente ao do recebimento dos recursos pela Classe, a t&iacute;tulo de antecipa&ccedil;&atilde;o dos rendimentos do semestre a serem distribu&iacute;dos. Eventual saldo n&atilde;o distribu&iacute;do como antecipa&ccedil;&atilde;o poder&aacute; ser utilizado para aquisi&ccedil;&atilde;o de Ativos-Alvo, Ativos Financeiros ou outros ativos, acumulando-se para distribui&ccedil;&otilde;es futuras, com base em recomenda&ccedil;&atilde;o apresentada pelo Gestor, desde que respeitados os limites e requisitos legais e regulamentares aplic&aacute;veis.. Durante o exerc&iacute;cio findo em 31 de dezembro de 2025, foram realizadas distribui&ccedil;&otilde;es de rendimentos na Classe, no montante de R$ 32.355.000 (trinta e dois milh&otilde;es, trezentos e cinquenta e cinco mil reais).</span></td>
+</tr>
+</table>
+</body>
+</html>
