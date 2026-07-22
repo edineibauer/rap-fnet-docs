@@ -1,0 +1,422 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Informe Mensal FIAGRO</title>
+        <script type="text/javascript" src="/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js" data-dtconfig="app=97e61c3a8a7c6a0b|cuc=wj11fgxl|owasp=1|mel=100000|featureHash=ICANVfgqru|dpvc=1|lastModification=1784725587498|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js|reportUrl=/fnet/rb_3e3688fc-2b0e-4bc4-bbfb-2999b956e3bd|rid=RID_1993005768|rpid=371636453|domain=bmfbovespa.com.br"></script><style type="text/css">
+          table {
+          border-collapse: collapse;
+          table-layout: fixed;
+          width: 95%;
+          }
+
+          table, td, th {
+          padding: 3px;
+          border: 1px solid black;
+          font-size: 11;
+          }
+
+          body {
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .title-b3 {
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho {
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores {
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+          .dado-versao {
+          display:block;
+          font-size:11;
+          text-align: right;
+          margin-right: 25px
+          }
+
+          .w-30 {
+          width: 30%;
+          }
+
+          .pl-20 {
+          padding-left: 20px;
+          }
+
+          .pl-40 {
+          padding-left: 40px;
+          }
+
+          .pl-60 {
+          padding-left: 60px;
+          }
+
+          .pl-80 {
+          padding-left: 80px;
+          }
+        </style>
+    </head>
+    <body>
+        <a href="javascript:window.print()">Imprimir</a>
+        <h2 align="center">Informe Mensal FIAGRO</h2>
+        <span class="dado-versao">
+      Vers&atilde;o: 1.0</span>
+        <table align="center" width="95%">
+            <tr>
+                <td><span class="title-b3">Compet&ecirc;ncia:</span></td><td><span class="dado-cabecalho">06/2026</span></td><td><span class="title-b3">Monoclasse: </span></td><td><span class="dado-cabecalho">NAO</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Nome do Administrador: </span></td><td><span class="dado-cabecalho">QI CORRETORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS S.A.</span></td><td><span class="title-b3">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">62285390000140</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Nome do Fundo: </span></td><td><span class="dado-cabecalho">GALAPAGOS RECEB&Iacute;VEIS DO AGRONEG&Oacute;CIO - FIAGRO - RESPONSABILIDADE LIMITADA</span></td><td><span class="title-b3">CNPJ do Fundo: </span></td><td width="17%"><span class="dado-cabecalho">37037297000170</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Data de Registro: </span></td><td><span class="dado-cabecalho">20/08/2021</span></td><td><span class="title-b3">Tipo de P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">INVESTIDORES EM GERAL</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">ISIN: </span></td><td><span class="dado-cabecalho">BRGCRACTF005</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">V&iacute;nculo Familiar: </span></td><td><span class="dado-cabecalho">NAO</span></td><td><span class="title-b3">Regra Anexo: </span></td><td><span class="dado-cabecalho">O anexo normativo aplic&aacute;vel &eacute; o Anexo Normativo III da Resolu&ccedil;&atilde;o CVM n&ordm; 175</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Classifica&ccedil;&atilde;o Auto Regulada: </span></td><td><span class="dado-cabecalho"></span></td><td><span class="title-b3">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">1000 ANO/ANOS</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Data de Encerramento: </span></td><td><span class="dado-cabecalho">30/06</span></td><td><span class="title-b3">Mercado de Negocia&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">BOLSA</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Entidade Administradora: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td><td><span class="title-b3">Email do Administrador: </span></td><td><span class="dado-cabecalho">fii.adm@qitech.com.br</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Servi&ccedil;o de Atendimento ao Cotista: </span></td><td><span class="dado-cabecalho">(11) 2827-3500</span></td><td><span class="title-b3">Site: </span></td><td><span class="dado-cabecalho">https://qitech.com.br/dtvm/</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Nome do Gestor: </span></td><td><span class="dado-cabecalho">GALAPAGOS CAPITAL</span></td><td><span class="title-b3">CNPJ do Gestor: </span></td><td><span class="dado-cabecalho">32706879000188</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%" border="1">
+            <tr style="background:#BFBFBF;">
+                <td colspan="2"><span class="title-b3">N&uacute;mero de Cotistas: </span></td><td colspan="2"><span class="dado-cabecalho">6573</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Pessoas Naturais: </span></td><td><span class="dado-cabecalho">6540</span></td><td><span class="title-b3">Pessoas Jur&iacute;dicas Exceto Financeiras: </span></td><td><span class="dado-cabecalho">33</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Pessoas Jur&iacute;dicas Financeiras: </span></td><td><span class="dado-cabecalho">0</span></td><td><span class="title-b3">Investidores N&atilde;o Residentes: </span></td><td><span class="dado-cabecalho">0</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Entidades de Previd&ecirc;ncia Complementar Exceto RPPS: </span></td><td><span class="dado-cabecalho">0</span></td><td><span class="title-b3">Entidades RPPS: </span></td><td><span class="dado-cabecalho">0</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Sociedades de Seguros e Resseguros: </span></td><td><span class="dado-cabecalho">0</span></td><td><span class="title-b3">Fundos de Investimento: </span></td><td><span class="dado-cabecalho">0</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">Cotistas Distribu&iacute;dos por Conta e Ordem: </span></td><td><span class="dado-cabecalho">0</span></td><td><span class="title-b3">Outros Tipos de Cotistas: </span></td><td><span class="dado-cabecalho">0</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%" cellspacing="5" cellpadding="5">
+            <tr>
+                <td width="83%"><b>1 - Ativo </b></td><td><b><span class="dado-valores">R$ 143.916.140,15</span></b></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">2 - Patrim&ocirc;nio L&iacute;quido: </span></td><td><span class="dado-valores">R$ 142.559.545,38</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">3 - N&uacute;mero de Cotas Emitidas: </span></td><td><span class="dado-valores">1750865</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px">3.1 - Subclasse 1 (ou classe &uacute;nica)</td><td><span class="dado-valores">1750865</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">4 - Valor Patrimonial da Cota: </span></td><td><span class="dado-valores">R$ 81,42</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px">4.1 - Subclasse 1 (ou classe &uacute;nica)</td><td><span class="dado-valores">R$ 81,42</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">5 - Despesas com a taxa de administra&ccedil;&atilde;o em rela&ccedil;&atilde;o ao patrim&ocirc;nio l&iacute;quido do m&ecirc;s (%) : </span></td><td><span class="dado-valores">0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">6 - Despesas com a taxa de gest&atilde;o em rela&ccedil;&atilde;o ao patrim&ocirc;nio l&iacute;quido do m&ecirc;s (%) : </span></td><td><span class="dado-valores">0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">7 - Despesas com a taxa de distribui&ccedil;&atilde;o em rela&ccedil;&atilde;o ao patrim&ocirc;nio l&iacute;quido do m&ecirc;s (%) : </span></td><td><span class="dado-valores">0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">8 - Rentabilidade Efetiva Mensal: </span></td><td><span class="dado-valores">-R$ 5,86</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>8.1 - Rentabilidade Patrimonial do M&ecirc;s de Refer&ecirc;ncia: </span></td><td><span class="dado-valores">-R$ 6,70</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>8.2 - Dividend Yield do M&ecirc;s de Refer&ecirc;ncia: </span></td><td><span class="dado-valores">R$ 0,84</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">9 - Amortiza&ccedil;&otilde;es de cotas do M&ecirc;s de Refer&ecirc;ncia (%) : </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr style="background:#BFBFBF;">
+                <td colspan="2"><span class="title-b3">Informa&ccedil;&otilde;es do Ativo</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">10 - Total Mantido para as Necessidades de Liquidez (Caixa): </span></td><td><span class="dado-valores">R$ 2.728.682,57</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>10.1 - Fundos de investimento em renda fixa: </span></td><td><span class="dado-valores">R$ 1.935,48</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>10.2 - T&iacute;tulos de renda fixa: </span></td><td><span class="dado-valores">R$ 2.726.747,09</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">11 - Total Investido: </span></td><td><span class="dado-valores">R$ 141.187.457,58</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>11.1 - Im&oacute;veis rurais: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>11.2 - Participa&ccedil;&otilde;es societ&aacute;rias (companhias fechadas e sociedades limitadas): </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>11.3 - Ativos financeiros (lato sensu): </span></td><td><span class="dado-valores">R$ 28.261,31</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.3.1 - Ativos financeiros: </span></td><td><span class="dado-valores">R$ 28.261,31</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.1.1 - Ativos financeiros de emiss&atilde;o de institui&ccedil;&atilde;o financeira: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.1.1.1 - Letras de Cr&eacute;dito do Agroneg&oacute;cio - LCA: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.1.1.2 - Letras de Cr&eacute;dito Imobili&aacute;rio - LCI: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.1.1.3 - Outros ativos de emiss&atilde;o de institui&ccedil;&atilde;o financeira: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.1.2 - Outros ativos financeiros: </span></td><td><span class="dado-valores">R$ 28.261,31</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.3.2 - Valores mobili&aacute;rios: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.2.1 - T&iacute;tulos de participa&ccedil;&otilde;es societ&aacute;rias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.2.1.1 - A&ccedil;&otilde;es e certificados de dep&oacute;sitos de a&ccedil;&otilde;es: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.2.1.2 - Outros t&iacute;tulos de participa&ccedil;&atilde;o: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.2.2 - T&iacute;tulos de d&iacute;vida de corporativa: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.3.3 - T&iacute;tulos de cr&eacute;dito: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.3.3.1 - C&eacute;dula de produtor rural &ndash; CPR: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.3.1.1 - CPR financeira: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.3.1.2 - CPR f&iacute;sica: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.3.3.2 - Certificado de direitos credit&oacute;rios do agroneg&oacute;cio &ndash; CDCA: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.3.3.3 - Certificado de dep&oacute;sito agropecu&aacute;rio &ndash; CDA e warrant agropecu&aacute;rio &ndash; WA: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.3.3.4 - Outros t&iacute;tulos de cr&eacute;dito do agroneg&oacute;cio: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.3.4.1 - T&iacute;tulos de cr&eacute;dito com liquida&ccedil;&atilde;o financeira: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.3.4.1.1 - Devedor pessoa jur&iacute;dica: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.3.4.1.2 - Devedor pessoa natural: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.3.3.4.2 - T&iacute;tulos de cr&eacute;dito com liquida&ccedil;&atilde;o f&iacute;sica: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.3.4.2.1 - Devedor pessoa jur&iacute;dica: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.3.4.2.2 - Devedor pessoa natural: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:80px"><span>11.3.3.4.2.2 - Devedor pessoa natural: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.4 - Demais Direitos credit&oacute;rios: </span></td><td><span class="dado-valores">R$ 284.111,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.4.1 - Direitos credit&oacute;rios do agroneg&oacute;cio: </span></td><td><span class="dado-valores">R$ 284.111,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.4.2 - Direitos credit&oacute;rios relativos a im&oacute;veis rurais: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.5 - T&iacute;tulos de Securitiza&ccedil;&atilde;o: </span></td><td><span class="dado-valores">R$ 103.863.425,41</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.5.1 - Certificados de receb&iacute;veis do agroneg&oacute;cio &ndash; CRA: </span></td><td><span class="dado-valores">R$ 75.202.186,93</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.5.2 - Certificados de receb&iacute;veis imobili&aacute;rios &ndash; CRI: </span></td><td><span class="dado-valores">R$ 28.661.238,48</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.5.3 - Outros t&iacute;tulos de securitiza&ccedil;&atilde;o: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.6 - Cotas de fundos de investimento: </span></td><td><span class="dado-valores">R$ 37.011.659,86</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.6.1 - FIF: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.6.2 - FIDC: </span></td><td><span class="dado-valores">R$ 29.713.712,26</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.6.3 - FII: </span></td><td><span class="dado-valores">R$ 7.297.947,60</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.6.4 - FIP: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.6.5 - FIIM (ETF): </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:60px"><span>11.6.6 - FIAGRO: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.7 - Cr&eacute;ditos de carbono do agroneg&oacute;cio: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>11.8 - CBIO &ndash; cr&eacute;ditos de descarboniza&ccedil;&atilde;o: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">12 - Valores a Receber: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">13 - Prazo de vencimento ou liquidez dos ativos: </span></td><td><span class="dado-valores">R$ 106.874.283,50</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>13.1 - Total dos ativos a vencer ou com liquidez: </span></td><td><span class="dado-valores">R$ 106.874.283,50</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.1 - At&eacute; 30 dias: </span></td><td><span class="dado-valores">R$ 2.726.747,09</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.2 - De 31 e 60 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.3 - De 61 e 90 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.4 - De 91 e 120 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.5 - De 121 e 180 dias: </span></td><td><span class="dado-valores">R$ 5.904.550,96</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.6 - De 180 e 360 dias: </span></td><td><span class="dado-valores">R$ 2.387.533,90</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.7 - De 361 e 720 dias: </span></td><td><span class="dado-valores">R$ 6.311.285,40</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.8 - De 720 a 1080 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.1.9 - Acima de 1080 dias: </span></td><td><span class="dado-valores">R$ 89.544.166,15</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:20px"><span>13.2 - Total dos ativos vencidos: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.1 - At&eacute; 30 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.2 - De 31 e 60 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.3 - De 61 e 90 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.4 - De 91 e 120 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.5 - De 121 e 180 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.6 - De 180 e 360 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.7 - De 361 e 720 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.8 - De 720 a 1080 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td width="83%" style="padding-left:40px"><span>13.2.9 - Acima de 1080 dias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr style="background:#BFBFBF;">
+                <td colspan="2"><span class="title-b3">Informa&ccedil;&otilde;es do Passivo</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">14 - Rendimentos a distribuir: </span></td><td><span class="dado-valores">R$ 1.190.588,20</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">15 - Taxa de administra&ccedil;&atilde;o a pagar: </span></td><td><span class="dado-valores">R$ 19.129,09</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">16 - Taxa de gest&atilde;o a pagar: </span></td><td><span class="dado-valores">R$ 127.527,20</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">17 - Taxa de performance a pagar: </span></td><td><span class="dado-valores">-R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">18 - Taxa de distribui&ccedil;&atilde;o a pagar: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">19 - Obriga&ccedil;&otilde;es por aquisi&ccedil;&atilde;o de ativos: </span></td><td><span class="dado-valores">-R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">20 - Adiantamento por venda de ativos: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">21 - Adiantamento de valores a receber: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">22 - Instrumentos financeiros derivativos (hedge): </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">23 - Provis&otilde;es para conting&ecirc;ncias: </span></td><td><span class="dado-valores">R$ 0,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">24 - Outros valores a pagar: </span></td><td><span class="dado-valores">R$ 19.350,28</span></td>
+            </tr>
+            <tr>
+                <td><span class="title-b3">25 - Total do Passivo: </span></td><td><span class="dado-valores">R$ 1.356.594,77</span></td>
+            </tr>
+        </table>
+    </body>
+</html>
