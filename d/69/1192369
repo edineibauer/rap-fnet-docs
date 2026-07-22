@@ -1,0 +1,593 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Consulta a Carteiras de Fundos</title>
+        <script type="text/javascript" src="/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js" data-dtconfig="app=97e61c3a8a7c6a0b|cuc=wj11fgxl|owasp=1|mel=100000|featureHash=ICANVfgqru|dpvc=1|lastModification=1784725587498|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js|reportUrl=/fnet/rb_3e3688fc-2b0e-4bc4-bbfb-2999b956e3bd|rid=RID_1968902095|rpid=287510818|domain=bmfbovespa.com.br"></script><style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border_left td {
+          border-left:0;
+          }
+
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+    </head>
+    <body>
+        <a href="javascript:window.print()">Imprimir</a>
+        <h2 align="center">Consulta a Carteiras de Fundos</h2>
+        <p></p>
+        <div style="text-align: justify; width: 92%; padding-left: 70px;padding-bottom: 10px">
+            <p>
+                <b style="color: red;">Aten&ccedil;&atilde;o: </b>Estas informa&ccedil;&otilde;es tem por base os documentos enviados &agrave; CVM pelas Institui&ccedil;&otilde;es Administradoras dos Fundos de Investimento e s&atilde;o de exclusiva responsabilidade destas. Sua divulga&ccedil;&atilde;o pela CVM n&atilde;o implica na garantia da veracidade das informa&ccedil;&otilde;es prestadas ou do julgamento sobre a qualidade do fundo.
+          
+            </p>
+        </div>
+        
+        <table align="center" width="92%" border="1">
+            <tr>
+                <td width="20%"><span class="titulo-dado">
+            Compet&ecirc;ncia:
+          </span></td><td width="30%"><span class="dado-cabecalho">03/2026</span></td><td width="20%"><span class="titulo-dado">
+            Vers&atilde;o:
+          </span></td><td width="30%"><span class="dado-cabecalho">3.0</span></td>
+            </tr>
+            <tr>
+                <td width="25%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td><span class="dado-cabecalho">HIGH FIAGRO - IMOBILI&Aacute;RIO RESPONSABILIDADE LIMITADA</span></td><td><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td><span class="dado-cabecalho">40.343.867/0001-64</span></td>
+            </tr>
+            <tr>
+                <td width="25%"><span class="titulo-dado">Administrador: </span></td><td><span class="dado-cabecalho">VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">22.610.500/0001-88</span></td>
+            </tr>
+            <tr>
+                <td width="25%"><span class="titulo-dado">Patrim&ocirc;nio L&iacute;quido do Fundo:</span></td><td><span class="dado-cabecalho">5.802.758,89</span></td><td><span class="titulo-dado">Data de Recebimento das Informa&ccedil;&otilde;es:</span></td><td><span class="dado-cabecalho">14/05/2026</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" class="no_border_top" style="padding: 7px; width:92%">
+            <tr>
+                <td colspan="11" style="text-align: center; padding-top: 8px;">
+                    <h3>Lista de Aplica&ccedil;&otilde;es</h3>
+                </td>
+            </tr>
+            <tr class="no_border_left">
+                <td align="center" width="23%" rowspan="3"><span class="titulo-dado">
+            Ativo
+          </span></td><td align="center" width="8%" rowspan="3"><span class="titulo-dado">
+            Classifica&ccedil;&atilde;o
+          </span></td><td align="center" width="5%" rowspan="3"><span class="titulo-dado">
+            Empresa Ligada
+          </span></td><td align="center" width="33%" colspan="4"><span class="titulo-dado">
+            Neg&oacute;cios Realizados no M&ecirc;s
+          </span></td><td align="center" width="31%" colspan="4"><span class="titulo-dado">
+            Posi&ccedil;&atilde;o Final
+          </span></td>
+            </tr>
+            <tr>
+                <td style="text-align: center;" colspan="2"><span class="titulo-dado">
+            Vendas
+          </span></td><td style="text-align: center;" colspan="2"><span class="titulo-dado">
+            Aquisi&ccedil;&otilde;es
+          </span></td><td style="text-align: center;" rowspan="2"><span class="titulo-dado">
+            Quant.
+          </span></td><td style="text-align: center;" colspan="2"><span class="titulo-dado">
+            Valores
+          </span></td><td style="text-align: center;" rowspan="2"><span class="titulo-dado">
+            % Patr. L&iacute;q.
+          </span></td>
+            </tr>
+            <tr>
+                <td align="center"><span class="titulo-dado">
+            Quant.
+          </span></td><td align="center"><span class="titulo-dado">
+            Valor
+          </span></td><td align="center"><span class="titulo-dado">
+            Quant.
+          </span></td><td align="center"><span class="titulo-dado">
+            Valor
+          </span></td><td align="center"><span class="titulo-dado">
+            Custo
+          </span></td><td align="center"><span class="titulo-dado">
+            Mercado
+          </span></td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Cotas de Fundos</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                -
+              </td><td align="center">
+                  N&atilde;o
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center">790,00</td><td></td><td style="text-align: right; padding-right: 8px;">50.599,50</td><td style="text-align: center;">0,872%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Cotas de Fundos</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                -
+              </td><td align="center">
+                  Sim
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center">51.170,00</td><td></td><td style="text-align: right; padding-right: 8px;">5.857.874,39</td><td style="text-align: center;">100,950%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Disponibilidades</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>VORTX CAIXA</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>22.610.500/0001-88</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>VORTX DTVM</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">9.505,24</td><td style="text-align: center;">0,164%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>AUDITORIA PROVISAO</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>*** A Definir ***</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">11.072,18</td><td style="text-align: center;">0,191%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>CONSULTOR PENDENTE</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">348,77</td><td style="text-align: center;">0,006%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>CONSULTOR PROVIS&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">80,93</td><td style="text-align: center;">0,001%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>CVM ANUAL PROVIS&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">1.336,25</td><td style="text-align: center;">0,023%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>DISTR RENDIM</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">34.755,28</td><td style="text-align: center;">0,599%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>Performance PROVIS&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">42.668,42</td><td style="text-align: center;">0,735%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>PROV BCO LIQ</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">4.009,58</td><td style="text-align: center;">0,069%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>TAXA ADM PROVIS&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">17.346,24</td><td style="text-align: center;">0,299%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>TAXA GEST&iuml;&iquest;&frac12;O PROVIS&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">5.000,00</td><td style="text-align: center;">0,086%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>TX ADM PENDENTE</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">130,90</td><td style="text-align: center;">0,002%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>TX ESCRITUR PENDENTE</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">1.418,20</td><td style="text-align: center;">0,024%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>TX ESCRT FIX PROVIS&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">2.312,83</td><td style="text-align: center;">0,040%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>TX ESCRT VAR PROVIS&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">1.418,20</td><td style="text-align: center;">0,024%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a receber</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>ANU_B3_2026 DIFERIDO</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>75.476.959/0001-05</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SEM DEFINI&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;O</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">6.677,54</td><td style="text-align: center;">0,115%
+              </td>
+            </tr>
+        </table>
+    </body>
+</html>

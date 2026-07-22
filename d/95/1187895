@@ -1,0 +1,883 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>ANEXO 39-II : Informe Trimestral de FII</title>
+        <script type="text/javascript" src="/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js" data-dtconfig="app=97e61c3a8a7c6a0b|cuc=wj11fgxl|owasp=1|mel=100000|featureHash=ICANVfgqru|dpvc=1|lastModification=1784725587498|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js|reportUrl=/fnet/rb_3e3688fc-2b0e-4bc4-bbfb-2999b956e3bd|rid=RID_1968132423|rpid=-1973163394|domain=bmfbovespa.com.br"></script><style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+    </head>
+    <body>
+        <a href="javascript:window.print()">Imprimir</a>
+        <h2 align="center">Informe Trimestral de FII</h2>
+        <table align="center" width="95%" border="1">
+            <tr>
+                <td><span class="titulo-dado">Nome do Fundo: </span></td><td><span class="dado-cabecalho">ESTOQUE RESIDENCIAL E COMERCIAL RIO DE JANEIRO FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO - RESP LIMITADA</span></td><td><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="17%"><span class="dado-cabecalho">37.266.902/0001-84</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Data de Funcionamento: </span></td><td><span class="dado-cabecalho">18/12/2020</span></td><td><span class="titulo-dado">P&uacute;blico Alvo: </span></td><td><span class="dado-cabecalho">Investidor Qualificado</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">C&oacute;digo ISIN: </span></td><td><span class="dado-cabecalho">BRERCRCTF004</span></td><td><span class="titulo-dado">Quantidade de cotas emitidas: </span></td><td><span class="dado-cabecalho">2.376,00</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Fundo Exclusivo? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td><span class="titulo-dado">Cotistas possuem v&iacute;nculo familiar ou societ&aacute;rio familiar? </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Classifica&ccedil;&atilde;o autorregula&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho"><b>Classifica&ccedil;&atilde;o: </b>Multiestrat&eacute;gia</span><span class="dado-cabecalho"><b>Subclassifica&ccedil;&atilde;o: </b>N&atilde;o possui subclassifica&ccedil;&atilde;o</span><span class="dado-cabecalho"><b>Gest&atilde;o: </b>Definida</span><span class="dado-cabecalho"><b>Segmento de Atua&ccedil;&atilde;o: </b>Outros</span></td><td><span class="titulo-dado">Prazo de Dura&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Indeterminado</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Data do Prazo de Dura&ccedil;&atilde;o: </span></td><td></td><td><span class="titulo-dado">Encerramento do exerc&iacute;cio social: </span></td><td><span class="dado-cabecalho">31/12</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o das cotas: </span></td><td><span class="dado-cabecalho">Bolsa </span></td><td><span class="titulo-dado">Entidade administradora de mercado organizado: </span></td><td><span class="dado-cabecalho">BM&amp;FBOVESPA</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Nome do Administrador: </span></td><td><span class="dado-cabecalho">OLIVEIRA TRUST DTVM S.A.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">36.113.876/0001-91</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Endere&ccedil;o: </span></td><td><span class="dado-cabecalho">Avenida das Am&eacute;ricas,
+              3434,
+              Bloco 07 sala 201-
+              Barra da Tijuca-
+              Rio de Janeiro-
+              RJ-
+              22640102</span></td><td><span class="titulo-dado">Telefones: </span></td><td><span class="dado-cabecalho">21 3514-0000</span><b></b><span class="dado-cabecalho"></span><b></b><span class="dado-cabecalho"></span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Site: </span></td><td><span class="dado-cabecalho">www.oliveiratrust.com.br</span></td><td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">ger2.fundos@oliveiratrust.com.br</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Compet&ecirc;ncia: </span></td><td><span class="dado-cabecalho">01/2026</span></td><td><span class="titulo-dado">Data de Encerramento do Trimestre: </span></td><td><span class="dado-cabecalho">31/03/2026</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">O Fundo se enquadra na defini&ccedil;&atilde;o da nota "6": </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td><td></td><td></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td width="8%">
+                    <h2 align="left">1.</h2>
+                </td><td>
+                    <h2 align="left">Informa&ccedil;&otilde;es por tipo de ativo</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3 align="left">1.1</h3>
+                </td><td>
+                    <h3 align="left">Direitos reais sobre bens im&oacute;veis</h3>
+                </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="2" valign="top" align="left">
+                    <h3>1.1.1</h3>
+                </th><th align="left">
+                    <h3 align="left">Terrenos</h3>
+                </th>
+            </tr>
+            <tr>
+                <td>
+                N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+              </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" valign="top" align="left">
+                    <h3>1.1.2</h3>
+                </th><td>
+                    <h3 align="left">Im&oacute;veis</h3>
+                </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="2" valign="top" align="left">
+                    <h4 align="left">1.1.2.1</h4>
+                </th><td>
+                    <h4 align="left">Im&oacute;veis para renda acabados</h4>
+                </td>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="2" valign="top" align="left">
+                    <h4 align="left">1.1.2.2</h4>
+                </th><td>
+                    <h4 align="left">Im&oacute;veis para renda em constru&ccedil;&atilde;o</h4>
+                </td>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="2" valign="top" align="left">
+                    <h4 align="left">1.1.2.3</h4>
+                </th><td>
+                    <h4 align="left">Im&oacute;veis para Venda Acabados</h4>
+                </td>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="2" valign="top" align="left">
+                    <h4 align="left">1.1.2.4</h4>
+                </th><td>
+                    <h4 align="left">Im&oacute;veis para Venda em Constru&ccedil;&atilde;o</h4>
+                </td>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="3" valign="top" align="left">
+                    <h3>1.1.3</h3>
+                </th><th align="left">
+                    <h3 align="left">Outros Direitos reais Sobre Bens Im&oacute;veis</h3>
+                </th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <td width="8%">
+                    <h3 align="left">1.2</h3>
+                </td><td>
+                    <h3 align="left">Ativos financeiros</h3>
+                </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.1
+            </th><th colspan="4" align="left">Fundos de Investimento Imobili&aacute;rio - FII</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.2
+            </th><th colspan="4" align="left">Certificado de Receb&iacute;veis Imobili&aacute;rios (CRI)</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.3
+            </th><th colspan="4" align="left">Letras de Cr&eacute;dito Imobili&aacute;rio (LCI)</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.4
+            </th><th colspan="4" align="left">Letra Imobili&aacute;ria Garantida (LIG)</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.5
+            </th><th colspan="4" align="left">Certificado de Potencial Adicional de Constru&ccedil;&atilde;o (CEPAC)</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.6
+            </th><th colspan="4" align="left">A&ccedil;&otilde;es</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.7
+            </th><th colspan="4" align="left">A&ccedil;&otilde;es de Sociedades cujo o &uacute;nico prop&oacute;sito se enquadra entre as atividades permitidas aos FII</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.8
+            </th><th colspan="4" align="left">Cotas de Sociedades que se enquadre entre as atividades permitidas aos FII</th>
+            </tr>
+            <tr>
+                <td width="40%"><b>Sociedade</b></td><td width="22%"><b>CNPJ</b></td><td width="15%"><b>Quantidade</b></td><td width="15%"><b>Valor (R$)</b></td>
+            </tr>
+            <tr>
+                <td>VIEDMA RJ EMPREENDIMENTOS IMOBILIARIOS LTDA.</td><td>35.595.494/0001-16</td><td>22.182.639,00</td><td>10.263.297,22</td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.9
+            </th><th colspan="4" align="left">Fundo de Investimento em A&ccedil;&otilde;es (FIA)</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.10
+            </th><th colspan="4" align="left">Fundo de Investimento em Participa&ccedil;&otilde;es (FIP)</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.11
+            </th><th colspan="4" align="left">Fundo de Investimento em Direitos Credit&oacute;rios (FIDC)</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.12
+            </th><th colspan="4" align="left">Outras cotas de Fundos de Investimento</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              1.2.13
+            </th><th colspan="5" align="left">Outros Ativos Financeiros</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+                    <h3 align="left">1.3</h3>
+                </th><th colspan="2" align="left">
+                    <h3 align="left">Ativos mantidos para as Necessidades de liquidez</h3>
+                </th>
+            </tr>
+            <tr>
+                <td width="77%"><b>Informa&ccedil;&otilde;es do Ativo</b></td><td width="15%"><b>Valor (R$)</b></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;Disponibilidades</td><td width="15%">4.669,16</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;T&iacute;tulos P&uacute;blicos</td><td width="15%">260.934,30</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;T&iacute;tulos Privados</td><td width="15%"></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;Fundos de Renda Fixa</td><td width="15%"></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <td width="8%">
+                    <h2 align="left">2.</h2>
+                </td><td>
+                    <h2 align="left">Aquisi&ccedil;&otilde;es e Aliena&ccedil;&otilde;es</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3 align="left">2.1</h3>
+                </td><td>
+                    <h3 align="left">Terrenos</h3>
+                </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              2.1.1
+            </th><td width="42%"><b>Aquisi&ccedil;&otilde;es realizadas no trimestre (endere&ccedil;o, &aacute;rea - m2, entre outras caracter&iacute;sticas relevantes)</b></td><td width="25%" align="center"><b>% do Terreno em rela&ccedil;&atilde;o ao total investido</b></td><td width="25%" align="center"><b>% do Terreno em rela&ccedil;&atilde;o ao PL</b></td>
+            </tr>
+            <tr>
+                <td colspan="3" align="left">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              2.1.2
+            </th><td width="42%"><b>Aliena&ccedil;&otilde;es realizadas no trimestre (endere&ccedil;o, &aacute;rea - m2, data da aliena&ccedil;&atilde;o, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao total investido &agrave; &eacute;poca da aliena&ccedil;&atilde;o</b></td><td width="25%"><b>% do Terreno em rela&ccedil;&atilde;o ao PL</b></td>
+            </tr>
+            <tr>
+                <td colspan="3" align="left">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <td width="8%">
+                    <h3 align="left">2.2</h3>
+                </td><td>
+                    <h3 align="left">Im&oacute;veis</h3>
+                </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              2.2.1
+            </th><td width="42%"><b>Aquisi&ccedil;&otilde;es realizadas no trimestre (nome, endere&ccedil;o, &aacute;rea - m2, n&ordm; de unidades ou lojas, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao total investido</b></td><td width="25%"><b>Categoria (Renda ou Venda)</b></td>
+            </tr>
+            <tr>
+                <td colspan="3" align="left">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              2.2.2
+            </th><td width="42%"><b>Aliena&ccedil;&otilde;es realizadas no trimestre (nome, endere&ccedil;o, &aacute;rea - m2, n&ordm; de unidades ou lojas, data da aliena&ccedil;&atilde;o, entre outras caracter&iacute;sticas relevantes) </b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao total investido &agrave; &eacute;poca da aliena&ccedil;&atilde;o</b></td><td width="25%"><b>% do Im&oacute;vel em rela&ccedil;&atilde;o ao PL</b></td>
+            </tr>
+            <tr>
+                <td colspan="3" align="left">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <td width="8%">
+                    <h2 align="left">3.</h2>
+                </td><td>
+                    <h2 align="left">Outras Informa&ccedil;&otilde;es</h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3 align="left">3.1</h3>
+                </td><td>
+                    <h3 align="left">Rentabilidade Garantida</h3>
+                </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              3.1.1
+            </th><td width="25%"><b>Rela&ccedil;&atilde;o de Ativos sujeitos &agrave; garantia de rentabilidade&sup3;</b></td><td width="10%"><b>% garantido relativo</b></td><td width="22%"><b>Garantidor</b></td><td width="35%"><b>Principais caracter&iacute;sticas da garantia (tempo, valor, forma, riscos incorridos, entre outros aspectos relevantes)</b></td>
+            </tr>
+            <tr>
+                <td colspan="4" align="left">
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="left">
+              3.1.2
+            </th><th colspan="3" align="left">Rentabilidade efetiva no per&iacute;odo sob a vig&ecirc;ncia de garantia</th>
+            </tr>
+            <tr>
+                <td>
+              N&atilde;o possui informa&ccedil;&atilde;o apresentada.
+            </td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td width="70%" rowspan="2">
+                    <h2>Demonstra&ccedil;&otilde;es Trimestrais dos Resultados Cont&aacute;bil e Financeiro</h2>
+                </td><td align="Center" colspan="2" width="30%"><b>Valor(R$)</b></td>
+            </tr>
+            <tr>
+                <td align="center" width="15%"><b>Cont&aacute;bil</b></td><td align="center" width="15%"><b>Financeiro⁴</b></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="center">
+          A
+        </th><th colspan="3" align="left">Ativos Imobili&aacute;rios</th>
+            </tr>
+            <tr>
+                <th colspan="3" align="left">&nbsp;&nbsp;&nbsp;&nbsp;Estoques:</th>
+            </tr>
+            <tr>
+                <td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receita de venda de im&oacute;veis em estoque</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Custo dos im&oacute;veis em estoque vendidos</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor de realiza&ccedil;&atilde;o dos estoques</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de im&oacute;veis em estoque</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>
+                    <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de im&oacute;veis em estoque</h4>
+                </td><td align="center"><b>0</b></td><td align="center"><b>0</b></td>
+            </tr>
+            <tr>
+                <th colspan="3" align="left">&nbsp;&nbsp;&nbsp;&nbsp;Propriedades para investimento:</th>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de alugu&eacute;is das propriedades para investimento</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com manuten&ccedil;&atilde;o e conserva&ccedil;&atilde;o das propriedades para investimento</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de venda de propriedades para investimento</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Custo das propriedades para investimento vendidas</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo das propriedades para investimento</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas das propriedades para investimento</td><td align="center">-145.976,05</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>
+                    <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de im&oacute;veis para renda</h4>
+                </td><td align="center"><b>-145.976,05</b></td><td align="center"><b>0</b></td>
+            </tr>
+            <tr>
+                <th colspan="3" align="left">&nbsp;&nbsp;&nbsp;&nbsp;Ativos imobili&aacute;rios representados por T&iacute;tulos e Valores Mobili&aacute;rios ("TVM"):</th>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de juros dos ativos imobili&aacute;rios representados por TVM</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo dos ativos imobili&aacute;rios representados por TVM</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+) Resultado na venda de ativos imobili&aacute;rios representados por TVM</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de ativos imobili&aacute;rios representados por TVM</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>
+                    <h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Resultado l&iacute;quido de ativos imobili&aacute;rios representados por TVM</h4>
+                </td><td align="center"><b>0</b></td><td align="center"><b>0</b></td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>&nbsp;Resultado l&iacute;quido dos ativos imobili&aacute;rios</h4>
+                </td><td align="center" valign="bottom"><b>-145.976,05</b></td><td align="center" valign="bottom"><b>0</b></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="center">
+          B
+        </th><th colspan="3" align="left">&nbsp;Recursos mantidos para as necessidades de liquidez</th>
+            </tr>
+            <tr>
+                <td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;(+) Receitas de juros de aplica&ccedil;&otilde;es financeiras</td><td width="15%" align="center"></td><td width="15%" align="center">10.157,18</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Ajuste ao valor justo de aplica&ccedil;&otilde;es financeiras</td><td align="center">10.157,18</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Resultado na venda de aplica&ccedil;&otilde;es financeiras</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas de aplica&ccedil;&otilde;es financeiras</td><td align="center">0</td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td>
+                    <h4 align="left">&nbsp;Resultado l&iacute;quido dos recursos mantidos para as necessidades de liquidez</h4>
+                </td><td align="center" valign="bottom"><b>10.157,18</b></td><td align="center" valign="bottom"><b>10.157,18</b></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="center">
+         C
+        </th><td width="62%">
+                    <h4 align="left">&nbsp;Resultado l&iacute;quido com instrumentos financeiros derivativos</h4>
+                </td><td width="15%" align="center" valign="bottom"></td><td width="15%" align="center" valign="bottom"></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="center">
+          D
+        </th><th colspan="3" align="left">&nbsp;Outras receitas/despesas</th>
+            </tr>
+            <tr>
+                <td width="62%">&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de administra&ccedil;&atilde;o</td><td width="15%" align="center">-93.378,25</td><td width="15%" align="center">-46.846,36</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de desempenho (performance)</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Consultoria especializada de que trata o art. 31, II, ICVM 472</td><td width="15%" align="center">0</td><td width="15%" align="center">-159.308,77</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Empresa especializada de que trata o art. 31, III, ICVM 472</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Formador de mercado de que trata o art. 31, IV, ICVM 472</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Cust&oacute;dia dos t&iacute;tulos e valores mobili&aacute;rios do FII</td><td width="15%" align="center">0</td><td width="15%" align="center">-8.267</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Auditoria independente</td><td width="15%" align="center">-11.641,92</td><td width="15%" align="center">-7.938</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Representante(s) de cotistas</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxas, impostos ou contribui&ccedil;&otilde;es federais, estaduais e municipais (incluindo a CVM)</td><td width="15%" align="center">-1.787,74</td><td width="15%" align="center">-6.997,22</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Comiss&otilde;es e emolumentos pagos sobre as opera&ccedil;&otilde;es do FII</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Honor&aacute;rios de advogados, custas e despesas correlatas incorridas em defesa dos interesses do FII (Judicial ou Extrajudicialmente)</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Gastos derivados da celebra&ccedil;&atilde;o de contratos de seguro sobre os ativos do FII</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com avalia&ccedil;&otilde;es obrigat&oacute;rias</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Taxa de ingresso ou sa&iacute;da dos fundos de que o FII seja cotista</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(-) Despesas com o registro de documentos em cart&oacute;rio</td><td width="15%" align="center">0</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;(+/-) Outras receitas/despesas</td><td width="15%" align="center">-252,71</td><td width="15%" align="center">-18.662,24</td>
+            </tr>
+            <tr>
+                <td>
+                    <h4 align="left">&nbsp;Total de outras receitas/despesas</h4>
+                </td><td width="15%" align="center"><b>-107.060,62</b></td><td width="15%" align="center"><b>-248.019,59</b></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="center">
+          E = A + B + C + D
+        </th><td width="62%">
+                    <h4 align="left">&nbsp;Resultado cont&aacute;bil/financeiro trimestral l&iacute;quido</h4>
+                </td><td width="15%" align="center"><b>-242.879,49</b></td><td width="15%" align="center"><b>-237.862,41</b></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%" border="1">
+            <tr>
+                <td width="85%">
+                    <h2>Distribui&ccedil;&atilde;o do resultado acumulado no trimestre/semestre*</h2>
+                </td><td width="15%" align="center"><b>Valor(R$)</b></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <td width="8%" valign="top" align="center"><b>F = &sum;E</b></td><td width="77%"><b>&nbsp;Resultado financeiro l&iacute;quido acumulado no trimestre/semestre corrente</b></td><td width="15%" align="center"><b>-248.019,59</b></td>
+            </tr>
+            <tr>
+                <td valign="top" align="center"><b>G = 0,95 x F</b></td><td><b>&nbsp;95% do resultado financeiro l&iacute;quido acumulado (art. 10, p.u., da Lei 8.668/93)</b></td><td align="center"><b>0</b></td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <td width="8%" valign="top" align="center"><b>H.i</b></td><td width="77%">
+          &nbsp;(-) Parcela do resultado financeiro n&atilde;o declarada para distribui&ccedil;&atilde;o ao longo do trimestre (1&ordm; ou 3&ordm;)
+        </td><td width="15%" align="center">0</td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <th width="8%" rowspan="100" valign="top" align="center">
+              H.ii
+            </th>
+            </tr>
+            <tr>
+                <td width="77%">
+                &nbsp;(-) Parcela dos rendimentos retidos no fundo conforme aprovado em Assembleia Geral de Cotistas em
+                //</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td width="77%">
+                &nbsp;(-) Parcela dos rendimentos retidos no fundo conforme aprovado em Assembleia Geral de Cotistas em
+                //</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td width="77%">
+                &nbsp;(-) Parcela dos rendimentos retidos no fundo conforme aprovado em Assembleia Geral de Cotistas em
+                //</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td width="77%">
+                &nbsp;(-) Parcela dos rendimentos retidos no fundo conforme aprovado em Assembleia Geral de Cotistas em
+                //</td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td width="77%">
+                &nbsp;(-) Parcela dos rendimentos retidos no fundo conforme aprovado em Assembleia Geral de Cotistas em
+                //</td><td width="15%" align="center">0</td>
+            </tr>
+        </table>
+        <table align="center" width="95%" class="no_border_top">
+            <tr>
+                <td width="8%" valign="top" align="center"><b>I.i</b></td><td width="77%">
+          &nbsp;(+) Lucro cont&aacute;bil pass&iacute;vel de distribui&ccedil;&atilde;o que excede ao total do resultado financeiro⁵.
+        </td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td width="8%" valign="top" align="center"><b>I.ii</b></td><td width="77%">
+          &nbsp;(+) Resultado financeiro que excede o m&iacute;nimo de 95%⁷.
+        </td><td width="15%" align="center">0</td>
+            </tr>
+            <tr>
+                <td valign="top" align="center"><b>J = G - &sum;H + I</b></td><td><b>&nbsp;Rendimentos declarados</b></td><td align="center"><b>0</b></td>
+            </tr>
+            <tr>
+                <td valign="top" align="center">
+          K
+        </td><td>
+          &nbsp;(-) Rendimentos pagos antecipadamente durante o trimestre/semestre
+        </td><td align="center">0</td>
+            </tr>
+            <tr>
+                <td valign="top" align="center"><b>L = J - K</b></td><td><b>&nbsp;Rendimento l&iacute;quido a pagar remanescente no encerramento do trimestre/semestre</b></td><td align="center"><b>0</b></td>
+            </tr>
+            <tr>
+                <td valign="top" align="center"><b>M = J/F</b></td><td>
+          &nbsp;% do resultado financeiro l&iacute;quido declarado no trimestre/semestre
+        </td><td align="center">0,0000%</td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%" class="no_border">
+            <tr class="no_border">
+                <td class="no_border">* Quando se referir ao Informe Trimestral do 2&ordm; e 4&ordm; trimestres de cada ano, onde as informa&ccedil;&otilde;es dever&atilde;o acumular tamb&eacute;m os valores correspondentes ao trimestre imediatamente anterior, ou seja, 1&ordm; e 3&ordm; trimestres, respectivamente.</td>
+            </tr>
+        </table>
+        <p></p>
+        <h3 align="center">Notas</h3>
+        <table align="center" width="95%">
+            <tr>
+                <td width="4%" align="center">1.</td><td>Dentre as caracter&iacute;sticas relevantes dos im&oacute;veis, (i) descrever os direitos que o fundo det&eacute;m sobre os im&oacute;veis, com men&ccedil;&atilde;o aos principais termos de quaisquer contratos de financiamento, promessas de compra e venda, bem como quaisquer outros instrumentos que lhe assegurem tais direitos; (ii) descrever os &ocirc;nus e garantias que recaem sobre os im&oacute;veis; (iii) indicar se o im&oacute;vel foi adquirido em regime de condom&iacute;nio, e se existe acordo dispondo sobre a constitui&ccedil;&atilde;o da propriedade em comum e reparti&ccedil;&atilde;o dos rendimentos por ela gerados; (iv) prazo para conclus&atilde;o do empreendimento.</td>
+            </tr>
+            <tr>
+                <td align="center">2.</td><td>Nos os casos em que a divulga&ccedil;&atilde;o de tais informa&ccedil;&otilde;es prejudique as rela&ccedil;&otilde;es contratuais estabelecidas, o administrador deve informar a quantidade de im&oacute;veis que se encontram em tal situa&ccedil;&atilde;o e o percentual de receitas oriunda desse rol de ativos.</td>
+            </tr>
+            <tr>
+                <td align="center">3.</td><td>No item que trata da rela&ccedil;&atilde;o de ativos sujeitos &agrave; garantia, o Ativo dever&aacute; ser identificado. No caso de (i) im&oacute;veis, pelo nome, ou endere&ccedil;o, caso o im&oacute;vel n&atilde;o possua um nome, (ii) terrenos, pelo endere&ccedil;o e (iii) demais ativos, pelas caracter&iacute;sticas principais que possibilitem a perfeita identifica&ccedil;&atilde;o pelo cotista.</td>
+            </tr>
+            <tr>
+                <td align="center">4.</td><td>O resultado financeiro representa o quanto do resultado cont&aacute;bil foi efetivamente pago/recebido no m&ecirc;s ou o montante recebido/pago no m&ecirc;s que tenha sido objeto de apropria&ccedil;&atilde;o em meses anteriores. Em resumo, corresponde ao efeito caixa das receitas e despesas. </td>
+            </tr>
+            <tr>
+                <td align="center">5.</td><td>Corresponde a parcela do lucro cont&aacute;bil apropriado no per&iacute;odo ainda n&atilde;o recebida, a qual o administrador declara distribuir como excedente ao total do resultado financeiro.</td>
+            </tr>
+            <tr>
+                <td align="center">6.</td><td>
+                    <table class="no_border">
+                        <tr class="no_border">
+                            <td>Para os fundos n&atilde;o listados em bolsa de valores, mercado de balc&atilde;o organizado e que sejam, cumulativamente, exclusivos, dedicados exclusivamente a investidores profissionais, ou onde a totalidade dos cotistas mant&eacute;m v&iacute;nculo familiar ou societ&aacute;rio familiar, nos termos das regras gerias sobre fundos de investimento, a divulga&ccedil;&atilde;o das seguintes informa&ccedil;&otilde;es &eacute; facultativa, devendo, contudo, ser disponibilizada aos cotistas do fundo quando requeridas:</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Item 1.1.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Item 1.1.2.1.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Itens 1.1.1.2.4, 1.1.1.2.5 e 1.1.1.2.6 &ndash; todo o conte&uacute;do.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Item 1.1.2.2.1 &ndash; outras caracter&iacute;sticas relevantes, % locado, e colunas % de conclus&atilde;o das obras e custos de constru&ccedil;&atilde;o.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Itens 1.1.2.2.2 e 1.1.2.2.3 &ndash; todo o conte&uacute;do.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Item 1.1.2.3.1 &ndash; outras caracter&iacute;sticas relevantes.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Item 1.1.2.3.2 &ndash; todo o conte&uacute;do.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Item 1.1.2.4.1 &ndash; outras caracter&iacute;sticas relevantes, % vendido, e colunas % de conclus&atilde;o das obras e custos de constru&ccedil;&atilde;o.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Itens 1.1.2.4.2 e 1.1.2.4.3 &ndash; todo o conte&uacute;do.</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td>&bull;	Itens 2.1.1, 2.1.2, 2.2.1, 2.2.2 &ndash; outras caracter&iacute;sticas relevantes.</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">7.</td><td>Caso o fundo venha a distribuir valor superior ao m&iacute;nimo de 95% do seu resultado financeiro acumulado no semestre.</td>
+            </tr>
+        </table>
+    </body>
+</html>

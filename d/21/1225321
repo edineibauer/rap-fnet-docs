@@ -1,0 +1,180 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Formul&aacute;rio de Libera&ccedil;&atilde;o para Negocia&ccedil;&atilde;o de Cotas</title>
+        <script type="text/javascript" src="/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js" data-dtconfig="app=97e61c3a8a7c6a0b|cuc=wj11fgxl|owasp=1|mel=100000|featureHash=ICANVfgqru|dpvc=1|lastModification=1784725587498|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js|reportUrl=/fnet/rb_3e3688fc-2b0e-4bc4-bbfb-2999b956e3bd|rid=RID_1991155840|rpid=1597618946|domain=bmfbovespa.com.br"></script><style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border td {
+          border: 0px;
+          }
+          
+          td.no_border_left {
+          border-left: 1pt hidden:
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+		  .texto-tabela-centralizado
+		  {
+		  width: 10%;
+		  text-align: center; 
+		  vertical-align: middle;
+		  }
+        </style>
+    </head>
+    <body>
+        <a href="javascript:window.print()">Imprimir</a>
+        <h2 align="center">Formul&aacute;rio de Libera&ccedil;&atilde;o para Negocia&ccedil;&atilde;o de Cotas</h2>
+        <table align="center" width="95%">
+            <tr>
+                <td width="20%"><span class="titulo-dado">Nome do Fundo: </span></td><td width="30%"><span class="dado-cabecalho">KINEA PREMIUM PROPERTIES FUNDO DE INVESTIMENTO IMOBILI&Aacute;RIO - RESPONSABILIDADE LIMITADA</span></td><td width="25%"><span class="titulo-dado">CNPJ do Fundo: </span></td><td width="25%"><span class="dado-cabecalho">42.737.059/0001-07</span></td>
+            </tr>
+            <tr>
+                <td width="20%"><span class="titulo-dado">Nome do Administrador: </span></td><td width="30%"><span class="dado-cabecalho">INTRAG DTVM LTDA.</span></td><td width="25%"><span class="titulo-dado">CNPJ do Administrador: </span></td><td width="25%"><span class="dado-cabecalho">62.418.140/0001-31</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Respons&aacute;vel pela informa&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">ROBERTA ANCHIETA DA SILVA</span></td><td><span class="titulo-dado">Telefone do respons&aacute;vel: </span></td><td><span class="dado-cabecalho">(11) 5019-9986</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">E-mail: </span></td><td><span class="dado-cabecalho">produtosestruturados@itau-unibanco.com.br</span></td><td><span class="titulo-dado">Nome de preg&atilde;o: </span></td><td><span class="dado-cabecalho">FII KINEA PR</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td colspan="9">
+                    <h3 align="left">Informa&ccedil;&otilde;es sobre a oferta</h3>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6"></td><td colspan="3" class="texto-tabela-centralizado"><b>Secund&aacute;rio - In&iacute;cio da revenda</b></td>
+            </tr>
+            <tr>
+                <td class="texto-tabela-centralizado"><b>C&oacute;digo ISIN da cota</b></td><td class="texto-tabela-centralizado"><b>Ticker</b></td><td class="texto-tabela-centralizado"><b>N&ordm; da emiss&atilde;o</b></td><td class="texto-tabela-centralizado"><b>S&eacute;rie</b></td><td class="texto-tabela-centralizado"><b>Tipo de oferta</b></td><td class="texto-tabela-centralizado" width="20%"><b>Data de encerramento</b></td><td class="texto-tabela-centralizado" width="20%"><b>Profissional</b></td><td class="texto-tabela-centralizado" width="20%"><b>Qualificado</b></td><td class="texto-tabela-centralizado" width="20%"><b>Varejo</b></td>
+            </tr>
+            <tr>
+                <td class="texto-tabela-centralizado">BRKNPRCTF002</td><td class="texto-tabela-centralizado">KNPR11</td><td class="texto-tabela-centralizado">1</td><td class="texto-tabela-centralizado">&Uacute;nica</td><td class="texto-tabela-centralizado">Rito ordin&aacute;rio</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/12/2022</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">06/16/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">06/16/2026</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">06/16/2026</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td colspan="10">
+                    <h3 align="left">Informa&ccedil;&otilde;es por ativo</h3>
+                </td>
+            </tr>
+            <tr>
+                <td class="texto-tabela-centralizado"><b>Ticker</b></td><td class="texto-tabela-centralizado"><b>C&oacute;digo ISIN da liquida&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Especifica&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b> Quantidade de Cotas</b></td><td class="texto-tabela-centralizado"><b>Data da Integraliza&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado" width="20%"><b>Data de Libera&ccedil;&atilde;o do Lock-Up (Somente para ICVM 476)</b></td><td class="texto-tabela-centralizado"><b>Data da Convers&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Data de Libera&ccedil;&atilde;o da Negocia&ccedil;&atilde;o</b></td><td class="texto-tabela-centralizado"><b>Pagamento de Rendimento Pro-Rata</b></td><td class="texto-tabela-centralizado"><b>Data da Divulga&ccedil;&atilde;o do Rendimento</b></td>
+            </tr>
+            <tr>
+                <td class="texto-tabela-centralizado">KNPR11</td><td class="texto-tabela-centralizado">BRKNPRCTF002</td><td class="texto-tabela-centralizado">OFERTA</td><td class="texto-tabela-centralizado">620.912</td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">16/12/2022</span></td><td class="texto-tabela-centralizado" width="20%"><span class="dado-cabecalho">//N/A</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">//N/A</span></td><td class="texto-tabela-centralizado"><span class="dado-cabecalho">06/16/2026</span></td><td class="texto-tabela-centralizado">N&atilde;o</td><td class="texto-tabela-centralizado"></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td><span class="titulo-dado">Qtd de cotas integralizadas: </span></td><td><span class="dado-valores">620.912</span></td><td><span class="titulo-dado">Valor da cota: </span></td><td><span class="dado-valores">R$ 100,134064744418000</span></td><td><span class="titulo-dado">Montante final: </span></td><td><span class="dado-valores">R$ 62.174.442,41</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td><span class="titulo-dado">Chamada de capital*: </span></td><td><span class="dado-cabecalho">N&atilde;o</span></td>
+            </tr>
+        </table>
+        <div width="95%" style="margin-left: 29.664;">
+            <span style="font-size:11; color:red">*</span><span style="font-size:11">Preencher apenas quando houver cotas subscritas ainda n&atilde;o integralizadas</span>
+        </div>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td><span class="titulo-dado">Houve retrata&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Sim</span></td><td><span class="titulo-dado">Data retrata&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">02/01/2023</span></td><td><span class="titulo-dado">Quantidade de cotas: </span></td><td><span class="dado-valores">41.001</span></td><td><span class="titulo-dado">Quantidade final: </span></td><td><span class="dado-valores">579.911</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td><span class="titulo-dado">Mercado de negocia&ccedil;&atilde;o: </span></td><td><span class="dado-cabecalho">Bolsa</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Apresenta&ccedil;&atilde;o de prospecto para libera&ccedil;&atilde;o para investidor em geral: </span></td><td><span class="dado-cabecalho">N&atilde;o se aplica</span></td>
+            </tr>
+            <tr>
+                <td><span class="titulo-dado">Pre&ccedil;o inicial da negocia&ccedil;&atilde;o*: </span></td><td><span class="dado-cabecalho">R$ 92,17</span><span class="titulo-dado"></span></td>
+            </tr>
+        </table>
+        <div width="95%" style="margin-left: 29.664;">
+            <span style="font-size:11; color:red">*</span><span style="font-size:11">Pre&ccedil;o Inicial de Negocia&ccedil;&atilde;o da 1&ordf; Emiss&atilde;o de Cotas</span>
+        </div>
+        <p></p>
+        <table align="center" width="95%">
+            <tr>
+                <td width="100%"><a name="anexos" id="anexos"></a><span class="titulo-tabela">Anexos</span></td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,413 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Consulta a Carteiras de Fundos</title>
+        <script type="text/javascript" src="/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js" data-dtconfig="app=97e61c3a8a7c6a0b|cuc=wj11fgxl|owasp=1|mel=100000|featureHash=ICANVfgqru|dpvc=1|lastModification=1784725587498|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/fnet/ruxitagentjs_ICANVfgqru_10341260622154106.js|reportUrl=/fnet/rb_3e3688fc-2b0e-4bc4-bbfb-2999b956e3bd|rid=RID_1969108616|rpid=650330707|domain=bmfbovespa.com.br"></script><style type="text/css">
+          table
+          {
+          border-collapse: collapse;
+          }
+          table, td, th
+          {
+          border: 1px solid black;
+          font-size:11;
+          }
+
+          table.no_border
+          {
+          border-style: none;
+          }
+
+          table.no_border_top
+          {
+          border-top:1pt hidden;
+          }
+
+          tr.border_double td {
+          border: 0px;
+          border-bottom:2pt solid black;
+          border-top:2pt solid black;
+          }
+
+          tr.no_border_top td {
+          border-top:0pt solid black;
+          }
+
+          tr.no_border_left td {
+          border-left:0;
+          }
+
+
+          tr.no_border td {
+          border: 0px;
+          }
+
+
+          body
+          {
+          margin:10px;
+          font-family:"Times New Roman", Times, serif;
+          }
+
+          .titulo-tabela
+          {
+          display:block;
+          font-weight:bold;
+          text-align: center;
+          font-size:12;
+          }
+
+          .titulo-dado
+          {
+          margin:5px;
+          display:block;
+          font-weight:bold;
+          font-size:11;
+          }
+
+          .dado-cabecalho
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          }
+
+          .dado-valores
+          {
+          margin:5px;
+          display:block;
+          font-size:11;
+          text-align: right;
+          }
+        </style>
+    </head>
+    <body>
+        <a href="javascript:window.print()">Imprimir</a>
+        <h2 align="center">Consulta a Carteiras de Fundos</h2>
+        <p></p>
+        <div style="text-align: justify; width: 92%; padding-left: 70px;padding-bottom: 10px">
+            <p>
+                <b style="color: red;">Aten&ccedil;&atilde;o: </b>Estas informa&ccedil;&otilde;es tem por base os documentos enviados &agrave; CVM pelas Institui&ccedil;&otilde;es Administradoras dos Fundos de Investimento e s&atilde;o de exclusiva responsabilidade destas. Sua divulga&ccedil;&atilde;o pela CVM n&atilde;o implica na garantia da veracidade das informa&ccedil;&otilde;es prestadas ou do julgamento sobre a qualidade do fundo.
+          
+            </p>
+        </div>
+        
+        <table align="center" width="92%" border="1">
+            <tr>
+                <td width="20%"><span class="titulo-dado">
+            Compet&ecirc;ncia:
+          </span></td><td width="30%"><span class="dado-cabecalho">03/2026</span></td><td width="20%"><span class="titulo-dado">
+            Vers&atilde;o:
+          </span></td><td width="30%"><span class="dado-cabecalho">3.0</span></td>
+            </tr>
+            <tr>
+                <td width="25%"><span class="titulo-dado">Nome do Fundo/Classe: </span></td><td><span class="dado-cabecalho">SUNO FAZENDAS FIAGRO</span></td><td><span class="titulo-dado">CNPJ do Fundo/Classe: </span></td><td><span class="dado-cabecalho">53.313.475/0001-02</span></td>
+            </tr>
+            <tr>
+                <td width="25%"><span class="titulo-dado">Administrador: </span></td><td><span class="dado-cabecalho">QI CORRETORA DE T&Iacute;TULOS E VALORES MOBILI&Aacute;RIOS S.A.</span></td><td><span class="titulo-dado">CNPJ do Administrador: </span></td><td><span class="dado-cabecalho">62.285.390/0001-40</span></td>
+            </tr>
+            <tr>
+                <td width="25%"><span class="titulo-dado">Patrim&ocirc;nio L&iacute;quido do Fundo:</span></td><td><span class="dado-cabecalho">119.347.627,85</span></td><td><span class="titulo-dado">Data de Recebimento das Informa&ccedil;&otilde;es:</span></td><td><span class="dado-cabecalho">19/05/2026</span></td>
+            </tr>
+        </table>
+        <p></p>
+        <table align="center" class="no_border_top" style="padding: 7px; width:92%">
+            <tr>
+                <td colspan="11" style="text-align: center; padding-top: 8px;">
+                    <h3>Lista de Aplica&ccedil;&otilde;es</h3>
+                </td>
+            </tr>
+            <tr class="no_border_left">
+                <td align="center" width="23%" rowspan="3"><span class="titulo-dado">
+            Ativo
+          </span></td><td align="center" width="8%" rowspan="3"><span class="titulo-dado">
+            Classifica&ccedil;&atilde;o
+          </span></td><td align="center" width="5%" rowspan="3"><span class="titulo-dado">
+            Empresa Ligada
+          </span></td><td align="center" width="33%" colspan="4"><span class="titulo-dado">
+            Neg&oacute;cios Realizados no M&ecirc;s
+          </span></td><td align="center" width="31%" colspan="4"><span class="titulo-dado">
+            Posi&ccedil;&atilde;o Final
+          </span></td>
+            </tr>
+            <tr>
+                <td style="text-align: center;" colspan="2"><span class="titulo-dado">
+            Vendas
+          </span></td><td style="text-align: center;" colspan="2"><span class="titulo-dado">
+            Aquisi&ccedil;&otilde;es
+          </span></td><td style="text-align: center;" rowspan="2"><span class="titulo-dado">
+            Quant.
+          </span></td><td style="text-align: center;" colspan="2"><span class="titulo-dado">
+            Valores
+          </span></td><td style="text-align: center;" rowspan="2"><span class="titulo-dado">
+            % Patr. L&iacute;q.
+          </span></td>
+            </tr>
+            <tr>
+                <td align="center"><span class="titulo-dado">
+            Quant.
+          </span></td><td align="center"><span class="titulo-dado">
+            Valor
+          </span></td><td align="center"><span class="titulo-dado">
+            Quant.
+          </span></td><td align="center"><span class="titulo-dado">
+            Valor
+          </span></td><td align="center"><span class="titulo-dado">
+            Custo
+          </span></td><td align="center"><span class="titulo-dado">
+            Mercado
+          </span></td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Cotas de Fundos</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                -
+              </td><td align="center">
+                  Sim
+                </td><td style="text-align: right; padding-right: 8px;">0,00</td><td style="text-align: right; padding-right: 8px;">0,00</td><td style="text-align: right; padding-right: 8px;">0,00</td><td style="text-align: right; padding-right: 8px;">0,00</td><td align="center">472,44</td><td></td><td style="text-align: right; padding-right: 8px;">951.143,39</td><td style="text-align: center;">0,797%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>T&iacute;tulos ligados ao agroneg&oacute;cio</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"><b>Dt. Ini. Vigen.: </b>18/05/2039</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>08.769.451/0001-08</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>VIRGO CIA SECURITIZACAO</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center">
+                  N&atilde;o
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center">28.439,00</td><td></td><td style="text-align: right; padding-right: 8px;">28.601.083,17</td><td style="text-align: center;">23,965%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>T&iacute;tulos ligados ao agroneg&oacute;cio</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"><b>Dt. Ini. Vigen.: </b>15/10/2035</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>02.773.542/0001-22</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>OPEA SECURITIZADORA</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center">
+                  N&atilde;o
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center">52.000,00</td><td></td><td style="text-align: right; padding-right: 8px;">52.629.022,47</td><td style="text-align: center;">44,097%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>Valores a Pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">1.367.253,04</td><td style="text-align: center;">1,146%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Valores a receber</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>Valores a Receber</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">134.176,38</td><td style="text-align: center;">0,112%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Disponibilidades</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Descri&ccedil;&atilde;o: </b>Disponibilidade</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">5.000,00</td><td style="text-align: center;">0,004%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Obriga&ccedil;&otilde;es por compra a termo a pagar</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>C&oacute;d. Ativo: </b>FII COMPRA A PRAZO</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>CNPJ do emissor: </b>53.313.475/0001-02</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>Denomina&ccedil;&atilde;o Social do emissor: </b>SUNO FAZENDAS FIAGRO</td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">51.657.376,32</td><td style="text-align: center;">43,283%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Outras aplica&ccedil;&otilde;es</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>C&oacute;d. Ativo: </b>TER-R-FAZ.RIOBONITO1</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center">
+                  N&atilde;o
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">13.800.039,00</td><td style="text-align: center;">11,563%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Outras aplica&ccedil;&otilde;es</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>C&oacute;d. Ativo: </b>TER-R-FAZ.COLISEU</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center">
+                  N&atilde;o
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">18.854.708,00</td><td style="text-align: center;">15,798%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Outras aplica&ccedil;&otilde;es</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>C&oacute;d. Ativo: </b>TER-R - FAZENDA XAVA</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center">
+                  N&atilde;o
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">37.153.512,00</td><td style="text-align: center;">31,130%
+              </td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <table style="width: 100%;" class="no_border">
+                        <tr class="no_border">
+                            <td>Outras aplica&ccedil;&otilde;es</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td><b>C&oacute;d. Ativo: </b>TER-R - FAZENDA TRIA</td>
+                        </tr>
+                        <tr class="no_border">
+                            <td class="no_border"></td>
+                        </tr>
+                    </table>
+                </td><td align="center">
+                Para
+                    <br>
+                    negocia&ccedil;&atilde;o
+              </td><td align="center">
+                  N&atilde;o
+                </td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td style="text-align: right; padding-right: 8px;"></td><td align="center"></td><td></td><td style="text-align: right; padding-right: 8px;">20.243.572,80</td><td style="text-align: center;">16,962%
+              </td>
+            </tr>
+        </table>
+    </body>
+</html>
